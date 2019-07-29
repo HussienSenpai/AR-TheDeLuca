@@ -10,7 +10,7 @@ translate arabic introduction_32be9271:
 translate arabic introduction_6c1981d5:
 
     # wf "We will be there soon, also you do not need to call me 'sir'. We will be working together soon."
-    wf "سنصل قريباً، وتوقف عن مناداتي بسيدي، قريباً ستعمل معي"
+    wf "سنصل قريباً، وتوقف عن مناداتي بسيدي، ستبدأ بالعمل معي بعد قليل"
 
 # game/Introduction.rpy:11
 translate arabic introduction_e9ee53c0:
@@ -22,241 +22,240 @@ translate arabic introduction_e9ee53c0:
 translate arabic introduction_801af4dc:
 
     # "How did I even get into this situation? All because of a mother I haven't seen in years and a father I barely remember."
-    "كيف وصل بي المطاف إلى هنا؟ كل هذا بسبب أم لما أراها من سنين وأب أكاد أنساه"
+    "كيف وصل بي المطاف إلى هنا؟ كل هذا بسبب أم لم أراها من سنين وأب أكاد أن أنساه"
 
 # game/Introduction.rpy:13
 translate arabic introduction_1236a344:
 
     # "Now for some damn unknown reason, I'm stuck in a {b}contract{/b} I have no control over."
-    "والآن، لسبب لعين مجهول عني، أنا عالق في هذا{b}العقد{/b} الخارج عن إرادتي "
+    "الخارج عن إرادتي {b} العقد {/b} والآن، لسبب لعين مجهول عني، أنا عالق في هذا"
 
 # game/Introduction.rpy:14
 translate arabic introduction_1e91ab49:
 
     # "And why is this guy driving so painfully slow!"
-    "And why is this guy driving so painfully slow!"
+    "ولماذا يقود بهذا البطئ الشديد؟"
 
 # game/Introduction.rpy:18
 translate arabic introduction_13e3c71c:
 
     # pov "Sir, is it possible to drive a bit faster? There seems to be an angry driver behind us going crazy with the horn..."
-    pov "Sir, is it possible to drive a bit faster? There seems to be an angry driver behind us going crazy with the horn..."
-
+    pov "سيدي، هل تستطيع القيادة بشكل أسرع قليلاً؟ السائق خلفنا يكاد أن يفجر بوق سيارته من الغضب "
 # game/Introduction.rpy:19
 translate arabic introduction_9694b550:
 
     # wf "Safety first, you never know what may happen."
-    wf "Safety first, you never know what may happen."
+    wf "السلامة أولاً، لا نعلم ما الذي قد يحصل لو تهورت في القيادة."
 
 # game/Introduction.rpy:21
 translate arabic introduction_fd628bfd:
 
     # "Oh, for the love of god..."
-    "Oh, for the love of god..."
+    "يا إلهي..."
 
 # game/Introduction.rpy:22
 translate arabic introduction_92bbb559:
 
     # "To make matters worse, the 'Family' I have to serve is an infamous criminal organization, The DeLuca family. They're the worst of the worst..."
-    "To make matters worse, the 'Family' I have to serve is an infamous criminal organization, The DeLuca family. They're the worst of the worst..."
+    "وما يزيد الطين بلة، أن العائلة التي سأعمل لديها تعد منظمة إجرامية شهيرة..."
 
 # game/Introduction.rpy:23
 translate arabic introduction_9425b019:
 
     # "They practically own the whole town."
-    "They practically own the whole town."
+    "أنهم أسوء الأسوء"
 
 # game/Introduction.rpy:24
 translate arabic introduction_0df32860:
 
     # "How am I going to survive this...?"
-    "How am I going to survive this...?"
+    "كل هذه المدينة ملك لهم، كيف سأستطيع العيش هنا...؟"
 
 # game/Introduction.rpy:28
 translate arabic introduction_d0589dc6:
 
     # "{b}*Thirty minutes later*{/b}"
-    "{b}*Thirty minutes later*{/b}"
+    "{b}*بعد 30 دقيقة*{/b}"
 
 # game/Introduction.rpy:33
 translate arabic introduction_484894b5:
 
     # wf "Hmm? This is weird. It would seem the brakes have stopped working. How unfortunate."
-    wf "Hmm? This is weird. It would seem the brakes have stopped working. How unfortunate."
+    wf "هذا غريب... يبدو أن المكابح توقفت عن العمل. يالسوء الحظ."
 
 # game/Introduction.rpy:34
 translate arabic introduction_5c5b45d1:
 
     # pov "Uhm...?"
-    pov "Uhm...?"
+    pov "؟؟"
 
 # game/Introduction.rpy:35
 translate arabic introduction_f207e75e:
 
     # "I'm not sure if he is joking around or the brakes don't actually work."
-    "I'm not sure if he is joking around or the brakes don't actually work."
+    "لست واثقاً، هل هو يمزح أم أنها توقفت عن العمل باللفعل"
 
 # game/Introduction.rpy:36
 translate arabic introduction_b5e0296c:
 
     # "Nonetheless, due to the speed of the car, it stopped without needing to brake."
-    "Nonetheless, due to the speed of the car, it stopped without needing to brake."
+    "أياً يكن، ببطئ هذه السيارة فقد توقفت بدون الحاجة إلى مكابح"
 
 # game/Introduction.rpy:37
 translate arabic introduction_6d97ca13:
 
     # wf "And that is why it is always important to drive safely."
-    wf "And that is why it is always important to drive safely."
+    wf "ولهذا السبب، دائماً ما أقود بأمان"
 
 # game/Introduction.rpy:38
 translate arabic introduction_0f902b62:
 
     # wf "Give me a moment, I'll assess the problem and see if it can be fixed."
-    wf "Give me a moment, I'll assess the problem and see if it can be fixed."
+    wf "لحظات، سأرى ما المشكلة وهل أستطيع إصلاحها أم لا..."
 
 # game/Introduction.rpy:41
 translate arabic introduction_52dbcf8d:
 
     # "This is pitiful..."
-    "This is pitiful..."
+    "مثير للشفقة..."
 
 # game/Introduction.rpy:42
 translate arabic introduction_a078886d:
 
     # "Now I think about it, this is a rather new-looking car. Why would there be a problem with the brakes?"
-    "Now I think about it, this is a rather new-looking car. Why would there be a problem with the brakes?"
+    "عندما أفكر بالأمر، تبدو هذه السيارة جديدة، لما قد تتعطل المكابح؟"
 
 # game/Introduction.rpy:43
 translate arabic introduction_925a3b57:
 
     # "Did someone do it perhaps?"
-    "Did someone do it perhaps?"
+    "هل خربها شخص عن عمد؟"
 
 # game/Introduction.rpy:44
 translate arabic introduction_e36fd89f:
 
     # "No, can't be. Who would be after me or this guy who is a simple servant of the family?"
-    "No, can't be. Who would be after me or this guy who is a simple servant of the family?"
+    "لا، لا يعقل. من قد يلاحق أياً منا، نحن مجرد خدم عند هذه العائلة"
 
 # game/Introduction.rpy:45
 translate arabic introduction_4629f00a:
 
     # "I'm probably overthinking it."
-    "I'm probably overthinking it."
+    "أنني أبالغ في التفكير فقط لا غير..."
 
 # game/Introduction.rpy:46
 translate arabic introduction_c9cbebfe:
 
     # "Well to be fair, it's not every day someone like me gets dragged into this kind of environment."
-    "Well to be fair, it's not every day someone like me gets dragged into this kind of environment."
+    "ولكن، دخول شخص مثلي في هذه العوائل لا يحصل كل يوم"
 
 # game/Introduction.rpy:50
 translate arabic introduction_638075f5:
 
     # pov "Well, that was fast, sir."
-    pov "Well, that was fast, sir."
+    pov "كان هذا سريعاً سيدي."
 
 # game/Introduction.rpy:51
 translate arabic introduction_5a385302:
 
     # wf "Yes, I realized the moment I went outside- that I have absolutely no idea how to fix a car, no matter the damage."
-    wf "Yes, I realized the moment I went outside- that I have absolutely no idea how to fix a car, no matter the damage."
+    wf "نعم، أدركت عند خروجي من السيارة أني ليس لدي أدنى فكرة عن تصليح السيارات"
 
 # game/Introduction.rpy:52
 translate arabic introduction_2176536a:
 
     # wf "So, I gave up before I looked."
-    wf "So, I gave up before I looked."
+    wf "لذا، فاستسلمت قبل أن أحاول"
 
 # game/Introduction.rpy:53
 translate arabic introduction_6f7a4f70:
 
     # "I seriously have a hard time detecting if he is joking or this is how he is..."
-    "I seriously have a hard time detecting if he is joking or this is how he is..."
+    "أنا حرفياً لا أعلم إن ما كان يمزح أو أنه جاد في كلامه..."
 
 # game/Introduction.rpy:54
 translate arabic introduction_843916dd:
 
     # wf "Luckily the parking brake still works. Let us not delay this any further."
-    wf "Luckily the parking brake still works. Let us not delay this any further."
+    wf "لحسن الحظ، فمكابح المواقف ما زالت تعمل، لذا فلنذهب"
 
 # game/Introduction.rpy:55
 translate arabic introduction_dc55fdea:
 
     # "Parking brake? Doesn't really sound safe..."
-    "Parking brake? Doesn't really sound safe..."
+    "مكابح التوقف؟ لا يبدو هذا آمناً"
 
 # game/Introduction.rpy:56
 translate arabic introduction_49f2b7c3:
 
     # "But then again, with this speed, it should be."
-    "But then again, with this speed, it should be."
+    "ولكن بهذا البطئ، وسادة أمام العجلة ستفي بالغرض"
 
 # game/Introduction.rpy:60
 translate arabic introduction_098ed146:
 
     # wf "If I may ask, do you have any enemies? The kind who would want to harm you physically."
-    wf "If I may ask, do you have any enemies? The kind who would want to harm you physically."
+    wf "أعذرني عن السؤال، ولكن هل لديك أي أعداء؟"
 
 # game/Introduction.rpy:61
 translate arabic introduction_ecd8f236:
 
     # pov "No, I'm fairly sure no one bears such ill feelings towards me. I live a rather mundane life."
-    pov "No, I'm fairly sure no one bears such ill feelings towards me. I live a rather mundane life."
+    pov "لا. أنا واثق من هذا،  فأنا أعيش حياة خاملة نوعاً ما"
 
 # game/Introduction.rpy:62
 translate arabic introduction_69c95826:
 
     # "Does he suspect the same things as me?"
-    "Does he suspect the same things as me?"
+    "هل يشك بأن الأمر كان عن عمد أيضاً؟"
 
 # game/Introduction.rpy:63
 translate arabic introduction_3fef0c57:
 
     # pov "Why do you ask, sir? Do you think anything unusual is going on?"
-    pov "Why do you ask, sir? Do you think anything unusual is going on?"
+    pov "لما تسأل هذا سيدي؟ هل تظن أن هناك أمر غير طبيعي؟"
 
 # game/Introduction.rpy:64
 translate arabic introduction_1bdcd01f:
 
     # wf "No."
-    wf "No."
+    wf "لا."
 
 # game/Introduction.rpy:65
 translate arabic introduction_6b7fe108:
 
     # wf "I was just curious. Being in this 'line of work' tends to make you question a lot of things."
-    wf "I was just curious. Being in this 'line of work' tends to make you question a lot of things."
+    wf "كنت أشعر بالفضول فقط، عملك هنا سيجعلك تتساءل عن الكثير من الأشياء"
 
 # game/Introduction.rpy:66
 translate arabic introduction_cd7ab71f:
 
     # wf "Also, I already told you to stop calling me 'sir'."
-    wf "Also, I already told you to stop calling me 'sir'."
+    wf "كما أني قلت لك عن التوقف بمناداتي بسيدي."
 
 # game/Introduction.rpy:67
 translate arabic introduction_062f2c0d:
 
     # wf "Where you are going, people will treat you by your rank and reputation- not by your age, nor would they care if you are well-mannered."
-    wf "Where you are going, people will treat you by your rank and reputation- not by your age, nor would they care if you are well-mannered."
+    wf "في هذا العمل، سيعاملك الناس بناءً على رتبتك وسمعتكـ وليس على عمرك او أخلاقك"
 
 # game/Introduction.rpy:68
 translate arabic introduction_02ac6a17:
 
     # pov "Understood."
-    pov "Understood."
+    pov "مفهوم."
 
 # game/Introduction.rpy:69
 translate arabic introduction_8d43a5d5:
 
     # wf "Do not misunderstand. You, of course, need to show the utmost respect and courtesy to the highest members of the Family. Acting like that to any others will make you appear weak."
-    wf "Do not misunderstand. You, of course, need to show the utmost respect and courtesy to the highest members of the Family. Acting like that to any others will make you appear weak."
+    wf "لا تسئ فهمي. عليك أن تظهر كل الإحترام لمن هم أعلى منك رتبة في العائلة."
 
 # game/Introduction.rpy:70
 translate arabic introduction_f7eee224:
 
     # wf "And trust me, weak is the last thing you want to appear as."
-    wf "And trust me, weak is the last thing you want to appear as."
+    wf "ولكن إحترامك لمن هم أقل منك رتبة سيجعلك تبدو بمظهر الضعيف، وصدقني، لا أحد يرغب بأن يبدو ضعيفاً هنا."
 
 # game/Introduction.rpy:71
 translate arabic introduction_c3ca3180:
@@ -268,37 +267,37 @@ translate arabic introduction_c3ca3180:
 translate arabic introduction_c541a7ad:
 
     # "Is this really their house? It looks amazing!"
-    "Is this really their house? It looks amazing!"
+    "هل هذا حقاً منزلهم؟ يبدو رائعاً!"
 
 # game/Introduction.rpy:78
 translate arabic introduction_7560d469:
 
     # wf "We have arrived. Welcome to the humble estate of 'The DeLuca Family'."
-    wf "We have arrived. Welcome to the humble estate of 'The DeLuca Family'."
+    wf "لقد وصلنا. أهلاً وسهلاً بك في منزل عائلة ديلوكا المتواضع."
 
 # game/Introduction.rpy:79
 translate arabic introduction_4470a5ff:
 
     # "In what world is this humble...?"
-    "In what world is this humble...?"
+    "كيف يكون هذا متواضعاً؟؟"
 
 # game/Introduction.rpy:80
 translate arabic introduction_bd5e63da:
 
     # "And they say crime doesn't pay."
-    "And they say crime doesn't pay."
+    "من قال أن الجريمة لا تفيد؟"
 
 # game/Introduction.rpy:81
 translate arabic introduction_b8bf565e:
 
     # "But I must admit, the house itself looks rather modest. Well, as modest as a mansion can look."
-    "But I must admit, the house itself looks rather modest. Well, as modest as a mansion can look."
+    "ولكن علي الإعتراف، يبدو المنزل متواضعاً بالنسبة لقصر"
 
 # game/Introduction.rpy:82
 translate arabic introduction_5afdc25e:
 
     # wf "This will be the place you'll spend the majority of your time. We also have a servants' quarters, where you will be spending the night and another building which, if my information is correct, you have no need to know about."
-    wf "This will be the place you'll spend the majority of your time. We also have a servants' quarters, where you will be spending the night and another building which, if my information is correct, you have no need to know about."
+    wf "ستقضي معظم اليوم هنا، أما عن نومك فستنام في ركن الخدم. كما أن لدينا مبنى آخر، إذا كانت معلوماتي صحيحة فأنت لن تحتاج أن تعرف عنه شيئاً"
 
 # game/Introduction.rpy:83
 translate arabic introduction_98b51066:
