@@ -22,13 +22,13 @@ translate arabic introduction_e9ee53c0:
 translate arabic introduction_801af4dc:
 
     # "How did I even get into this situation? All because of a mother I haven't seen in years and a father I barely remember."
-    "How did I even get into this situation? All because of a mother I haven't seen in years and a father I barely remember."
+    "كيف وصل بي المطاف إلى هنا؟ كل هذا بسبب أم لما أراها من سنين وأب أكاد أنساه"
 
 # game/Introduction.rpy:13
 translate arabic introduction_1236a344:
 
     # "Now for some damn unknown reason, I'm stuck in a {b}contract{/b} I have no control over."
-    "Now for some damn unknown reason, I'm stuck in a {b}contract{/b} I have no control over."
+    "والآن، لسبب لعين مجهول عني، أنا عالق في هذا{b}العقد{/b} الخارج عن إرادتي "
 
 # game/Introduction.rpy:14
 translate arabic introduction_1e91ab49:
