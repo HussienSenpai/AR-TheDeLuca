@@ -4,19 +4,19 @@
 translate arabic introduction_32be9271:
 
     # pov "Sir, are we there yet?"
-    pov "السلام عليكم, are we there yet?"
+    pov "سيدي، هل وصلنا بعد؟"
 
 # game/Introduction.rpy:8
 translate arabic introduction_6c1981d5:
 
     # wf "We will be there soon, also you do not need to call me 'sir'. We will be working together soon."
-    wf "We will be there soon, also you do not need to call me 'sir'. We will be working together soon."
+    wf "سنصل قريباً، وتوقف عن مناداتي بسيدي، قريباً ستعمل معي"
 
 # game/Introduction.rpy:11
 translate arabic introduction_e9ee53c0:
 
     # "Don't remind me..."
-    "Don't remind me..."
+    "لا تذكرني بهذا..."
 
 # game/Introduction.rpy:12
 translate arabic introduction_801af4dc:
