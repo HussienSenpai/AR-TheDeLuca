@@ -28,7 +28,7 @@ translate arabic introduction_801af4dc:
 translate arabic introduction_1236a344:
 
     # "Now for some damn unknown reason, I'm stuck in a {b}contract{/b} I have no control over."
-    "الخارج عن إرادتي {b} العقد {/b} والآن، لسبب لعين مجهول عني، أنا عالق في هذا"
+    "لا سلطة عليه {b} بعقد {/b} والأن، لسبب لعين مجهول عني، اصبحت مرتبطا"
 
 # game/Introduction.rpy:14
 translate arabic introduction_1e91ab49:
