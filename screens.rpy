@@ -128,7 +128,7 @@ translate arabic strings:
 
     # game/screens.rpy:765
     old "Skip"
-    new "تخطٍ"
+    new "تخطي"
 
     # game/screens.rpy:766
     old "Unseen Text"
@@ -248,7 +248,7 @@ translate arabic strings:
 
     # game/screens.rpy:1049
     old "Page Down"
-    new "الصفحة الأدنى"
+    new "Page Down"
 
     # game/screens.rpy:1050
     old "Rolls forward to later dialogue."
