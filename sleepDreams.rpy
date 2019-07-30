@@ -12,7 +12,7 @@ translate arabic strings:
 
     # game/sleepDreams.rpy:6
     old "Female to dream about\n {i}*Note: Interface will be improved on in the future*{/i}"
-    new "إختر الفتاة التي ترغب أن تحلم بها\n {i}*Note: سيتم تعديل الواجهة قريبا*{/i}"
+    new "إختر الفتاة التي ترغب أن تحلم بها\n {i}*ملاحظة: سيتم تحسين الواجهة قريبا*{/i}"
 
     # game/sleepDreams.rpy:6
     old "Gracie. 1"
