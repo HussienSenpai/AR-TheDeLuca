@@ -34,25 +34,25 @@ translate arabic bedsleep_93923469:
 translate arabic bedsleep_fe1a6c86:
 
     # pov "No comments?"
-    pov "ألن تقول شيئاً؟"
+    pov "لا تعليق؟"
 
 # game/bedsleep.rpy:35
 translate arabic bedsleep_ee873327:
 
     # wf "Why would I have any comments?"
-    wf "ولم قد أفعل هذا؟"
+    wf "ولِمَ سأعلق؟"
 
 # game/bedsleep.rpy:36
 translate arabic bedsleep_630a84d9:
 
     # pov "You usually do."
-    pov "غالباً ما تقول شيئاً..."
+    pov "غالباً ما تعلق..."
 
 # game/bedsleep.rpy:37
 translate arabic bedsleep_d6d699ee:
 
     # wf "That is rather rude, sir."
-    wf "سيدي، هذا وقح..."
+    wf "سيدي، ستعتبر وقاحة الى حد ما..."
 
 # game/bedsleep.rpy:38
 translate arabic bedsleep_c3ca3180_1:
@@ -76,7 +76,7 @@ translate arabic bedsleep_31423554:
 translate arabic bedsleep_9bfcc9cd:
 
     # wf "Sir, as I told you before. We do not look inside the packages. We value privacy."
-    wf "سيدي، كمل قلت لك مسبقاً، لن نفعل هذا أبداً. نحن نحترم خصوصيتك"
+    wf "سيدي، كما قلت لك مسبقاً، لن نفعل هذا أبداً. نحن نحترم خصوصيتك"
 
 # game/bedsleep.rpy:42
 translate arabic bedsleep_0b37ab9b:
@@ -100,7 +100,7 @@ translate arabic bedsleep_c3ca3180_2:
 translate arabic bedsleep_b105013b:
 
     # "Stupid old man."
-    "رجل غبي."
+    "مسن احمق."
 
 # game/bedsleep.rpy:52
 translate arabic bedsleep_cd611781_1:
@@ -154,7 +154,7 @@ translate arabic bedsleep_90c7a5ec:
 translate arabic bedsleep_83fbad7a:
 
     # wf "But I must admit. I am curious what made you so nervous."
-    wf "ولكن علي الإعتراف، ينتابني الفضول عم جعلك تشعر بالتوتر."
+    wf "ولكن سأعترف، ينتابني الفضول عم جعلك تشعر بالتوتر."
 
 # game/bedsleep.rpy:61
 translate arabic bedsleep_c3ca3180_3:
@@ -166,7 +166,7 @@ translate arabic bedsleep_c3ca3180_3:
 translate arabic bedsleep_e72dfdcc:
 
     # wf "Something private I presume?"
-    wf "أعتقد أنه شيء خاص"
+    wf "لربما شيء خاص؟"
 
 # game/bedsleep.rpy:63
 translate arabic bedsleep_731805de:
@@ -178,7 +178,7 @@ translate arabic bedsleep_731805de:
 translate arabic bedsleep_ba8f06b5:
 
     # wf "Something you never want anyone else to see- nor find out about."
-    wf "شيء لا ترغب بأن يراه أحد أو يعلم أنه بحوزتك؟"
+    wf "شيء لا ترغب بأن يراه أحد أو يعلم أنه بحوزتك أبداً؟"
 
 # game/bedsleep.rpy:65
 translate arabic bedsleep_49221957:
@@ -244,7 +244,7 @@ translate arabic bedsleep_9afc3a86:
 translate arabic bedsleep_848410de:
 
     # "I didn't even know about them before this..."
-    "أنا بنفسي لم أسمع بها من قبل"
+    "أنا بنفسي لم أسمع بها من قبل..."
 
 # game/bedsleep.rpy:88
 translate arabic bedsleep_e5a9a46e:
@@ -328,7 +328,7 @@ translate arabic bedsleep_cff6921c:
 translate arabic bedsleep_d4fe71ac:
 
     # "Damn you, old man..."
-    "اللعنة عليك أيها العجوز"
+    "اللعنة عليك، أيها العجوز"
 
 # game/bedsleep.rpy:112
 translate arabic bedsleep_b30a9c92_1:
@@ -346,25 +346,25 @@ translate arabic bedsleep_3dc75fc3:
 translate arabic bedsleep_7b9614f1:
 
     # pov "Thank you, Wilfred."
-    pov "شكراً لك ويلفريد"
+    pov "شكراً لك، ويلفريد"
 
 # game/bedsleep.rpy:116
 translate arabic bedsleep_46f41493:
 
     # wf "Lady Isabel will not be happy with your choice of wine."
-    wf "سيدة إيزابيل لن تكون سعيدةً باختيارك هذا"
+    wf "سيدة إيزابيل لن تكون سعيدةً باختيارك لنوعية النبيذ"
 
 # game/bedsleep.rpy:117
 translate arabic bedsleep_79cfc8e5:
 
     # pov "Huh? She told you?"
-    pov "هل قالت لك؟"
+    pov "هاه؟ هل قالت لك؟"
 
 # game/bedsleep.rpy:118
 translate arabic bedsleep_ed6999c9:
 
     # wf "No, I could smell the wine though the package."
-    wf "لا، لكني رائحة النبيذ تفوح من العلبة."
+    wf "لا، لكن رائحة النبيذ تفوح من الطرد."
 
 # game/bedsleep.rpy:119
 translate arabic bedsleep_a20cefa7:
@@ -376,13 +376,13 @@ translate arabic bedsleep_a20cefa7:
 translate arabic bedsleep_85061020:
 
     # wf "And you do not strike me as a man with exquisite taste in wine."
-    wf "وأنت لا تبدو كشخص ذا ذوق للنبيذ."
+    wf "وأنت لا تبدو كشخص ذا ذوق بالنبيذ."
 
 # game/bedsleep.rpy:121
 translate arabic bedsleep_4294e36a:
 
     # wf "Which only leaves me to think Isabel made you buy her some wine."
-    wf "مما يجعل لي خياراً واحداً فقط، السيدة إيزابيل جعلتك تشتري لها بعض النبيذ."
+    wf "مما يتركني للتفكير ان السيدة إيزابيل جعلتك تشتري لها بعض النبيذ."
 
 # game/bedsleep.rpy:122
 translate arabic bedsleep_a6b913fa:
@@ -412,31 +412,31 @@ translate arabic bedsleep_3dc75fc3_1:
 translate arabic bedsleep_7b9614f1_1:
 
     # pov "Thank you, Wilfred."
-    pov "شكراً لك ويلفريد"
+    pov "شكراً لك، ويلفريد"
 
 # game/bedsleep.rpy:134
 translate arabic bedsleep_a1266f1c:
 
     # wf "Lady Isabel made you buy her another bottle of wine, I presume?"
-    wf "على ما أظن، فأن السيدة إيزابيل جعلتك تشتري لها نبيذاً آخر، صحيح؟"
+    wf "على ما أظن، فإن السيدة إيزابيل جعلتك تشتري لها نبيذاً آخر، صحيح؟"
 
 # game/bedsleep.rpy:135
 translate arabic bedsleep_39de6a2f:
 
     # pov "You have a really strange nose..."
-    pov "لديك أنف غريب جداً"
+    pov "لديك أنف غريب جداً..."
 
 # game/bedsleep.rpy:136
 translate arabic bedsleep_d6d699ee_1:
 
     # wf "That is rather rude, sir."
-    wf "هذا وقح يا سيدي..."
+    wf "هذه وقاحة يا سيدي..."
 
 # game/bedsleep.rpy:137
 translate arabic bedsleep_c7a6243b:
 
     # pov "No, normally people cannot smell what kind of wine a package contains."
-    pov "لا أعني هذا، ولكن المعظم لا يستطيع معرفة نوع النبيذ من رائحة الطرد..."
+    pov "لا أعني هذا، لكن بالعادة المعظم لا يستطيع معرفة نوع النبيذ من رائحة الطرد..."
 
 # game/bedsleep.rpy:138
 translate arabic bedsleep_bd2c8a88:
@@ -454,7 +454,7 @@ translate arabic bedsleep_f3250bd2:
 translate arabic bedsleep_32b9698c:
 
     # wf "I can assure you that you bought an excellent wine, this time around."
-    wf "ولكن أستطيع أن أؤكد لك، لقد أحضرت نبيذاً فاخراً هذه المرة."
+    wf "أستطيع أن أؤكد لك، أحضرت نبيذاً فاخراً هذه المرة."
 
 # game/bedsleep.rpy:141
 translate arabic bedsleep_3b291d0a:
@@ -466,7 +466,7 @@ translate arabic bedsleep_3b291d0a:
 translate arabic bedsleep_242e5bd6:
 
     # wf "Well, calling it 'excellent' may be a bit too much... It is, however, fine."
-    wf "حسناً، وصفه بالفاخر مبالغة، ولكنه جيد نوعاً ما"
+    wf "حسناً، وصفه بالفاخر مبالغة... وصفه بالممتاز، عاطٍ لقدره. "
 
 # game/bedsleep.rpy:143
 translate arabic bedsleep_c3ca3180_5:
