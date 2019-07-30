@@ -72,7 +72,7 @@ translate arabic strings:
 
     # game/screens.rpy:664
     old "empty slot"
-    new "حفظ فارغ"
+    new "فتحة حفظ فارغة"
 
     # game/screens.rpy:681
     old "<"
@@ -96,11 +96,11 @@ translate arabic strings:
 
     # game/screens.rpy:751
     old "Window"
-    new "مربعة"
+    new "النافذة"
 
     # game/screens.rpy:752
     old "Fullscreen"
-    new "ملئ الشاشة"
+    new "ملء الشاشة"
 
     # game/screens.rpy:756
     old "Fonts"
@@ -128,7 +128,7 @@ translate arabic strings:
 
     # game/screens.rpy:765
     old "Skip"
-    new "تخطي"
+    new "تخطٍ"
 
     # game/screens.rpy:766
     old "Unseen Text"
@@ -188,7 +188,7 @@ translate arabic strings:
 
     # game/screens.rpy:1008
     old "Gamepad"
-    new "أداة تحكم"
+    new "أداة التحكم"
 
     # game/screens.rpy:1021
     old "Enter"
@@ -196,7 +196,7 @@ translate arabic strings:
 
     # game/screens.rpy:1022
     old "Advances dialogue and activates the interface."
-    new "إكمال المحادثة "
+    new "إكمال المحادثة مع تفعيل الواجهة"
 
     # game/screens.rpy:1025
     old "Space"
@@ -204,7 +204,7 @@ translate arabic strings:
 
     # game/screens.rpy:1026
     old "Advances dialogue without selecting choices."
-    new "إكمال المحادثة"
+    new "إكمال المحادثة بدون اختيار للخيارات"
 
     # game/screens.rpy:1029
     old "Arrow Keys"
@@ -216,7 +216,7 @@ translate arabic strings:
 
     # game/screens.rpy:1033
     old "Escape"
-    new "esc "
+    new "Escape"
 
     # game/screens.rpy:1034
     old "Accesses the game menu."
@@ -228,7 +228,7 @@ translate arabic strings:
 
     # game/screens.rpy:1038
     old "Skips dialogue while held down."
-    new "تخطي المحادثات أثناء الضغط على هذا الزر"
+    new "تخطي المحادثات أثناء الضغط"
 
     # game/screens.rpy:1041
     old "Tab"
@@ -244,7 +244,7 @@ translate arabic strings:
 
     # game/screens.rpy:1046
     old "Rolls back to earlier dialogue."
-    new "التوجه إلى النص السابق"
+    new "الرجوع للمحادثات السابقة"
 
     # game/screens.rpy:1049
     old "Page Down"
@@ -252,7 +252,7 @@ translate arabic strings:
 
     # game/screens.rpy:1050
     old "Rolls forward to later dialogue."
-    new "التوجه إلى النص اللاحق"
+    new "الكشف عن المحادثات القادمة"
 
     # game/screens.rpy:1054
     old "Hides the user interface."
@@ -272,11 +272,11 @@ translate arabic strings:
 
     # game/screens.rpy:1072
     old "Middle Click"
-    new "زر الفأرة المنتصف"
+    new "زر الفأرة الأوسط"
 
     # game/screens.rpy:1076
     old "Right Click"
-    new "زر الفأرة الأيمان"
+    new "زر الفأرة الأيمن"
 
     # game/screens.rpy:1080
     old "Mouse Wheel Up\nClick Rollback Side"
