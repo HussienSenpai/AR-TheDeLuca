@@ -4,33 +4,33 @@ translate arabic strings:
 
     # game/sleepDreams.rpy:4
     old "*Sweaty Dreams*"
-    new "*Sweaty Dreams*"
+    new "أحلام ساخنة"
 
     # game/sleepDreams.rpy:4
     old "*Sleep*"
-    new "*Sleep*"
+    new "نوم"
 
     # game/sleepDreams.rpy:6
     old "Female to dream about\n {i}*Note: Interface will be improved on in the future*{/i}"
-    new "Female to dream about\n {i}*Note: Interface will be improved on in the future*{/i}"
+    new "إختر الفتاة التي ترغب أن تحلم بها\n {i}*Note: سيتم تعديل الواجهة قريبا*{/i}"
 
     # game/sleepDreams.rpy:6
     old "Gracie. 1"
-    new "Gracie. 1"
+    new "قرايسي 1"
 
     # game/sleepDreams.rpy:6
     old "Gracie & Luna. 1"
-    new "Gracie & Luna. 1"
+    new "قرايسي ولونا 1"
 
     # game/sleepDreams.rpy:6
     old "Gracie. 2"
-    new "Gracie. 2"
+    new "قرايسي 2"
 
     # game/sleepDreams.rpy:6
     old "Isabel. 1"
-    new "Isabel. 1"
+    new "إيزابيل 1"
 
     # game/sleepDreams.rpy:6
     old "Cordia. 1"
-    new "Cordia. 1"
+    new "كورديا 1"
 
