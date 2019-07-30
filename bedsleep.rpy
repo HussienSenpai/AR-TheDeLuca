@@ -100,7 +100,7 @@ translate arabic bedsleep_c3ca3180_2:
 translate arabic bedsleep_b105013b:
 
     # "Stupid old man."
-    "مسن احمق."
+    "عجوز أحمق."
 
 # game/bedsleep.rpy:52
 translate arabic bedsleep_cd611781_1:
