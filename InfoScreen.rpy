@@ -4,29 +4,29 @@ translate arabic strings:
 
     # game/InfoScreen.rpy:68
     old "{b}Name:{/b} "
-    new "{b}Nameاه اه:{/b} "
+    new "{b}الإسم: {/b} "
 
     # game/InfoScreen.rpy:69
     old "{b}Major:{/b} "
-    new "{b}Major:{/b} "
+    new "{b}التخصص: {/b} "
 
     # game/InfoScreen.rpy:70
     old "{b}Age:{/b} "
-    new "{b}Age:{/b} "
+    new "{b}العمر: {/b} "
 
     # game/InfoScreen.rpy:71
     old "{b}Date of Birth:{/b} "
-    new "{b}Date of Birth:{/b} "
+    new "{b}تاريخ الميلاد: {/b} "
 
     # game/InfoScreen.rpy:72
     old "{b}Sign:{/b} "
-    new "{b}Sign:{/b} "
+    new "{b}الإشارة: {/b} "
 
     # game/InfoScreen.rpy:73
     old "{b}Likes:{/b} "
-    new "{b}Likes:{/b} "
+    new "{b}الأشياء المفضلة: {/b} "
 
     # game/InfoScreen.rpy:74
     old "{b}Dislikes:{/b} "
-    new "{b}Dislikes:{/b} "
+    new "{b}الأشياء المكروهة: {/b} "
 
