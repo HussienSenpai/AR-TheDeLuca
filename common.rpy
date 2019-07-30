@@ -4,59 +4,59 @@ translate arabic strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
-    new "Self-voicing disabled."
+    new "تم تعطيل صوت الآلة"
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
-    new "Clipboard voicing enabled. "
+    new "تم تفعيل نسخ النص التلقائي "
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
-    new "Self-voicing enabled. "
+    new "تم تفعيل صوت الآلة "
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
-    new "bar"
+    new "الشريط"
 
     # renpy/common/00accessibility.rpy:33
     old "selected"
-    new "selected"
+    new "مفعل"
 
     # renpy/common/00accessibility.rpy:34
     old "viewport"
-    new "viewport"
+    new "منفذ العرض"
 
     # renpy/common/00accessibility.rpy:35
     old "horizontal scroll"
-    new "horizontal scroll"
+    new "تمرير أفقي"
 
     # renpy/common/00accessibility.rpy:36
     old "vertical scroll"
-    new "vertical scroll"
+    new "تمرير عمودي"
 
     # renpy/common/00accessibility.rpy:37
     old "activate"
-    new "activate"
+    new "تفعيل"
 
     # renpy/common/00accessibility.rpy:38
     old "deactivate"
-    new "deactivate"
+    new "تعطيل"
 
     # renpy/common/00accessibility.rpy:39
     old "increase"
-    new "increase"
+    new "زيادة"
 
     # renpy/common/00accessibility.rpy:40
     old "decrease"
-    new "decrease"
+    new "خفض"
 
     # renpy/common/00accessibility.rpy:128
     old "Font Override"
-    new "Font Override"
+    new "تجاهل الخط الرئيسي"
 
     # renpy/common/00accessibility.rpy:132
     old "Default"
-    new "Default"
+    new "الإفتراضي"
 
     # renpy/common/00accessibility.rpy:136
     old "DejaVu Sans"
@@ -68,143 +68,143 @@ translate arabic strings:
 
     # renpy/common/00accessibility.rpy:146
     old "Text Size Scaling"
-    new "Text Size Scaling"
+    new "نسبة تضخيم حجم الخط"
 
     # renpy/common/00accessibility.rpy:152
     old "Reset"
-    new "Reset"
+    new "إعادة ضبط"
 
     # renpy/common/00accessibility.rpy:157
     old "Line Spacing Scaling"
-    new "Line Spacing Scaling"
+    new "نسبة المسافة بين الخطين"
 
     # renpy/common/00accessibility.rpy:169
     old "Self-Voicing"
-    new "Self-Voicing"
+    new "صوت الآلة"
 
     # renpy/common/00accessibility.rpy:173
     old "Off"
-    new "Off"
+    new "معطل"
 
     # renpy/common/00accessibility.rpy:177
     old "Text-to-speech"
-    new "Text-to-speech"
+    new "نص إلى صوت"
 
     # renpy/common/00accessibility.rpy:181
     old "Clipboard"
-    new "Clipboard"
+    new "سجل المنسوخات"
 
     # renpy/common/00accessibility.rpy:185
     old "Debug"
-    new "Debug"
+    new "معالجة"
 
     # renpy/common/00accessibility.rpy:191
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
-    new "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
+    new "هذه الإعدادت مخصصة لتحسين الوصول. قد لا تعمل بعض الإعدادات مع كل الألعاب، قد تقومل بعض الإعدادات بتخريب اللعبة تماماً. هذه ليست مشكلة في المحرك أو في اللعبة. لضمان أفضل الإعدادات، عند تغيير الخط يرجى الحفاظ على الحجم الأصلي "
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
-    new "{#weekday}Monday"
+    new "{#weekday}الإثنين"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Tuesday"
-    new "{#weekday}Tuesday"
+    new "{#weekday}الثلاثاء"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Wednesday"
-    new "{#weekday}Wednesday"
+    new "{#weekday}الأربعاء"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Thursday"
-    new "{#weekday}Thursday"
+    new "{#weekday}الخميس"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Friday"
-    new "{#weekday}Friday"
+    new "{#weekday}الجمعة"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Saturday"
-    new "{#weekday}Saturday"
+    new "{#weekday}السبت"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Sunday"
-    new "{#weekday}Sunday"
+    new "{#weekday}الأحد"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Mon"
-    new "{#weekday_short}Mon"
+    new "{#weekday_short}إثنـ"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Tue"
-    new "{#weekday_short}Tue"
+    new "{#weekday_short}ثلثـ"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Wed"
-    new "{#weekday_short}Wed"
+    new "{#weekday_short}أربـ"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Thu"
-    new "{#weekday_short}Thu"
+    new "{#weekday_short}خميـ"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Fri"
-    new "{#weekday_short}Fri"
+    new "{#weekday_short}جمعـ"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sat"
-    new "{#weekday_short}Sat"
+    new "{#weekday_short}سبـ"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sun"
-    new "{#weekday_short}Sun"
+    new "{#weekday_short}أحـ"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}January"
-    new "{#month}January"
+    new "{#month}يناير"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}February"
-    new "{#month}February"
+    new "{#month}فبراير"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}March"
-    new "{#month}March"
+    new "{#month}مارس"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}April"
-    new "{#month}April"
+    new "{#month}إبريل"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}May"
-    new "{#month}May"
+    new "{#month}مايو"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}June"
-    new "{#month}June"
+    new "{#month}يونيوب"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}July"
-    new "{#month}July"
+    new "{#month}يوليو"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}August"
-    new "{#month}August"
+    new "{#month}أغسطس"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}September"
-    new "{#month}September"
+    new "{#month}سبتمبر"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}October"
-    new "{#month}October"
+    new "{#month}أكتوبر"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}November"
-    new "{#month}November"
+    new "{#month}نوفمر"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}December"
-    new "{#month}December"
+    new "{#month}ديسمبر"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jan"
@@ -260,47 +260,47 @@ translate arabic strings:
 
     # renpy/common/00action_file.rpy:353
     old "Save slot %s: [text]"
-    new "Save slot %s: [text]"
+    new "[text] %s فتحة الحفظ: "
 
     # renpy/common/00action_file.rpy:434
     old "Load slot %s: [text]"
-    new "Load slot %s: [text]"
+    new "[text] %s فتحة التحميل: "
 
     # renpy/common/00action_file.rpy:487
     old "Delete slot [text]"
-    new "Delete slot [text]"
+    new "فتحة محذوفة [text]"
 
     # renpy/common/00action_file.rpy:569
     old "File page auto"
-    new "File page auto"
+    new "صفحة ملف تلقائية"
 
     # renpy/common/00action_file.rpy:571
     old "File page quick"
-    new "File page quick"
+    new "صفحة ملف سريعة"
 
     # renpy/common/00action_file.rpy:573
     old "File page [text]"
-    new "File page [text]"
+    new "صفحة ملف [text]"
 
     # renpy/common/00action_file.rpy:772
     old "Next file page."
-    new "Next file page."
+    new "صفحة الملف التالية"
 
     # renpy/common/00action_file.rpy:845
     old "Previous file page."
-    new "Previous file page."
+    new "صفحة الملف السابقة"
 
     # renpy/common/00action_file.rpy:906
     old "Quick save complete."
-    new "Quick save complete."
+    new "تم الحفظ السريع"
 
     # renpy/common/00action_file.rpy:924
     old "Quick save."
-    new "Quick save."
+    new "الحفظ السريع."
 
     # renpy/common/00action_file.rpy:943
     old "Quick load."
-    new "Quick load."
+    new "تحميل سريع."
 
     # renpy/common/00action_other.rpy:355
     old "Language [text]"
@@ -308,7 +308,7 @@ translate arabic strings:
 
     # renpy/common/00director.rpy:708
     old "The interactive director is not enabled here."
-    new "The interactive director is not enabled here."
+    new "وضع الإخراج التفاعلي غير مفعل هنا"
 
     # renpy/common/00director.rpy:1481
     old "⬆"
@@ -352,103 +352,103 @@ translate arabic strings:
 
     # renpy/common/00director.rpy:1631
     old "Change"
-    new "Change"
+    new "تغيير"
 
     # renpy/common/00director.rpy:1633
     old "Add"
-    new "Add"
+    new "إضافة"
 
     # renpy/common/00director.rpy:1636
     old "Cancel"
-    new "Cancel"
+    new "إلغاء"
 
     # renpy/common/00director.rpy:1639
     old "Remove"
-    new "Remove"
+    new "إزالة"
 
     # renpy/common/00director.rpy:1674
     old "Statement:"
-    new "Statement:"
+    new "تصريح:"
 
     # renpy/common/00director.rpy:1695
     old "Tag:"
-    new "Tag:"
+    new "إشارة:"
 
     # renpy/common/00director.rpy:1711
     old "Attributes:"
-    new "Attributes:"
+    new "خصائص:"
 
     # renpy/common/00director.rpy:1729
     old "Transforms:"
-    new "Transforms:"
+    new "نحول:"
 
     # renpy/common/00director.rpy:1748
     old "Behind:"
-    new "Behind:"
+    new "خلف:"
 
     # renpy/common/00director.rpy:1767
     old "Transition:"
-    new "Transition:"
+    new "المقاطع الإنتقالية:"
 
     # renpy/common/00director.rpy:1785
     old "Channel:"
-    new "Channel:"
+    new "القناة:"
 
     # renpy/common/00director.rpy:1803
     old "Audio Filename:"
-    new "Audio Filename:"
+    new "اسم ملف الصوت:"
 
     # renpy/common/00gui.rpy:371
     old "Are you sure?"
-    new "Are you sure?"
+    new "هل أنت متأكد؟"
 
     # renpy/common/00gui.rpy:372
     old "Are you sure you want to delete this save?"
-    new "Are you sure you want to delete this save?"
+    new "هل أنت متأكد من حذف ملف الحفظ هذا؟"
 
     # renpy/common/00gui.rpy:373
     old "Are you sure you want to overwrite your save?"
-    new "Are you sure you want to overwrite your save?"
+    new "هل ترغب بالكتابة على ملف الحفظ هذا؟"
 
     # renpy/common/00gui.rpy:374
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new "Loading will lose unsaved progress.\nAre you sure you want to do this?"
+    new "تحميل اللعبة سيقوم بتجاهل أي تقدم غير محفوظ\nهل ترغب بتنفيذ بهذا الأمر؟"
 
     # renpy/common/00gui.rpy:375
     old "Are you sure you want to quit?"
-    new "Are you sure you want to quit?"
+    new "هل أنت متأكد من أنك تريد الخروج؟ "
 
     # renpy/common/00gui.rpy:376
-    old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
+    old "Are you sure you want to return to the main menu?\nسيقوم هذا الأمر بتجاهل أي تقدم غير محفوظ"
+    new "هل أنت متأكد من رغبتك بالعودة للصفحة الرئيسية؟\nسيقوم هذا الأمر بتجاهل أي تقدم غير محفوظ"
 
     # renpy/common/00gui.rpy:377
     old "Are you sure you want to end the replay?"
-    new "Are you sure you want to end the replay?"
+    new "هل أنت متأكد من أنك تريد إنهاء الإعادة؟"
 
     # renpy/common/00gui.rpy:378
     old "Are you sure you want to begin skipping?"
-    new "Are you sure you want to begin skipping?"
+    new "هل أنت متأكد من أنك تريد بدأ التخطي؟"
 
     # renpy/common/00gui.rpy:379
     old "Are you sure you want to skip to the next choice?"
-    new "Are you sure you want to skip to the next choice?"
+    new "هل أنت متأكد من أنك تريد تخطي القصة حتى الخيار التالي؟"
 
     # renpy/common/00gui.rpy:380
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new "Are you sure you want to skip unseen dialogue to the next choice?"
+    new "هل أنت متأكد من أنك تريد تخطي النص غير المكرر حتى الخيار التالي؟"
 
     # renpy/common/00keymap.rpy:267
     old "Failed to save screenshot as %s."
-    new "Failed to save screenshot as %s."
+    new "%s فشل حفظ الصورة بإسم "
 
     # renpy/common/00keymap.rpy:279
     old "Saved screenshot as %s."
-    new "Saved screenshot as %s."
+    new "%s تم حفظ الصورة بإسم "
 
     # renpy/common/00library.rpy:195
     old "Skip Mode"
-    new "Skip Mode"
+    new "وضع التخطي"
 
     # renpy/common/00library.rpy:281
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
@@ -456,83 +456,83 @@ translate arabic strings:
 
     # renpy/common/00preferences.rpy:233
     old "display"
-    new "display"
+    new "عرض"
 
     # renpy/common/00preferences.rpy:245
     old "transitions"
-    new "transitions"
+    new "المقاطع الإنتقالية"
 
     # renpy/common/00preferences.rpy:254
     old "skip transitions"
-    new "skip transitions"
+    new "تخطي المقاطع الإنتقالية"
 
     # renpy/common/00preferences.rpy:256
     old "video sprites"
-    new "video sprites"
+    new "مؤثرات الفيديو"
 
     # renpy/common/00preferences.rpy:265
     old "show empty window"
-    new "show empty window"
+    new "إظهار نافذة فارغة"
 
     # renpy/common/00preferences.rpy:274
     old "text speed"
-    new "text speed"
+    new "سرعة النص"
 
     # renpy/common/00preferences.rpy:282
     old "joystick"
-    new "joystick"
+    new "أداة التحكم"
 
     # renpy/common/00preferences.rpy:282
     old "joystick..."
-    new "joystick..."
+    new "أداة التحكم..."
 
     # renpy/common/00preferences.rpy:289
     old "skip"
-    new "skip"
+    new "تخطي"
 
     # renpy/common/00preferences.rpy:292
     old "skip unseen [text]"
-    new "skip unseen [text]"
+    new "[text] تخطي الرسائل الغير مكررة"
 
     # renpy/common/00preferences.rpy:297
     old "skip unseen text"
-    new "skip unseen text"
+    new "تخطي الرسائل الغير مكررة"
 
     # renpy/common/00preferences.rpy:299
     old "begin skipping"
-    new "begin skipping"
+    new "لدأ التخطي"
 
     # renpy/common/00preferences.rpy:303
     old "after choices"
-    new "after choices"
+    new "ما بعد الخيارات"
 
     # renpy/common/00preferences.rpy:310
     old "skip after choices"
-    new "skip after choices"
+    new "تخطي ما بعد الخيارات"
 
     # renpy/common/00preferences.rpy:312
     old "auto-forward time"
-    new "auto-forward time"
+    new "إنتقال الوقت التلقائي"
 
     # renpy/common/00preferences.rpy:326
     old "auto-forward"
-    new "auto-forward"
+    new "الإنتقال التلقائي"
 
     # renpy/common/00preferences.rpy:333
     old "Auto forward"
-    new "Auto forward"
+    new "إتقال تلقائي"
 
     # renpy/common/00preferences.rpy:336
     old "auto-forward after click"
-    new "auto-forward after click"
+    new "إنتقال تلقائي بعد الضغط"
 
     # renpy/common/00preferences.rpy:345
     old "automatic move"
-    new "automatic move"
+    new "تحرك تلقائي"
 
     # renpy/common/00preferences.rpy:354
     old "wait for voice"
-    new "wait for voice"
+    new "إنتظر الصوت"
 
     # renpy/common/00preferences.rpy:363
     old "voice sustain"
@@ -540,19 +540,19 @@ translate arabic strings:
 
     # renpy/common/00preferences.rpy:372
     old "self voicing"
-    new "self voicing"
+    new "صوت الآلة"
 
     # renpy/common/00preferences.rpy:381
     old "clipboard voicing"
-    new "clipboard voicing"
+    new "نسخ النص التلقائي"
 
     # renpy/common/00preferences.rpy:390
     old "debug voicing"
-    new "debug voicing"
+    new "صوت تجريبي"
 
     # renpy/common/00preferences.rpy:399
     old "emphasize audio"
-    new "emphasize audio"
+    new "توكيد الصوت"
 
     # renpy/common/00preferences.rpy:408
     old "rollback side"
