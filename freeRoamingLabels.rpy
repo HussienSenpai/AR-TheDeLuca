@@ -4,109 +4,109 @@
 translate arabic laptopMenu_0274377d:
 
     # pov "An mail from Jalen."
-    pov "An mail from Jalen."
+    pov "رسالة من جالين."
 
 # game/freeRoamingLabels.rpy:13
 translate arabic laptopMenu_9d6f54ef:
 
     # pov "Probably going to regret this, but let's read it."
-    pov "Probably going to regret this, but let's read it."
+    pov "غالباً سأندم على هذا، ولكني سأقرأها"
 
 # game/freeRoamingLabels.rpy:15
 translate arabic laptopMenu_16e797a0:
 
     # "{i}Get a goddamn phone already! This email writing makes me feel like I'm living in the stone ages!{/i}"
-    "{i}Get a goddamn phone already! This email writing makes me feel like I'm living in the stone ages!{/i}"
+    "{i}إشتري هاتفاً يا رجل! المراسلة تجعلني أشعر وكأني في العصر الحجري{/i}"
 
 # game/freeRoamingLabels.rpy:16
 translate arabic laptopMenu_c04f76bb:
 
     # pov "And so it begins..."
-    pov "And so it begins..."
+    pov "ها قد بدأ"
 
 # game/freeRoamingLabels.rpy:17
 translate arabic laptopMenu_82cd05f9:
 
     # "{i}Anyways, how are you brother? Why haven't you contacted me for such a long time? Idiot, if you had I could maybe have helped you with that contract situation you're in!{/i}"
-    "{i}Anyways, how are you brother? Why haven't you contacted me for such a long time? Idiot, if you had I could maybe have helped you with that contract situation you're in!{/i}"
+    "{i}على العموم، كيف حالك يا أخي؟ لما لم تكلمني من وقت طويل؟ أحمق،  لو أنك كلمتني مسبقاً لربما تمكنت من إخراجك من مشكلة العقد التي تواجهها{/i}"
 
 # game/freeRoamingLabels.rpy:18
 translate arabic laptopMenu_6d62a961:
 
     # "{i}And it's a really shitty situation, you know that right?{/i}"
-    "{i}And it's a really shitty situation, you know that right?{/i}"
+    "{i}أنها مشكلة مقرفة فعلاً، أنت تعرف هذا صحيح؟{/i}"
 
 # game/freeRoamingLabels.rpy:19
 translate arabic laptopMenu_857a1b81:
 
     # pov "Yeah yeah..."
-    pov "Yeah yeah..."
+    pov "نعم نعم..."
 
 # game/freeRoamingLabels.rpy:20
 translate arabic laptopMenu_c5570bab:
 
     # "{i}To be honest, I'm kind of in a shitty situation here too.{/i}"
-    "{i}To be honest, I'm kind of in a shitty situation here too.{/i}"
+    "{i}حتى أكون صريحاً معك، أنا بنفسي في موقف مقرف أيضاً{/i}"
 
 # game/freeRoamingLabels.rpy:21
 translate arabic laptopMenu_9db402a0:
 
     # pov "I wonder what's wrong?"
-    pov "I wonder what's wrong?"
+    pov "ما المشكلة يا ترى؟"
 
 # game/freeRoamingLabels.rpy:22
 translate arabic laptopMenu_c669a75a:
 
     # "{i}You're probably going to think I'm stupid, but I left the lawyer job... Pops needed me. I'm going to work for him again...{/i}"
-    "{i}You're probably going to think I'm stupid, but I left the lawyer job... Pops needed me. I'm going to work for him again...{/i}"
+    "{i}ستظنني غبياً، ولكني تركت وظيفتي في المحاماة. والدي احتاجني، سأبدا بالعمل له مجدداً{/i}"
 
 # game/freeRoamingLabels.rpy:23
 translate arabic laptopMenu_b5b224f7:
 
     # pov "Idiot! And he fought so hard to get out of that world."
-    pov "Idiot! And he fought so hard to get out of that world."
+    pov "مغفل! لقد عانى كثيراً حتى يستطيع ترك هذه الحياة خلفه"
 
 # game/freeRoamingLabels.rpy:24
 translate arabic laptopMenu_8b7bb87d:
 
     # "{i}Of course, Pops didn't like me leaving the job and everything nor me getting into this, but... He needs me, [povname]...{/i}"
-    "{i}Of course, Pops didn't like me leaving the job and everything nor me getting into this, but... He needs me, [povname]...{/i}"
+    "{i}طبعاً أبي لم يعجبه الموضوع، ولكن... أنه يحتاجني يا [povname]{/i}"
 
 # game/freeRoamingLabels.rpy:25
 translate arabic laptopMenu_b7f5192b:
 
     # "{i}Can't say much over the email, but we have a mole. And the Old Man is too stubborn to think it could be anyone close to us.{/i}"
-    "{i}Can't say much over the email, but we have a mole. And the Old Man is too stubborn to think it could be anyone close to us.{/i}"
+    "{i}لا أستطيع ذكر كل التفاصيل في البريد، ولكن يوجد بيننا جاسوس، والرجل العجوز أشد عناداً من أن يعتبر بأن الجاسوس قد يكون قريباً منا{/i}"
 
 # game/freeRoamingLabels.rpy:26
 translate arabic laptopMenu_7a0defb9:
 
     # "{i}Well, enough about that. Back to your problem... STOP BEING SO STUBBORN! Just beg me for help already. I told you before and I will tell you again, Pops and I are ready to help you however we can.{/i}"
-    "{i}Well, enough about that. Back to your problem... STOP BEING SO STUBBORN! Just beg me for help already. I told you before and I will tell you again, Pops and I are ready to help you however we can.{/i}"
+    "{i} ،توسل لي أن أساعدك وانهي الأمر، قلت لك هذا مسبقاً، أنا وأبي جاهزين لمساعدتك بأي شيءٍ كان{b} لا تكن عنيداً يا [povname]{/b} كفى من هذا، لنعد إلى مشكلتك...{/i}"
 
 # game/freeRoamingLabels.rpy:27
-translate arabic laptopMenu_79866d97:
+translate arabic laptopMenu_79866d97:   
 
     # pov "Sorry Jay, but this is my problem. There is no way I can have him or his Pops get involved with this... It will not end well and I can't have them getting hurt over my situation."
-    pov "Sorry Jay, but this is my problem. There is no way I can have him or his Pops get involved with this... It will not end well and I can't have them getting hurt over my situation."
+    pov "آسف يا جالين، هذه مشكلتي. من المستحيل أن أقحمك أنت أو والدك بها... لن ينتهي الأمر على خير، ولن أكون السبب بإيذائهم"
 
 # game/freeRoamingLabels.rpy:28
 translate arabic laptopMenu_457bc450:
 
     # pov "Especially now that I know he has his own battles to fight..."
-    pov "Especially now that I know he has his own battles to fight..."
+    pov "خاصةً وأنا أعلم الآن بأن لديه ما يكفيه من المشاكل"
 
 # game/freeRoamingLabels.rpy:29
 translate arabic laptopMenu_b74762cd:
 
     # "{i}But, the DeLuca family, eh? That's one Hell of a Family to have a contract with... I heard they have two daughters.{/i}"
-    "{i}But, the DeLuca family, eh? That's one Hell of a Family to have a contract with... I heard they have two daughters.{/i}"
+    "{i}ولكن علي أن أقول، عائلة ديلوكا؟ يا لها من عائلة فريدة! وأن تدخل بعقد معها...؟! {/i}"
 
 # game/freeRoamingLabels.rpy:30
 translate arabic laptopMenu_11bc8a5c:
 
     # "{i}I beg you, [povname], CONTROL YOURSELF! There is something seriously wrong with you when it comes to females, you know that right? I have never seen anything like it in my life.{/i}"
-    "{i}I beg you, [povname], CONTROL YOURSELF! There is something seriously wrong with you when it comes to females, you know that right? I have never seen anything like it in my life.{/i}"
+    "{i}سمعت أن لديهم إبنتين، أرجوك يا [povname]، تحكم بنفسك! لديك مشكلة ما عندما تدخل النساء في الموضوع، أنت تعلم بهذا صحيح؟ لم أرى أي أحد مثلك  في حياتي{/i}"
 
 # game/freeRoamingLabels.rpy:31
 translate arabic laptopMenu_c3ca3180:
@@ -118,25 +118,25 @@ translate arabic laptopMenu_c3ca3180:
 translate arabic laptopMenu_71610859:
 
     # "{i}For someone to go from being an asocial, boring, moody, and rarely talking guy- to a happy, talkative, actually making jokes(?), flirting at every opportunity you get... It's completely unheard of!{/i}"
-    "{i}For someone to go from being an asocial, boring, moody, and rarely talking guy- to a happy, talkative, actually making jokes(?), flirting at every opportunity you get... It's completely unheard of!{/i}"
+    "{i}كيف من الممكن أن يتحول شخص من إنطوائي مزاجي ممل نادر التحدث، إلى شخص سعيد كثير الكلام بنكات كثيرة (؟) يغازل كلما سنحت الفرصة، هذا لا يعقل...{/i}"
 
 # game/freeRoamingLabels.rpy:33
 translate arabic laptopMenu_1f23602d:
 
     # "{i}(Also, yes I added the question mark because I never get the jokes.){/i}"
-    "{i}(Also, yes I added the question mark because I never get the jokes.){/i}"
+    "{i}(ونعم، لقد أضفت علامة الإستفهام لأني لا أفهم نكاتك أبداً){/i}"
 
 # game/freeRoamingLabels.rpy:34
 translate arabic laptopMenu_85099e2a:
 
     # pov "That's like any human being when trying to talk to girls!"
-    pov "That's like any human being when trying to talk to girls!"
+    pov "هذا تصرف أي إنسان طبيعي عندما يتحدث إلى البنات"
 
 # game/freeRoamingLabels.rpy:35
 translate arabic laptopMenu_3eef2192:
 
     # "{i}I know what you will say when you read this, but it's NOT just like any other normal human beings when talking to the opposite sex.{/i}"
-    "{i}I know what you will say when you read this, but it's NOT just like any other normal human beings when talking to the opposite sex.{/i}"
+    "{i}أعلم أنك ستقول بأنه تصرف طبيعي لأي شخص عندما يحادث شخصاً من الجنس الآخر، ولكن هذا غير صحيح!{/i}"
 
 # game/freeRoamingLabels.rpy:36
 translate arabic laptopMenu_c3ca3180_1:
@@ -148,145 +148,145 @@ translate arabic laptopMenu_c3ca3180_1:
 translate arabic laptopMenu_5f935ac5:
 
     # "{i}There is such a big contrast in your transformation- that I sometimes think you're possessed by some kind of perverted, sexual, deviant demon!{/i}"
-    "{i}There is such a big contrast in your transformation- that I sometimes think you're possessed by some kind of perverted, sexual, deviant demon!{/i}"
+    "{i}أنت تتحول بشكل كبير، لدرجة أني أحياناً أظن أن شيطاناً منحرف جنسياً قد استحوذك{/i}"
 
 # game/freeRoamingLabels.rpy:38
 translate arabic laptopMenu_da17c41f:
 
     # pov "I knew I was going to regret reading this email..."
-    pov "I knew I was going to regret reading this email..."
+    pov "علمت أني سأندم على قراءة الرسالة..."
 
 # game/freeRoamingLabels.rpy:39
 translate arabic laptopMenu_1d83ebd9:
 
     # "{i}Anyways, that's it for me. Take care for now brother/perverted, sexual, deviant demon.\n- Jalen{/i}"
-    "{i}Anyways, that's it for me. Take care for now brother/perverted, sexual, deviant demon.\n- Jalen{/i}"
+    "{i}على أي حال، إنتبه على نفسك يا أخي/أيها الشيطان المنحرف جنسياً \n- كامل الحب، جالين{/i}"
 
 # game/freeRoamingLabels.rpy:40
 translate arabic laptopMenu_ece7f45d:
 
     # pov "...Damn you, Jay..."
-    pov "...Damn you, Jay..."
+    pov "اللعنة عليك يا جالين"
 
 # game/freeRoamingLabels.rpy:41
 translate arabic laptopMenu_aca2d1aa:
 
     # "{i}P.S. Now that I think about it, email isn't that bad! You can't defend yourself while I preach the truth, hahaha!!{/i}"
-    "{i}P.S. Now that I think about it, email isn't that bad! You can't defend yourself while I preach the truth, hahaha!!{/i}"
+    "{i}ملاحظة: بعد التفكير، البريد ليس سيئاً على الإطلاق، على الأقل فأنت لا تستطيع الدفاع عن نفسك عندما أقول لك الحقيقة هههههه{/i}"
 
 # game/freeRoamingLabels.rpy:43
 translate arabic laptopMenu_e111a355:
 
     # pov "I need to get a phone..."
-    pov "I need to get a phone..."
+    pov "علي أن أشتري هاتفاً..."
 
 # game/freeRoamingLabels.rpy:56
 translate arabic StealthBooks_6b0940b2:
 
     # "Done. Luckily it's an online version. Don't have to wait for it."
-    "Done. Luckily it's an online version. Don't have to wait for it."
+    "تم، لحسن حظي فالكتاب إلكتروني، لن أحتاج أن أنتظر الشحن."
 
 # game/freeRoamingLabels.rpy:59
 translate arabic StealthBooks_c3dc5f02:
 
     # "I don't have enough money."
-    "I don't have enough money."
+    "ليس لدي ما يكفي من المال"
 
 # game/freeRoamingLabels.rpy:66
 translate arabic StealthBooks_54dbfc09:
 
     # "Let's read it!"
-    "Let's read it!"
+    "فلنبدأ بالقراءة!!"
 
 # game/freeRoamingLabels.rpy:69
 translate arabic StealthBooks_c3dc5f02_1:
 
     # "I don't have enough money."
-    "I don't have enough money."
+    "ليس لدي ما يكفي من المال"
 
 # game/freeRoamingLabels.rpy:76
 translate arabic StealthBooks_edfe89ac:
 
     # "Batman who? I'm the 'Master of Shadows'"
-    "Batman who? I'm the 'Master of Shadows'"
+    "سيداتي وسادتي، تخلصوا من بات مان، أنا سيد التخفي الجديد..."
 
 # game/freeRoamingLabels.rpy:79
 translate arabic StealthBooks_c3dc5f02_2:
 
     # "I don't have enough money."
-    "I don't have enough money."
+    "ليس لدي ما يكفي من المال"
 
 # game/freeRoamingLabels.rpy:90
 translate arabic AttackBooks_b839c104:
 
     # "What a weird title."
-    "What a weird title."
+    "عنوان هذا الكتاب غريب..."
 
 # game/freeRoamingLabels.rpy:93
 translate arabic AttackBooks_c3dc5f02:
 
     # "I don't have enough money."
-    "I don't have enough money."
+    "ليس لدي ما يكفي من المال"
 
 # game/freeRoamingLabels.rpy:100
 translate arabic AttackBooks_77a09769:
 
     # "Let's kick some butts!"
-    "Let's kick some butts!"
+    "سألعن أجداد والديكم!"
 
 # game/freeRoamingLabels.rpy:103
 translate arabic AttackBooks_c3dc5f02_1:
 
     # "I don't have enough money."
-    "I don't have enough money."
+    "ليس لدي ما يكفي من المال"
 
 # game/freeRoamingLabels.rpy:110
 translate arabic AttackBooks_3db44024:
 
     # "Bruce Lee or [povname] Lee? That is the real question!"
-    "Bruce Lee or [povname] Lee? That is the real question!"
+    "غيروا إسم بروس لي، لأن من الآن ولاحقاً، الفوز لي"
 
 # game/freeRoamingLabels.rpy:113
 translate arabic AttackBooks_c3dc5f02_2:
 
     # "I don't have enough money."
-    "I don't have enough money."
+    "ليس لدي ما يكفي من المال"
 
 # game/freeRoamingLabels.rpy:124
 translate arabic DefenseBooks_734e2bc8:
 
     # "Yes, please..."
-    "Yes, please..."
+    "نعم لو سمحت!"
 
 # game/freeRoamingLabels.rpy:127
 translate arabic DefenseBooks_c3dc5f02:
 
     # "I don't have enough money."
-    "I don't have enough money."
+    "ليس لدي ما يكفي من المال"
 
 # game/freeRoamingLabels.rpy:134
 translate arabic DefenseBooks_bbb507ae:
 
     # "The last volume was pretty good!"
-    "The last volume was pretty good!"
+    "آخر فصل من هذا الكتاب كان جيداً جداً!"
 
 # game/freeRoamingLabels.rpy:137
 translate arabic DefenseBooks_c3dc5f02_1:
 
     # "I don't have enough money."
-    "I don't have enough money."
+    "ليس لدي ما يكفي من المال"
 
 # game/freeRoamingLabels.rpy:144
 translate arabic DefenseBooks_104fd553:
 
     # "I'm a wall!"
-    "I'm a wall!"
+    "أنا حائظ، أنا لا اتألم، أنا أمتص الألم"
 
 # game/freeRoamingLabels.rpy:147
 translate arabic DefenseBooks_c3dc5f02_2:
 
     # "I don't have enough money."
-    "I don't have enough money."
+    "ليس لدي ما يكفي من المال"
 
 # game/freeRoamingLabels.rpy:158
 translate arabic Threatbooks_a20cefa7:
@@ -298,31 +298,31 @@ translate arabic Threatbooks_a20cefa7:
 translate arabic Threatbooks_c3dc5f02:
 
     # "I don't have enough money."
-    "I don't have enough money."
+    "ليس لدي ما يكفي من المال"
 
 # game/freeRoamingLabels.rpy:168
 translate arabic Threatbooks_93dbf2a5:
 
     # "They need to learn who they're messing with!"
-    "They need to learn who they're messing with!"
+    "سأعلمهم أنه يعبثون مع الشخص الخطأ!"
 
 # game/freeRoamingLabels.rpy:171
 translate arabic Threatbooks_c3dc5f02_1:
 
     # "I don't have enough money."
-    "I don't have enough money."
+    "ليس لدي ما يكفي من المال"
 
 # game/freeRoamingLabels.rpy:178
 translate arabic Threatbooks_0e3104ef:
 
     # "No one's going to stand in my way..."
-    "No one's going to stand in my way..."
+    "لن يقف أحد في طريقي..."
 
 # game/freeRoamingLabels.rpy:181
 translate arabic Threatbooks_c3dc5f02_2:
 
     # "I don't have enough money."
-    "I don't have enough money."
+    "ليس لدي ما يكفي من المال"
 
 # game/freeRoamingLabels.rpy:195
 translate arabic luRec_a20cefa7:
@@ -334,13 +334,13 @@ translate arabic luRec_a20cefa7:
 translate arabic luRec_1240b0d6:
 
     # "Every night she just sits there for around an hour..."
-    "Every night she just sits there for around an hour..."
+    "لونا تجلس بهذه الوضعية لمدة ساعة كل يوم..."
 
 # game/freeRoamingLabels.rpy:197
 translate arabic luRec_1c4c1420:
 
     # "I wonder why?"
-    "I wonder why?"
+    "أتساءل لماذا..."
 
 # game/freeRoamingLabels.rpy:202
 translate arabic luRec_a20cefa7_1:
@@ -352,13 +352,13 @@ translate arabic luRec_a20cefa7_1:
 translate arabic luRec_502325f5:
 
     # "What are you even doing, Luna...?"
-    "What are you even doing, Luna...?"
+    "ما الذي تفعلينه يا لونا..؟"
 
 # game/freeRoamingLabels.rpy:204
 translate arabic luRec_f6ef0294:
 
     # "At least wear some pants."
-    "At least wear some pants."
+    "إرتدي سروالاً على الأقل"
 
 # game/freeRoamingLabels.rpy:205
 translate arabic luRec_a20cefa7_2:
@@ -370,61 +370,61 @@ translate arabic luRec_a20cefa7_2:
 translate arabic luRec_b1cc3ccb:
 
     # "Wait, what am I saying?"
-    "Wait, what am I saying?"
+    "لحظة، ما الذي اقوله؟"
 
 # game/freeRoamingLabels.rpy:211
 translate arabic luRec_4cbe89e4:
 
     # "Huh?"
-    "Huh?"
+    "هاه؟"
 
 # game/freeRoamingLabels.rpy:212
 translate arabic luRec_17237adc:
 
     # "Is Luna checking herself out?"
-    "Is Luna checking herself out?"
+    "أهي تتأمل بمؤخرتها؟"
 
 # game/freeRoamingLabels.rpy:213
 translate arabic luRec_6de0b025:
 
     # "That's new..."
-    "That's new..."
+    "هذا جديد..."
 
 # game/freeRoamingLabels.rpy:214
 translate arabic luRec_d2d2bb63:
 
     # "Maybe It's because of me? Could be nice..."
-    "Maybe It's because of me? Could be nice..."
+    "هل هذا بسببي؟ قد يكون هذا جميلاً"
 
 # game/freeRoamingLabels.rpy:219
 translate arabic luRec_00620a41:
 
     # "Oh?"
-    "Oh?"
+    "أوه؟"
 
 # game/freeRoamingLabels.rpy:220
 translate arabic luRec_928ddd2b:
 
     # lu "{cps=20}Slowly... Slowly... Slowly...{/cps}"
-    lu "{cps=20}Slowly... Slowly... Slowly...{/cps}"
+    lu "{cps=20}ببطئ... ببطئ.... ببطئ...{/cps}"
 
 # game/freeRoamingLabels.rpy:221
 translate arabic luRec_814ab8dc:
 
     # "I knew it..."
-    "I knew it..."
+    "كنت أعلم!"
 
 # game/freeRoamingLabels.rpy:222
 translate arabic luRec_0c9d46c2:
 
     # "She wasn't just joking."
-    "She wasn't just joking."
+    "لم تكن تمزح فقط..."
 
 # game/freeRoamingLabels.rpy:225
 translate arabic luRec_d48a9ade:
 
     # lu "Ouch!"
-    lu "Ouch!"
+    lu "آخ"
 
 # game/freeRoamingLabels.rpy:226
 translate arabic luRec_a20cefa7_3:
@@ -436,13 +436,13 @@ translate arabic luRec_a20cefa7_3:
 translate arabic luRec_ad88029f:
 
     # lu "This is impossible!"
-    lu "This is impossible!"
+    lu "هذا لا يعقل"
 
 # game/freeRoamingLabels.rpy:228
 translate arabic luRec_28b4aa87:
 
     # lu "Stupid high heels! Forget this... I don't need it."
-    lu "Stupid high heels! Forget this... I don't need it."
+    lu "كعب عالي غبي، فلأنسى الموضوع... أنا لا أحتاجه"
 
 # game/freeRoamingLabels.rpy:229
 translate arabic luRec_c15cc7d6:
@@ -454,43 +454,43 @@ translate arabic luRec_c15cc7d6:
 translate arabic luRec_2205e514:
 
     # "I should ask her about this. Maybe I can help somehow."
-    "I should ask her about this. Maybe I can help somehow."
+    "علي أن أكلمها، قد أكون قادراً على المساعدة."
 
 # game/freeRoamingLabels.rpy:233
 translate arabic luRec_494b5e0c:
 
     # "Just need to ask her in a way that won't piss her off."
-    "Just need to ask her in a way that won't piss her off."
+    "علي أن أجد طريقة أستطيع أن أسألها بها بدون أن تغضب."
 
 # game/freeRoamingLabels.rpy:237
 translate arabic luRec_00620a41_1:
 
     # "Oh?"
-    "Oh?"
+    "أوه؟"
 
 # game/freeRoamingLabels.rpy:238
 translate arabic luRec_928ddd2b_1:
 
     # lu "{cps=20}Slowly... Slowly... Slowly...{/cps}"
-    lu "{cps=20}Slowly... Slowly... Slowly...{/cps}"
+    lu "{cps=20}ببطئ... ببطئ.... ببطئ....{/cps}"
 
 # game/freeRoamingLabels.rpy:239
 translate arabic luRec_24bb2e27:
 
     # "Hmm...?"
-    "Hmm...?"
+    "هممم؟"
 
 # game/freeRoamingLabels.rpy:240
 translate arabic luRec_bfd39def:
 
     # "What is she doing?"
-    "What is she doing?"
+    "ما الذي تفعله؟?"
 
 # game/freeRoamingLabels.rpy:241
 translate arabic luRec_d48a9ade_1:
 
     # lu "Ouch!"
-    lu "Ouch!"
+    lu "آخ!"
 
 # game/freeRoamingLabels.rpy:242
 translate arabic luRec_a20cefa7_4:
@@ -502,13 +502,13 @@ translate arabic luRec_a20cefa7_4:
 translate arabic luRec_ad88029f_1:
 
     # lu "This is impossible!"
-    lu "This is impossible!"
+    lu "هذا لا يعقل!"
 
 # game/freeRoamingLabels.rpy:244
 translate arabic luRec_28b4aa87_1:
 
     # lu "Stupid high heels! Forget this... I don't need it."
-    lu "Stupid high heels! Forget this... I don't need it."
+    lu "كعب عالي غبي، فلأنسى الموضوع... أنا لا أحتاجه"
 
 # game/freeRoamingLabels.rpy:245
 translate arabic luRec_c15cc7d6_1:
@@ -520,31 +520,31 @@ translate arabic luRec_c15cc7d6_1:
 translate arabic luRec_814ab8dc_1:
 
     # "I knew it..."
-    "I knew it..."
+    "كنت أعلم!"
 
 # game/freeRoamingLabels.rpy:247
 translate arabic luRec_0c9d46c2_1:
 
     # "She wasn't just joking."
-    "She wasn't just joking."
+    "لم تكن تمزح فقط"
 
 # game/freeRoamingLabels.rpy:250
 translate arabic luRec_2205e514_1:
 
     # "I should ask her about this. Maybe I can help somehow."
-    "I should ask her about this. Maybe I can help somehow."
+    "علي أن أكلمها، قد أكون قادراً على المساعدة."
 
 # game/freeRoamingLabels.rpy:251
 translate arabic luRec_494b5e0c_1:
 
     # "Just need to ask her in a way that won't piss her off."
-    "Just need to ask her in a way that won't piss her off."
+    "علي أن أجد طريقة أستطيع أن أسألها بها بدون أن تغضب."
 
 # game/freeRoamingLabels.rpy:259
 translate arabic gcRec_9cd40309:
 
     # "Gracie morning routine is rather... {w}Peculiar.{w=0}"
-    "Gracie morning routine is rather... {w}Peculiar.{w=0}"
+    "{i}غريب{/i} روتين قرايسي اليومي... "
 
 # game/freeRoamingLabels.rpy:265
 translate arabic gcRec_cc9a5909:
@@ -556,49 +556,49 @@ translate arabic gcRec_cc9a5909:
 translate arabic gcRec_1c0f24a4:
 
     # gc "Where are they!?"
-    gc "Where are they!?"
+    gc "أين اختفوا!؟"
 
 # game/freeRoamingLabels.rpy:267
 translate arabic gcRec_a0245e39:
 
     # gc "Urg!"
-    gc "Urg!"
+    gc "تباً!"
 
 # game/freeRoamingLabels.rpy:268
 translate arabic gcRec_f68b2122:
 
     # gc "Where are my panties?!"
-    gc "Where are my panties?!"
+    gc "أين سروالي؟!"
 
 # game/freeRoamingLabels.rpy:269
 translate arabic gcRec_41c98710:
 
     # pov "Oh..."
-    pov "Oh..."
+    pov "أوه..."
 
 # game/freeRoamingLabels.rpy:271
 translate arabic gcRec_a563450e:
 
     # gc "Hmmmmm! Maybe Luna?"
-    gc "Hmmmmm! Maybe Luna?"
+    gc "هممممممم! ربما قد أخذتهم لونا!..."
 
 # game/freeRoamingLabels.rpy:272
 translate arabic gcRec_23a508f7:
 
     # gc "Stupid! Stupid! Stupid!"
-    gc "Stupid! Stupid! Stupid!"
+    gc "غبية! غبية! غبية!"
 
 # game/freeRoamingLabels.rpy:274
 translate arabic gcRec_cf5e44f6:
 
     # gc "They're mine! Mine, mine, mine!!"
-    gc "They're mine! Mine, mine, mine!!"
+    gc "أنهم لي! لي أنا! سراويلي أنا!"
 
 # game/freeRoamingLabels.rpy:275
 translate arabic gcRec_7f77e1a8:
 
     # pov "I'm conflicted. I feel bad, but at the same time...happy."
-    pov "I'm conflicted. I feel bad, but at the same time...happy."
+    pov "مشاعري مختلطة، جزء مني يشعر بالحزن عليها، لكني بنفس الوقت.. سعيد"
 
 # game/freeRoamingLabels.rpy:279
 translate arabic gcRec_cc9a5909_1:
@@ -610,55 +610,55 @@ translate arabic gcRec_cc9a5909_1:
 translate arabic gcRec_6fd8e9ee:
 
     # gc "Where is it!?"
-    gc "Where is it!?"
+    gc "أين اختفوا!؟"
 
 # game/freeRoamingLabels.rpy:281
 translate arabic gcRec_381d870a:
 
     # gc "Arg!"
-    gc "Arg!"
+    gc "تباً!"
 
 # game/freeRoamingLabels.rpy:282
 translate arabic gcRec_66be2c4d:
 
     # gc "Where are my panties!"
-    gc "Where are my panties!"
+    gc "أين سروالي؟!"
 
 # game/freeRoamingLabels.rpy:283
 translate arabic gcRec_41c98710_1:
 
     # pov "Oh..."
-    pov "Oh..."
+    pov "أوه.."
 
 # game/freeRoamingLabels.rpy:284
 translate arabic gcRec_1df32882:
 
     # gc "Hrrrmmm! Maybe Luna?"
-    gc "Hrrrmmm! Maybe Luna?"
+    gc "هممممممم! ربما قد أخذتهم لونا!..."
 
 # game/freeRoamingLabels.rpy:285
 translate arabic gcRec_78108934:
 
     # gc "Stupid stupid stupid!!"
-    gc "Stupid stupid stupid!!"
+    gc "غبية، غبية، غبية!!!"
 
 # game/freeRoamingLabels.rpy:286
 translate arabic gcRec_a1a2ca53:
 
     # gc "It's mine! mine mine mine!!"
-    gc "It's mine! mine mine mine!!"
+    gc "أنها سراويلي! سروايلي أنا!!"
 
 # game/freeRoamingLabels.rpy:287
 translate arabic gcRec_c498af89:
 
     # pov "I'm conflicted. I feel bad but at the same time... Happy."
-    pov "I'm conflicted. I feel bad but at the same time... Happy."
+    pov "مشاعري مختلطة. أشهر بالحزن عليها، ولكن بنفس الوقت أشعر ... بالسعادة"
 
 # game/freeRoamingLabels.rpy:291
 translate arabic gcRec_271d98f8:
 
     # "Practicing boxing now?"
-    "Practicing boxing now?"
+    "هل تقوم بالتدرب على الملاكمة؟؟"
 
 # game/freeRoamingLabels.rpy:292
 translate arabic gcRec_a20cefa7:
@@ -670,79 +670,79 @@ translate arabic gcRec_a20cefa7:
 translate arabic gcRec_a5ff19bf:
 
     # "But, why do it while changing...?"
-    "But, why do it while changing...?"
+    "ولكم، لم قد تفعل هذا وهي تغير ملابسها؟؟"
 
 # game/freeRoamingLabels.rpy:303
 translate arabic gcRec_de62bd8e:
 
     # "Nothing yet..."
-    "Nothing yet..."
+    "لا شيء حتى الآن..."
 
 # game/freeRoamingLabels.rpy:304
 translate arabic gcRec_d2f9ccc4:
 
     # "I should give it a few days."
-    "I should give it a few days."
+    "علي ان انتظر بضعة ايام
 
 # game/freeRoamingLabels.rpy:312
 translate arabic gcRec_de62bd8e_1:
 
     # "Nothing yet..."
-    "Nothing yet..."
+    "لا شيء حتى الآن..."
 
 # game/freeRoamingLabels.rpy:313
 translate arabic gcRec_d2f9ccc4_1:
 
     # "I should give it a few days."
-    "I should give it a few days."
+    "علي ان انتظر بضعة ايام
 
 # game/freeRoamingLabels.rpy:321
 translate arabic gcRec_de62bd8e_2:
 
     # "Nothing yet..."
-    "Nothing yet..."
+    "لا شيء حتى الآن..."
 
 # game/freeRoamingLabels.rpy:322
 translate arabic gcRec_d2f9ccc4_2:
 
     # "I should give it a few days."
-    "I should give it a few days."
+    "علي ان انتظر بضعة ايام
 
 # game/freeRoamingLabels.rpy:369
 translate arabic corRec_817a72e9:
 
     # "Better to just sleep instead..."
-    "Better to just sleep instead..."
+    "أفضل أن أنام..."
 
 # game/freeRoamingLabels.rpy:377
 translate arabic corRec_806952ed:
 
     # "There, now I just need to wait for it to arrive."
-    "There, now I just need to wait for it to arrive."
+    "حسناً، علي أن أنتظر حتى تصل الشحنة الآن..."
 
 # game/freeRoamingLabels.rpy:382
 translate arabic corRec_6b4b65f6:
 
     # "Don't have enough money."
-    "Don't have enough money."
+    "ليس لدي ما يكفي من المال"
 
 # game/freeRoamingLabels.rpy:387
 translate arabic corRec_806952ed_1:
 
     # "There, now I just need to wait for it to arrive."
-    "There, now I just need to wait for it to arrive."
+    "حسناً، علي أن أنتظر حتى تصل الشحنة الآن..."
 
 # game/freeRoamingLabels.rpy:392
 translate arabic corRec_6b4b65f6_1:
 
     # "Don't have enough money."
-    "Don't have enough money."
+    "ليس لدي ما يكفي من المال"
 
 # game/freeRoamingLabels.rpy:395
 translate arabic corRec_ca7e67ef:
 
     # "Hmm, let's see now..."
-    "Hmm, let's see now..."
+    "همم.. فلنرى أين هم الآن.."
 
 # game/freeRoamingLabels.rpy:396
 translate arabic corRec_a20cefa7:
@@ -754,109 +754,109 @@ translate arabic corRec_a20cefa7:
 translate arabic corRec_6cd6c9bb:
 
     # "Found them."
-    "Found them."
+    "وجدته!"
 
 # game/freeRoamingLabels.rpy:398
 translate arabic corRec_932bf7e4:
 
     # "Wow... $100 for a pair of jeans?!"
-    "Wow... $100 for a pair of jeans?!"
+    "واو! 100$ من أجل بنطال جينز؟"
 
 # game/freeRoamingLabels.rpy:399
 translate arabic corRec_9642fae9:
 
     # "Oh, and there is the version that has holes in them. The girls would be extremely pleased with that one."
-    "Oh, and there is the version that has holes in them. The girls would be extremely pleased with that one."
+    "أوه، يوجد موديل بثقوب موجودة بالفعل، سيكونن سعيدات به جداً"
 
 # game/freeRoamingLabels.rpy:401
 translate arabic corRec_43834b1b:
 
     # "!!!?"
-    "!!!?"
+    "؟؟؟!"
 
 # game/freeRoamingLabels.rpy:402
 translate arabic corRec_71cca3b7:
 
     # "HOW!! WHY!?"
-    "HOW!! WHY!?"
+    "كيف!! لماذا؟!"
 
 # game/freeRoamingLabels.rpy:403
 translate arabic corRec_f477b814:
 
     # "HOW CAN A COUPLE OF HOLES ADD ANOTHER $150 TO THE PRICE!?"
-    "HOW CAN A COUPLE OF HOLES ADD ANOTHER $150 TO THE PRICE!?"
+    "كيف تزيد الثقوب 150$ من سعر البنطال؟!"
 
 # game/freeRoamingLabels.rpy:404
 translate arabic corRec_25b7a280:
 
     # "Were the holes made with some kind of new nanotechnology!?"
-    "Were the holes made with some kind of new nanotechnology!?"
+    "هل صنعوا الثقوب بتقنية النانو؟؟؟"
 
 # game/freeRoamingLabels.rpy:405
 translate arabic corRec_26883828:
 
     # "God damn you, 'Ripped McHG Jeans'... And what do you mean 'ripped', it's clearly holed... Trying to be all fancy."
-    "God damn you, 'Ripped McHG Jeans'... And what do you mean 'ripped', it's clearly holed... Trying to be all fancy."
+    "لعنة الله عليكم! 'بنطال بموديل ممزق' أنها مجرد ثقوب! "
 
 # game/freeRoamingLabels.rpy:413
 translate arabic McHGjeans_806952ed:
 
     # "There, now I just need to wait for it to arrive."
-    "There, now I just need to wait for it to arrive."
+    "حسناً، علي أن أنتظر حتى تصل الشحنة الآن..."
 
 # game/freeRoamingLabels.rpy:416
 translate arabic McHGjeans_6b4b65f6:
 
     # "Don't have enough money."
-    "Don't have enough money."
+    "ليس لدي ما يكفي من المال"
 
 # game/freeRoamingLabels.rpy:423
 translate arabic McHGjeans_806952ed_1:
 
     # "There, now I just need to wait for it to arrive."
-    "There, now I just need to wait for it to arrive."
+    "حسناً، علي أن أنتظر حتى تصل الشحنة الآن..."
 
 # game/freeRoamingLabels.rpy:426
 translate arabic McHGjeans_6b4b65f6_1:
 
     # "Don't have enough money."
-    "Don't have enough money."
+    "ليس لدي ما يكفي من المال"
 
 # game/freeRoamingLabels.rpy:434
 translate arabic McHGjeans_806952ed_2:
 
     # "There, now I just need to wait for it to arrive."
-    "There, now I just need to wait for it to arrive."
+    "حسناً، علي أن أنتظر حتى تصل الشحنة الآن..."
 
 # game/freeRoamingLabels.rpy:439
 translate arabic McHGjeans_c3dc5f02:
 
     # "I don't have enough money."
-    "I don't have enough money."
+    "ليس لدي ما يكفي من المال"
 
 # game/freeRoamingLabels.rpy:444
 translate arabic McHGjeans_806952ed_3:
 
     # "There, now I just need to wait for it to arrive."
-    "There, now I just need to wait for it to arrive."
+    "حسناً، علي أن أنتظر حتى تصل الشحنة الآن..."
 
 # game/freeRoamingLabels.rpy:449
 translate arabic McHGjeans_c3dc5f02_1:
 
     # "I don't have enough money."
-    "I don't have enough money."
+    "ليس لدي ما يكفي من المال"
 
 # game/freeRoamingLabels.rpy:452
 translate arabic McHGjeans_a6ccdca6:
 
     # "Let’s see."
-    "Let’s see."
+    "حسناً، فلترى..."
 
 # game/freeRoamingLabels.rpy:453
 translate arabic McHGjeans_92ab8971:
 
     # "Wow, there really is a site that explains Mafia Contracts..."
-    "Wow, there really is a site that explains Mafia Contracts..."
+    "واو، يوجد فعلاً موقع مخصص لشرح عقود المافيا..."
 
 # game/freeRoamingLabels.rpy:454
 translate arabic McHGjeans_a20cefa7:
@@ -868,43 +868,43 @@ translate arabic McHGjeans_a20cefa7:
 translate arabic McHGjeans_1d47ccfc:
 
     # "Hmm... So, the contracts are actually being handled by a third-party."
-    "Hmm... So, the contracts are actually being handled by a third-party."
+    "هممم... إذا، يتم التعامل مع العقود من قبل طرف ثالث..."
 
 # game/freeRoamingLabels.rpy:456
 translate arabic McHGjeans_6a031f60:
 
     # "{i}Pacificatori{/i}. The Peacekeepers? So that is the group that handles the contracts?"
-    "{i}Pacificatori{/i}. The Peacekeepers? So that is the group that handles the contracts?"
+    "منظمة حفظة السلام؟ إذا هذه هي المنظمة التي تتعامل مع العقود ...{i} منظمة الباتشفيكاتوري{/i}"
 
 # game/freeRoamingLabels.rpy:457
 translate arabic McHGjeans_b438a45d:
 
     # "They make contracts for all the {i}‘legalized business groups’{/i}."
-    "They make contracts for all the {i}‘legalized business groups’{/i}."
+    "{i}‘مجموعات إدارة الأعمال القانونية’{/i} أنهم يقومون بعمل العقود لكل"
 
 # game/freeRoamingLabels.rpy:458
 translate arabic McHGjeans_6f96e2b4:
 
     # "Well, it sure does sound better than 'Organized Crime Families'..."
-    "Well, it sure does sound better than 'Organized Crime Families'..."
+    "صياغتها بهذه الطريقة أفضل بكثير من 'عوائل الجريمة المنظمة'..."
 
 # game/freeRoamingLabels.rpy:459
 translate arabic McHGjeans_850c0185:
 
     # "They write, handle the legalization, and oversee if the contract is being handled properly."
-    "They write, handle the legalization, and oversee if the contract is being handled properly."
+    "تقوم هذه المنظمة بالتعامل مع المسائل القانونية والتأكد من إلتزام جميع الأطراف العقد"
 
 # game/freeRoamingLabels.rpy:460
 translate arabic McHGjeans_5f3c5208:
 
     # "{i}To avoid any unfair competitive advantage towards other business and/or misuse, we ensure that the contracts are just and that any/all special requirements are met for a contract to be considered valid.{/i}"
-    "{i}To avoid any unfair competitive advantage towards other business and/or misuse, we ensure that the contracts are just and that any/all special requirements are met for a contract to be considered valid.{/i}"
+    "{i}لتجنب أي فرص للإستحواذ أو إساءة الإستخدام، نحن نضمن عدالة العقود وأن كل الأطراف تطبق جميع الشروط المذكورة في العقد حتى يكون العقد صالحاً{/i}"
 
 # game/freeRoamingLabels.rpy:461
 translate arabic McHGjeans_db6c31b9:
 
     # "{i}If you feel that you have been placed under a contract unfairly and/or without your consent- Please contact us as soon as possible.{/i}"
-    "{i}If you feel that you have been placed under a contract unfairly and/or without your consent- Please contact us as soon as possible.{/i}"
+    "{i}إذا كنت تشعر بأنك تحت عقد مغصوب أو غير عادل. يرجى التواصل معنا في أقرب وقت ممكن{/i}"
 
 # game/freeRoamingLabels.rpy:462
 translate arabic McHGjeans_9c69cbbe:
@@ -1024,7 +1024,7 @@ translate arabic McHGjeans_5a5516fa:
 translate arabic McHGjeans_c3dc5f02_2:
 
     # "I don't have enough money."
-    "I don't have enough money."
+    "ليس لدي ما يكفي من المال"
 
 # game/freeRoamingLabels.rpy:500
 translate arabic McHGjeans_2c519884:
@@ -1036,7 +1036,7 @@ translate arabic McHGjeans_2c519884:
 translate arabic McHGjeans_c3dc5f02_3:
 
     # "I don't have enough money."
-    "I don't have enough money."
+    "ليس لدي ما يكفي من المال"
 
 # game/freeRoamingLabels.rpy:523
 translate arabic lunaMorning_1e96656d:
