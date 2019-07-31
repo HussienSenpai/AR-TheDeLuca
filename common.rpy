@@ -92,15 +92,15 @@ translate arabic strings:
 
     # renpy/common/00accessibility.rpy:181
     old "Clipboard"
-    new "سجل المنسوخات"
+    new "نسخ إلى سجل المنسوخات"
 
     # renpy/common/00accessibility.rpy:185
     old "Debug"
-    new "معالجة"
+    new "وضع المعالجة"
 
     # renpy/common/00accessibility.rpy:191
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
-    new "هذه الإعدادت مخصصة لتحسين الوصول. قد لا تعمل بعض الإعدادات مع كل الألعاب، قد تقومل بعض الإعدادات بتخريب اللعبة تماماً. هذه ليست مشكلة في المحرك أو في اللعبة. لضمان أفضل الإعدادات، عند تغيير الخط يرجى الحفاظ على الحجم الأصلي "
+    new "هذه الإعدادت مخصصة لتحسين الوصول. قد لا تعمل بعض الإعدادات مع كل الألعاب، قد تقوم بعض الإعدادات بتخريب اللعبة تماماً. هذه ليست مشكلة في المحرك أو في اللعبة. لضمان أفضل الإعدادات، عند تغيير الخط يرجى الحفاظ على الحجم الأصلي "
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
@@ -412,15 +412,15 @@ translate arabic strings:
 
     # renpy/common/00gui.rpy:374
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new "تحميل اللعبة سيقوم بتجاهل أي تقدم غير محفوظ\nهل ترغب بتنفيذ بهذا الأمر؟"
+    new "تحميل الحفظ سيقوم بحذف أي تقدم غير محفوظ\nهل ترغب بتنفيذ بهذا الأمر؟"
 
     # renpy/common/00gui.rpy:375
     old "Are you sure you want to quit?"
     new "هل أنت متأكد من أنك تريد الخروج؟ "
 
     # renpy/common/00gui.rpy:376
-    old "Are you sure you want to return to the main menu?\nسيقوم هذا الأمر بتجاهل أي تقدم غير محفوظ"
-    new "هل أنت متأكد من رغبتك بالعودة للصفحة الرئيسية؟\nسيقوم هذا الأمر بتجاهل أي تقدم غير محفوظ"
+    old "Are you sure you want to return to the main menu?\This will lose unsaved progress"
+    new "هل أنت متأكد من رغبتك بالعودة للصفحة الرئيسية؟\nسيقوم هذا الأمر بحذف أي تقدم غير محفوظ"
 
     # renpy/common/00gui.rpy:377
     old "Are you sure you want to end the replay?"
