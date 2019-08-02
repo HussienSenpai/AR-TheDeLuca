@@ -52,7 +52,7 @@ translate arabic strings:
 
     # renpy/common/00accessibility.rpy:128
     old "Font Override"
-    new "تجاهل الخط الرئيسي"
+    new "الخط الرئيسي"
 
     # renpy/common/00accessibility.rpy:132
     old "Default"
@@ -320,7 +320,7 @@ translate arabic strings:
 
     # renpy/common/00director.rpy:1551
     old "Done"
-    new "Done"
+    new "تم"
 
     # renpy/common/00director.rpy:1561
     old "(statement)"
@@ -560,7 +560,7 @@ translate arabic strings:
 
     # renpy/common/00preferences.rpy:418
     old "gl powersave"
-    new "gl powersave"
+    new "gl وضع توفير الطاقة بنظام"
 
     # renpy/common/00preferences.rpy:424
     old "gl framerate"
@@ -572,79 +572,80 @@ translate arabic strings:
 
     # renpy/common/00preferences.rpy:430
     old "font transform"
-    new "font transform"
+    new "تضخيم الخط"
 
     # renpy/common/00preferences.rpy:433
     old "font size"
-    new "font size"
+    new "حجم الخط"
 
     # renpy/common/00preferences.rpy:441
     old "font line spacing"
-    new "font line spacing"
+    new "المسافة بين الخطوط"
 
     # renpy/common/00preferences.rpy:460
     old "music volume"
-    new "music volume"
+    new "صوت الموسيقى"
 
     # renpy/common/00preferences.rpy:461
     old "sound volume"
-    new "sound volume"
+    new "صوت اللعبة الرئيسي"
 
     # renpy/common/00preferences.rpy:462
     old "voice volume"
-    new "voice volume"
+    new "صوت الآلة"
 
     # renpy/common/00preferences.rpy:463
     old "mute music"
-    new "mute music"
+    new "كتم الموسيقى"
 
     # renpy/common/00preferences.rpy:464
     old "mute sound"
-    new "mute sound"
+    new "كتم الصوت"
 
     # renpy/common/00preferences.rpy:465
     old "mute voice"
-    new "mute voice"
+    new "كتم صوت الآلة"
 
     # renpy/common/00preferences.rpy:466
     old "mute all"
-    new "mute all"
+    new "كتم كل الأصوات"
 
     # renpy/common/00preferences.rpy:547
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
-    new "Clipboard voicing enabled. Press 'shift+C' to disable."
+    new "لتعطيله Shift + C تم تفعيل وضع النسخ التلقائي لسجل النسخ، إضغط زر "
 
     # renpy/common/00preferences.rpy:549
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
+    new "صوت الآلة سيقول \"[renpy.display.tts.last]\". للتعطيل إضغط alt+shift+v"
+
 
     # renpy/common/00preferences.rpy:551
     old "Self-voicing enabled. Press 'v' to disable."
-    new "Self-voicing enabled. Press 'v' to disable."
+    new "تم تفعيل صوت الآلة، إضغط على 'ر' لتعطيله"
 
     # renpy/common/_compat/gamemenu.rpym:198
     old "Empty Slot."
-    new "Empty Slot."
+    new "فتحة فارغة"
 
     # renpy/common/_compat/gamemenu.rpym:355
     old "Previous"
-    new "Previous"
+    new "السابق"
 
     # renpy/common/_compat/gamemenu.rpym:362
     old "Next"
-    new "Next"
+    new "التالي"
 
     # renpy/common/_compat/preferences.rpym:428
     old "Joystick Mapping"
-    new "Joystick Mapping"
+    new "تعديل خيارات أداة التحكم"
 
     # renpy/common/_developer/developer.rpym:38
     old "Developer Menu"
-    new "Developer Menu"
+    new "قائمة المطور"
 
     # renpy/common/_developer/developer.rpym:43
     old "Interactive Director (D)"
-    new "Interactive Director (D)"
+    new "(D) وضع الإخراج التفاعلي "
 
     # renpy/common/_developer/developer.rpym:45
     old "Reload Game (Shift+R)"
@@ -900,15 +901,15 @@ translate arabic strings:
 
     # renpy/common/00gallery.rpy:615
     old "return"
-    new "return"
+    new "العودة"
 
     # renpy/common/00gltest.rpy:70
     old "Renderer"
-    new "Renderer"
+    new "طريقة العرض"
 
     # renpy/common/00gltest.rpy:74
     old "Automatically Choose"
-    new "Automatically Choose"
+    new "إختيار تلقائي"
 
     # renpy/common/00gltest.rpy:79
     old "Force Angle/DirectX Renderer"
@@ -924,27 +925,27 @@ translate arabic strings:
 
     # renpy/common/00gltest.rpy:93
     old "NPOT"
-    new "NPOT"
+    new "توفير الذاكرة العشوائية"
 
     # renpy/common/00gltest.rpy:97
     old "Enable"
-    new "Enable"
+    new "تفعيل"
 
     # renpy/common/00gltest.rpy:101
     old "Disable"
-    new "Disable"
+    new "تعطيل"
 
     # renpy/common/00gltest.rpy:131
     old "Powersave"
-    new "Powersave"
+    new "وضع حفظ الطاقة"
 
     # renpy/common/00gltest.rpy:145
     old "Framerate"
-    new "Framerate"
+    new "معدل الصور في كل ثانية"
 
     # renpy/common/00gltest.rpy:149
     old "Screen"
-    new "Screen"
+    new "على حسب الشاشة"
 
     # renpy/common/00gltest.rpy:153
     old "60"
@@ -956,59 +957,59 @@ translate arabic strings:
 
     # renpy/common/00gltest.rpy:163
     old "Tearing"
-    new "Tearing"
+    new "معالجة مشاكل معدل الصور تلقائياً"
 
     # renpy/common/00gltest.rpy:179
     old "Changes will take effect the next time this program is run."
-    new "Changes will take effect the next time this program is run."
+    new "سيتم تطبيق التغييرات بعد إعادة تشغيل اللعبة"
 
     # renpy/common/00gltest.rpy:213
     old "Performance Warning"
-    new "Performance Warning"
+    new "تحذيرات الأداء"
 
     # renpy/common/00gltest.rpy:218
     old "This computer is using software rendering."
-    new "This computer is using software rendering."
+    new "يستعمل هذا الحاسب  أداة العرض التلقائية"
 
     # renpy/common/00gltest.rpy:220
     old "This computer is not using shaders."
-    new "This computer is not using shaders."
+    new "لا يستعمل هذا الحاسب وضع التظليل"
 
     # renpy/common/00gltest.rpy:222
     old "This computer is displaying graphics slowly."
-    new "This computer is displaying graphics slowly."
+    new "يقوم هذا الحاسب بعرض الصور ببطئ"
 
     # renpy/common/00gltest.rpy:224
     old "This computer has a problem displaying graphics: [problem]."
-    new "This computer has a problem displaying graphics: [problem]."
+    new "[problem] مشكلة في تحميل الجرافيكس: " 
 
     # renpy/common/00gltest.rpy:229
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display. Updating DirectX could fix this problem."
-    new "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display. Updating DirectX could fix this problem."
+    new "قد يحل هذه المشكلة DirectX قد يكون كرت الشاشة غير محدثاً أو لا يعمل بطريقة صحيحة، قد يؤدي هذا إلى مشاكل في طريقة عرض اللعبة، تحديث"
 
     # renpy/common/00gltest.rpy:231
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
-    new "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
+    new "قد يكون كرت الشاشة غير محدثاً أو لا يعمل بطريقة صحيحة، قد يؤدي هذا إلى مشاكل في طريقة عرض اللعبة"
 
     # renpy/common/00gltest.rpy:236
     old "Update DirectX"
-    new "Update DirectX"
+    new "DirectX تحديث"
 
     # renpy/common/00gltest.rpy:242
     old "Continue, Show this warning again"
-    new "Continue, Show this warning again"
+    new "متابعة، أظهر هذا التحذير مجدداً"
 
     # renpy/common/00gltest.rpy:246
     old "Continue, Don't show warning again"
-    new "Continue, Don't show warning again"
+    new "متابعة، لا تظهر هذا التحذير مجدداً"
 
     # renpy/common/00gltest.rpy:264
     old "Updating DirectX."
-    new "Updating DirectX."
+    new "DirectX جاري تحديث"
 
     # renpy/common/00gltest.rpy:268
     old "DirectX web setup has been started. It may start minimized in the taskbar. Please follow the prompts to install DirectX."
-    new "DirectX web setup has been started. It may start minimized in the taskbar. Please follow the prompts to install DirectX."
+    new "قد يبدأ التحميل في الخلفية، يرجى المتابعة في تلك النافذة لإنهاء عملية التحميل DirectX web بدأ تحميل"
 
     # renpy/common/00gltest.rpy:272
     old "{b}Note:{/b} Microsoft's DirectX web setup program will, by default, install the Bing toolbar. If you do not want this toolbar, uncheck the appropriate box."
