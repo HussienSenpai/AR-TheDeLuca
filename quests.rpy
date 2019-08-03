@@ -204,5 +204,5 @@ translate arabic strings:
 
     # game/quests.rpy:241
     old "I need to ask Wilfred about his wine collection. Hopefully, he will lend me a bottle without too much of a hassle."
-    new "علي أن أسال ويلفريد عن مجموعة النبيذ خاصته، أأمل أنه سيعطيني قارورةً دون أن يتعبني."
+    new "علي أن أسال ويلفريد عن مجموعة النبيذ خاصته، آمل أن يعطيني قارورةً دون أن يتعبني."
 
