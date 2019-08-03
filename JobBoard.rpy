@@ -5,7 +5,7 @@ translate arabic strings:
     # game/JobBoard.rpy:18
     old "1. Missions"
     new "المهام"
-
+    
     # game/JobBoard.rpy:23
     old "2. Events"
     new "المناسبات"
