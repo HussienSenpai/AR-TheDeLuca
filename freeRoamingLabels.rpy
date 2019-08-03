@@ -1444,7 +1444,7 @@ translate arabic ludaily1_fad46e6e:
 translate arabic ludaily1_23e72d33:
 
     # lu "I promise you, we'll be there soon."
-lu "أعدك أننا سنصل قريباً"
+    lu "أعدك أننا سنصل قريباً"
 
 # game/freeRoamingLabels.rpy:637
 translate arabic ludaily1_839c3698:
