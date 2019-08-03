@@ -419,7 +419,7 @@ translate arabic strings:
     new "هل أنت متأكد من أنك تريد الخروج؟ "
 
     # renpy/common/00gui.rpy:376
-    old "Are you sure you want to return to the main menu?\This will lose unsaved progress"
+    old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
     new "هل أنت متأكد من رغبتك بالعودة للصفحة الرئيسية؟\nسيقوم هذا الأمر بحذف أي تقدم غير محفوظ"
 
     # renpy/common/00gui.rpy:377
@@ -649,35 +649,35 @@ translate arabic strings:
 
     # renpy/common/_developer/developer.rpym:45
     old "Reload Game (Shift+R)"
-    new "Reload Game (Shift+R)"
+    new "(Shift + R) تحديث اللعبة "
 
     # renpy/common/_developer/developer.rpym:47
     old "Console (Shift+O)"
-    new "Console (Shift+O)"
+    new "(Shift + O) سطر الأوامر "
 
     # renpy/common/_developer/developer.rpym:49
     old "Variable Viewer"
-    new "Variable Viewer"
+    new "سجل المتغيرات"
 
     # renpy/common/_developer/developer.rpym:51
     old "Image Location Picker"
-    new "Image Location Picker"
+    new "أماكن الصور"
 
     # renpy/common/_developer/developer.rpym:53
     old "Filename List"
-    new "Filename List"
+    new "لائحة أسامي الملفات"
 
     # renpy/common/_developer/developer.rpym:57
     old "Show Image Load Log (F4)"
-    new "Show Image Load Log (F4)"
+    new "(F4) إظهار سجل تحميل الصور "
 
     # renpy/common/_developer/developer.rpym:60
     old "Hide Image Load Log (F4)"
-    new "Hide Image Load Log (F4)"
+    new "(F4) إخفاء سجل تحميل الصور "
 
     # renpy/common/_developer/developer.rpym:63
     old "Image Attributes"
-    new "Image Attributes"
+    new "خصائص الصورة"
 
     # renpy/common/_developer/developer.rpym:90
     old "[name] [attributes] (hidden)"
@@ -689,43 +689,43 @@ translate arabic strings:
 
     # renpy/common/_developer/developer.rpym:143
     old "Nothing to inspect."
-    new "Nothing to inspect."
+    new "لا يوجد شيء للفحص"
 
     # renpy/common/_developer/developer.rpym:154
     old "Hide deleted"
-    new "Hide deleted"
+    new "إخفاء المحذوف"
 
     # renpy/common/_developer/developer.rpym:154
     old "Show deleted"
-    new "Show deleted"
+    new "إظهار المحذوف"
 
     # renpy/common/_developer/developer.rpym:278
     old "Return to the developer menu"
-    new "Return to the developer menu"
+    new "العودة إلى لوحة المطور"
 
     # renpy/common/_developer/developer.rpym:443
     old "Rectangle: %r"
-    new "Rectangle: %r"
+    new "%r مربع: "
 
     # renpy/common/_developer/developer.rpym:448
     old "Mouse position: %r"
-    new "Mouse position: %r"
+    new "%r موضع الفأرة: "
 
     # renpy/common/_developer/developer.rpym:453
     old "Right-click or escape to quit."
-    new "Right-click or escape to quit."
+    new "إضغط على زر الفأرة الأيمن للخروج"
 
     # renpy/common/_developer/developer.rpym:485
     old "Rectangle copied to clipboard."
-    new "Rectangle copied to clipboard."
+    new "تم نسخ المربح إلى سجل المنسوخات"
 
     # renpy/common/_developer/developer.rpym:488
     old "Position copied to clipboard."
-    new "Position copied to clipboard."
+    new "تم نسخ موضع الفأرة إلى سجل المنسوخات"
 
     # renpy/common/_developer/developer.rpym:507
     old "Type to filter: "
-    new "Type to filter: "
+    new "نوع الفلاتر: "
 
     # renpy/common/_developer/developer.rpym:635
     old "Textures: [tex_count] ([tex_size_mb:.1f] MB)"
@@ -749,11 +749,11 @@ translate arabic strings:
 
     # renpy/common/_developer/inspector.rpym:38
     old "Displayable Inspector"
-    new "Displayable Inspector"
+    new "فحص العناصر الظاهرة"
 
     # renpy/common/_developer/inspector.rpym:61
     old "Size"
-    new "Size"
+    new "الحجم"
 
     # renpy/common/_developer/inspector.rpym:65
     old "Style"
@@ -761,7 +761,7 @@ translate arabic strings:
 
     # renpy/common/_developer/inspector.rpym:71
     old "Location"
-    new "Location"
+    new "الموقع"
 
     # renpy/common/_developer/inspector.rpym:122
     old "Inspecting Styles of [displayable_name!q]"
@@ -793,39 +793,39 @@ translate arabic strings:
 
     # renpy/common/00iap.rpy:217
     old "Contacting App Store\nPlease Wait..."
-    new "Contacting App Store\nPlease Wait..."
+    new "جاري مراسلة تطبيق المتجر\nيرجى اللإنتظار..."
 
     # renpy/common/00updater.rpy:375
     old "The Ren'Py Updater is not supported on mobile devices."
-    new "The Ren'Py Updater is not supported on mobile devices."
+    new "برنامج التحديث غير مدعوم على الهواتف."
 
     # renpy/common/00updater.rpy:494
     old "An error is being simulated."
-    new "An error is being simulated."
+    new "جاري محاكاة الخطأ"
 
     # renpy/common/00updater.rpy:678
     old "Either this project does not support updating, or the update status file was deleted."
-    new "Either this project does not support updating, or the update status file was deleted."
+    new "إما أن اللعبة لا تدعم التحديث أو أن ملف التحديثات محذوف"
 
     # renpy/common/00updater.rpy:692
     old "This account does not have permission to perform an update."
-    new "This account does not have permission to perform an update."
+    new "لا تملك صلاحية إجراء التحديثات."
 
     # renpy/common/00updater.rpy:695
     old "This account does not have permission to write the update log."
-    new "This account does not have permission to write the update log."
+    new "لا تملك صلاحية الكتابة حتى سجل التحديثات"
 
     # renpy/common/00updater.rpy:722
     old "Could not verify update signature."
-    new "Could not verify update signature."
+    new "حصل خطأ في عملية التحقق من مصدر التحديث"
 
     # renpy/common/00updater.rpy:997
     old "The update file was not downloaded."
-    new "The update file was not downloaded."
+    new "لم يتم تحميل ملفات التحديث"
 
     # renpy/common/00updater.rpy:1015
     old "The update file does not have the correct digest - it may have been corrupted."
-    new "The update file does not have the correct digest - it may have been corrupted."
+    new "ملف التحديثات لا يبدو صالحا، قد يكون تم تخريبه من قبل مصدر خارجي"
 
     # renpy/common/00updater.rpy:1071
     old "While unpacking {}, unknown type {}."
@@ -833,55 +833,55 @@ translate arabic strings:
 
     # renpy/common/00updater.rpy:1439
     old "Updater"
-    new "Updater"
+    new "برنامج التحديث"
 
     # renpy/common/00updater.rpy:1446
     old "An error has occured:"
-    new "An error has occured:"
+    new "حصل خطأ:"
 
     # renpy/common/00updater.rpy:1448
     old "Checking for updates."
-    new "Checking for updates."
+    new "جاري التحقق من التحديثات"
 
     # renpy/common/00updater.rpy:1450
     old "This program is up to date."
-    new "This program is up to date."
+    new "البرنامج يجري على آخر تحديث"
 
     # renpy/common/00updater.rpy:1452
     old "[u.version] is available. Do you want to install it?"
-    new "[u.version] is available. Do you want to install it?"
+    new "توجد تحديث جديد ([u.version])، هل ترغب بتحميله؟"
 
     # renpy/common/00updater.rpy:1454
     old "Preparing to download the updates."
-    new "Preparing to download the updates."
+    new "جاري التجهيز لتحميل التحديثات"
 
     # renpy/common/00updater.rpy:1456
     old "Downloading the updates."
-    new "Downloading the updates."
+    new "جاري تحميل التحديثات"
 
     # renpy/common/00updater.rpy:1458
     old "Unpacking the updates."
-    new "Unpacking the updates."
+    new "جاري فك ضغط التحديثات"
 
     # renpy/common/00updater.rpy:1460
     old "Finishing up."
-    new "Finishing up."
+    new "جاري التثبيت."
 
     # renpy/common/00updater.rpy:1462
     old "The updates have been installed. The program will restart."
-    new "The updates have been installed. The program will restart."
+    new "تم التحديث، سيتم إعادة تشغيل البرنامج"
 
     # renpy/common/00updater.rpy:1464
     old "The updates have been installed."
-    new "The updates have been installed."
+    new "تم تثبيت التحديث"
 
     # renpy/common/00updater.rpy:1466
     old "The updates were cancelled."
-    new "The updates were cancelled."
+    new "تم إلغاء التحديث"
 
     # renpy/common/00updater.rpy:1481
     old "Proceed"
-    new "Proceed"
+    new "متابعة"
 
     # renpy/common/00gallery.rpy:592
     old "Image [index] of [count] locked."
@@ -889,15 +889,15 @@ translate arabic strings:
 
     # renpy/common/00gallery.rpy:612
     old "prev"
-    new "prev"
+    new "السابق"
 
     # renpy/common/00gallery.rpy:613
     old "next"
-    new "next"
+    new "التالي"
 
     # renpy/common/00gallery.rpy:614
     old "slideshow"
-    new "slideshow"
+    new "عرض الشرائح"
 
     # renpy/common/00gallery.rpy:615
     old "return"
@@ -1013,23 +1013,23 @@ translate arabic strings:
 
     # renpy/common/00gltest.rpy:272
     old "{b}Note:{/b} Microsoft's DirectX web setup program will, by default, install the Bing toolbar. If you do not want this toolbar, uncheck the appropriate box."
-    new "{b}Note:{/b} Microsoft's DirectX web setup program will, by default, install the Bing toolbar. If you do not want this toolbar, uncheck the appropriate box."
+    new "سيقوم البرنامج بتحميل شريط أدوات محرك بحث مايكروسوفت الإفتراضي، حدد الخيارات المناسبة في حال لم ترغب بهذا."
 
     # renpy/common/00gltest.rpy:276
     old "When setup finishes, please click below to restart this program."
-    new "When setup finishes, please click below to restart this program."
+    new "عند إنتهاء عملية التثبيت، يرجى الضغط على الزر أدناه حتى يتم إعادة تشغيل البرنامج"
 
     # renpy/common/00gltest.rpy:278
     old "Restart"
-    new "Restart"
+    new "إعادة التشغيل"
 
     # renpy/common/00gamepad.rpy:32
     old "Select Gamepad to Calibrate"
-    new "Select Gamepad to Calibrate"
+    new "إختر أداة التحكم"
 
     # renpy/common/00gamepad.rpy:35
     old "No Gamepads Available"
-    new "No Gamepads Available"
+    new "لا يوجد أي أدوات تحكم موصولة بالجهاز"
 
     # renpy/common/00gamepad.rpy:54
     old "Calibrating [name] ([i]/[total])"
@@ -1041,93 +1041,93 @@ translate arabic strings:
 
     # renpy/common/00gamepad.rpy:66
     old "Skip (A)"
-    new "Skip (A)"
+    new "(A) تخطي "
 
     # renpy/common/00gamepad.rpy:69
     old "Back (B)"
-    new "Back (B)"
+    new "(A) عودة "
 
     # renpy/common/_errorhandling.rpym:538
     old "Open"
-    new "Open"
+    new "إفتح"
 
     # renpy/common/_errorhandling.rpym:540
     old "Opens the traceback.txt file in a text editor."
-    new "Opens the traceback.txt file in a text editor."
+    new "فتح ملف الخطأ في محرر النصوص"
 
     # renpy/common/_errorhandling.rpym:542
     old "Copy BBCode"
-    new "Copy BBCode"
+    new "نسخ النص"
 
     # renpy/common/_errorhandling.rpym:544
     old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
+    new "نسخ سجل الخطأ إلى سجل المنسوخات بصيغة مناسبة للمنتديات"
 
     # renpy/common/_errorhandling.rpym:546
     old "Copy Markdown"
-    new "Copy Markdown"
+    new "نسخ السجل"
 
     # renpy/common/_errorhandling.rpym:548
     old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
-    new "Copies the traceback.txt file to the clipboard as Markdown for Discord."
+    new "نسخ سجل الخطأ إلى سجل المنسوخات بصيغة مناسبة لبرنامج ديسكورد"
 
     # renpy/common/_errorhandling.rpym:577
     old "An exception has occurred."
-    new "An exception has occurred."
+    new "حصل خطأ"
 
     # renpy/common/_errorhandling.rpym:597
     old "Rollback"
-    new "Rollback"
+    new "العودة"
 
     # renpy/common/_errorhandling.rpym:599
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
-    new "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
+    new "يقوم بالعودة إلى وقت سابق، بحيث يمكنك الحفظ أو إختيار خيار مختلف"
 
     # renpy/common/_errorhandling.rpym:602
     old "Ignore"
-    new "Ignore"
+    new "تجاهل"
 
     # renpy/common/_errorhandling.rpym:606
     old "Ignores the exception, allowing you to continue."
-    new "Ignores the exception, allowing you to continue."
+    new "تجاهل الخطأ"
 
     # renpy/common/_errorhandling.rpym:608
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
-    new "Ignores the exception, allowing you to continue. This often leads to additional errors."
+    new "تجاهل الخطأ، قد يؤدي هذا إلى مشاكل إضافية"
 
     # renpy/common/_errorhandling.rpym:612
     old "Reload"
-    new "Reload"
+    new "تحديث"
 
     # renpy/common/_errorhandling.rpym:614
     old "Reloads the game from disk, saving and restoring game state if possible."
-    new "Reloads the game from disk, saving and restoring game state if possible."
+    new "تحديث اللعبة من القرص الصلب، يقوم بحفظ أي تقدم إن كان هذا ممكناً"
 
     # renpy/common/_errorhandling.rpym:617
     old "Console"
-    new "Console"
+    new "سطر الأوامر"
 
     # renpy/common/_errorhandling.rpym:619
     old "Opens a console to allow debugging the problem."
-    new "Opens a console to allow debugging the problem."
+    new "فتح سطر الأوامر، يساعد في وضع المعالجة"
 
     # renpy/common/_errorhandling.rpym:629
     old "Quits the game."
-    new "Quits the game."
+    new "الخروج من اللعبة"
 
     # renpy/common/_errorhandling.rpym:653
     old "Parsing the script failed."
-    new "Parsing the script failed."
+    new "لم يستطع البرنامج معرفة الخطأ"
 
     # renpy/common/_errorhandling.rpym:679
     old "Opens the errors.txt file in a text editor."
-    new "Opens the errors.txt file in a text editor."
+    new "فتح ملف الخطأ بمحرر النصوص"
 
     # renpy/common/_errorhandling.rpym:683
     old "Copies the errors.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new "Copies the errors.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
+    new "نسخ سجل الخطأ إلى سجل المنسوخات بصيغة مناسبة للمنتديات"
 
     # renpy/common/_errorhandling.rpym:687
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
-    new "Copies the errors.txt file to the clipboard as Markdown for Discord."
+    new "نسخ سجل الخطأ إلى سجل المنسوخات بصيغة مناسبة لبرنامج ديسكورد"
 
