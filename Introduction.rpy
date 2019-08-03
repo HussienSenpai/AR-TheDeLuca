@@ -28,7 +28,7 @@ translate arabic introduction_801af4dc:
 translate arabic introduction_1236a344:
 
     # "Now for some damn unknown reason, I'm stuck in a {b}contract{/b} I have no control over."
-    "الخارج عن إرادتي {b} العقد {/b} والآن، لسبب لعين مجهول عني، أنا عالق في هذا"
+    "والأن، لسبب لعين مجهول عني، أنا عالق بعقد لا سلطة لي عليه"
 
 # game/Introduction.rpy:14
 translate arabic introduction_1e91ab49:
@@ -303,199 +303,199 @@ translate arabic introduction_5afdc25e:
 translate arabic introduction_98b51066:
 
     # "Probably where they do their criminal thingy kinds of stuff. God, please don't send me there..."
-    "Probably where they do their criminal thingy kinds of stuff. God, please don't send me there..."
+    "أنه المكان الذي يقومون فيه بمختلف الأعمال الإجرامية، أتوسل إليك يا رب، لا ترسلني هناك..."
 
 # game/Introduction.rpy:84
 translate arabic introduction_c85bab52:
 
     # wf "Follow me."
-    wf "Follow me."
+    wf "إتبعني"
 
 # game/Introduction.rpy:85
 translate arabic introduction_6d76b0ee:
 
     # wf "We will wait here, at the door entrance, and I shall introduce you to the people you will be serving."
-    wf "We will wait here, at the door entrance, and I shall introduce you to the people you will be serving."
+    wf "سننتظر هنا عند باب المدخل. سأعرفك على من ستخدمهم"
 
 # game/Introduction.rpy:86
 translate arabic introduction_c2512148:
 
     # "Great..."
-    "Great..."
+    "رائع..."
 
 # game/Introduction.rpy:87
 translate arabic introduction_c8706a73:
 
     # "Hmm...{w} This house is huge. I wonder how many people I have to 'serve'.{w=1.0}"
-    "Hmm...{w} This house is huge. I wonder how many people I have to 'serve'.{w=1.0}"
+    "همم، هذا منزل ضخم، أتساءل عن عدد الذين سأخدمهم..."
 
 # game/Introduction.rpy:88
 translate arabic introduction_084c689f:
 
     # pov "If I may ask, who exactly lives here?"
-    pov "If I may ask, who exactly lives here?"
+    pov "إذا سمحت لي أن أسال، من يسكن هنا؟"
 
 # game/Introduction.rpy:89
 translate arabic introduction_3b8c06c2:
 
     # wf "Certainly, the people living in this house are the two daughters of the boss, the son and his wife, and the boss of course."
-    wf "Certainly, the people living in this house are the two daughters of the boss, the son and his wife, and the boss of course."
+    wf "تستطيع السؤال طبعاً. يسكن هنا أبناء رئيس العائلة، بنتين ورجل مع زوجته، الرئيس بنفسه طبعاً.."
 
 # game/Introduction.rpy:90
 translate arabic introduction_af0a85c2:
 
     # wf "Ah, speaking of the members of the house, here comes one."
-    wf "Ah, speaking of the members of the house, here comes one."
+    wf "آه! بالحديث عن أفراد العائلة، ها قد أتت واحدة منهم."
 
 # game/Introduction.rpy:98
 translate arabic introduction_1cddd253:
 
     # wf "Gracie DeLuca, the youngest of the Deluca members and our town's very own princess."
-    wf "Gracie DeLuca, the youngest of the Deluca members and our town's very own princess."
+    wf "قرايسي ديلوكا، أصغر أبناء عائلة ديلوكا، أميرة المدينة المدللة."
 
 # game/Introduction.rpy:99
 translate arabic introduction_b7242597:
 
     # "Oh wow, she is stunning."
-    "Oh wow, she is stunning."
+    "واو! تبدو جميلة."
 
 # game/Introduction.rpy:100
 translate arabic introduction_81cf51b2:
 
     # wf "Hmm..?"
-    wf "Hmm..?"
+    wf "هممم..؟"
 
 # game/Introduction.rpy:101
 translate arabic introduction_6a8523e6:
 
     # "Dang, did he notice how I was looking at her...?"
-    "Dang, did he notice how I was looking at her...?"
+    "تباً، هل لاحظ نظراتي إليها؟"
 
 # game/Introduction.rpy:102
 translate arabic introduction_2f03d96e:
 
     # wf "Remember now, she is the one you are supposed to serve. So, whatever is on your mind right now, forget it."
-    wf "Remember now, she is the one you are supposed to serve. So, whatever is on your mind right now, forget it."
+    wf "تذكر، هذه أحد من عليك أن تخدمهم، انسى أياً ما كنت تفكر فيه."
 
 # game/Introduction.rpy:103
 translate arabic introduction_02ac6a17_1:
 
     # pov "Understood."
-    pov "Understood."
+    pov "مفهوم."
 
 # game/Introduction.rpy:104
 translate arabic introduction_cd44e23f:
 
     # wf "Lady Gracie, I want to introduce you to our newest employee- Mr. [povname]."
-    wf "Lady Gracie, I want to introduce you to our newest employee- Mr. [povname]."
+    wf "سيدة قرايسي، أعرفك بموظفنا الجديد، السيد [povname]."
 
 # game/Introduction.rpy:106
 translate arabic introduction_85a72104:
 
     # pov "Hello, I look forward to...{w} Being useful around here?{w=0.0}"
-    pov "Hello, I look forward to...{w} Being useful around here?{w=0.0}"
+    pov "مرحباً، أتطلع على أن.... أكون مفيداً هنا؟"
 
 # game/Introduction.rpy:107
 translate arabic introduction_b66ba85d:
 
     # "Hmmm... What the hell IS my role here? All I know is I'm forced to be here because of a contract."
-    "Hmmm... What the hell IS my role here? All I know is I'm forced to be here because of a contract."
+    "هممم، ما هي وظيفتي على أي حال؟ كل ما أعرفه أني مغصوب على العمل هنا بسبب العقد."
 
 # game/Introduction.rpy:108
 translate arabic introduction_d57d00cc:
 
     # gc "Welcome, it's very nice to see a new face around here."
-    gc "Welcome, it's very nice to see a new face around here."
+    gc "أهلاً! من الجميل رؤية وجوه جديدة هنا."
 
 # game/Introduction.rpy:109
 translate arabic introduction_4141dacc:
 
     # gc "I'm looking forward to you being useful! Even though I don't understand what that implies haha"
-    gc "I'm looking forward to you being useful! Even though I don't understand what that implies haha"
+    gc "وأنا أتطلع على أن تكون مفيدا! على الرغم من أني لا أفهم ما تعنيه هههه"
 
 # game/Introduction.rpy:110
 translate arabic introduction_57590a33:
 
     # pov "I'm sorry, I haven't really been told what my duties are yet."
-    pov "I'm sorry, I haven't really been told what my duties are yet."
+    pov "أنا آسف، لم يخبرني أحد عن وظيفتي بعد."
 
 # game/Introduction.rpy:111
 translate arabic introduction_91b2077f:
 
     # gc "Did they really not tell you what you're gonna be doing here? That's kind of funny, haha!"
-    gc "Did they really not tell you what you're gonna be doing here? That's kind of funny, haha!"
+    gc "فعلاً؟ هذا مضحك نوعاً ما هههههه"
 
 # game/Introduction.rpy:112
 translate arabic introduction_02bdc32e:
 
     # "Not really..."
-    "Not really..."
+    "ليس مضحكاً..."
 
 # game/Introduction.rpy:113
 translate arabic introduction_d25ba344:
 
     # gc "Well if you have any question you can always ask me and I'll be sure to do my best to help you in any way I can."
-    gc "Well if you have any question you can always ask me and I'll be sure to do my best to help you in any way I can."
+    gc "حسناً، إذا كان لديك أي سؤال تستطيع دائماً القدوم إلي، سأفعل ما بوسعي لمساعدتك."
 
 # game/Introduction.rpy:114
 translate arabic introduction_905fc05a:
 
     # "Didn't expect her to be this nice!"
-    "Didn't expect her to be this nice!"
+    "لم أتوقع أنها ستكون بهذه الطيبة!"
 
 # game/Introduction.rpy:115
 translate arabic introduction_aca1e73b:
 
     # gc "To be honest, I don't really know much about any work stuff. But I'll still try to help!"
-    gc "To be honest, I don't really know much about any work stuff. But I'll still try to help!"
+    gc "صراحةً أنا لا أعرف الكثير عن العمل هنا، لكني سأحاول المساعدة."
 
 # game/Introduction.rpy:116
 translate arabic introduction_05ec187c:
 
     # pov "Thank you very much."
-    pov "Thank you very much."
+    pov "شكراً جزيلاً."
 
 # game/Introduction.rpy:117
 translate arabic introduction_a828bf20:
 
     # pov "I actually have something-{nw}"
-    pov "I actually have something-{nw}"
+    pov "الصراحة، لدي{nw}"
 
 # game/Introduction.rpy:120
 translate arabic introduction_51d08855:
 
     # "What the hell...{w} She just left!{w=0.0}"
-    "What the hell...{w} She just left!{w=0.0}"
+    "ما هذا؟! لقد غادرت؟؟"
 
 # game/Introduction.rpy:121
 translate arabic introduction_70b68373:
 
     # "That's way too sudden!"
-    "That's way too sudden!"
+    "كان هذا مفاجئاً "
 
 # game/Introduction.rpy:122
 translate arabic introduction_b0e9c841:
 
     # wf "*Ahem*."
-    wf "*Ahem*."
+    wf "*نحنحة*"
 
 # game/Introduction.rpy:123
 translate arabic introduction_b47cacef:
 
     # wf "Our dear Gracie, unfortunately, has some...{w} social issues that need to be worked on.{w=0.0}"
-    wf "Our dear Gracie, unfortunately, has some...{w} social issues that need to be worked on.{w=0.0}"
+    wf "جميلتنا قرايسي، للأسف... لديها بعض المشاكل في التواصل."
 
 # game/Introduction.rpy:124
 translate arabic introduction_6af00bf6:
 
     # "Well, that's an understatement. Who leaves in the middle of a conversation!"
-    "Well, that's an understatement. Who leaves in the middle of a conversation!"
+    "هذا تصغير للأمر، لقد غادرت في منتصف المحادثة!"
 
 # game/Introduction.rpy:125
 translate arabic introduction_86e4ede3:
 
     # "But my God... She was beautiful."
-    "But my God... She was beautiful."
+    "ولكن يا إلهي كم كانت جميلة"
 
 # game/Introduction.rpy:126
 translate arabic introduction_93923469:
@@ -507,295 +507,295 @@ translate arabic introduction_93923469:
 translate arabic introduction_c8c0a804:
 
     # "{b}*One hour later*{/b}"
-    "{b}*One hour later*{/b}"
+    "{b}*بعد مرور ساعة*{/b}"
 
 # game/Introduction.rpy:134
 translate arabic introduction_39cf3edd:
 
     # "Is this the other daughter?"
-    "Is this the other daughter?"
+    "هل هذه الإبنة الثانية؟"
 
 # game/Introduction.rpy:135
 translate arabic introduction_8ef62e36:
 
     # "Can't be? She looks so different, and certainly not as graceful."
-    "Can't be? She looks so different, and certainly not as graceful."
+    "معقول؟ تبدو مختلفة جداً عن أختها، وليست بنفس المظهر حتى."
 
 # game/Introduction.rpy:136
 translate arabic introduction_c1be3f21:
 
     # wf "Luna Deluca, a beautiful woman with a heart of gold, the eldest daughter of this wonderful place."
-    wf "Luna Deluca, a beautiful woman with a heart of gold, the eldest daughter of this wonderful place."
+    wf "لونا ديلوكا، إمرأة جميلة بقلب من ذهب، أكبر بنات العائلة."
 
 # game/Introduction.rpy:137
 translate arabic introduction_ede2e318:
 
     # pov "Are she and Lady Gracie really related by blood?"
-    pov "Are she and Lady Gracie really related by blood?"
+    pov "هل هي والسيدة قرايسي قريبتان فعلاً؟"
 
 # game/Introduction.rpy:138
 translate arabic introduction_e07e9b97:
 
     # wf "Of course, they are! What a rude thing to ask."
-    wf "Of course, they are! What a rude thing to ask."
+    wf "بالطبع! ما هذا السؤال الوقح؟"
 
 # game/Introduction.rpy:139
 translate arabic introduction_0118bed6:
 
     # pov "I didn't mean to be rude, however, you must admit they look nothing alike."
-    pov "I didn't mean to be rude, however, you must admit they look nothing alike."
+    pov "لم أقصد أن أكون وقحاً، ولكن عليك أن تعترف بأنهما غير متشابهتان أبداً."
 
 # game/Introduction.rpy:140
 translate arabic introduction_f23cc077:
 
     # wf "Is that so?"
-    wf "Is that so?"
+    wf "حقاً؟"
 
 # game/Introduction.rpy:141
 translate arabic introduction_912b578e:
 
     # "Oh, he is actually thinking about this now. How can he even think they look like sisters..."
-    "Oh, he is actually thinking about this now. How can he even think they look like sisters..."
+    "يبدو أنه بدأ يفكر بالأمر، كيف من الممكن أن يعتقدم بأنهما متشابهتان حتى؟"
 
 # game/Introduction.rpy:142
 translate arabic introduction_c66ef9b5:
 
     # wf "Aha."
-    wf "Aha."
+    wf "أها."
 
 # game/Introduction.rpy:143
 translate arabic introduction_eeb83adf:
 
     # "Finally."
-    "Finally."
+    "أخيراً."
 
 # game/Introduction.rpy:144
 translate arabic introduction_c82dd064:
 
     # wf "No, I do not see it. They look identical."
-    wf "No, I do not see it. They look identical."
+    wf "لا، لا أرى الفرق" 
 
 # game/Introduction.rpy:145
 translate arabic introduction_dd87c43a:
 
     # "I give up..."
-    "I give up..."
+    "أنا أستسلم."
 
 # game/Introduction.rpy:146
 translate arabic introduction_17d9a84b:
 
     # wf "Well, enough with this nonsense. Here she comes, you best behave."
-    wf "Well, enough with this nonsense. Here she comes, you best behave."
+    wf "حسناً، كفى من هذا الهراء، أنها قادمة، من الأفضل أن تتصرف بإحترام."
 
 # game/Introduction.rpy:147
 translate arabic introduction_07862331:
 
     # wf "Lady Luna, how did your job go?"
-    wf "Lady Luna, how did your job go?"
+    wf "سيدة لونا، كيف كانت مهمتك؟"
 
 # game/Introduction.rpy:148
 translate arabic introduction_963a232f:
 
     # lu "I got it done."
-    lu "I got it done."
+    lu "أتتمتها."
 
 # game/Introduction.rpy:149
 translate arabic introduction_7222d198:
 
     # wf "As expected, now I would like to introduce you to our new employee- Mr. [povname]."
-    wf "As expected, now I would like to introduce you to our new employee- Mr. [povname]."
+    wf "كالمتوقع سيدتي. أرغب بتعريفك بموظفنا الجديد، السيد [povname]."
 
 # game/Introduction.rpy:151
 translate arabic introduction_8d63104c:
 
     # "Uhm..."
-    "Uhm..."
+    "امم..."
 
 # game/Introduction.rpy:152
 translate arabic introduction_85e14092:
 
     # lu "Hmm..."
-    lu "Hmm..."
+    lu "هممم..."
 
 # game/Introduction.rpy:153
 translate arabic introduction_bae46d4f:
 
     # pov "Hello?"
-    pov "Hello?"
+    pov "مرحباً؟"
 
 # game/Introduction.rpy:154
 translate arabic introduction_f0d8b2a0:
 
     # lu "Hmmmm..."
-    lu "Hmmmm..."
+    lu "همممممم..."
 
 # game/Introduction.rpy:155
 translate arabic introduction_10e9e78c:
 
     # pov "Is there something wrong?"
-    pov "Is there something wrong?"
+    pov "هل هناك خطب ما؟"
 
 # game/Introduction.rpy:157
 translate arabic introduction_f810168a:
 
     # lu "I'm pretty sure I killed you. Why're you alive?"
-    lu "I'm pretty sure I killed you. Why're you alive?"
+    lu "أنا شبه واثقة أني قمت بقتلك، لما أنت حي؟"
 
 # game/Introduction.rpy:159
 translate arabic introduction_fdffba77:
 
     # pov "Excuse me!?"
-    pov "Excuse me!?"
+    pov "عفواً؟!"
 
 # game/Introduction.rpy:160
 translate arabic introduction_d794d7bb:
 
     # lu "So, how are you alive?"
-    lu "So, how are you alive?"
+    lu "كيف ما تزال حياً؟"
 
 # game/Introduction.rpy:161
 translate arabic introduction_72986340:
 
     # wf "Luna, you have mistaken him for another. This is our newest member. The one with the contract."
-    wf "Luna, you have mistaken him for another. This is our newest member. The one with the contract."
+    wf "لونا، أنك تشبهينه بشخص آخر، هذا العضو الجديد، صاحب العقد."
 
 # game/Introduction.rpy:162
 translate arabic introduction_52e092ee:
 
     # lu "Why haven't I heard anything about a guy with a contract? Also, what's so special about this contract?"
-    lu "Why haven't I heard anything about a guy with a contract? Also, what's so special about this contract?"
+    lu "ولما لم أسمع به من قبل؟ ما المميز بهذا العقد؟"
 
 # game/Introduction.rpy:163
 translate arabic introduction_c68b6116:
 
     # wf "We have already told you about this. A couple of times now."
-    wf "We have already told you about this. A couple of times now."
+    wf "لقد أخبرناك به عدة مرات سيدتي."
 
 # game/Introduction.rpy:164
 translate arabic introduction_914bf534:
 
     # lu "You're really sure?"
-    lu "You're really sure?"
+    lu "هل أنت واقف من هذا؟"
 
 # game/Introduction.rpy:165
 translate arabic introduction_830d08cd:
 
     # wf "Of course I am sure."
-    wf "Of course I am sure."
+    wf "بالطبع أنا واثق."
 
 # game/Introduction.rpy:166
 translate arabic introduction_cb761f2b:
 
     # lu "Like, as sure as being able to stick your head into a bucket filled with water and not worrying that it gets stuck, kinda sure?"
-    lu "Like, as sure as being able to stick your head into a bucket filled with water and not worrying that it gets stuck, kinda sure?"
+    lu "واثق كدرجة ثقتك بأن تدخل رأسك في دلو مليء بالماء بدون أن تخاف من أن يكون مغلقاً؟"
 
 # game/Introduction.rpy:167
 translate arabic introduction_e5dca50e:
 
     # wf "Yes."
-    wf "Yes."
+    wf "نعم."
 
 # game/Introduction.rpy:168
 translate arabic introduction_2f3a1878:
 
     # "Eh..?"
-    "Eh..?"
+    "؟؟؟؟"
 
 # game/Introduction.rpy:171
 translate arabic introduction_8b4d4392:
 
     # lu "Is that so? Ahahahaha, that's so crazy! You look like the dead guy, he could even be your brother!! Well, before he died anyway."
-    lu "Is that so? Ahahahaha, that's so crazy! You look like the dead guy, he could even be your brother!! Well, before he died anyway."
+    lu "حقاً؟ هههههههه، هذا لا يصدق! تبدو كالرجل الميت تماماً، قد يكون أخاك حتى!! قبل أن يموت على أي حال."
 
 # game/Introduction.rpy:172
 translate arabic introduction_4df9bf3d:
 
     # lu "Or after? I'm not sure now."
-    lu "Or after? I'm not sure now."
+    lu "أو بعد أن مات؟ لقد نسيت.."
 
 # game/Introduction.rpy:174
 translate arabic introduction_b90152a8:
 
     # lu "Wait, was it your brother? Did I kill your brother?"
-    lu "Wait, was it your brother? Did I kill your brother?"
+    lu "لحظة، هل كان أخاك؟ هل قتلت أخاك؟"
 
 # game/Introduction.rpy:175
 translate arabic introduction_daca90b9:
 
     # pov "I'm sure it wasn't. I don't have any brothers as far as I'm aware."
-    pov "I'm sure it wasn't. I don't have any brothers as far as I'm aware."
+    pov "أنا واثق من أنك لم تفعلي هذا، ليس لدي أي أخوان على حد علمي."
 
 # game/Introduction.rpy:177
 translate arabic introduction_c91f604a:
 
     # lu "Phew, I almost made this such a weird situation!"
-    lu "Phew, I almost made this such a weird situation!"
+    lu "اوه، كدت أن أجعل الموقف غريباً تماماً!"
 
 # game/Introduction.rpy:178
 translate arabic introduction_d6f29c9e:
 
     # "Already is..."
-    "Already is..."
+    "أنه غريب بالفعل..."
 
 # game/Introduction.rpy:179
 translate arabic introduction_1d042e3b:
 
     # lu "But... Imagine if it was actually your brother. Then you'd be like;"
-    lu "But... Imagine if it was actually your brother. Then you'd be like;"
+    lu "تخيل أنه أخوك، سأبدأ ستحصل أجمل تمثيلية على الإطلاق، ستقول"
 
 # game/Introduction.rpy:181
 translate arabic introduction_4bda1535:
 
     # lu "'Nuuurh why you kill ma brothaaa', and I'd be like, 'It wasn't me, you got it all wrong!'"
-    lu "'Nuuurh why you kill ma brothaaa', and I'd be like, 'It wasn't me, you got it all wrong!'"
+    lu "'لاااا! لماذا قتلتي أخاي!!!!' ثم سأقول لك 'لم أكن أنا! لقد أسأت فهم الموضوع'"
 
 # game/Introduction.rpy:182
 translate arabic introduction_bc6ac3df:
 
     # lu "'I'm shocked you ever could think it was me! Does our friendship means nothing to you!?'"
-    lu "'I'm shocked you ever could think it was me! Does our friendship means nothing to you!?'"
+    lu "'كيف لك أن تظن هذا؟؟ ألا تعني لك صداقتنا شيئاً؟؟'"
 
 # game/Introduction.rpy:183
 translate arabic introduction_ead3e3b9:
 
     # "What is she even talking about?"
-    "What is she even talking about?"
+    "ما الذي تتحدث عنه؟"
 
 # game/Introduction.rpy:184
 translate arabic introduction_fd62a78f:
 
     # lu "And then we would have had to fight to the death."
-    lu "And then we would have had to fight to the death."
+    lu "ثم سنضطر أن نتقاتل حتى الموت."
 
 # game/Introduction.rpy:185
 translate arabic introduction_ddfb2061:
 
     # pov "...Glad that it didn't end up like that."
-    pov "...Glad that it didn't end up like that."
+    pov "سعيد بأن هذا لن يحصل."
 
 # game/Introduction.rpy:187
 translate arabic introduction_2037b912:
 
     # lu "Yeah Same!"
-    lu "Yeah Same!"
+    lu "حتى أنا!"
 
 # game/Introduction.rpy:188
 translate arabic introduction_80403b24:
 
     # lu "Anyways, good to meet ya."
-    lu "Anyways, good to meet ya."
+    lu "على أي حال، كان من الجيد مقابلتك."
 
 # game/Introduction.rpy:189
 translate arabic introduction_cf788c55:
 
     # lu "Bye."
-    lu "Bye."
+    lu "وداعاً."
 
 # game/Introduction.rpy:190
 translate arabic introduction_f6910d8f:
 
     # pov "Bye..."
-    pov "Bye..."
+    pov "وداعاً..."
 
 # game/Introduction.rpy:191
 translate arabic introduction_c3ca3180_1:
@@ -807,73 +807,73 @@ translate arabic introduction_c3ca3180_1:
 translate arabic introduction_a1f230da:
 
     # wf "Our dear Luna can sometimes be a bit... {w}Eccentric.{w=0}"
-    wf "Our dear Luna can sometimes be a bit... {w}Eccentric.{w=0}"
+    wf "عزيزتنا لونا قد تكون... غريبة، في بعض الأحيان."
 
 # game/Introduction.rpy:194
 translate arabic introduction_b8999abf:
 
     # "There is no doubt in my mind. She is crazy..."
-    "There is no doubt in my mind. She is crazy..."
+    "أشك أنها مجنونة..."
 
 # game/Introduction.rpy:195
 translate arabic introduction_75bb95b5:
 
     # wf "In the past, there have been employees who called her some rather 'unpleasant words'."
-    wf "In the past, there have been employees who called her some rather 'unpleasant words'."
+    wf "قال بعض الموظفين عنها كلمات، غير لائقة في الماضي"
 
 # game/Introduction.rpy:196
 translate arabic introduction_821b3215:
 
     # pov "What did they say?"
-    pov "What did they say?"
+    pov "ماذا قالوا؟"
 
 # game/Introduction.rpy:197
 translate arabic introduction_90e6387f:
 
     # wf "Some nonsense about her mental state."
-    wf "Some nonsense about her mental state."
+    wf "كلام تافه عن صحتها النفسية."
 
 # game/Introduction.rpy:198
 translate arabic introduction_1cc2a9fd:
 
     # "Is he a mind reader...?"
-    "Is he a mind reader...?"
+    "هل يقرأ أفكاري..؟"
 
 # game/Introduction.rpy:199
 translate arabic introduction_7a45329c:
 
     # pov "Oh... What happened to them?"
-    pov "Oh... What happened to them?"
+    pov "أوه... ماذا حصل لهم؟"
 
 # game/Introduction.rpy:200
 translate arabic introduction_754501fe:
 
     # wf "They went missing."
-    wf "They went missing."
+    wf "إختفوا."
 
 # game/Introduction.rpy:201
 translate arabic introduction_1257ec6e:
 
     # pov "Missing? Don't tell me...{w=0} Did you guys, {w} Uhm...{w=0}"
-    pov "Missing? Don't tell me...{w=0} Did you guys, {w} Uhm...{w=0}"
+    pov "إختفوا، لا تقل لي بأنكم... احم..."
 
 # game/Introduction.rpy:202
 translate arabic introduction_85857614:
 
     # wf "Have anything to do with their disappearance? No, of course not."
-    wf "Have anything to do with their disappearance? No, of course not."
+    wf "بأن لنا علاقة بإختفاءهم؟ لا طبعاً."
 
 # game/Introduction.rpy:203
 translate arabic introduction_190c886a:
 
     # "Yeah, they wouldn't hurt their own people.{w} I hope...{w=0}"
-    "Yeah, they wouldn't hurt their own people.{w} I hope...{w=0}"
+    "نعم، لن يؤذوا جماعتهم... أأمل هذا على الأقل."
 
 # game/Introduction.rpy:204
 translate arabic introduction_0b503c9d:
 
     # wf "But Luna did."
-    wf "But Luna did."
+    wf "ولكن لونا كان لها علاقة."
 
 # game/Introduction.rpy:205
 translate arabic introduction_c3ca3180_2:
@@ -885,223 +885,223 @@ translate arabic introduction_c3ca3180_2:
 translate arabic introduction_d398d166:
 
     # wf "Well enough of that. Let us go inside for now."
-    wf "Well enough of that. Let us go inside for now."
+    wf "كفى من هذا، فلنذهب إلى الداخل."
 
 # game/Introduction.rpy:210
 translate arabic introduction_d178d1b2:
 
     # wf "Hello, sir."
-    wf "Hello, sir."
+    wf "مرحباً سيدي."
 
 # game/Introduction.rpy:211
 translate arabic introduction_f647e059:
 
     # wf "Ma'am."
-    wf "Ma'am."
+    wf "سيدتي."
 
 # game/Introduction.rpy:212
 translate arabic introduction_7c3f1221:
 
     # "Oh, she is definitely not bad looking."
-    "Oh, she is definitely not bad looking."
+    "أوه، لا تبدو سيئةً أبداً."
 
 # game/Introduction.rpy:215
 translate arabic introduction_296d46f6:
 
     # "I got to stop thinking like that! In a place like this, it will only get me killed."
-    "I got to stop thinking like that! In a place like this, it will only get me killed."
+    "علي أن أتوقف عن هذا التفكير، سيقتلني شيء كهذا في هذا المكان"
 
 # game/Introduction.rpy:216
 translate arabic introduction_dd008a71:
 
     # an "Uncle Wilfred. How are you?"
-    an "Uncle Wilfred. How are you?"
+    an "عم ويلفريد، كيف حالك؟"
 
 # game/Introduction.rpy:217
 translate arabic introduction_c9d54bda:
 
     # "Uncle?"
-    "Uncle?"
+    "عمه؟"
 
 # game/Introduction.rpy:218
 translate arabic introduction_15318f2d:
 
     # wf "I'm well, thank you."
-    wf "I'm well, thank you."
+    wf "أنا بخير، شكراً لك."
 
 # game/Introduction.rpy:219
 translate arabic introduction_4186b756:
 
     # wf "This gentlman is Antonio DeLuca, eldest son and the Capo Bastone of the family. Mr. DeLuca, may I present our newest employee- Mr. [povname]"
-    wf "This gentlman is Antonio DeLuca, eldest son and the Capo Bastone of the family. Mr. DeLuca, may I present our newest employee- Mr. [povname]"
+    wf "هذا النبيل هو أنطونيو ديلوكا، أكبر أبناء العائلة، خليفة الرئاسة. سيد أنطونيو، أعرفك بموظفنا الجديد، السيد [povname]"
 
 # game/Introduction.rpy:220
 translate arabic introduction_4145082a:
 
     # "Capo Bastone? I'm pretty sure that's the Underboss. Well, not a big surprise considering he IS the eldest son."
-    "Capo Bastone? I'm pretty sure that's the Underboss. Well, not a big surprise considering he IS the eldest son."
+    "خليفة الرئاسة؟ هذا ليس مفاجئاً بما أنه الأبن الأكبر"
 
 # game/Introduction.rpy:221
 translate arabic introduction_bff431e0:
 
     # an "Welcome my friend, I can understand if you're frustrated about the situation you were put in. It is not an easy thing to suddenly be under a contract such as this."
-    an "Welcome my friend, I can understand if you're frustrated about the situation you were put in. It is not an easy thing to suddenly be under a contract such as this."
+    an "أهلاً صديقي، أتفهم غضبك من الموقف الذي أنت فيه. وقوعك تحت عقد كهذا لا يعد أمراً سهلاً."
 
 # game/Introduction.rpy:222
 translate arabic introduction_10588203:
 
     # an "But, you don't have to worry. You will not be forced into anything you feel uncomfortable with, I'll personally make sure of that."
-    an "But, you don't have to worry. You will not be forced into anything you feel uncomfortable with, I'll personally make sure of that."
+    an "ولكن لا تقلق، لن يجبرك أي أحد بالعائلة على فعل أي شيء. سأحرص على هذا بنفسي."
 
 # game/Introduction.rpy:223
 translate arabic introduction_e9f465f5:
 
     # pov "Thank you, sir."
-    pov "Thank you, sir."
+    pov "شكراً لك، سيدي."
 
 # game/Introduction.rpy:224
 translate arabic introduction_fbe4aec7:
 
     # "Finally a normal person and a nice one too. Not my expectations of someone who is an underboss of a criminal family."
-    "Finally a normal person and a nice one too. Not my expectations of someone who is an underboss of a criminal family."
+    "أخيراً، إنسان طبيعي وطيب أيضاً، لم أتخيل أن خليف الرئاسة في عائلة مافيا قد يكون بهذا الأسلوب."
 
 # game/Introduction.rpy:225
 translate arabic introduction_233498c1:
 
     # wf "And the beautiful and lovely lady there is sirs very own wife, Isabel DeLuca."
-    wf "And the beautiful and lovely lady there is sirs very own wife, Isabel DeLuca."
+    wf "وهذه السيدة الجميلة والمحوبة هي زوجة السيد أنطونيو خصيصاً، السيدة إيزابيل ديلوكا"
 
 # game/Introduction.rpy:226
 translate arabic introduction_43e122c0:
 
     # isa "Welcome."
-    isa "Welcome."
+    isa "حللت أهلاً."
 
 # game/Introduction.rpy:227
 translate arabic introduction_e8f241d8:
 
     # pov "Thank you, ma'am."
-    pov "Thank you, ma'am."
+    pov "شكراً سيدتي.
 
 # game/Introduction.rpy:228
 translate arabic introduction_422f1144:
 
     # an "Where is Joey? Wasn't it him who had the pickup duty of our new friend here? I'm pretty sure I assigned that duty to him."
-    an "Where is Joey? Wasn't it him who had the pickup duty of our new friend here? I'm pretty sure I assigned that duty to him."
+    an "أين جوي؟ ألم يتحمل مسؤولية توصيل شريكنا الجديد بنفسه؟ أنا واثق من أني عينت المهمة له."
 
 # game/Introduction.rpy:229
 translate arabic introduction_a0471d06:
 
     # wf "Joey was sick, so I personally handled it."
-    wf "Joey was sick, so I personally handled it."
+    wf "جوي كان مريضاً، فتعاملت مع الموضوع بنهفسي."
 
 # game/Introduction.rpy:231
 translate arabic introduction_1d881875:
 
     # an "What? You the Consigliere, that duty is below you Uncle. You should have simply told me and I would have used one of our other guys."
-    an "What? You the Consigliere, that duty is below you Uncle. You should have simply told me and I would have used one of our other guys."
+    an "ماذا؟! أنت مستشار العائلة، مهمة كهذه ليست بمستواك يا عمي. لو أنك قلت لكلفت أحد الآخرين بالمهمة."
 
 # game/Introduction.rpy:232
 translate arabic introduction_3951625a:
 
     # "Wait... The Consigliere? Isn't that the 'right hand' of the boss himself? Why did he tell me to not call him 'sir' then? The Consigliere is one of the highest ranking members. Only the Boss and Underboss are above!"
-    "Wait... The Consigliere? Isn't that the 'right hand' of the boss himself? Why did he tell me to not call him 'sir' then? The Consigliere is one of the highest ranking members. Only the Boss and Underboss are above!"
+    "لحظة... المستشار؟ ألا يعد هذا اليد اليمنى للرئيس بنفسه؟ لما طلب مني أن لا أناديه بالسيد إذاً؟ المستشار يعد أحد أعلى الرتب، الرئيس والخليفة هم فقط من يعلونه."
 
 # game/Introduction.rpy:233
 translate arabic introduction_9f4f01b4:
 
     # wf "Hmm..."
-    wf "Hmm..."
+    wf "هممم.."
 
 # game/Introduction.rpy:234
 translate arabic introduction_b2476449:
 
     # an "Uncle?"
-    an "Uncle?"
+    an "عمي؟"
 
 # game/Introduction.rpy:235
 translate arabic introduction_aa225839:
 
     # wf "It is fine. It was no trouble."
-    wf "It is fine. It was no trouble."
+    wf "لا مشكلة، لم يكن الأمر متعباً."
 
 # game/Introduction.rpy:236
 translate arabic introduction_a957ab1a:
 
     # an "[povname], I can only imagine the frustration of the driving experience you must have gone through with Uncle Wilfred's driving."
-    an "[povname], I can only imagine the frustration of the driving experience you must have gone through with Uncle Wilfred's driving."
+    an "حسناً يا [povname]، لا أستطيع إلا أن أتخيل معاناتك من قيادة العم ويلفريد"
 
 # game/Introduction.rpy:237
 translate arabic introduction_d471b1ab:
 
     # "Well, it kind of saved us- so I can't complain too much about it."
-    "Well, it kind of saved us- so I can't complain too much about it."
+    "ههه، لقد أنقذتنا نوعاً ما، لذا لا أستطيع التذمر."
 
 # game/Introduction.rpy:238
 translate arabic introduction_ef0f6a58:
 
     # an "But when did Joey become sick? I had no knowledge of this."
-    an "But when did Joey become sick? I had no knowledge of this."
+    an "ولكن متى مرض جوني؟ لم يخبرني أحد عن هذا."
 
 # game/Introduction.rpy:239
 translate arabic introduction_5fb56799:
 
     # wf "Hmm... I just assumed he was sick, due to him not answering."
-    wf "Hmm... I just assumed he was sick, due to him not answering."
+    wf "لا أعلم، لقد افترضت أن هرميض لأنه لم يرد."
 
 # game/Introduction.rpy:240
 translate arabic introduction_a202d5f2:
 
     # wf "Now that I think about it, did he not die on a mission a while ago?"
-    wf "Now that I think about it, did he not die on a mission a while ago?"
+    wf "عندما أفكر بالأمر، ألم يمت في مهمة قبل فترة؟"
 
 # game/Introduction.rpy:241
 translate arabic introduction_f4cbb5ce:
 
     # an "Oh yeah, that's right 'Forgettable Joey'. For some reason, we always tend to forget about him. Poor Joey, may you rest in peace."
-    an "Oh yeah, that's right 'Forgettable Joey'. For some reason, we always tend to forget about him. Poor Joey, may you rest in peace."
+    an "أوه نعم هذا صحيح! 'جوي المنسي'، لسبب ما، دائماً ما ننساه. المسكين جوي، فلترقد روحه بسلام."
 
 # game/Introduction.rpy:242
 translate arabic introduction_10e7634c:
 
     # wf "Poor Joey."
-    wf "Poor Joey."
+    wf "مسكينٌ جوي."
 
 # game/Introduction.rpy:243
 translate arabic introduction_50d52b61:
 
     # isa "Poor Joey."
-    isa "Poor Joey."
+    isa "مسكين."
 
 # game/Introduction.rpy:244
 translate arabic introduction_1ced9668:
 
     # "They are acting way too calm considering one of their guys just died..."
-    "They are acting way too calm considering one of their guys just died..."
+    "أنهم يتصرفون بهدوء شديد بإعتبار أن شخص منهم قد مات."
 
 # game/Introduction.rpy:245
 translate arabic introduction_1339e1a2:
 
     # "Joey. I may not have known you, but I promise you I at least won't forget you."
-    "Joey. I may not have known you, but I promise you I at least won't forget you."
+    "جوي، قد لا أكون أعرفك، لكني أعدك بأني لن أنساك."
 
 # game/Introduction.rpy:247
 translate arabic introduction_d2426aeb:
 
     # an "Well, I don't mean to cut our conversation short, I have some business to attend to. It's nice meeting you [povname]. You may find this weird considering how you ended up here, but I hope you will enjoy your stay."
-    an "Well, I don't mean to cut our conversation short, I have some business to attend to. It's nice meeting you [povname]. You may find this weird considering how you ended up here, but I hope you will enjoy your stay."
+    an "حسناً، لا أقصد بأن أنهي المحادثة، ولكن علي أن أقوم بعمل ما. من الجميل مقابلتك يا [povname]. قد تشعر بعدم الإرتياح نظراً لطريقة إرتباطك العمل، ولكني أتمنى أن تحظى بوقت جيد هنا."
 
 # game/Introduction.rpy:250
 translate arabic introduction_9f4f01b4_1:
 
     # wf "Hmm..."
-    wf "Hmm..."
+    wf "همم..."
 
 # game/Introduction.rpy:251
 translate arabic introduction_ce50c254:
 
     # pov "Anything wrong?"
-    pov "Anything wrong?"
+    pov "هل من مشكلة؟"
 
 # game/Introduction.rpy:252
 translate arabic introduction_93923469_1:
@@ -1113,55 +1113,55 @@ translate arabic introduction_93923469_1:
 translate arabic introduction_1bdcd01f_1:
 
     # wf "No."
-    wf "No."
+    wf "لا."
 
 # game/Introduction.rpy:254
 translate arabic introduction_2df27643:
 
     # wf "It is time for you to meet the Boss. Follow me this way."
-    wf "It is time for you to meet the Boss. Follow me this way."
+    wf "حان وقت مقابلتك للرئيس. إتبعني."
 
 # game/Introduction.rpy:257
 translate arabic introduction_f0ffce28:
 
     # wf "I must leave you here. Once you enter, remember to be on your best behaviour"
-    wf "I must leave you here. Once you enter, remember to be on your best behaviour"
+    wf "علي أن أنتظرك هنا. تذكر بأن تظهر بأفضل شكل."
 
 # game/Introduction.rpy:258
 translate arabic introduction_e4f7daca:
 
     # wf "That formal attitude of yours, 'this' is the time to use it."
-    wf "That formal attitude of yours, 'this' is the time to use it."
+    wf "أسلوبك المحترم، هذا وقته."
 
 # game/Introduction.rpy:259
 translate arabic introduction_02ac6a17_2:
 
     # pov "Understood."
-    pov "Understood."
+    pov "مفهوم"
 
 # game/Introduction.rpy:260
 translate arabic introduction_3a3a6181:
 
     # "{b}*Knock* *knock*{/b}"
-    "{b}*Knock* *knock*{/b}"
+    "{b}*ويلفريد يدق الباب*{/b}"
 
 # game/Introduction.rpy:261
 translate arabic introduction_c803da02:
 
     # cor "You may enter."
-    cor "You may enter."
+    cor "تستطيع الدخول."
 
 # game/Introduction.rpy:268
 translate arabic introduction_489dd466:
 
     # "A woman? I didn't even think it was allowed for the head of a mafia family to be a woman."
-    "A woman? I didn't even think it was allowed for the head of a mafia family to be a woman."
+    "إمرأة؟ لم أعلم بأن النساء قادرات على ترأس عوائل المافيا."
 
 # game/Introduction.rpy:269
 translate arabic introduction_b708d49a:
 
     # "And she doesn't really look old. Is she really the mother of the two girls I met today?"
-    "And she doesn't really look old. Is she really the mother of the two girls I met today?"
+    "ولا تبدو كبيرة أيضاً، هل هي هقاً أم البنتين التي قابلتهما قبل قليل؟"
 
 # game/Introduction.rpy:272
 translate arabic introduction_00ff00b4:
@@ -1173,7 +1173,7 @@ translate arabic introduction_00ff00b4:
 translate arabic introduction_50a09f8f:
 
     # "Why is she not saying anything?"
-    "Why is she not saying anything?"
+    "لماذا لا تتكلم؟"
 
 # game/Introduction.rpy:274
 translate arabic introduction_00ff00b4_1:
@@ -1185,19 +1185,19 @@ translate arabic introduction_00ff00b4_1:
 translate arabic introduction_8157955b:
 
     # "This is uncomfortable."
-    "This is uncomfortable."
+    "هذا غير مريح.."
 
 # game/Introduction.rpy:277
 translate arabic introduction_ec012af7:
 
     # "What should I do?"
-    "What should I do?"
+    "ماذا يجب أن أفعل؟"
 
 # game/Introduction.rpy:278
 translate arabic introduction_eae2a7ef:
 
     # "Should I say something, maybe?"
-    "Should I say something, maybe?"
+    "هل علي أن أقول شيئاً؟"
 
 # game/Introduction.rpy:279
 translate arabic introduction_00ff00b4_2:
@@ -1209,13 +1209,13 @@ translate arabic introduction_00ff00b4_2:
 translate arabic introduction_66e143d1:
 
     # cor "You..."
-    cor "You..."
+    cor "أنت..."
 
 # game/Introduction.rpy:282
 translate arabic introduction_f7a02860:
 
     # cor "Look like your father."
-    cor "Look like your father."
+    cor "تبدو كوالدك تماماً."
 
 # game/Introduction.rpy:283
 translate arabic introduction_8d3da643:
