@@ -2,6 +2,7 @@
 
 823 lines translated - introduction 40.27% (1123/2788)	
 437 lines translated - script 100% (437/437)
+77 lines translated - povRoom 100% (77/77)
 
 2/8
 
