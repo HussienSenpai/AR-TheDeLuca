@@ -1,3 +1,8 @@
+4/8
+
+399 lines translated - Job 100% (399/399)
+
+
 3/8
 
 823 lines translated - introduction 40.27% (1123/2788)	
@@ -7,6 +12,7 @@
 486 lines translated - common 100% (1134/1134)
 75 lines translated - inventory_screen 100% (75/75)
 207 lines translated - quest 100% (207/207)
+
 
 2/8
 
