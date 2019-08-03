@@ -4,6 +4,7 @@
 437 lines translated - script 100% (437/437)
 77 lines translated - povRoom 100% (77/77)
 203 lines translated - images 100% (203/203)
+486 lines translated - common 100% (1134/1134)
 
 2/8
 
