@@ -981,7 +981,7 @@ translate arabic introduction_43e122c0:
 translate arabic introduction_e8f241d8:
 
     # pov "Thank you, ma'am."
-    pov "شكراً سيدتي.
+    pov "شكراً سيدتي."
 
 # game/Introduction.rpy:228
 translate arabic introduction_422f1144:
