@@ -278,7 +278,7 @@ translate arabic strings:
 
     # game/HelpScreen.rpy:245
     old "A Bottle For A Bottle{color=#e2b785}{size=-9}\n -REQ. Story 3: The Punishment{/color}{/size}"
-    new "العين بالعين والنبيذ بالنبيذ{color=#e2b785}{size=-9}\nمطلوب: إتمام الجزء الثالث من القصة{/color}{/size}"
+    new "العين بالعين والنبيذ بالنبيذ{color=#e2b785}{size=-9}\n مطلوب: إتمام الجزء الثالث من القصة{/color}{/size}"
 
     # game/HelpScreen.rpy:247
     old "{color=#3fc635}A Bottle For A Bottle{/color}"
