@@ -60,7 +60,7 @@ translate arabic strings:
 
     # game/quests.rpy:76
     old "Find Gracie's 'gunned-down' jeans in her room when she is not around (Evening)"
-    new "إبحث عن بنطال قرايسي المقطع عندما تكون خارج غرفتها في المساء"
+    new "إبحث عن بنطال قرايسي الممزق عندما تكون خارج غرفتها في المساء"
 
     # game/quests.rpy:77
     old "Buy jeans via the laptop"
@@ -108,7 +108,7 @@ translate arabic strings:
 
     # game/quests.rpy:130
     old "Femme Fatale"
-    new "الجذابة القاتلة"
+    new "الفاتنة السفاحة"
 
     # game/quests.rpy:130
     old "I wonder what that was all about? I should check the hidden recorders."
@@ -206,3 +206,29 @@ translate arabic strings:
     old "I need to ask Wilfred about his wine collection. Hopefully, he will lend me a bottle without too much of a hassle."
     new "علي أن أسال ويلفريد عن مجموعة النبيذ خاصته، آمل أن يعطيني قارورةً دون أن يتعبني."
 
+    old "Wilfred"
+    new "ويلفريد"
+
+    old "Gracie"
+    new "قرايسي"
+
+    old "Luna"
+    new "لونا"
+
+    old "Antonio"
+    new "أنطونيو"
+
+    old "Isabel"
+    new "إيزابيل"
+
+    old "Cordia"
+    new "كورديا"
+
+    old "Associate"
+    new "مساعد"
+
+    old "Soldato"
+    new "مجند"
+
+    old "Elite Soldato"
+    new "جنود النخبة"
