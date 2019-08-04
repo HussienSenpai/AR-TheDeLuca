@@ -1,7 +1,7 @@
 4/8
 
 399 lines translated - Job 100% (399/399)
-
+285 lines translated - HelpScreen 100% (285/285)
 
 3/8
 
@@ -11,7 +11,7 @@
 203 lines translated - images 100% (203/203)
 486 lines translated - common 100% (1134/1134)
 75 lines translated - inventory_screen 100% (75/75)
-207 lines translated - quest 100% (207/207)
+207 lines translated - quests 100% (207/207)
 
 
 2/8
