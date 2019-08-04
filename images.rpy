@@ -4,7 +4,7 @@ translate arabic strings:
 
     # game/images.rpy:66
     old "crowbar"
-    new "عتلة"
+    new "crowbar"
 
     # game/images.rpy:66
     old "Crowbar (Wpn)"
@@ -16,7 +16,7 @@ translate arabic strings:
 
     # game/images.rpy:71
     old "spikeBat"
-    new "مضرب بدبابيس"
+    new "spikeBat"
 
     # game/images.rpy:71
     old "Spike Bat (Wpn)"
@@ -52,11 +52,11 @@ translate arabic strings:
 
     # game/images.rpy:89
     old "SoldatoStandard"
-    new "مسدس جنود المافيا"
+    new "SoldatoStandard"
 
     # game/images.rpy:89
     old "Soldato Standard (Wpn)"
-    new "مسدس الجنود (سلاح)"
+    new "مسدس المحندين (سلاح)"
 
     # game/images.rpy:89
     old "A Soldato favorite. Custom made for the DeLucas new soldiers."
@@ -64,7 +64,7 @@ translate arabic strings:
 
     # game/images.rpy:97
     old "kitchenKnife"
-    new "سكين مطبخ"
+    new "kitchenKnife"
 
     # game/images.rpy:97
     old "Kitchen Knife (Acc)"
@@ -88,7 +88,7 @@ translate arabic strings:
 
     # game/images.rpy:109
     old "bulletProof"
-    new "صدرية مضادة للرصاص"
+    new "bulletProof"
 
     # game/images.rpy:109
     old "Bulletproof Vest (Chest)"
@@ -100,7 +100,7 @@ translate arabic strings:
 
     # game/images.rpy:117
     old "blackJacket"
-    new "سترة سوداء"
+    new "blackJacket"
 
     # game/images.rpy:117
     old "Black Jacket (Body)"
@@ -112,7 +112,7 @@ translate arabic strings:
 
     # game/images.rpy:122
     old "yellowDC"
-    new "سترة صفراء"
+    new "yellowDC"
 
     # game/images.rpy:122
     old "Yellow Jacket (Body)"
@@ -124,7 +124,7 @@ translate arabic strings:
 
     # game/images.rpy:127
     old "SoldatoShirt"
-    new "قميص الجنود"
+    new "SoldatoShirt"
 
     # game/images.rpy:127
     old "Soldato Shirt (Body)"
@@ -136,7 +136,7 @@ translate arabic strings:
 
     # game/images.rpy:132
     old "longCoat"
-    new "معطف طويل"
+    new "longCoat"
 
     # game/images.rpy:132
     old "Long coat (Body)"
@@ -148,7 +148,7 @@ translate arabic strings:
 
     # game/images.rpy:140
     old "blackBeanie"
-    new "طاقية سوداء"
+    new "blackBeanie"
 
     # game/images.rpy:140
     old "Black Beanie (Head)"
@@ -160,7 +160,7 @@ translate arabic strings:
 
     # game/images.rpy:145
     old "bikerHelmet"
-    new "خوذة قيادة"
+    new "bikerHelmet"
 
     # game/images.rpy:145
     old "Biker Helmet (Head)"
@@ -172,7 +172,7 @@ translate arabic strings:
 
     # game/images.rpy:153
     old "blackPants"
-    new "بنطال أسود"
+    new "blackPants"
 
     # game/images.rpy:153
     old "Black Pants (Legs)"
@@ -184,7 +184,7 @@ translate arabic strings:
 
     # game/images.rpy:158
     old "yellowDCpants"
-    new "بنطال ديلوكا الأصفر"
+    new "blackPants"
 
     # game/images.rpy:158
     old "Yellow Pants (Legs)"
@@ -196,7 +196,7 @@ translate arabic strings:
 
     # game/images.rpy:163
     old "SoldatoPants"
-    new "بنطال الجنود"
+    new "SoldatoPants"
 
     # game/images.rpy:163
     old "Soldato Pants (Legs)"
