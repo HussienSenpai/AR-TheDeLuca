@@ -430,7 +430,7 @@ translate arabic strings:
 
     # game/script.rpy:487
     old "Accept"
-    new "قبول"
+    new "متابعة"
 
     # game/script.rpy:491
     old "Exit"
