@@ -508,7 +508,7 @@ translate arabic bedsleep_c3ca3180_6:
 translate arabic bedsleep_742ca3c0:
 
     # wf "The last products was not to your...satisfaction?"
-    wf "ألم يعجبك البنطال كفاية؟"
+    wf "ألم يكن البنطال كافياً؟"
 
 # game/bedsleep.rpy:157
 translate arabic bedsleep_0d1834b7:
