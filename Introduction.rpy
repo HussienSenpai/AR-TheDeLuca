@@ -2658,7 +2658,7 @@ translate arabic luna_housetour_569bf6f9:
     lu "غرفة أمي."
 
 # game/Introduction.rpy:662
-translate arabic luna_housetour_e41c819a:
+translate arabic luna_housetour_e41c819a:   
 
     # lu "Boring room."
     lu "غرفة مملة."
@@ -2703,7 +2703,7 @@ translate arabic luna_housetour_67958779:
 translate arabic luna_housetour_acf5ccdc:
 
     # lu "I think we got it all. We may have missed a room or two, but you'll get to them eventually."
-    lu "أظن أننا انتهينا، قد أكون قد نسيت غرفة أو اثنتين، ولكنك ستجدهم لاحقاً."
+    lu "أظن أننا انتهينا، قد أكون فد تخطيت غرفة أو اثنتين، ولكنك ستجدهم لاحقاً."
 
 # game/Introduction.rpy:678
 translate arabic luna_housetour_96ca26ce:
