@@ -22,13 +22,13 @@ translate arabic Gamestart_31953546:
 translate arabic Gamestart_d07e008f:
 
     # "Help screen, Journal, character information and personal stats."
-    "لوحة المساعدة، المذكرة، معلومات الشخصيات، والإحصائيات"
+    "هنا لوحة المساعدة، المذكرة، معلومات الشخصيات، وإحصائيات الشخصية الرئيسية."
 
 # game/script.rpy:371
 translate arabic Gamestart_a8130906:
 
     # "Help screen contains help and tips and stat explanations. Moreso, it contains an 'Event' tab in which you can keep track of all the events in the game so far you have done and have yet to do."
-    "تحتوي لوحة المساعدة على نصائح وشروحات، بالإضافة على احتوائها على قائمة 'المهام' حيث يمكنك معرفة جميع المهام الموجودة في اللعبة."
+    "تحتوي لوحة المساعدة على نصائح وشرح لبعض أساسيات اللعبة، بالإضافة على احتوائها على قائمة 'المهام' حيث يمكنك رؤية قائمة جميع المهام الموجودة في اللعبة."
 
 # game/script.rpy:373
 translate arabic Gamestart_f0c9de15:
@@ -40,13 +40,13 @@ translate arabic Gamestart_f0c9de15:
 translate arabic Gamestart_d9c209d1:
 
     # "Character information contains all information regarding the main characters. It is good to check it from time to time as it contains some inner dialogues of the characters that change depending on several factors like story progression and quest progression."
-    "معلومات الشخصيات تحوي جميع معلومات الشخصيات الرئيسية. من الجيد مراجعة هذه الصفحة من حين لأخرى لمعرفة طريقة تفكير الشخصيات وتقدمك في علاقتك مع الشخصية"
+    "معلومات الشخصيات تحوي جميع معلومات الشخصيات الرئيسية. من الجيد مراجعة هذه الصفحة من حين لأخرى لمعرفة طريقة تفكير الشخصيات وتقدم علاقتك معهم"
 
 # game/script.rpy:377
 translate arabic Gamestart_3660a46d:
 
     # "You can mute the lobby music here. Do note - muting lobby music will not mute the music that plays throughout the events and story sections. To mute all the music in the game - 'Esc'- 'Settings' - 'Music Volume'."
-    "تستطيع كتب موسيقى المنزل، تذكر أن كتم موسيقى المنزل لن يكتم موسيقى اللعبة كاملةً، لكتم صوت اللعبة إضغط على زر الماوس الأيمن ثم اتجه للإعدادات"
+    "تستطيع كتم موسيقى المنزل من هنا، تذكر أن كتم موسيقى المنزل لن يكتم موسيقى اللعبة كاملةً، لكتم صوت اللعبة إضغط على زر الفأرة الأيمن ثم اتجه للإعدادات"
 
 # game/script.rpy:378
 translate arabic Gamestart_fa92d68c:
@@ -290,27 +290,27 @@ translate arabic strings:
 
     # game/script.rpy:95
     old "English"
-    new "English"
+    new "الإنجليزية"
 
     # game/script.rpy:95
     old "German"
-    new "German"
+    new "الألمانية"
 
     # game/script.rpy:95
     old "French"
-    new "French"
+    new "الفرنسية"
 
     # game/script.rpy:95
     old "Italian"
-    new "Italian"
+    new "الإيطالية"
 
     # game/script.rpy:95
     old "Spanish"
-    new "Spanish"
+    new "الإسبانية"
 
     # game/script.rpy:95
     old "Arabic"
-    new "Arabic"
+    new "العربية"
 
     # game/script.rpy:95
     old "{b}Return{/b}"
@@ -318,7 +318,7 @@ translate arabic strings:
 
     # game/script.rpy:205
     old "12 October"
-    new "اكتوبر 12"
+    new "12 أكتوبر"
 
     # game/script.rpy:205
     old "Gracie, The Deluca Family and her gun collection"
@@ -338,7 +338,7 @@ translate arabic strings:
 
     # game/script.rpy:216
     old "August 24"
-    new "أغسطس 24"
+    new "24 أغسطس"
 
     # game/script.rpy:216
     old "Luna, The DeLuca Family, Antonio, school and fashion"
@@ -354,7 +354,7 @@ translate arabic strings:
 
     # game/script.rpy:227
     old "February 31"
-    new "فبراير 31"
+    new "31 فبراير"
 
     # game/script.rpy:227
     old "Warm tea"
@@ -370,7 +370,7 @@ translate arabic strings:
 
     # game/script.rpy:238
     old "June 4"
-    new "يونيو 4"
+    new "4 يونيو"
 
     # game/script.rpy:238
     old "Antonio, romantic movies, the forbidden and wine"
@@ -386,7 +386,7 @@ translate arabic strings:
 
     # game/script.rpy:249
     old "April 1"
-    new "إبريل 1"
+    new "1 إبريل"
 
     # game/script.rpy:249
     old "Isabel, loyality, The DeLuca Family and power"
