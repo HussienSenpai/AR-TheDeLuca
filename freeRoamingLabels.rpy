@@ -3220,49 +3220,49 @@ translate arabic lunaQoutsidetalk_b2cafeae:
 translate arabic lunaQoutsidetalk_7aaf9610:
 
     # pov "Listen, Luna... About what happened... I'm sor-{w=0.3} {nw=10}"
-    pov "إسمعي لونا، بخصوص ما حصل... أنا آسف.{w=0.3} {nw=10}"
+    pov "إسمعي لونا، بخصوص ما حصل... أنا آسف {nw=10}"
 
 # game/freeRoamingLabels.rpy:1027
 translate arabic lunaQoutsidetalk_c6a6b58f:
 
     # lu "Thanks for coming with me today!"
-    lu "Thanks for coming with me today!"
+    lu "شكراً على قدومك معي!"
 
 # game/freeRoamingLabels.rpy:1028
 translate arabic lunaQoutsidetalk_c7c981c2:
 
     # pov "Eh? Uhm... You're welcome..."
-    pov "Eh? Uhm... You're welcome..."
+    pov "ماذا؟ اممم.. عفواً.."
 
 # game/freeRoamingLabels.rpy:1029
 translate arabic lunaQoutsidetalk_8ee5787f:
 
     # lu "Sorry for standing up like that. Just noticed how late it's gotten."
-    lu "Sorry for standing up like that. Just noticed how late it's gotten."
+    lu "آسفة على الوقوف فجأة، لكني لاحظت أن الوقت تأخر."
 
 # game/freeRoamingLabels.rpy:1030
 translate arabic lunaQoutsidetalk_6dbce857:
 
     # lu "We should head back."
-    lu "We should head back."
+    lu "علينا أن نعود."
 
 # game/freeRoamingLabels.rpy:1031
 translate arabic lunaQoutsidetalk_db62444f:
 
     # pov "Yeah..."
-    pov "Yeah..."
+    pov "نعم..."
 
 # game/freeRoamingLabels.rpy:1032
 translate arabic lunaQoutsidetalk_795ad877:
 
     # "She is trying to act like nothing happened. She probably can tell I'm flustered..."
-    "She is trying to act like nothing happened. She probably can tell I'm flustered..."
+    "أنها تحاول تجاهل ما حصل، يبدو أن إرتباكي واضج لها..."
 
 # game/freeRoamingLabels.rpy:1033
 translate arabic lunaQoutsidetalk_b9dac955:
 
     # "I don't know if I should be happy or if this just makes it worse..."
-    "I don't know if I should be happy or if this just makes it worse..."
+    "لا أعلم إن كان هذا شيئاً جيداً أم أنه سيزيد الطين بلة.."
 
 # game/freeRoamingLabels.rpy:1034
 translate arabic lunaQoutsidetalk_c15cc7d6_9:
@@ -3286,265 +3286,265 @@ translate arabic lunaQoutsidetalk_08d9cf78:
 translate arabic lunaQoutsidetalk_500d2484:
 
     # pov "Yes?"
-    pov "Yes?"
+    pov "نعم؟"
 
 # game/freeRoamingLabels.rpy:1038
 translate arabic lunaQoutsidetalk_9b0e545a:
 
     # lu "Thank you for trying to cheer me up today..."
-    lu "Thank you for trying to cheer me up today..."
+    lu "شكراً لك على إسعادي اليوم..."
 
 # game/freeRoamingLabels.rpy:1039
 translate arabic lunaQoutsidetalk_1b6734a2:
 
     # pov "Anytime."
-    pov "Anytime."
+    pov "لا داعٍ."
 
 # game/freeRoamingLabels.rpy:1040
 translate arabic lunaQoutsidetalk_9dcdacfc:
 
     # lu "Just, next time no tickles."
-    lu "Just, next time no tickles."
+    lu "ولكن، لا تدغدغني في المرة القادمة."
 
 # game/freeRoamingLabels.rpy:1041
 translate arabic lunaQoutsidetalk_6ecad0ec:
 
     # pov "Now that, I can't promise."
-    pov "Now that, I can't promise."
+    pov "هههه، لا أستطيع أن أعدك بهذا."
 
 # game/freeRoamingLabels.rpy:1043
 translate arabic lunaQoutsidetalk_101a8499:
 
     # lu "...Silly."
-    lu "...Silly."
+    lu "...أحمق."
 
 # game/freeRoamingLabels.rpy:1052
 translate arabic lunaQoutsidetalk_99ac621b:
 
     # lu "Actually, something is wrong."
-    lu "Actually, something is wrong."
+    lu "بالواقع، هناك خطب ما بالفعل!"
 
 # game/freeRoamingLabels.rpy:1053
 translate arabic lunaQoutsidetalk_06d0ca87:
 
     # lu "I have a knife I want to get back."
-    lu "I have a knife I want to get back."
+    lu "أخذ مني ويلفريد سكينة من سكاكيني"
 
 # game/freeRoamingLabels.rpy:1054
 translate arabic lunaQoutsidetalk_7a7e98dc:
 
     # pov "A knife?"
-    pov "A knife?"
+    pov "سكينة؟"
 
 # game/freeRoamingLabels.rpy:1055
 translate arabic lunaQoutsidetalk_effbb37a:
 
     # lu "A knife."
-    lu "A knife."
+    lu "نعم."
 
 # game/freeRoamingLabels.rpy:1056
 translate arabic lunaQoutsidetalk_25d4aa57:
 
     # pov "Can't you just get a knife from the kitchen?"
-    pov "Can't you just get a knife from the kitchen?"
+    pov "ولمَ لا تأخذي واحدة أخرى من المطبخ؟"
 
 # game/freeRoamingLabels.rpy:1057
 translate arabic lunaQoutsidetalk_520ed77c:
 
     # lu "That be a kitchen knife. I do not need a kitchen knife. I need a knife knife."
-    lu "That be a kitchen knife. I do not need a kitchen knife. I need a knife knife."
+    lu "لأن سكية المطبخ سكينة مطبخ، أحتاج إلى سكينة سكينة."
 
 # game/freeRoamingLabels.rpy:1058
 translate arabic lunaQoutsidetalk_42b53b12:
 
     # pov "I see... So where can I get your 'knife knife'?"
-    pov "I see... So where can I get your 'knife knife'?"
+    pov "هممم... إذاً كيف أجد لك هذه 'السكينة السكينة'"
 
 # game/freeRoamingLabels.rpy:1059
 translate arabic lunaQoutsidetalk_e1d0205a:
 
     # lu "Wilfred took it."
-    lu "Wilfred took it."
+    lu "لا أعلم، لقد أخذها ويلفريد"
 
 # game/freeRoamingLabels.rpy:1060
 translate arabic lunaQoutsidetalk_4af48d0a:
 
     # pov "Why would he take your knife from you?"
-    pov "Why would he take your knife from you?"
+    pov "ولم قد يفعل هذا؟"
 
 # game/freeRoamingLabels.rpy:1061
 translate arabic lunaQoutsidetalk_5cba68b2:
 
     # lu "Because I accidentally threw it at a guy."
-    lu "Because I accidentally threw it at a guy."
+    lu "لأني رميتها على شخص بالخطأ."
 
 # game/freeRoamingLabels.rpy:1062
 translate arabic lunaQoutsidetalk_97a9342a:
 
     # pov "I see..."
-    pov "I see..."
+    pov "أها..."
 
 # game/freeRoamingLabels.rpy:1064
 translate arabic lunaQoutsidetalk_72b07285:
 
     # lu "Just to clarify, he was not from our town. We were having a meeting with another Family and this one guy was being totally disrespectful towards our Family."
-    lu "Just to clarify, he was not from our town. We were having a meeting with another Family and this one guy was being totally disrespectful towards our Family."
+    lu "لأوضح لك الأمر، كنا في إجتماع مع عائلة أخرى ثم جاء هذا الشخص وبدأ بتقليل أدبه تجاه عائلتي، إنه ليس من مدينتنا حتى..."
 
 # game/freeRoamingLabels.rpy:1065
 translate arabic lunaQoutsidetalk_b9f3f906:
 
     # lu "So I accidentally dropped the knife, because I was sad and shocked by the whole situation. The knife hit the guy's chest."
-    lu "So I accidentally dropped the knife, because I was sad and shocked by the whole situation. The knife hit the guy's chest."
+    lu "لذا، فقد أسقطت سكينتي سهواً لأني كنت حزينة ومصدومة من هول الموقع... لسوء الحظ، فإن السكينة قد سقطت على سدره."
 
 # game/freeRoamingLabels.rpy:1066
 translate arabic lunaQoutsidetalk_d1d9a770:
 
     # pov "Sounds like an unfortunate accident indeed."
-    pov "Sounds like an unfortunate accident indeed."
+    pov "يالسوء الحظ، تبدو كحادثة سيئة فعلاً."
 
 # game/freeRoamingLabels.rpy:1067
 translate arabic lunaQoutsidetalk_195c99c9:
 
     # "I'm having second thoughts about getting her the knife..."
-    "I'm having second thoughts about getting her the knife..."
+    "بدأت أشك في قراري بمساعدتها..."
 
 # game/freeRoamingLabels.rpy:1079
 translate arabic lunaQoutsidetalk_66563fad:
 
     # lu "Awesome!"
-    lu "Awesome!"
+    lu "رائع!"
 
 # game/freeRoamingLabels.rpy:1082
 translate arabic lunaQoutsidetalk_973ef7a8:
 
     # lu "Wait, those are even the ones with the holes in them!"
-    lu "Wait, those are even the ones with the holes in them!"
+    lu "لحظة، إن هذا البنطال ممزق بالفعل أصلاً!"
 
 # game/freeRoamingLabels.rpy:1083
 translate arabic lunaQoutsidetalk_c8cc1b97:
 
     # lu "Don't they cost way more?"
-    lu "Don't they cost way more?"
+    lu "ألا يكلف أكثر من اللازم؟"
 
 # game/freeRoamingLabels.rpy:1084
 translate arabic lunaQoutsidetalk_73a4b51a:
 
     # "Yes..."
-    "Yes..."
+    "بلا..."
 
 # game/freeRoamingLabels.rpy:1085
 translate arabic lunaQoutsidetalk_1514ec85:
 
     # pov "Only by a little."
-    pov "Only by a little."
+    pov "بقليل فقط..."
 
 # game/freeRoamingLabels.rpy:1087
 translate arabic lunaQoutsidetalk_6331d914:
 
     # lu "Gracie is going to be SO happy about this!"
-    lu "Gracie is going to be SO happy about this!"
+    lu "ستكون قرايسي سعيدة جداً بهذا!"
 
 # game/freeRoamingLabels.rpy:1089
 translate arabic lunaQoutsidetalk_a9457a79:
 
     # lu "Hmm... But to go and buy Gracie something as expensive as that when I didn't even ask you to..."
-    lu "Hmm... But to go and buy Gracie something as expensive as that when I didn't even ask you to..."
+    lu "همم... ولكن أن تحضر لقرايسي شيئاً غالياً كهذا بدون أن أطلبه منك حتى..."
 
 # game/freeRoamingLabels.rpy:1091
 translate arabic lunaQoutsidetalk_2ea30577:
 
     # lu "Don't tell me you've got a small crush on my cute little sister."
-    lu "Don't tell me you've got a small crush on my cute little sister."
+    lu "لا تقل لي بأن أختي الصغيرة تعجبك."
 
 # game/freeRoamingLabels.rpy:1095
 translate arabic lunaQoutsidetalk_7e0fd9e2_1:
 
     # lu "Huh?"
-    lu "Huh?"
+    lu "ماذا؟!"
 
 # game/freeRoamingLabels.rpy:1096
 translate arabic lunaQoutsidetalk_110f735c:
 
     # lu "Me?"
-    lu "Me?"
+    lu "من أجلي أنا؟"
 
 # game/freeRoamingLabels.rpy:1097
 translate arabic lunaQoutsidetalk_a5ecfe15:
 
     # pov "Yeah."
-    pov "Yeah."
+    pov "نعم."
 
 # game/freeRoamingLabels.rpy:1098
 translate arabic lunaQoutsidetalk_50e4ed49:
 
     # lu "You bought the expensive version for me? How does that make sense?"
-    lu "You bought the expensive version for me? How does that make sense?"
+    lu "إشتريت هذا البنطال الغالي، من أجلي أنا؟ كيف يكون هذا؟"
 
 # game/freeRoamingLabels.rpy:1099
 translate arabic lunaQoutsidetalk_515a0bf3:
 
     # pov "Because I thought you'll be happier giving Gracie this one."
-    pov "Because I thought you'll be happier giving Gracie this one."
+    pov "لأني ظننت أنك ستكونين سعيدة بإعطاءه لقرايسي"
 
 # game/freeRoamingLabels.rpy:1100
 translate arabic lunaQoutsidetalk_cdeb8001:
 
     # pov "In fact, I don't even want Gracie to know I was involved in this. This is all you."
-    pov "In fact, I don't even want Gracie to know I was involved in this. This is all you."
+    pov "بالواقع، لا تخبري قرايسي أن لي علاقة بالأمر، قولي لها أنه هدية منكِ"
 
 # game/freeRoamingLabels.rpy:1101
 translate arabic lunaQoutsidetalk_fac28cd8:
 
     # lu "Well, yes I'm more happy with this one... But I still don't understand why?"
-    lu "Well, yes I'm more happy with this one... But I still don't understand why?"
+    lu "هذا صحيح، أنا أسعد بهذا... ولكن ما زلت لا أفهم."
 
 # game/freeRoamingLabels.rpy:1102
 translate arabic lunaQoutsidetalk_6c76d378:
 
     # pov "Hmmm... Because I like seeing you smile I guess."
-    pov "Hmmm... Because I like seeing you smile I guess."
+    pov "همم.. أظني فعلتها لأني أحب رؤيتك ابتسامتكِ"
 
 # game/freeRoamingLabels.rpy:1105
 translate arabic lunaQoutsidetalk_713b26d6:
 
     # lu "You do?"
-    lu "You do?"
+    lu "فعلأً؟"
 
 # game/freeRoamingLabels.rpy:1106
 translate arabic lunaQoutsidetalk_d20b03dc:
 
     # pov "Yeah, I think it's a very cute smile."
-    pov "Yeah, I think it's a very cute smile."
+    pov "نعم، إنها إبتسامة لطيفة للغاية."
 
 # game/freeRoamingLabels.rpy:1107
 translate arabic lunaQoutsidetalk_8bc11564:
 
     # lu "...That's weird."
-    lu "...That's weird."
+    lu "هذا غريب..."
 
 # game/freeRoamingLabels.rpy:1108
 translate arabic lunaQoutsidetalk_54438723:
 
     # pov "How so?"
-    pov "How so?"
+    pov "لماذا؟"
 
 # game/freeRoamingLabels.rpy:1109
 translate arabic lunaQoutsidetalk_36c85831:
 
     # lu "Because it's not cute."
-    lu "Because it's not cute."
+    lu "لأنها ليست لطيفة."
 
 # game/freeRoamingLabels.rpy:1110
 translate arabic lunaQoutsidetalk_5d82d088:
 
     # pov "Hmm... Then I think your smile is beautiful instead."
-    pov "Hmm... Then I think your smile is beautiful instead."
+    pov "هممم، حسناً أظن أن إبتسامتك جميلة"
 
 # game/freeRoamingLabels.rpy:1112
 translate arabic lunaQoutsidetalk_d1ec3102:
 
     # lu "That wasn't the point, haha!"
-    lu "That wasn't the point, haha!"
+    lu "لم يكن هذا قصدي ههههه"
 
 # game/freeRoamingLabels.rpy:1113
 translate arabic lunaQoutsidetalk_c15cc7d6_10:
@@ -3556,175 +3556,175 @@ translate arabic lunaQoutsidetalk_c15cc7d6_10:
 translate arabic lunaQoutsidetalk_86aab8a3:
 
     # pov "Well, I like your smile and that is why I got the expensive one. So you better just accept that!"
-    pov "Well, I like your smile and that is why I got the expensive one. So you better just accept that!"
+    pov "عموماً، لقد أحضرت هذا البنطال لأني أحب رؤية إبتسامتك، لذا من الأفضل عليك أن تتقبلي هذا."
 
 # game/freeRoamingLabels.rpy:1115
 translate arabic lunaQoutsidetalk_0afe8486:
 
     # lu "Or what?"
-    lu "Or what?"
+    lu "وإلا؟"
 
 # game/freeRoamingLabels.rpy:1116
 translate arabic lunaQoutsidetalk_cbeb1e4d:
 
     # pov "Or I'll force you to wear those jeans!"
-    pov "Or I'll force you to wear those jeans!"
+    pov "وإلا سأجبرك على لبس هذا البنطال!"
 
 # game/freeRoamingLabels.rpy:1117
 translate arabic lunaQoutsidetalk_0e6bbe45:
 
     # lu "Ahahaha, what kind of threat is that?"
-    lu "Ahahaha, what kind of threat is that?"
+    lu "هههههههههههه، ما هذا التهديد؟"
 
 # game/freeRoamingLabels.rpy:1118
 translate arabic lunaQoutsidetalk_f3c21afd:
 
     # pov "Well, I don't know! I panicked when you said 'or what'."
-    pov "Well, I don't know! I panicked when you said 'or what'."
+    pov "لا أعلم، لم أفكر بأي تهديد الصراحة."
 
 # game/freeRoamingLabels.rpy:1119
 translate arabic lunaQoutsidetalk_b0bb6028:
 
     # lu "You're so silly, ahahaha!!"
-    lu "You're so silly, ahahaha!!"
+    lu "أنت سخيف ههههههههه!!"
 
 # game/freeRoamingLabels.rpy:1122
 translate arabic lunaQoutsidetalk_202cf95b:
 
     # lu "...Thank you, [povname]."
-    lu "...Thank you, [povname]."
+    lu "شكراً [povname]."
 
 # game/freeRoamingLabels.rpy:1125
 translate arabic lunaQoutsidetalk_deef65ae:
 
     # lu "And help you did!"
-    lu "And help you did!"
+    lu "وقد ساعدت بالفعل."
 
 # game/freeRoamingLabels.rpy:1126
 translate arabic lunaQoutsidetalk_689fd1a2:
 
     # lu "Thank you a bunch!"
-    lu "Thank you a bunch!"
+    lu "شكراً جزيلاً!"
 
 # game/freeRoamingLabels.rpy:1128
 translate arabic lunaQoutsidetalk_a518098f:
 
     # lu "Hmm... Should we try to make holes in these?"
-    lu "Hmm... Should we try to make holes in these?"
+    lu "هممم.. هل نحاول تمزيق هذا البنطال؟"
 
 # game/freeRoamingLabels.rpy:1129
 translate arabic lunaQoutsidetalk_7319701b:
 
     # pov "I think we better not..."
-    pov "I think we better not..."
+    pov "أظن أنه من الأفضل لو لم نفعل هذا..."
 
 # game/freeRoamingLabels.rpy:1130
 translate arabic lunaQoutsidetalk_e0fa7d8a:
 
     # lu "Yea, you're probably right."
-    lu "Yea, you're probably right."
+    lu "نعم، أنت محق..."
 
 # game/freeRoamingLabels.rpy:1132
 translate arabic lunaQoutsidetalk_4249e0e2:
 
     # lu "Soooo, now you've done this for me."
-    lu "Soooo, now you've done this for me."
+    lu "إذاً، بما أنك فعلت هذا لأجلي."
 
 # game/freeRoamingLabels.rpy:1133
 translate arabic lunaQoutsidetalk_5f3d06bd:
 
     # lu "What do you want in return?"
-    lu "What do you want in return?"
+    lu "ماذا تريد في المقابل؟"
 
 # game/freeRoamingLabels.rpy:1136
 translate arabic lunaQoutsidetalk_cc2ade84:
 
     # lu "Besides my smile..."
-    lu "Besides my smile..."
+    lu "بالإضافة إلى ابتسامتي..."
 
 # game/freeRoamingLabels.rpy:1138
 translate arabic lunaQoutsidetalk_83df1566:
 
     # pov "I didn't do it to get anything, just wanted to help."
-    pov "I didn't do it to get anything, just wanted to help."
+    pov "لم أفعل هذا لأني أريد شيئاً، أردت أن أساعد فقط."
 
 # game/freeRoamingLabels.rpy:1139
 translate arabic lunaQoutsidetalk_c7539774:
 
     # lu "That's a no-go for me. I need to do something for you too now, principles and all that."
-    lu "That's a no-go for me. I need to do something for you too now, principles and all that."
+    lu "لاا، أنا لا أتعامل بهذه الطريقة. علي أن أفعل لك شيئاً بالمقابل أيضاً..."
 
 # game/freeRoamingLabels.rpy:1140
 translate arabic lunaQoutsidetalk_5f140c87:
 
     # lu "A girl's gotta have those."
-    lu "A girl's gotta have those."
+    lu "على الفتاة أن تتحلى بالمبادئ."
 
 # game/freeRoamingLabels.rpy:1141
 translate arabic lunaQoutsidetalk_fff09c9b_1:
 
     # pov "Hmm..."
-    pov "Hmm..."
+    pov "امم..."
 
 # game/freeRoamingLabels.rpy:1142
 translate arabic lunaQoutsidetalk_a9258ac7:
 
     # lu "Help with missions? Need someone gone? Money?"
-    lu "Help with missions? Need someone gone? Money?"
+    lu "أتريد مساعدة في مهامك؟ أتريدني أن أقتل أحداً لك؟ أتريد مالاً بالمقابل؟"
 
 # game/freeRoamingLabels.rpy:1143
 translate arabic lunaQoutsidetalk_edf29576:
 
     # pov "Hug."
-    pov "Hug."
+    pov "أريد حضناً."
 
 # game/freeRoamingLabels.rpy:1145
 translate arabic lunaQoutsidetalk_97c1b8b4_1:
 
     # lu "What?"
-    lu "What?"
+    lu "ماذا؟"
 
 # game/freeRoamingLabels.rpy:1146
 translate arabic lunaQoutsidetalk_bcd22daf:
 
     # pov "A hug."
-    pov "A hug."
+    pov "أريد حضناً؟"
 
 # game/freeRoamingLabels.rpy:1147
 translate arabic lunaQoutsidetalk_372d721c:
 
     # lu "A hug?"
-    lu "A hug?"
+    lu "حضن؟؟"
 
 # game/freeRoamingLabels.rpy:1148
 translate arabic lunaQoutsidetalk_73fe1c35:
 
     # pov "Correct."
-    pov "Correct."
+    pov "نعم."
 
 # game/freeRoamingLabels.rpy:1149
 translate arabic lunaQoutsidetalk_8128c138:
 
     # lu "With me? You want a hug with me?"
-    lu "With me? You want a hug with me?"
+    lu "معي أنا؟ تريد أن تحضنني؟"
 
 # game/freeRoamingLabels.rpy:1150
 translate arabic lunaQoutsidetalk_73fe1c35_1:
 
     # pov "Correct."
-    pov "Correct."
+    pov "هذا صحيح."
 
 # game/freeRoamingLabels.rpy:1151
 translate arabic lunaQoutsidetalk_48d4c46e:
 
     # lu "That is... New."
-    lu "That is... New."
+    lu "هذا... جديد"
 
 # game/freeRoamingLabels.rpy:1152
 translate arabic lunaQoutsidetalk_da9171a6:
 
     # lu "Uhm, well a hug then."
-    lu "Uhm, well a hug then."
+    lu "كما تريد، لك حضن بالمقابل إذاً."
 
 # game/freeRoamingLabels.rpy:1154
 translate arabic lunaQoutsidetalk_c15cc7d6_11:
@@ -3736,349 +3736,349 @@ translate arabic lunaQoutsidetalk_c15cc7d6_11:
 translate arabic lunaQoutsidetalk_86d1959b:
 
     # lu "There."
-    lu "There."
+    lu "ها أنت ذا"
 
 # game/freeRoamingLabels.rpy:1157
 translate arabic lunaQoutsidetalk_c544e78b:
 
     # pov "Huh?"
-    pov "Huh?"
+    pov "هاه؟"
 
 # game/freeRoamingLabels.rpy:1158
 translate arabic lunaQoutsidetalk_456f8a59:
 
     # "What was that? She basically just got close to me and backed off in an instant..."
-    "What was that? She basically just got close to me and backed off in an instant..."
+    "ما هذا الحضن؟ لقد اقتربت مني ثم ابتعدت مباشرةً..."
 
 # game/freeRoamingLabels.rpy:1160
 translate arabic lunaQoutsidetalk_7ec37edb:
 
     # lu "I'm..."
-    lu "I'm..."
+    lu "أنا..."
 
 # game/freeRoamingLabels.rpy:1161
 translate arabic lunaQoutsidetalk_67363154:
 
     # "She seems shaken... By a hug?"
-    "She seems shaken... By a hug?"
+    "تبدة مرتعبة... من حضن؟"
 
 # game/freeRoamingLabels.rpy:1162
 translate arabic lunaQoutsidetalk_6cc04d7c:
 
     # pov "Thank you for the hug. I say we're even now."
-    pov "Thank you for the hug. I say we're even now."
+    pov "شكراً على الحضن، برأيي أننا متعادلين الآن"
 
 # game/freeRoamingLabels.rpy:1163
 translate arabic lunaQoutsidetalk_da952e35_1:
 
     # lu "Really?"
-    lu "Really?"
+    lu "حقاً؟"
 
 # game/freeRoamingLabels.rpy:1164
 translate arabic lunaQoutsidetalk_418acfe9:
 
     # pov "Yup, we both got what we wanted."
-    pov "Yup, we both got what we wanted."
+    pov "نعم. كلانا حصل على ما يريده."
 
 # game/freeRoamingLabels.rpy:1169
 translate arabic lunaQoutsidetalk_182004e0:
 
     # lu "Thank you."
-    lu "Thank you."
+    lu "شكراً لك."
 
 # game/freeRoamingLabels.rpy:1177
 translate arabic lunaQoutsidetalk_eb4c6403:
 
     # lu "You really got it!"
-    lu "You really got it!"
+    lu "لقد استطعت استراجعها!"
 
 # game/freeRoamingLabels.rpy:1178
 translate arabic lunaQoutsidetalk_2dc179ef:
 
     # lu "What in the world did you do to make Uncle Grumpy give in?"
-    lu "What in the world did you do to make Uncle Grumpy give in?"
+    lu "كيف أقنعت هذا العجوز الغاضب بإرجاعها لك؟"
 
 # game/freeRoamingLabels.rpy:1179
 translate arabic lunaQoutsidetalk_db2137ce:
 
     # pov "Well, he told me I owe him a favor now."
-    pov "Well, he told me I owe him a favor now."
+    pov "لقد أخبرني بأني أدين له بمعروف الآن."
 
 # game/freeRoamingLabels.rpy:1181
 translate arabic lunaQoutsidetalk_ea19cd31:
 
     # lu "A favor? That's a huge promise!"
-    lu "A favor? That's a huge promise!"
+    lu "معروف؟ هذه مسؤولية كبيرة!"
 
 # game/freeRoamingLabels.rpy:1182
 translate arabic lunaQoutsidetalk_aac79ab2:
 
     # "Is it? I guess favors in the mob world are a huge deal?"
-    "Is it? I guess favors in the mob world are a huge deal?"
+    "أهي فعلاً مسؤولية كبيرة؟ يبدو أن المعروف يحمل وزناً ثقيلاً في هذا العالم..."
 
 # game/freeRoamingLabels.rpy:1183
 translate arabic lunaQoutsidetalk_ed5308c1:
 
     # lu "Why would you go that far to help me with such a trivial matter?"
-    lu "Why would you go that far to help me with such a trivial matter?"
+    lu "لمَ قد تفعل هذا من أجل مجرد سكينة؟"
 
 # game/freeRoamingLabels.rpy:1189
 translate arabic lunaQoutsidetalk_a3b6746f:
 
     # lu "Yeah... I value it very much."
-    lu "Yeah... I value it very much."
+    lu "نعم، إنها تعني لي الكثير بالفعل..."
 
 # game/freeRoamingLabels.rpy:1190
 translate arabic lunaQoutsidetalk_30b4543f:
 
     # lu "Thank you, [povname]"
-    lu "Thank you, [povname]"
+    lu "شكراً يا [povname]."
 
 # game/freeRoamingLabels.rpy:1193
 translate arabic lunaQoutsidetalk_0d3e02ca:
 
     # lu "Pretty..."
-    lu "Pretty..."
+    lu "جميلة..."
 
 # game/freeRoamingLabels.rpy:1194
 translate arabic lunaQoutsidetalk_926295e2:
 
     # lu "This again... You really are a weird guy..."
-    lu "This again... You really are a weird guy..."
+    lu "هذا مجدداً... أنك غريب فعلاً..."
 
 # game/freeRoamingLabels.rpy:1195
 translate arabic lunaQoutsidetalk_3744a124:
 
     # pov "Maybe I am... But that is how I see you."
-    pov "Maybe I am... But that is how I see you."
+    pov "قد أكون غريباً فعلاً، لكني أراكي جميلة بحق."
 
 # game/freeRoamingLabels.rpy:1198
 translate arabic lunaQoutsidetalk_182004e0_1:
 
     # lu "Thank you."
-    lu "Thank you."
+    lu "شكراً."
 
 # game/freeRoamingLabels.rpy:1201
 translate arabic lunaQoutsidetalk_d16f29d2:
 
     # lu "Is that so?"
-    lu "Is that so?"
+    lu "أهذا صحيح؟"
 
 # game/freeRoamingLabels.rpy:1202
 translate arabic lunaQoutsidetalk_c9d91190:
 
     # lu "Just doing it because you felt like it, eh?"
-    lu "Just doing it because you felt like it, eh?"
+    lu "فعلت هذا لأنك رغبت به؟"
 
 # game/freeRoamingLabels.rpy:1203
 translate arabic lunaQoutsidetalk_539fbee1:
 
     # pov "Yea."
-    pov "Yea."
+    pov "نعم."
 
 # game/freeRoamingLabels.rpy:1204
 translate arabic lunaQoutsidetalk_30513fbd:
 
     # lu "Sounds good to me! Thank you."
-    lu "Sounds good to me! Thank you."
+    lu "يبدو جيداً بالنسبة لي! شكراً."
 
 # game/freeRoamingLabels.rpy:1208
 translate arabic lunaQoutsidetalk_b366853d:
 
     # lu "Now, you're being nice and all but you must surely want something in return, right?"
-    lu "Now, you're being nice and all but you must surely want something in return, right?"
+    lu "هذا لطيف وكل شيء، ولكنك تريد شيئاً بالمقابل بالطبع، صحيح؟"
 
 # game/freeRoamingLabels.rpy:1209
 translate arabic lunaQoutsidetalk_c23322e4:
 
     # pov "Hmm, I want another hug."
-    pov "Hmm, I want another hug."
+    pov "هممم.، أريد حضناً آخر."
 
 # game/freeRoamingLabels.rpy:1210
 translate arabic lunaQoutsidetalk_34e1fd95:
 
     # lu "A hug? You did all that for a hug again?"
-    lu "A hug? You did all that for a hug again?"
+    lu "حضناً آخر؟ فعلت كل هذا لحضن آخر؟!"
 
 # game/freeRoamingLabels.rpy:1212
 translate arabic lunaQoutsidetalk_b5446843:
 
     # lu "First, you randomly call me pretty and now a hug again. You're pretty direct, you know that?"
-    lu "First, you randomly call me pretty and now a hug again. You're pretty direct, you know that?"
+    lu "تناديني بالجميلة، ثم تريد حضناً آخر، أنك شخص مباشر جداً أتعلم هذا؟"
 
 # game/freeRoamingLabels.rpy:1213
 translate arabic lunaQoutsidetalk_620a6497:
 
     # pov "I am."
-    pov "I am."
+    pov "نعم.."
 
 # game/freeRoamingLabels.rpy:1215
 translate arabic lunaQoutsidetalk_9edaeed1:
 
     # lu "...Well, sure."
-    lu "...Well, sure."
+    lu "حسناً... كما تريد..."
 
 # game/freeRoamingLabels.rpy:1218
 translate arabic lunaQoutsidetalk_cc8e92d5:
 
     # "She is nervous and hugging me awkwardly. I guess she is not used to hugging people. It's kind of cute."
-    "She is nervous and hugging me awkwardly. I guess she is not used to hugging people. It's kind of cute."
+    "إنها مرتبكة جداً وتحضنني بطريقة غريبة. يبدو أنها ليست معتادة على حضن الناس، هذا لطيف نوعاً ما."
 
 # game/freeRoamingLabels.rpy:1219
 translate arabic lunaQoutsidetalk_69375f2f:
 
     # pov "You don't hug a lot, do you?"
-    pov "You don't hug a lot, do you?"
+    pov "أنت لا تحضنين كثيراً أليس كذلك؟"
 
 # game/freeRoamingLabels.rpy:1220
 translate arabic lunaQoutsidetalk_c949682d:
 
     # lu "I hug my sister a lot... Also Isabel."
-    lu "I hug my sister a lot... Also Isabel."
+    lu "لا، أنا أحضن أختي كثيراً، وإيزابيل أيضاً..."
 
 # game/freeRoamingLabels.rpy:1221
 translate arabic lunaQoutsidetalk_f67f60d9:
 
     # pov "Anyone outside your family?"
-    pov "Anyone outside your family?"
+    pov "ماذا عن خارج العائلة؟"
 
 # game/freeRoamingLabels.rpy:1222
 translate arabic lunaQoutsidetalk_6a9ac1a3:
 
     # lu "...No."
-    lu "...No."
+    lu "...لا."
 
 # game/freeRoamingLabels.rpy:1223
 translate arabic lunaQoutsidetalk_8b747c99:
 
     # lu "It's bad, isn't it? I'm sorry... I'm not good at this."
-    lu "It's bad, isn't it? I'm sorry... I'm not good at this."
+    lu "كان حضناً سيئاً أليس كذلك؟ أنا آسفة، أنا لست جيدةً في هذا."
 
 # game/freeRoamingLabels.rpy:1224
 translate arabic lunaQoutsidetalk_36aef125:
 
     # pov "A hug can never be bad."
-    pov "A hug can never be bad."
+    pov "لا يمكن لحضن أن يكون سيئاً."
 
 # game/freeRoamingLabels.rpy:1225
 translate arabic lunaQoutsidetalk_812869e4:
 
     # pov "But it can be improved of course, haha."
-    pov "But it can be improved of course, haha."
+    pov "ولكنك تستطيعين تحسينه بالطبع هههه."
 
 # game/freeRoamingLabels.rpy:1226
 translate arabic lunaQoutsidetalk_87eda9fb:
 
     # pov "Try to put your arms around me instead."
-    pov "Try to put your arms around me instead."
+    pov "حاولي ضم ذراعيك حولي"
 
 # game/freeRoamingLabels.rpy:1227
 translate arabic lunaQoutsidetalk_463f0a64:
 
     # lu "That's..."
-    lu "That's..."
+    lu "هذا..."
 
 # game/freeRoamingLabels.rpy:1228
 translate arabic lunaQoutsidetalk_ddc5f85e:
 
     # pov "Just imagine I'm Gracie."
-    pov "Just imagine I'm Gracie."
+    pov "تخيلي أني قرايسي وحسب..."
 
 # game/freeRoamingLabels.rpy:1229
 translate arabic lunaQoutsidetalk_b2985883:
 
     # lu "...Okay."
-    lu "...Okay."
+    lu "...حسناً."
 
 # game/freeRoamingLabels.rpy:1233
 translate arabic lunaQoutsidetalk_ad6b050d:
 
     # lu "...Is it better now? Am I squeezing too hard? I'm squeezing too hard..."
-    lu "...Is it better now? Am I squeezing too hard? I'm squeezing too hard..."
+    lu "أهذا أفضل؟ هل أشد عليك بقوى؟ أشعر بأني اشد بقوة..."
 
 # game/freeRoamingLabels.rpy:1236
 translate arabic lunaDaily1Menu_8f6425d9:
 
     # pov "In fact, you're a natural!"
-    pov "In fact, you're a natural!"
+    pov "لا بالعكس، انت رائعة!"
 
 # game/freeRoamingLabels.rpy:1240
 translate arabic lunaDaily1Menu_da952e35:
 
     # lu "Really?"
-    lu "Really?"
+    lu "حقاً؟"
 
 # game/freeRoamingLabels.rpy:1241
 translate arabic lunaDaily1Menu_e5e94472:
 
     # pov "Haha, you need to have more faith in yourself. You're doing really well."
-    pov "Haha, you need to have more faith in yourself. You're doing really well."
+    pov "هههه، نعم! عليك أن تثقي بنفسك قليلاً. أنت تبلين حسناً."
 
 # game/freeRoamingLabels.rpy:1242
 translate arabic lunaDaily1Menu_691d7548:
 
     # "I can feel her heartbeat. She really is not used to hugs. I wonder why? She is a pretty girl, surely there must've been one or two guys in her life..."
-    "I can feel her heartbeat. She really is not used to hugs. I wonder why? She is a pretty girl, surely there must've been one or two guys in her life..."
+    "أستطيع أن أشعر بنبض قلبها. لا بد أنها ليست معتادةً عليه أبداً. أتساءل لماذا؟ إنها فتاة جميلة، لقد مر عليها شاب او شابين على الأقل بالطبع..."
 
 # game/freeRoamingLabels.rpy:1244
 translate arabic lunaDaily1Menu_07c5924d:
 
     # "I wonder..."
-    "I wonder..."
+    "هممم..."
 
 # game/freeRoamingLabels.rpy:1248
 translate arabic lunaDaily1Menu_56a9f6ba:
 
     # lu "{size=15}Mhmm...{/size}"
-    lu "{size=15}Mhmm...{/size}"
+    lu "{size=15}ااهممم{/size}"
 
 # game/freeRoamingLabels.rpy:1249
 translate arabic lunaDaily1Menu_14d38038:
 
     # "I'm pretty sure she just moaned."
-    "I'm pretty sure she just moaned."
+    "أنا واثق من أنها تأوهت لتوها."
 
 # game/freeRoamingLabels.rpy:1250
 translate arabic lunaDaily1Menu_f478cc35:
 
     # pov "See, a hug is not bad, eh?"
-    pov "See, a hug is not bad, eh?"
+    pov "أترين؟ الحضن ليس بهذا السوء ها؟"
 
 # game/freeRoamingLabels.rpy:1253
 translate arabic lunaDaily1Menu_7dbb54d4:
 
     # lu "Well... It's nice..."
-    lu "Well... It's nice..."
+    lu "اممم... إنه جيد...."
 
 # game/freeRoamingLabels.rpy:1258
 translate arabic lunaDaily1Menu_5a76d5b1:
 
     # lu "{size=15}Ahh...{/size}"
-    lu "{size=15}Ahh...{/size}"
+    lu "{size=15}آااه...{/size}"
 
 # game/freeRoamingLabels.rpy:1267
 translate arabic lunaDaily1Menu_1635442b:
 
     # pov "And just so you know, I'm not doing this to get 'employee of the month'. But just remember me if you're going to vote for one."
-    pov "And just so you know, I'm not doing this to get 'employee of the month'. But just remember me if you're going to vote for one."
+    pov "ولعلمك فقط، أنا لا أفعل هذا لأحصل على وسام موظف الشهر... ولكن تذكريني إن كنتي ستصوتي."
 
 # game/freeRoamingLabels.rpy:1269
 translate arabic lunaDaily1Menu_9981e7c8:
 
     # lu "Haha, I don't really think we have something like that here."
-    lu "Haha, I don't really think we have something like that here."
+    lu "ههههه، لا أظن بأن لدينا شيئاً كهذا."
 
 # game/freeRoamingLabels.rpy:1270
 translate arabic lunaDaily1Menu_7396820d:
 
     # pov "Well, there goes my master plan."
-    pov "Well, there goes my master plan."
+    pov "اللعنة، لقد فشلت الخطة..."
 
 # game/freeRoamingLabels.rpy:1272
 translate arabic lunaDaily1Menu_cd400a6f:
 
     # lu "Haha!"
-    lu "Haha!"
+    lu "ههههههههههههه"
 
 # game/freeRoamingLabels.rpy:1273
 translate arabic lunaDaily1Menu_c15cc7d6:
@@ -4090,37 +4090,37 @@ translate arabic lunaDaily1Menu_c15cc7d6:
 translate arabic lunaDaily1Menu_70b5ed8b:
 
     # lu "...You really are a weird one."
-    lu "...You really are a weird one."
+    lu "...أنت غريب حقاً."
 
 # game/freeRoamingLabels.rpy:1282
 translate arabic lunaDaily1Menu_c6798882:
 
     # pov "Is that a bad thing?"
-    pov "Is that a bad thing?"
+    pov "هل هذا سيء؟"
 
 # game/freeRoamingLabels.rpy:1283
 translate arabic lunaDaily1Menu_d3466f6a:
 
     # lu "...{w}No.{w=0}"
-    lu "...{w}No.{w=0}"
+    lu "لا..."
 
 # game/freeRoamingLabels.rpy:1293
 translate arabic lunaDaily1Menu_ce5aacc6:
 
     # "I'm getting hard... Maybe I should stop."
-    "I'm getting hard... Maybe I should stop."
+    "بدأ قضيبي بالإنتصاب، ربما حان وقت التوقف"
 
 # game/freeRoamingLabels.rpy:1295
 translate arabic lunaDaily1Menu_79eef259:
 
     # lu "*Moan*..."
-    lu "*Moan*..."
+    lu "أممم آه"
 
 # game/freeRoamingLabels.rpy:1296
 translate arabic lunaDaily1Menu_b1578f43:
 
     # "Is she grinding against my crotch?"
-    "Is she grinding against my crotch?"
+    "أهي تحك فخذها بقضيبي؟"
 
 # game/freeRoamingLabels.rpy:1319
 translate arabic lunaDaily1Menu_46762c5f:
@@ -4132,13 +4132,13 @@ translate arabic lunaDaily1Menu_46762c5f:
 translate arabic lunaDaily1Menu_1f4dd829:
 
     # lu "Hey! Stop that!!"
-    lu "Hey! Stop that!!"
+    lu "هيه! توقف عن هذا!!"
 
 # game/freeRoamingLabels.rpy:1324
 translate arabic lunaDaily1Menu_d21382be:
 
     # pov "I'm sorry. I got carried away."
-    pov "I'm sorry. I got carried away."
+    pov "أنا آسف. لقد انجرفت لا أكثر."
 
 # game/freeRoamingLabels.rpy:1325
 translate arabic lunaDaily1Menu_c15cc7d6_1:
@@ -4150,85 +4150,85 @@ translate arabic lunaDaily1Menu_c15cc7d6_1:
 translate arabic lunaDaily1Menu_c3344e66:
 
     # lu "I didn't like that..."
-    lu "I didn't like that..."
+    lu "لم يعجبني هذا..."
 
 # game/freeRoamingLabels.rpy:1328
 translate arabic lunaDaily1Menu_447ba649:
 
     # lu "You can't just touch people like that..."
-    lu "You can't just touch people like that..."
+    lu "لا يمكنك أن تفعل هذا فجأة..!"
 
 # game/freeRoamingLabels.rpy:1329
 translate arabic lunaDaily1Menu_b5c5c0d1:
 
     # "I kind of thought she would be madder... She seems more disappointed than anything."
-    "I kind of thought she would be madder... She seems more disappointed than anything."
+    "ظننت أنها ستكون غاضبةً، وولكنها تبدو محبطة أكثر..."
 
 # game/freeRoamingLabels.rpy:1330
 translate arabic lunaDaily1Menu_1237144e:
 
     # pov "I promise I won't do it again."
-    pov "I promise I won't do it again."
+    pov "أعدكِ بأني لن أفعل هذا مجدداً."
 
 # game/freeRoamingLabels.rpy:1331
 translate arabic lunaDaily1Menu_325bce64:
 
     # lu "Okay then..."
-    lu "Okay then..."
+    lu "حسناً..."
 
 # game/freeRoamingLabels.rpy:1334
 translate arabic lunaDaily1Menu_a54c8446:
 
     # "Let's see how she reacts to this."
-    "Let's see how she reacts to this."
+    "فلنرى كيف ستشعر تجاه هذا..."
 
 # game/freeRoamingLabels.rpy:1337
 translate arabic lunaDaily1Menu_aa2f47d0:
 
     # "She doesn't seem to mind."
-    "She doesn't seem to mind."
+    "لا يبدو أنها تمانع الأمر..."
 
 # game/freeRoamingLabels.rpy:1341
 translate arabic lunaDaily1Menu_8a3db045:
 
     # lu "Thank you again, [povname]."
-    lu "Thank you again, [povname]."
+    lu "شكراً مجددا يا [povname]."
 
 # game/freeRoamingLabels.rpy:1344
 translate arabic lunaDaily1Menu_f5035f51:
 
     # lu "But please don't touch me like that again..."
-    lu "But please don't touch me like that again..."
+    lu "ولكن أرجوك، لا تفعل هذا مجدداً..."
 
 # game/freeRoamingLabels.rpy:1345
 translate arabic lunaDaily1Menu_c3b2a503:
 
     # pov "It was my bad, I completely misread the situation."
-    pov "It was my bad, I completely misread the situation."
+    pov "كان هذا خطأً مني، أنا آسف."
 
 # game/freeRoamingLabels.rpy:1348
 translate arabic lunaDaily1Menu_82984066:
 
     # lu "It's okay. Beside you helped me with getting back my knife."
-    lu "It's okay. Beside you helped me with getting back my knife."
+    lu "لا مشكلة، كما أنك ساعدتني بالحصول على السكينة..."
 
 # game/freeRoamingLabels.rpy:1349
 translate arabic lunaDaily1Menu_7f9d844a:
 
     # lu "Really, thank you for doing that."
-    lu "Really, thank you for doing that."
+    lu "فعلاً، شكراً على هذا."
 
 # game/freeRoamingLabels.rpy:1350
 translate arabic lunaDaily1Menu_efb31fa2:
 
     # pov "Hey, I got a hug from a pretty girl so I say we're even."
-    pov "Hey, I got a hug from a pretty girl so I say we're even."
+    pov "هيه، لقد حضنتني فتاة جميلة لذا فنحن متعادلان"
 
 # game/freeRoamingLabels.rpy:1351
 translate arabic lunaDaily1Menu_3c7fa8be:
 
     # lu "You're so silly..."
-    lu "You're so silly..."
+    lu "أنت سخيف..."
 
 # game/freeRoamingLabels.rpy:1352
 translate arabic lunaDaily1Menu_b8d74763:
