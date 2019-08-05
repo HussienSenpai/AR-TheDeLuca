@@ -4,67 +4,67 @@
 translate arabic bathBoom_71d8f635:
 
     # gc "This is going to be amazing!"
-    gc "This is going to be amazing!"
+    gc "سيكون هذا ممتعاً!"
 
 # game/sideEvents.rpy:5
 translate arabic bathBoom_953ba315:
 
     # "Hmm?"
-    "Hmm?"
+    "همم؟"
 
 # game/sideEvents.rpy:6
 translate arabic bathBoom_f492fc0a:
 
     # "Did I just hear something?"
-    "Did I just hear something?"
+    "ما هذا الصوت؟"
 
 # game/sideEvents.rpy:9
 translate arabic bathBoom_e515a454:
 
     # gc "Are you sure it will work? I'm still traumatized from the last time!"
-    gc "Are you sure it will work? I'm still traumatized from the last time!"
+    gc "هل أنتِ واثقة من أن هذا سيعمل؟ ما زلت مصدومة من المرة الماضية!"
 
 # game/sideEvents.rpy:10
 translate arabic bathBoom_116c3707:
 
     # lu "Of course, a guy I know helped me make it."
-    lu "Of course, a guy I know helped me make it."
+    lu "بالطبع، أخبرني شخص أعرفه عن هذه الطريقة."
 
 # game/sideEvents.rpy:11
 translate arabic bathBoom_243ac6ee:
 
     # "What's going on? It's coming from the bathroom."
-    "What's going on? It's coming from the bathroom."
+    "ما الذي يجري؟ الصوت قادم من الحمام."
 
 # game/sideEvents.rpy:12
 translate arabic bathBoom_1e6ae788:
 
     # gc "Oh? Luna, the paint is boiling. Is that supposed to happen?"
-    gc "Oh? Luna, the paint is boiling. Is that supposed to happen?"
+    gc "أوه؟ لونا إن الطلاء يغلي، أهذا طبيعي؟!"
 
 # game/sideEvents.rpy:13
 translate arabic bathBoom_55dbc69f:
 
     # lu "Hm?"
-    lu "Hm?"
+    lu "ماذا؟!"
 
 # game/sideEvents.rpy:14
 translate arabic bathBoom_b89af820:
 
     # lu "Uh-oh..."
-    lu "Uh-oh..."
+    lu "أو-أوه!"
 
 # game/sideEvents.rpy:15
 translate arabic bathBoom_b69553e2:
 
     # lu "RUN!"
-    lu "RUN!"
+    lu "إهربي!"
 
 # game/sideEvents.rpy:16
 translate arabic bathBoom_d6355631:
 
     # gc "Ah!!"
-    gc "Ah!!"
+    gc "آااه!"
 
 # game/sideEvents.rpy:21
 translate arabic bathBoom_d1f0e050:
@@ -76,67 +76,67 @@ translate arabic bathBoom_d1f0e050:
 translate arabic bathBoom_3f68666c:
 
     # pov "What's going on?"
-    pov "What's going on?"
+    pov "ما الذي يحصل؟؟"
 
 # game/sideEvents.rpy:24
 translate arabic bathBoom_43c23ed9:
 
     # wf "This again..."
-    wf "This again..."
+    wf "إنكم تفعلون هذا مجدداً؟!"
 
 # game/sideEvents.rpy:28
 translate arabic bathBoom_d58df7de:
 
     # lu "Oh, my! What happened here!?"
-    lu "Oh, my! What happened here!?"
+    lu "يا إلهي، مالذي حصل هنا؟"
 
 # game/sideEvents.rpy:29
 translate arabic bathBoom_0ed1ba23:
 
     # gc "Geez! I'm in shock. I wonder what is going on!?"
-    gc "Geez! I'm in shock. I wonder what is going on!?"
+    gc "ياللهول! ما الذي يحصل هنا؟"
 
 # game/sideEvents.rpy:31
 translate arabic bathBoom_e29d2de9:
 
     # lu "I came the moment I heard a weird explosion!"
-    lu "I came the moment I heard a weird explosion!"
+    lu "لقد أتيت هنا عند سماعي للإنفجار!"
 
 # game/sideEvents.rpy:32
 translate arabic bathBoom_7e88cfe3:
 
     # gc "Yeah! Same!"
-    gc "Yeah! Same!"
+    gc "نعم! حتى أنا!"
 
 # game/sideEvents.rpy:33
 translate arabic bathBoom_908f7794:
 
     # lu "Are you okay, Gracie?"
-    lu "Are you okay, Gracie?"
+    lu "هل أنت بخير يا قرايسي؟"
 
 # game/sideEvents.rpy:34
 translate arabic bathBoom_0cbe8beb:
 
     # gc "I'm okay, Luna!"
-    gc "I'm okay, Luna!"
+    gc "نعم أنا بخير!"
 
 # game/sideEvents.rpy:35
 translate arabic bathBoom_cd776040:
 
     # gc "Are you okay!?"
-    gc "Are you okay!?"
+    gc "هل أنت بخير؟"
 
 # game/sideEvents.rpy:36
 translate arabic bathBoom_a085f02b:
 
     # lu "I'm okay too!"
-    lu "I'm okay too!"
+    lu "أنا بخير أيضاً!"
 
 # game/sideEvents.rpy:37
 translate arabic bathBoom_bd76ffb9:
 
     # "What supreme acting skills these two have..."
-    "What supreme acting skills these two have..."
+    "واو، يالها من خبرة في التمثيل..."
 
 # game/sideEvents.rpy:38
 translate arabic bathBoom_93923469:
@@ -148,163 +148,163 @@ translate arabic bathBoom_93923469:
 translate arabic bathBoom_03550d92:
 
     # lu "Well, now we've concluded the safety of everyone here, let's just go on with our lives like this never happened."
-    lu "Well, now we've concluded the safety of everyone here, let's just go on with our lives like this never happened."
+    lu "حسناً، بما أننا تأكدنا من أن الجميع بخير، فلنذهب ونتابع حياتنا كأن شيئاً لم يحصل."
 
 # game/sideEvents.rpy:42
 translate arabic bathBoom_3f5e480d:
 
     # gc "With you on that, sis."
-    gc "With you on that, sis."
+    gc "أتفق معك يا أختي."
 
 # game/sideEvents.rpy:43
 translate arabic bathBoom_b5688d87:
 
     # gc "Out of mind, out of sight."
-    gc "Out of mind, out of sight."
+    gc "حان وقت الذهاب."
 
 # game/sideEvents.rpy:44
 translate arabic bathBoom_6ee817f9:
 
     # gc "Bye."
-    gc "Bye."
+    gc "وداعاً."
 
 # game/sideEvents.rpy:45
 translate arabic bathBoom_6e92dadb:
 
     # wf "Hold on."
-    wf "Hold on."
+    wf "توقفي عندك."
 
 # game/sideEvents.rpy:46
 translate arabic bathBoom_f4b6ea84:
 
     # lu "Oh? You need anything from us, dear Uncle?"
-    lu "Oh? You need anything from us, dear Uncle?"
+    lu "أتحتاج منا شيئاً يا عمي؟"
 
 # game/sideEvents.rpy:47
 translate arabic bathBoom_01077c75:
 
     # gc "We're here to serve."
-    gc "We're here to serve."
+    gc "نحن جاهزون للخدمة."
 
 # game/sideEvents.rpy:48
 translate arabic bathBoom_75027a6f:
 
     # wf "This has to stop. It is the third time."
-    wf "This has to stop. It is the third time."
+    wf "عليكم أن تتوقفوا عن هذا، هذه المرة الثالثة."
 
 # game/sideEvents.rpy:49
 translate arabic bathBoom_fd81609e:
 
     # pov "Third time? Lady Cordia is more lenient than I expected her to be."
-    pov "Third time? Lady Cordia is more lenient than I expected her to be."
+    pov "ثالث مرة؟ يبدو أن السيدة كورديا متساهلة أكثر مما تخيلت."
 
 # game/sideEvents.rpy:50
 translate arabic bathBoom_a8477042:
 
     # gc "Ehehe, totally not the time for such comments..."
-    gc "Ehehe, totally not the time for such comments..."
+    gc "هيهيهي، هذا ليس وقتاً مناسباً يا [povname]..."
 
 # game/sideEvents.rpy:51
 translate arabic bathBoom_e1c122d3:
 
     # wf "He is correct."
-    wf "He is correct."
+    wf "إنه محق."
 
 # game/sideEvents.rpy:52
 translate arabic bathBoom_11013f7c:
 
     # wf "You were told last time, if you blow up the bathroom again, there will be consequences."
-    wf "You were told last time, if you blow up the bathroom again, there will be consequences."
+    wf "لقد حذرتكم في المرة الماضية، سيكون هناك عواقب إذا فجرتم الحمام مرة أخرى."
 
 # game/sideEvents.rpy:55
 translate arabic bathBoom_f8e65959:
 
     # lu "How can you think we've anything to do with this?"
-    lu "How can you think we've anything to do with this?"
+    lu "كيف لك أن تظن بأن لنا علاقة بهذا؟"
 
 # game/sideEvents.rpy:56
 translate arabic bathBoom_8fa9f1fe:
 
     # gc "I'm sorry Uncle Wilfred, but you are breaking my heart."
-    gc "I'm sorry Uncle Wilfred, but you are breaking my heart."
+    gc "آسفة يا عم ويلفريد، ولكنك جرحت مشاعري."
 
 # game/sideEvents.rpy:57
 translate arabic bathBoom_1e875187:
 
     # wf "The only thing that is broken is the bathroom because you two find it necessary to use explosives to paint the bathroom pink."
-    wf "The only thing that is broken is the bathroom because you two find it necessary to use explosives to paint the bathroom pink."
+    wf "الشيء الوحيد المتضرر هنا هو هذا الحمام، لأنكم وجدتما أنه من الضروري إستخدام القنابل لطلاءه باللون الزهري"
 
 # game/sideEvents.rpy:59
 translate arabic bathBoom_c32af7be:
 
     # lu "It's called being innovative."
-    lu "It's called being innovative."
+    lu "هذا يسمى إبداعاً."
 
 # game/sideEvents.rpy:61
 translate arabic bathBoom_89118ae6:
 
     # gc "We're smart."
-    gc "We're smart."
+    gc "نعم، نحن أذكياء."
 
 # game/sideEvents.rpy:62
 translate arabic bathBoom_37ec18a0:
 
     # wf "I will have a talk with Lady Cordia to find a proper punishment for the both of you..."
-    wf "I will have a talk with Lady Cordia to find a proper punishment for the both of you..."
+    wf "علي أن أتحدث مع السيدة كورديا لإيجاد عقاب مناسب لكما..."
 
 # game/sideEvents.rpy:63
 translate arabic bathBoom_db95f44a:
 
     # wf "Now, go to your rooms and change into something decent. If you have noticed, there is a gentleman in our presence."
-    wf "Now, go to your rooms and change into something decent. If you have noticed, there is a gentleman in our presence."
+    wf "إذهبا وغيرا ملابسكما لشيء محترم، كما ترون فإنكما لستما وحيدتين بعد الآن، أصبح معكم السيد [povname]."
 
 # game/sideEvents.rpy:66
 translate arabic bathBoom_3f10fefa:
 
     # "Well, at least they tried..."
-    "Well, at least they tried..."
+    "حسناً، لقد حاولا على الأٌقل..."
 
 # game/sideEvents.rpy:68
 translate arabic bathBoom_06bed596:
 
     # "{b}*Some time later*{/b}"
-    "{b}*Some time later*{/b}"
+    "{b}*بعد مدة من الوقت*{/b}"
 
 # game/sideEvents.rpy:74
 translate arabic bathBoom_a951c0c9:
 
     # lu "Uncle, I just want to say that Gracie and I have been thinking about what we've done."
-    lu "Uncle, I just want to say that Gracie and I have been thinking about what we've done."
+    lu "عمي، لقد تحدثنا أنا وقرايسي عما فعلناه"
 
 # game/sideEvents.rpy:75
 translate arabic bathBoom_78a9c6b7:
 
     # gc "Lots of thinking."
-    gc "Lots of thinking."
+    gc "وقد فكرنا به كثيراً."
 
 # game/sideEvents.rpy:76
 translate arabic bathBoom_ba2d5d0c:
 
     # lu "And we're very ashamed."
-    lu "And we're very ashamed."
+    lu "نحن نشعر بالعار."
 
 # game/sideEvents.rpy:77
 translate arabic bathBoom_c2082aaf:
 
     # gc "Lots of shame."
-    gc "Lots of shame."
+    gc "كثير من العار."
 
 # game/sideEvents.rpy:78
 translate arabic bathBoom_6af300bd:
 
     # lu "We have then concluded, the sadness and shame we experienced is such a punishment in itself, that we do not need any further punishment."
-    lu "We have then concluded, the sadness and shame we experienced is such a punishment in itself, that we do not need any further punishment."
+    lu "وقد توصلنا إلى أن الحزن والعار اللذان نواجههما يعتبران عقاباً كافياً لنا، مما يعني أنا لا نحتاج لعقاب آخر."
 
 # game/sideEvents.rpy:79
 translate arabic bathBoom_49632c5e:
 
     # gc "Absolutely no punishment needed."
-    gc "Absolutely no punishment needed."
+    gc "نعم، لا حاجة للعقاب."
 
 # game/sideEvents.rpy:80
 translate arabic bathBoom_93923469_1:
@@ -316,97 +316,97 @@ translate arabic bathBoom_93923469_1:
 translate arabic bathBoom_b061663c:
 
     # wf "I told her what you said, [povname]. That how you think she is a 'big softie' and therefore indecisive on how to properly handle the different situations her daughters tend to cause."
-    wf "I told her what you said, [povname]. That how you think she is a 'big softie' and therefore indecisive on how to properly handle the different situations her daughters tend to cause."
+    wf "[povname]، لقد قلت للسيدة كورديا ما قلته مسبقاً عن أنك تظنها متساهلة وغير حاسمة في التعامل مع المواقف التي يسببها هاتين الإثنتين "
 
 # game/sideEvents.rpy:82
 translate arabic bathBoom_bface619:
 
     # "That's not what I said!"
-    "That's not what I said!"
+    "لم أقل هذا!"
 
 # game/sideEvents.rpy:83
 translate arabic bathBoom_d49bf42e:
 
     # pov "Uhm, I think you may have misheard me."
-    pov "Uhm, I think you may have misheard me."
+    pov "امم، أظن أنك أسأت فهمي."
 
 # game/sideEvents.rpy:84
 translate arabic bathBoom_b1173472:
 
     # wf "She agrees with you."
-    wf "She agrees with you."
+    wf "إنها تتفق معك."
 
 # game/sideEvents.rpy:85
 translate arabic bathBoom_c9f353ac:
 
     # pov "She does?"
-    pov "She does?"
+    pov "فعلاً؟"
 
 # game/sideEvents.rpy:86
 translate arabic bathBoom_e5dca50e:
 
     # wf "Yes."
-    wf "Yes."
+    wf "نعم."
 
 # game/sideEvents.rpy:87
 translate arabic bathBoom_db534116:
 
     # wf "Luna. Gracie. Your mother has decided to not fix the bathroom again."
-    wf "Luna. Gracie. Your mother has decided to not fix the bathroom again."
+    wf "لونا وقرايسي. لقد قررت السيدة كورديا أن لا تصلح الحمام مجدداً.
 
 # game/sideEvents.rpy:89
 translate arabic bathBoom_243e4014:
 
     # lu "Uhm? Well, that's a weird decision..."
-    lu "Uhm? Well, that's a weird decision..."
+    lu "ماذا..؟ هذا قرار غريب..."
 
 # game/sideEvents.rpy:90
 translate arabic bathBoom_8003182d:
 
     # lu "What then? Are we supposed to use brother's and Isa's bathroom?"
-    lu "What then? Are we supposed to use brother's and Isa's bathroom?"
+    lu "وماذا إذاً؟ أسنستخدم حمام أنطونيو وإيزابيل؟"
 
 # game/sideEvents.rpy:92
 translate arabic bathBoom_0078bc7a:
 
     # gc "Don't wanna!"
-    gc "Don't wanna!"
+    gc "لا أريد هذا!"
 
 # game/sideEvents.rpy:93
 translate arabic bathBoom_5fd44b91:
 
     # wf "Of course not, Antonio would have a tantrum if the two of you were going to use it."
-    wf "Of course not, Antonio would have a tantrum if the two of you were going to use it."
+    wf "لا طبعاً. سيغضب أنطونيو إذا فعلنا هذا."
 
 # game/sideEvents.rpy:94
 translate arabic bathBoom_d00eb15f:
 
     # wf "You will be using the bathroom in [povname]'s room."
-    wf "You will be using the bathroom in [povname]'s room."
+    wf "ستسخدموا الحمام الموجود في غرفة [povname]."
 
 # game/sideEvents.rpy:95
 translate arabic bathBoom_22544ade:
 
     # "Eh?"
-    "Eh?"
+    "!!"
 
 # game/sideEvents.rpy:98
 translate arabic bathBoom_7e0fd9e2:
 
     # lu "Huh?"
-    lu "Huh?"
+    lu "هاه؟"
 
 # game/sideEvents.rpy:99
 translate arabic bathBoom_6354c917:
 
     # gc "...?"
-    gc "...?"
+    gc "...؟"
 
 # game/sideEvents.rpy:100
 translate arabic bathBoom_ac245ee0:
 
     # pov "Uhm..."
-    pov "Uhm..."
+    pov "إحم..."
 
 # game/sideEvents.rpy:101
 translate arabic bathBoom_c15cc7d6:
@@ -424,13 +424,13 @@ translate arabic bathBoom_25a8dc29:
 translate arabic bathBoom_70a0fe39:
 
     # lu "Hahahaha, that was a good one Uncle!"
-    lu "Hahahaha, that was a good one Uncle!"
+    lu "هههههههههه، نكتة جيدة يا عمي!"
 
 # game/sideEvents.rpy:106
 translate arabic bathBoom_7a5f0ae0:
 
     # gc "You had me going for a second there, ahahaha!"
-    gc "You had me going for a second there, ahahaha!"
+    gc "كدت أن أصدق هذا! هههههههه"
 
 # game/sideEvents.rpy:107
 translate arabic bathBoom_93923469_2:
@@ -442,19 +442,19 @@ translate arabic bathBoom_93923469_2:
 translate arabic bathBoom_793ccaea:
 
     # lu "Hahahaha."
-    lu "Hahahaha."
+    lu "هههههههه"
 
 # game/sideEvents.rpy:109
 translate arabic bathBoom_c4774b28:
 
     # lu "Haha..."
-    lu "Haha..."
+    lu "ههههه..."
 
 # game/sideEvents.rpy:110
 translate arabic bathBoom_160bdf19:
 
     # lu "Ha?"
-    lu "Ha?"
+    lu "هه؟"
 
 # game/sideEvents.rpy:111
 translate arabic bathBoom_c15cc7d6_1:
@@ -466,85 +466,85 @@ translate arabic bathBoom_c15cc7d6_1:
 translate arabic bathBoom_4b0e827b:
 
     # lu "I think he is serious Gracie."
-    lu "I think he is serious Gracie."
+    lu "أظن أنه جاد يا قرايسي..."
 
 # game/sideEvents.rpy:115
 translate arabic bathBoom_85f5442b:
 
     # gc "No way..."
-    gc "No way..."
+    gc "مستحيل!"
 
 # game/sideEvents.rpy:116
 translate arabic bathBoom_03e984cb:
 
     # wf "Our dear Luna is correct."
-    wf "Our dear Luna is correct."
+    wf "عزيزتي لونا محقة."
 
 # game/sideEvents.rpy:118
 translate arabic bathBoom_c6ee6bd5:
 
     # lu "We can't use [povname]'s bathroom!"
-    lu "We can't use [povname]'s bathroom!"
+    lu "لا نستطيع استخدام حمام [povname]!"
 
 # game/sideEvents.rpy:120
 translate arabic bathBoom_ef69fb55:
 
     # gc "There are no doors in that bathroom! What if he peeks?"
-    gc "There are no doors in that bathroom! What if he peeks?"
+    gc "لا يوجد أبواب في حمامه! ماذا لو تجسس علينا؟"
 
 # game/sideEvents.rpy:121
 translate arabic bathBoom_556c1b85:
 
     # wf "Your Mother has already thought about that and how to handle it."
-    wf "Your Mother has already thought about that and how to handle it."
+    wf "لقد فكرت السيدة كورديا بهذا الفعل."
 
 # game/sideEvents.rpy:122
 translate arabic bathBoom_9483487c:
 
     # wf "So, [povname]. I was ordered to give you some instructions."
-    wf "So, [povname]. I was ordered to give you some instructions."
+    wf "لذا يا [povname]، فقد طلب مني أن أعطيك بعض التعليمات."
 
 # game/sideEvents.rpy:123
 translate arabic bathBoom_96ca26ce:
 
     # pov "Okay."
-    pov "Okay."
+    pov "حسناً."
 
 # game/sideEvents.rpy:124
 translate arabic bathBoom_db5fb3ad:
 
     # wf "This is for you."
-    wf "This is for you."
+    wf "هذه لك."
 
 # game/sideEvents.rpy:125
 translate arabic bathBoom_addafdd3:
 
     # "{b}*Received Instruction letter*{/b}"
-    "{b}*Received Instruction letter*{/b}"
+    "{b}*حصلت على رسالة تعليمات.*{/b}"
 
 # game/sideEvents.rpy:126
 translate arabic bathBoom_16d2f678:
 
     # pov "Let's see now..."
-    pov "Let's see now..."
+    pov "فلنرى هذا..."
 
 # game/sideEvents.rpy:127
 translate arabic bathBoom_c252643f:
 
     # "'{i}Don't peek - Cordia{/i}'"
-    "'{i}Don't peek - Cordia{/i}'"
+    "'{i}لا تجسس \n - السيدة كورديا{/i}'"
 
 # game/sideEvents.rpy:128
 translate arabic bathBoom_f0b977a2:
 
     # "Is this really... The instructions...?"
-    "Is this really... The instructions...?"
+    "أهذه هي التعليمات حقاً؟؟"
 
 # game/sideEvents.rpy:130
 translate arabic bathBoom_c4461d5b:
 
     # lu "So? What're the instructions?"
-    lu "So? What're the instructions?"
+    lu "إذاً؟ ما هي التعليمات؟؟"
 
 # game/sideEvents.rpy:131
 translate arabic bathBoom_ac245ee0_1:
