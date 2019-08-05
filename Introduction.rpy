@@ -2703,7 +2703,7 @@ translate arabic luna_housetour_67958779:
 translate arabic luna_housetour_acf5ccdc:
 
     # lu "I think we got it all. We may have missed a room or two, but you'll get to them eventually."
-    lu "أظن أننا انتهينا، قد أكون فوت غرفة أو غرفتين، ولكنك ستجدهم لاحقاً."
+    lu "أظن أننا انتهينا، قد أكون قد نسيت غرفة أو اثنتين، ولكنك ستجدهم لاحقاً."
 
 # game/Introduction.rpy:678
 translate arabic luna_housetour_96ca26ce:
