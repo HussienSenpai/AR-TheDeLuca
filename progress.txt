@@ -1,6 +1,7 @@
 5/8
 
 1155 lines translated - Introduction 100% (2788/2788)
+1005 lines translated - freeRoamingLabels 31.73% (4231/13333)
 
 revised script - final revision needed
 revised InfoScreen - final revision needed    
