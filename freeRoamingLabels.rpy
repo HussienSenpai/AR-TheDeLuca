@@ -1096,7 +1096,7 @@ translate arabic ludaily1_4cf368e7:
 translate arabic ludaily1_b201165e:
 
     # lu "Checking myself out, cleaning my room, cleaning my guns and posing for no real reason."
-    lu "أتأمل في نفسي، أنظف الغرفة، أنظف الأسلحة و أقوم بمختلف الوضعيات أما المرآة بلا سبب"
+    lu "أتأمل في نفسي، أنظف الغرفة، أنظف الأسلحة و أقوم بمختلف الوضعيات أمام المرآة بلا سبب"
 
 # game/freeRoamingLabels.rpy:547
 translate arabic ludaily1_b9ad17ec:
