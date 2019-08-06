@@ -82,7 +82,7 @@ translate arabic bathBoom_3f68666c:
 translate arabic bathBoom_43c23ed9:
 
     # wf "This again..."
-    wf "إنكم تفعلون هذا مجدداً؟!"
+    wf "أتفعلون هذا مجدداً؟!"
 
 # game/sideEvents.rpy:28
 translate arabic bathBoom_d58df7de:
@@ -172,7 +172,7 @@ translate arabic bathBoom_6ee817f9:
 translate arabic bathBoom_6e92dadb:
 
     # wf "Hold on."
-    wf "توقفي عندك."
+    wf "توقفوا عندكم."
 
 # game/sideEvents.rpy:46
 translate arabic bathBoom_f4b6ea84:
@@ -262,7 +262,7 @@ translate arabic bathBoom_db95f44a:
 translate arabic bathBoom_3f10fefa:
 
     # "Well, at least they tried..."
-    "حسناً، لقد حاولا على الأٌقل..."
+    "حسناً، لقد حاولا على الأقل..."
 
 # game/sideEvents.rpy:68
 translate arabic bathBoom_06bed596:
@@ -352,7 +352,7 @@ translate arabic bathBoom_e5dca50e:
 translate arabic bathBoom_db534116:
 
     # wf "Luna. Gracie. Your mother has decided to not fix the bathroom again."
-    wf "لونا وقرايسي. لقد قررت السيدة كورديا أن لا تصلح الحمام مجدداً.
+    wf "لونا وقرايسي. لقد قررت السيدة كورديا أن لا تصلح الحمام مجدداً."
 
 # game/sideEvents.rpy:89
 translate arabic bathBoom_243e4014:
@@ -550,31 +550,31 @@ translate arabic bathBoom_c4461d5b:
 translate arabic bathBoom_ac245ee0_1:
 
     # pov "Uhm..."
-    pov "Uhm..."
+    pov "آاامم..."
 
 # game/sideEvents.rpy:132
 translate arabic bathBoom_ade12468:
 
     # lu "Let me see that letter."
-    lu "Let me see that letter."
+    lu "دعني أرى الرسالة."
 
 # game/sideEvents.rpy:133
 translate arabic bathBoom_0b4bb7ef:
 
     # pov "Sure..."
-    pov "Sure..."
+    pov "حسناً..."
 
 # game/sideEvents.rpy:134
 translate arabic bathBoom_bf257862:
 
     # "{b}*Lost Instruction letter*{/b}"
-    "{b}*Lost Instruction letter*{/b}"
+    "{b}*فقدت رسالة التعليمات*{/b}"
 
 # game/sideEvents.rpy:135
 translate arabic bathBoom_9802ab34:
 
     # gc "Let me see too."
-    gc "Let me see too."
+    gc "دعيني أراها أنا أيضاً."
 
 # game/sideEvents.rpy:136
 translate arabic bathBoom_c15cc7d6_2:
@@ -592,19 +592,19 @@ translate arabic bathBoom_25a8dc29_1:
 translate arabic bathBoom_4b85a16b:
 
     # lu "HOW IS THIS HANDLING THE SITUATION?"
-    lu "HOW IS THIS HANDLING THE SITUATION?"
+    lu "كيف يعد هذا حلاً؟"
 
 # game/sideEvents.rpy:140
 translate arabic bathBoom_a3725a4b:
 
     # wf "This is the wish of Lady Cordia."
-    wf "This is the wish of Lady Cordia."
+    wf "هذه رغبات السيدة كورديا."
 
 # game/sideEvents.rpy:141
 translate arabic bathBoom_9d2dd239:
 
     # wf "And that is not all. She really took to heart what you said, [povname]."
-    wf "And that is not all. She really took to heart what you said, [povname]."
+    wf "كما أن كلامك قد أقنعها فعلاً يا [povname]"
 
 # game/sideEvents.rpy:142
 translate arabic bathBoom_c3ca3180:
@@ -616,85 +616,85 @@ translate arabic bathBoom_c3ca3180:
 translate arabic bathBoom_d6a185b0:
 
     # wf "Therefore, the punishment does not end with just this."
-    wf "Therefore, the punishment does not end with just this."
+    wf "لذا، فلن يكون هذا العقاب الوحيد."
 
 # game/sideEvents.rpy:144
 translate arabic bathBoom_db4efabb:
 
     # lu "More punishment!?"
-    lu "More punishment!?"
+    lu "هل هناك المزيد؟!"
 
 # game/sideEvents.rpy:145
 translate arabic bathBoom_e304e815:
 
     # wf "You will be sent to a specific location in a couple of days."
-    wf "You will be sent to a specific location in a couple of days."
+    wf "سنرسلكم إلى موقع معين بعد بضعة أيام."
 
 # game/sideEvents.rpy:146
 translate arabic bathBoom_a999d9d6:
 
     # wf "That is all, you're dismissed."
-    wf "That is all, you're dismissed."
+    wf "هذا كل شيء، تستطيعون الذهاب."
 
 # game/sideEvents.rpy:149
 translate arabic bathBoom_b03ab74c:
 
     # gc "This is all your fault, Luna!"
-    gc "This is all your fault, Luna!"
+    gc "هذا كله بسببك يا لونا!"
 
 # game/sideEvents.rpy:151
 translate arabic bathBoom_e86e8cdf:
 
     # lu "This sucks..."
-    lu "This sucks..."
+    lu "اللعنة..."
 
 # game/sideEvents.rpy:153
 translate arabic bathBoom_8e640726:
 
     # wf "[povname]. I don't think it is necessary to tell you this, but the consequences for peeking... Will be 'severe'."
-    wf "[povname]. I don't think it is necessary to tell you this, but the consequences for peeking... Will be 'severe'."
+    wf "[povname]، أظن أنك تعرف هذا بالفعل، ولكن عواقب التجسس ستكون.. وخيمة."
 
 # game/sideEvents.rpy:155
 translate arabic bathBoom_a62f437a:
 
     # pov "...Got it."
-    pov "...Got it."
+    pov "مفهوم."
 
 # game/sideEvents.rpy:164
 translate arabic questContractRead_db586de6:
 
     # "Time for some reading..."
-    "Time for some reading..."
+    "حان وقت القراءة..."
 
 # game/sideEvents.rpy:171
 translate arabic questContractRead_f547096d:
 
     # "Hmm... Nothing useful so far."
-    "Hmm... Nothing useful so far."
+    "همم.. لا شيء مفيد حتى الآن."
 
 # game/sideEvents.rpy:172
 translate arabic questContractRead_e0d63e20:
 
     # "I shouldn't get disheartened. There is still lot's of pages left."
-    "I shouldn't get disheartened. There is still lot's of pages left."
+    "علي أن لا أتوقف، ما زال هناك الكثير من الصفحات."
 
 # game/sideEvents.rpy:173
 translate arabic questContractRead_44fb48ab:
 
     # "Will try again tomorrow."
-    "Will try again tomorrow."
+    "سأقرأ المزيد غداً."
 
 # game/sideEvents.rpy:176
 translate arabic questContractRead_0462e6a1:
 
     # "Over halfway though and it's all just gibberish..."
-    "Over halfway though and it's all just gibberish..."
+    "قرأت نصف القوانين ولم أستفد شيئاً بعد..."
 
 # game/sideEvents.rpy:177
 translate arabic questContractRead_a2aae9b5:
 
     # "Should finish the rest tomorrow. Hopefully there be something in it I can use."
-    "Should finish the rest tomorrow. Hopefully there be something in it I can use."
+    "سأكمل الباقي غداً، آمل أن هناك شيء أستطيع استخدامه في صالحي."
 
 # game/sideEvents.rpy:180
 translate arabic questContractRead_eff15a99:
