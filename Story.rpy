@@ -4,73 +4,73 @@
 translate arabic story_continue_e32aaae4:
 
     # "It's late. Better do it tomorrow."
-    "It's late. Better do it tomorrow."
+    "إن الوقت متأخر، من الأفضل أن أفعلها غداً."
 
 # game/Story.rpy:17
 translate arabic story_continue_4f8d0219:
 
     # "*Requirement(s) not met. Check {b}'?' --> 'Events'{/b} to see what is needed to proceed.*"
-    "*Requirement(s) not met. Check {b}'?' --> 'Events'{/b} to see what is needed to proceed.*"
+    "*لا تتوفر لديك متطلبات المهمة، يرجى الحتقق من المتطلبات عن طريق الضغط على علامة الإستفهام ثم إختيار قائمة المهام*"
 
 # game/Story.rpy:21
 translate arabic story_continue_4f8d0219_1:
 
     # "*Requirement(s) not met. Check {b}'?' --> 'Events'{/b} to see what is needed to proceed.*"
-    "*Requirement(s) not met. Check {b}'?' --> 'Events'{/b} to see what is needed to proceed.*"
+    "*لا تتوفر لديك متطلبات المهمة، يرجى الحتقق من المتطلبات عن طريق الضغط على علامة الإستفهام ثم إختيار قائمة المهام*"
 
 # game/Story.rpy:32
 translate arabic story_continue_4f8d0219_2:
 
     # "*Requirement(s) not met. Check {b}'?' --> 'Events'{/b} to see what is needed to proceed.*"
-    "*Requirement(s) not met. Check {b}'?' --> 'Events'{/b} to see what is needed to proceed.*"
+    "*لا تتوفر لديك متطلبات المهمة، يرجى الحتقق من المتطلبات عن طريق الضغط على علامة الإستفهام ثم إختيار قائمة المهام*"
 
 # game/Story.rpy:48
 translate arabic story_continue_67579333:
 
     # "Nothing to do."
-    "Nothing to do."
+    "ليس لدي ما أفعله"
 
 # game/Story.rpy:55
 translate arabic story1_poison_9669eb13:
 
     # wf "Dinner is served. You will be dining with us."
-    wf "Dinner is served. You will be dining with us."
+    wf "الغداء جاهز، تعال وتغدى معنا."
 
 # game/Story.rpy:56
 translate arabic story1_poison_cf098b4b:
 
     # pov "With the other employees?"
-    pov "With the other employees?"
+    pov "مع الموظفين الآخرين؟"
 
 # game/Story.rpy:57
 translate arabic story1_poison_c4b9395b:
 
     # wf "No. With the Family."
-    wf "No. With the Family."
+    wf "لا، مع العائلة."
 
 # game/Story.rpy:58
 translate arabic story1_poison_7dbdd733:
 
     # pov "With the family? Why?"
-    pov "With the family? Why?"
+    pov "مع العائلة؟ لماذا؟"
 
 # game/Story.rpy:59
 translate arabic story1_poison_911b6a47:
 
     # wf "This is the wish of Lady Cordia. Now follow me."
-    wf "This is the wish of Lady Cordia. Now follow me."
+    wf "هذه رغبة السيدة كورديا، إتبعني."
 
 # game/Story.rpy:64
 translate arabic story1_poison_48fd2f45:
 
     # gc "Hahaha!"
-    gc "Hahaha!"
+    gc "هههههههه!"
 
 # game/Story.rpy:65
 translate arabic story1_poison_3733692f:
 
     # gc "And let me tell you what Luna did then!"
-    gc "And let me tell you what Luna did then!"
+    gc "اسمعي ماذا فعلت لونا بعدها!"
 
 # game/Story.rpy:66
 translate arabic story1_poison_a20cefa7:
@@ -82,49 +82,49 @@ translate arabic story1_poison_a20cefa7:
 translate arabic story1_poison_bc1a743d:
 
     # "Gracie is acting like we're lifelong friends."
-    "Gracie is acting like we're lifelong friends."
+    "قرايسي تتصرف وكأننا أصدقاء منذ الطفولة."
 
 # game/Story.rpy:68
 translate arabic story1_poison_4d21a1c7:
 
     # "Luna is talking about her last 'mission'."
-    "Luna is talking about her last 'mission'."
+    "لونا تتحدث عن مهمتها الأخيرة."
 
 # game/Story.rpy:69
 translate arabic story1_poison_46dad262:
 
     # "Antonio is talking with Lady Cordia about something. She doesn't really look like she cares."
-    "Antonio is talking with Lady Cordia about something. She doesn't really look like she cares."
+    "أنطونيو يتحدث مع السيدة كورديا عن شيء ما، ولكن لا يبدو أنها مهتمة."
 
 # game/Story.rpy:70
 translate arabic story1_poison_5c845170:
 
     # "Isabel is just listening without saying a word."
-    "Isabel is just listening without saying a word."
+    "إيزابيل لم تتحدث أبداً"
 
 # game/Story.rpy:71
 translate arabic story1_poison_90664532:
 
     # "At first, some of them were surprised that I was going to eat with them."
-    "At first, some of them were surprised that I was going to eat with them."
+    "كان بعضهم بالبداية متفاجئاً من قدومي هنا."
 
 # game/Story.rpy:72
 translate arabic story1_poison_24bd11f7:
 
     # "But one word from Lady Cordia was enough for them to ignore the situation."
-    "But one word from Lady Cordia was enough for them to ignore the situation."
+    "ولكن كلمة واحدة من السيدة كورديا كانت كافيةً لتجاهل الموضوع."
 
 # game/Story.rpy:73
 translate arabic story1_poison_03371fd8:
 
     # "And now here I am... Eating with them like it's the most normal thing in the world."
-    "And now here I am... Eating with them like it's the most normal thing in the world."
+    "وها أنا ذا الآن، آكل معهم وكأنه شيء طبيعي."
 
 # game/Story.rpy:74
 translate arabic story1_poison_79d52f57:
 
     # "I don't even see any other employees eating with us."
-    "I don't even see any other employees eating with us."
+    "أنا لا أرى أي موظف هنا حتى"
 
 # game/Story.rpy:75
 translate arabic story1_poison_a20cefa7_1:
@@ -136,109 +136,109 @@ translate arabic story1_poison_a20cefa7_1:
 translate arabic story1_poison_e78e7d98:
 
     # "It's lively though."
-    "It's lively though."
+    "ولكنها جلسة مفعمة بالحيوية بحق"
 
 # game/Story.rpy:78
 translate arabic story1_poison_108efc0b:
 
     # "Not used to this."
-    "Not used to this."
+    "لست معتاداً على هذا..."
 
 # game/Story.rpy:79
 translate arabic story1_poison_d6f6d480:
 
     # "People sitting around the table smiling, laughing, telling stories, and making fun of each other. A family."
-    "People sitting around the table smiling, laughing, telling stories, and making fun of each other. A family."
+    "جلسة كهذه، الكل يضحك ويتبادل القصص.. جلسة عائلية"
 
 # game/Story.rpy:80
 translate arabic story1_poison_c029b148:
 
     # "I wonder if that could've been my life..."
-    "I wonder if that could've been my life..."
+    "أتساءل إن ما كان ممكناً أن تكون حياتي كهذه..."
 
 # game/Story.rpy:81
 translate arabic story1_poison_6e4ea825:
 
     # cor "So, Gracie."
-    cor "So, Gracie."
+    cor "قرايسي"
 
 # game/Story.rpy:83
 translate arabic story1_poison_7b885227:
 
     # gc "Yes, mom."
-    gc "Yes, mom."
+    gc "نعم أمي؟"
 
 # game/Story.rpy:84
 translate arabic story1_poison_9e40e4ee:
 
     # cor "Tell me...{w} Are you excited about your new school?{w=0}"
-    cor "Tell me...{w} Are you excited about your new school?{w=0}"
+    cor "ما رأيك بمدرستك الجديدة؟"
 
 # game/Story.rpy:85
 translate arabic story1_poison_9ee873e2:
 
     # gc "Yes!"
-    gc "Yes!"
+    gc "إنها رائعة!"
 
 # game/Story.rpy:86
 translate arabic story1_poison_6ae77e08:
 
     # gc "The way they're teaching math is weird, but besides that it's good!"
-    gc "The way they're teaching math is weird, but besides that it's good!"
+    gc "طريقتهم بشرح الرياضيات غريبة ولكن بجانب هذا فإن كل شيء ممتاز!"
 
 # game/Story.rpy:87
 translate arabic story1_poison_74765e31:
 
     # gc "No one knows I am a DeLuca, so they're all talking to me!"
-    gc "No one knows I am a DeLuca, so they're all talking to me!"
+    gc "كما أن الطلاب لا يعرفوا أني من عائلة ديلوكا بعد، فما زالوا يكلمونني!"
 
 # game/Story.rpy:88
 translate arabic story1_poison_f442cc4d:
 
     # gc "Well, not all of them. But most of them!!"
-    gc "Well, not all of them. But most of them!!"
+    gc "ليس كلهم، ولكن أغلبهم!"
 
 # game/Story.rpy:89
 translate arabic story1_poison_f9fb6c30:
 
     # cor "That is good."
-    cor "That is good."
+    cor "هذا جيد."
 
 # game/Story.rpy:90
 translate arabic story1_poison_e3cc13b0:
 
     # gc "Don't get me wrong, Mother. I'm proud of being a DeLuca."
-    gc "Don't get me wrong, Mother. I'm proud of being a DeLuca."
+    gc "لا تفهميني خطأً يا أمي، أنا فخورة كوني من العائلة"
 
 # game/Story.rpy:91
 translate arabic story1_poison_0b931092:
 
     # gc "Just, it can be a bit... You know."
-    gc "Just, it can be a bit... You know."
+    gc "ولكن الأمر أحياناً قد يكون... أنت تعرفين ما أقصد."
 
 # game/Story.rpy:92
 translate arabic story1_poison_4c64dabf:
 
     # cor "I understand."
-    cor "I understand."
+    cor "نعم أنا أفهمك."
 
 # game/Story.rpy:93
 translate arabic story1_poison_fa4651d4:
 
     # gc "One girl was late because she forgot her backpack, so she went back home to get it, haha!"
-    gc "One girl was late because she forgot her backpack, so she went back home to get it, haha!"
+    gc "نست أحد الفتيات شنطتها في المنزل، فهرعت مسرعة إلى المنزل لتأخذها! ههههههه"
 
 # game/Story.rpy:94
 translate arabic story1_poison_3320acc0:
 
     # gc "She told me that. Well not me, but everyone in the class. But it was so funny!"
-    gc "She told me that. Well not me, but everyone in the class. But it was so funny!"
+    gc "قالت لي هذا.. ليس لي تحديداً ولكن للفصل كاملاً، ولكنها كانت مضحكة جدا!"
 
 # game/Story.rpy:95
 translate arabic story1_poison_d69f6057:
 
     # cor "I see. I'm glad you're having fun."
-    cor "I see. I'm glad you're having fun."
+    cor "أرى هذا، سعيدة بأنك تحظين بوقت جيد."
 
 # game/Story.rpy:96
 translate arabic story1_poison_a20cefa7_2:
@@ -250,91 +250,91 @@ translate arabic story1_poison_a20cefa7_2:
 translate arabic story1_poison_88079e9e:
 
     # cor "Are they treating you well?"
-    cor "Are they treating you well?"
+    cor "أيعاملونك جيداً؟"
 
 # game/Story.rpy:98
 translate arabic story1_poison_fe74515c:
 
     # gc "Yup, all the teachers are nice."
-    gc "Yup, all the teachers are nice."
+    gc "نعم، كل المدرسين طيبون."
 
 # game/Story.rpy:99
 translate arabic story1_poison_d56fc835:
 
     # gc "We have a boring Spanish teacher though."
-    gc "We have a boring Spanish teacher though."
+    gc "ولكن لدينا مدرس لغة إسبانية ممل."
 
 # game/Story.rpy:100
 translate arabic story1_poison_18a2de09:
 
     # gc "Nice and all, but he talks so slow."
-    gc "Nice and all, but he talks so slow."
+    gc "إنه طيب ولا يعيبه شيء، ولكنه يتكلم ببطئ شديد..."
 
 # game/Story.rpy:101
 translate arabic story1_poison_6bb1e52c:
 
     # cor "I see. I'm glad that you are having fun."
-    cor "I see. I'm glad that you are having fun."
+    cor "همم، سعيدة بأنك تستمتعين"
 
 # game/Story.rpy:102
 translate arabic story1_poison_ea49d75f:
 
     # cor "Promise me...{w}To be safe.{w=0}"
-    cor "Promise me...{w}To be safe.{w=0}"
+    cor "عديني.. بأن تكوني آمنة"
 
 # game/Story.rpy:103
 translate arabic story1_poison_bb5aeb24:
 
     # gc "Haha, what do you mean? It's just school mom."
-    gc "Haha, what do you mean? It's just school mom."
+    gc "ههههه مالذي تقصدينه؟ إنها مجرد مدرسة يا أمي."
 
 # game/Story.rpy:104
 translate arabic story1_poison_9c509a74:
 
     # cor "I know."
-    cor "I know."
+    cor "أعلم هذا."
 
 # game/Story.rpy:105
 translate arabic story1_poison_b6b98940:
 
     # cor "Antonio and Isabel."
-    cor "Antonio and Isabel."
+    cor "أنطونيو وإيزابيل."
 
 # game/Story.rpy:106
 translate arabic story1_poison_9cac9bf3:
 
     # cor "How are the two of you?"
-    cor "How are the two of you?"
+    cor "كيف حالكما؟"
 
 # game/Story.rpy:108
 translate arabic story1_poison_c2428120:
 
     # an "We're good, Mother."
-    an "We're good, Mother."
+    an "نحن بخير يا أمي."
 
 # game/Story.rpy:109
 translate arabic story1_poison_dbbaca5f:
 
     # an "But about the business, we dis-"
-    an "But about the business, we dis-"
+    an "بالنسبة للمهمة التي تحدثنا ع{nw}"
 
 # game/Story.rpy:110
 translate arabic story1_poison_dfbb6f00:
 
     # cor "No business at the table."
-    cor "No business at the table."
+    cor "لا حديث عن العمل على طاولة الطعام."
 
 # game/Story.rpy:111
 translate arabic story1_poison_b792ecdc:
 
     # an "Of course, Mother..."
-    an "Of course, Mother..."
+    an "بالطبع يا أمي..."
 
 # game/Story.rpy:112
 translate arabic story1_poison_a7c2b675:
 
     # cor "Isabel, you did not answer me."
-    cor "Isabel, you did not answer me."
+    cor "إيزابيل، لم تجيبي على سؤالي."
 
 # game/Story.rpy:113
 translate arabic story1_poison_fb623a7e:
@@ -346,37 +346,37 @@ translate arabic story1_poison_fb623a7e:
 translate arabic story1_poison_54be7c59:
 
     # isa "I'm good, Mother."
-    isa "I'm good, Mother."
+    isa "أنا بخير يا أمي."
 
 # game/Story.rpy:115
 translate arabic story1_poison_02455146:
 
     # cor "You seem... {w}Troubled.{w=0}"
-    cor "You seem... {w}Troubled.{w=0}"
+    cor "تبدين قلقة..."
 
 # game/Story.rpy:116
 translate arabic story1_poison_2cda8a9e:
 
     # isa "I'm just a bit tired, Mother."
-    isa "I'm just a bit tired, Mother."
+    isa "لا لا، أنا متعبة قليلاً هذا كل ما في الأمر."
 
 # game/Story.rpy:117
 translate arabic story1_poison_c8d333da:
 
     # cor "I see..."
-    cor "I see..."
+    cor "حسناً..."
 
 # game/Story.rpy:118
 translate arabic story1_poison_b1ede460:
 
     # cor "You can talk to me if there is something on your mind, my child."
-    cor "You can talk to me if there is something on your mind, my child."
+    cor "تستطيعين التحدث معي إن كان هناك خطب ما يا ابنتي."
 
 # game/Story.rpy:119
 translate arabic story1_poison_580dfc2b:
 
     # isa "I know, Mother. Thank you."
-    isa "I know, Mother. Thank you."
+    isa "أعلم يا أمي، شكراً لك."
 
 # game/Story.rpy:120
 translate arabic story1_poison_00ff00b4:
@@ -388,43 +388,43 @@ translate arabic story1_poison_00ff00b4:
 translate arabic story1_poison_b33d54eb:
 
     # cor "Antonio, what about those tickets I gave you."
-    cor "Antonio, what about those tickets I gave you."
+    cor "أنطونيو، ماذا حصل بالتذاكر التي أعطيتهم لك"
 
 # game/Story.rpy:122
 translate arabic story1_poison_3dc63b42:
 
     # an "I'm too busy for any kind of vacation, Mother."
-    an "I'm too busy for any kind of vacation, Mother."
+    an "أنا مشغول جداً على أن آخذ إجازة يا أمي."
 
 # game/Story.rpy:123
 translate arabic story1_poison_9225bbcb:
 
     # cor "It could be good for the two of you- after everything you've been through."
-    cor "It could be good for the two of you- after everything you've been through."
+    cor "ستكون جيدةً لكم بعد ما مررتم به أنتم الإثنان."
 
 # game/Story.rpy:124
 translate arabic story1_poison_5d044350:
 
     # an "Mother! This is not something I wish to talk about while we have a guest at the table."
-    an "Mother! This is not something I wish to talk about while we have a guest at the table."
+    an "أمي! هذا ليس شيئاً لنتحدث عنه أمام الضيوف."
 
 # game/Story.rpy:125
 translate arabic story1_poison_0a528ad4:
 
     # an "So, please! Let's talk about this another time."
-    an "So, please! Let's talk about this another time."
+    an "لذا، أرجوكي، فالنتحدث عن الموضوع في وقت لاحق!"
 
 # game/Story.rpy:126
 translate arabic story1_poison_c8f8818b:
 
     # cor "Tell me. When did you gain a position in which you can make demands of me?"
-    cor "Tell me. When did you gain a position in which you can make demands of me?"
+    cor "قل لي يا أنطونيو، منذ متى وأنت في محل تستطيع فيه أن تأمرني بما أفعل؟"
 
 # game/Story.rpy:127
 translate arabic story1_poison_3b082b6b:
 
     # an "What?! I would never, Mother!"
-    an "What?! I would never, Mother!"
+    an "ماذا؟! مستحيل أن أفعل هذا يا أمي!"
 
 # game/Story.rpy:128
 translate arabic story1_poison_00ff00b4_1:
@@ -436,115 +436,115 @@ translate arabic story1_poison_00ff00b4_1:
 translate arabic story1_poison_2464a267:
 
     # an "Please forgive me, I don't know what came over me."
-    an "Please forgive me, I don't know what came over me."
+    an "سامحيني يا أمي، لا أعلم ماذا دهاني."
 
 # game/Story.rpy:130
 translate arabic story1_poison_9cbf7877:
 
     # cor "As I said, [povname] will be joining us from now on. The dining process will stay as it always has."
-    cor "As I said, [povname] will be joining us from now on. The dining process will stay as it always has."
+    cor "كما قلت سابقاً، [povname] سينضم لنا إلى المائدة من اليوم. ستبقى جلستنا كما هي."
 
 # game/Story.rpy:131
 translate arabic story1_poison_df550d1d:
 
     # an "Understood, Mother."
-    an "Understood, Mother."
+    an "حسناً يا أمي."
 
 # game/Story.rpy:133
 translate arabic story1_poison_53c056bc:
 
     # gc "Mom...?"
-    gc "Mom...?"
+    gc "أمي..."
 
 # game/Story.rpy:134
 translate arabic story1_poison_f6768075:
 
     # gc "I was thinking, I could maybe start doing some work?"
-    gc "I was thinking, I could maybe start doing some work?"
+    gc "كنت أفكر، أريد أن أجد عملاً.."
 
 # game/Story.rpy:135
 translate arabic story1_poison_f9fbfc71:
 
     # cor "That could be good for you. Have you found anywhere special you wish to work?"
-    cor "That could be good for you. Have you found anywhere special you wish to work?"
+    cor "سيكون هذا جيداً لك، هل هناك مكان معين في بالك؟"
 
 # game/Story.rpy:136
 translate arabic story1_poison_63f16dc6:
 
     # gc "Well, I was kind of thinking about working for the Family? Like all of you!"
-    gc "Well, I was kind of thinking about working for the Family? Like all of you!"
+    gc "كنت أفكر بالإنضمام إلى عمل العائلة، مثلكم جميعاً!"
 
 # game/Story.rpy:137
 translate arabic story1_poison_65f9d4d6:
 
     # cor "No."
-    cor "No."
+    cor "لا."
 
 # game/Story.rpy:138
 translate arabic story1_poison_070e8d93:
 
     # gc "But m-"
-    gc "But m-"
+    gc "ولكن أم{nw}"
 
 # game/Story.rpy:139
 translate arabic story1_poison_6a60c34e:
 
     # cor "No buts, we already talked about this. It's too dangerous."
-    cor "No buts, we already talked about this. It's too dangerous."
+    cor "هذا ليس قابلاً للنقاش، لقد تحدثنا عنه بالفعل، إنه خطر جداً."
 
 # game/Story.rpy:140
 translate arabic story1_poison_6e6eb5fd:
 
     # cor "I won't risk it. And that is final."
-    cor "I won't risk it. And that is final."
+    cor "لن أخاطر بكِ، هذا قرار نهائي."
 
 # game/Story.rpy:141
 translate arabic story1_poison_a05f1023:
 
     # gc "Okay, mom..."
-    gc "Okay, mom..."
+    gc "حسناً يا أمي.."
 
 # game/Story.rpy:144
 translate arabic story1_poison_58d4808b:
 
     # cor "So, [povname]."
-    cor "So, [povname]."
+    cor "إذا، [povname]."
 
 # game/Story.rpy:145
 translate arabic story1_poison_bd80a77c:
 
     # cor "How has your stay been so far? I hope you've been treated well and just." nointeract
-    cor "How has your stay been so far? I hope you've been treated well and just." nointeract
+    cor "كيف كانت جلستك هنا؟ آمل أنك تلقيت معاملة حسنة." nointeract
 
 # game/Story.rpy:149
 translate arabic story1_poison_d89c8649:
 
     # cor "I'm happy to hear that."
-    cor "I'm happy to hear that."
+    cor "سعيدة بسماع هذا."
 
 # game/Story.rpy:151
 translate arabic story1_poison_032f1e55:
 
     # cor "How so?"
-    cor "How so?"
+    cor "لماذا؟"
 
 # game/Story.rpy:152
 translate arabic story1_poison_dfb32d8c:
 
     # pov "Why I'm here. The way I've been treated. Eating with you all right now."
-    pov "Why I'm here. The way I've been treated. Eating with you all right now."
+    pov "أنا لا أعرف لمَ أنا هنا، ولا أعرف لماذا أعامل بهذه الطريقة، ولماذا سمحتم لي بأن آكل معكم."
 
 # game/Story.rpy:153
 translate arabic story1_poison_2de4b650:
 
     # pov "It's all just... Confusing."
-    pov "It's all just... Confusing."
+    pov "كل هذا.. محير لا أكثر."
 
 # game/Story.rpy:154
 translate arabic story1_poison_ddb2ccb2:
 
     # cor "I see."
-    cor "I see."
+    cor "أرى هذا."
 
 # game/Story.rpy:155
 translate arabic story1_poison_c3ca3180:
@@ -556,55 +556,55 @@ translate arabic story1_poison_c3ca3180:
 translate arabic story1_poison_6d17074f:
 
     # isa "Oh, my..."
-    isa "Oh, my..."
+    isa "يا إلهي..."
 
 # game/Story.rpy:161
 translate arabic story1_poison_63548d8e:
 
     # lu "Oh damn, the boy got some balls, haha!"
-    lu "Oh damn, the boy got some balls, haha!"
+    lu "واو! ياله من ولد جريء! ههههههه"
 
 # game/Story.rpy:162
 translate arabic story1_poison_1559c779:
 
     # an "Outrageous! And in front of Mother."
-    an "Outrageous! And in front of Mother."
+    an "ما هذه الوقاحة؟! وأمام أمي؟!"
 
 # game/Story.rpy:163
 translate arabic story1_poison_3fd9ed56:
 
     # gc "Ahahaha, he said 'shitty'!"
-    gc "Ahahaha, he said 'shitty'!"
+    gc "هههههههههههههه لقد قال خراء!!!!"
 
 # game/Story.rpy:164
 translate arabic story1_poison_277b548e:
 
     # an "If Uncle Wilfred heard you say that in front of Mother he would-"
-    an "If Uncle Wilfred heard you say that in front of Mother he would-"
+    an "لو سمعك العم ويلفريد تقول هذا لأمي لكان{nw}"
 
 # game/Story.rpy:165
 translate arabic story1_poison_256ed350:
 
     # cor "Silence."
-    cor "Silence."
+    cor "إسكتوا جميعاً."
 
 # game/Story.rpy:166
 translate arabic story1_poison_57719f90:
 
     # cor "[povname], I'm sorry you feel that way."
-    cor "[povname], I'm sorry you feel that way."
+    cor "يحزنني سماع هذا يا [povname]"
 
 # game/Story.rpy:167
 translate arabic story1_poison_350ea3e4:
 
     # pov "I don't understand why you would keep me here..."
-    pov "I don't understand why you would keep me here..."
+    pov "لا أفهم.. لمَ أنا هنا؟"
 
 # game/Story.rpy:168
 translate arabic story1_poison_03e1a456:
 
     # pov "Can't you just let me leave?"
-    pov "Can't you just let me leave?"
+    pov "ألا يمكنكم أن تسمحولي بالمغادرة؟"
 
 # game/Story.rpy:169
 translate arabic story1_poison_00ff00b4_2:
@@ -616,31 +616,31 @@ translate arabic story1_poison_00ff00b4_2:
 translate arabic story1_poison_65f9d4d6_1:
 
     # cor "No."
-    cor "No."
+    cor "لا."
 
 # game/Story.rpy:171
 translate arabic story1_poison_3c8505a6:
 
     # cor "I understand that you have many questions."
-    cor "I understand that you have many questions."
+    cor "أتفهم أن لديك أسئلة كثيرة."
 
 # game/Story.rpy:172
 translate arabic story1_poison_6791000d:
 
     # cor "Fairly so."
-    cor "Fairly so."
+    cor "وهذا حقك."
 
 # game/Story.rpy:173
 translate arabic story1_poison_4c981b0c:
 
     # cor "And I promise you, everything will be explained... But not right now."
-    cor "And I promise you, everything will be explained... But not right now."
+    cor "لكني أعدك، ستفهم كل شيء... ولكن ليس الآن."
 
 # game/Story.rpy:174
 translate arabic story1_poison_856b6ea7:
 
     # cor "All I can say is, you are needed here."
-    cor "All I can say is, you are needed here."
+    cor "كل ما أستطيع قوله هو أننا نحتاجك هنا."
 
 # game/Story.rpy:175
 translate arabic story1_poison_00ff00b4_3:
@@ -652,13 +652,13 @@ translate arabic story1_poison_00ff00b4_3:
 translate arabic story1_poison_4339881b:
 
     # cor "Thank you all for sharing your thoughts with me."
-    cor "Thank you all for sharing your thoughts with me."
+    cor "شكراً لكم جميعاً على المشاركة."
 
 # game/Story.rpy:177
 translate arabic story1_poison_de1ff4d2:
 
     # cor "Does anyone else have any anything else they wish to discuss?"
-    cor "Does anyone else have any anything else they wish to discuss?"
+    cor "أيرغب أي أحد بمشاركة شيء لديه؟"
 
 # game/Story.rpy:180
 translate arabic story1_poison_fb623a7e_1:
@@ -670,37 +670,37 @@ translate arabic story1_poison_fb623a7e_1:
 translate arabic story1_poison_d2e15886:
 
     # isa "So Luna, how has your day been?"
-    isa "So Luna, how has your day been?"
+    isa "إذاً، لونا كيف كان يومك؟"
 
 # game/Story.rpy:182
 translate arabic story1_poison_9251ae0a:
 
     # lu "Fine."
-    lu "Fine."
+    lu "جيد."
 
 # game/Story.rpy:183
 translate arabic story1_poison_c951e038:
 
     # isa "Anything special?"
-    isa "Anything special?"
+    isa "هل من شيء مميز؟"
 
 # game/Story.rpy:184
 translate arabic story1_poison_b9903ef3:
 
     # lu "Nope."
-    lu "Nope."
+    lu "لا."
 
 # game/Story.rpy:185
 translate arabic story1_poison_a26ecd5a:
 
     # an "Don't talk while you have food in your mouth, Luna. A proper lady minds her manners at the dinner table."
-    an "Don't talk while you have food in your mouth, Luna. A proper lady minds her manners at the dinner table."
+    an "لا تتحدثي وأنتِ تمضغين يا لونا. سيدة محترمة مثلك عليها أن تتحلى بآداب المائدة."
 
 # game/Story.rpy:186
 translate arabic story1_poison_e6b833fc:
 
     # lu "Then don't ask me questions while I have food in my mouth."
-    lu "Then don't ask me questions while I have food in my mouth."
+    lu "إذا لا تسألوني وأنا أمضع..."
 
 # game/Story.rpy:187
 translate arabic story1_poison_fb623a7e_2:
@@ -712,61 +712,61 @@ translate arabic story1_poison_fb623a7e_2:
 translate arabic story1_poison_7e3d9614:
 
     # isa "Luna, there must be somet-"
-    isa "Luna, there must be somet-"
+    isa "لونا، هل من خطب {nw}"
 
 # game/Story.rpy:189
 translate arabic story1_poison_7c59d5c9:
 
     # lu "Isa... I appreciate what you're trying to do. But I want to eat now."
-    lu "Isa... I appreciate what you're trying to do. But I want to eat now."
+    lu "إيزابيل... أقدر ما تحاوليه فعله، ولكني أريد الأكل."
 
 # game/Story.rpy:190
 translate arabic story1_poison_f5ef5d34:
 
     # isa "I understand."
-    isa "I understand."
+    isa "حسناً."
 
 # game/Story.rpy:191
 translate arabic story1_poison_821f41a6:
 
     # isa "Wanna watch a movie later? I found that movie you told me about."
-    isa "Wanna watch a movie later? I found that movie you told me about."
+    isa "أتريدين أن نشاهد فيلماً لاحقاً؟ لقد وجدت الفيلم الذي نصحتيني به."
 
 # game/Story.rpy:192
 translate arabic story1_poison_86391707:
 
     # lu "Sure."
-    lu "Sure."
+    lu "بالطبع."
 
 # game/Story.rpy:193
 translate arabic story1_poison_90488db6:
 
     # an "Luna, I heard you were reckless on a mission again."
-    an "Luna, I heard you were reckless on a mission again."
+    an "لونا، سمعت أنك كنت متهورة في المهمة السابقة أيضاً."
 
 # game/Story.rpy:194
 translate arabic story1_poison_06ea1c56:
 
     # an "You need to take more care. One mistake can cost you your life."
-    an "You need to take more care. One mistake can cost you your life."
+    an "عليكي أن تنتبهي قليلاً، غلطة واحد قد تكلفك حياتك."
 
 # game/Story.rpy:195
 translate arabic story1_poison_4952a790:
 
     # lu "Okay, will do."
-    lu "Okay, will do."
+    lu "حسناً، سأفعل هذا."
 
 # game/Story.rpy:196
 translate arabic story1_poison_f9e17c99:
 
     # an "I'm serious Luna! This is not the first time."
-    an "I'm serious Luna! This is not the first time."
+    an "أنا جاد يا لونا! هذه ليست أول مرة."
 
 # game/Story.rpy:197
 translate arabic story1_poison_4951b1a3:
 
     # lu "Jeez, who cares, I got it done and no bullet holes."
-    lu "Jeez, who cares, I got it done and no bullet holes."
+    lu "يا إلهي.. من يهتم على أي حال؟ لقد أتممت المهمة بدون أي خدش."
 
 # game/Story.rpy:198
 translate arabic story1_poison_00ff00b4_4:
@@ -778,13 +778,13 @@ translate arabic story1_poison_00ff00b4_4:
 translate arabic story1_poison_8cfb0ce7:
 
     # cor "You need to be more...{w} Careful.{w=0}"
-    cor "You need to be more...{w} Careful.{w=0}"
+    cor "عليكي أن تكوني أكثر حذراً..."
 
 # game/Story.rpy:200
 translate arabic story1_poison_0eb3d2c5:
 
     # lu "Thanks for your concern mother, I will remember to wear a bike helmet next time I go guns blazing."
-    lu "Thanks for your concern mother, I will remember to wear a bike helmet next time I go guns blazing."
+    lu "شكراً لإهتمامك يا أمي. سأرتدي خوذة قيادة في المرة القادمة التي أذهب فيها إلى حرب عصابات..."
 
 # game/Story.rpy:201
 translate arabic story1_poison_00ff00b4_5:
@@ -796,43 +796,43 @@ translate arabic story1_poison_00ff00b4_5:
 translate arabic story1_poison_15fb2031:
 
     # an "That's enough from you!"
-    an "That's enough from you!"
+    an "هذا يكفي!"
 
 # game/Story.rpy:203
 translate arabic story1_poison_09b3fd7a:
 
     # lu "Meh."
-    lu "Meh."
+    lu "هممم..."
 
 # game/Story.rpy:206
 translate arabic story1_poison_03ea944f:
 
     # an "Where are you going, Luna? You know very well no one leaves before Mother says so."
-    an "Where are you going, Luna? You know very well no one leaves before Mother says so."
+    an "مالذي تريدين أن تصلي إليه يا لونا؟ أنتي تعرفين حق المعرفة بأن لا أحد يغادر الطاولة قبل أن تسمح أمي له"
 
 # game/Story.rpy:207
 translate arabic story1_poison_f70165c0:
 
     # an "You're making Mother very sad with your behavior, Luna!"
-    an "You're making Mother very sad with your behavior, Luna!"
+    an "إنك تحزنين أمي بتصرفاتك هذه يا لونا!"
 
 # game/Story.rpy:208
 translate arabic story1_poison_24e6f84a:
 
     # lu "Sad?"
-    lu "Sad?"
+    lu "أحزنها؟"
 
 # game/Story.rpy:209
 translate arabic story1_poison_10505119:
 
     # lu "You mean like in an emotional state sadness? 'Our mother'?!"
-    lu "You mean like in an emotional state sadness? 'Our mother'?!"
+    lu "أتقصد، حالة نفسية حزينة؟ لدى أمي؟؟"
 
 # game/Story.rpy:210
 translate arabic story1_poison_050b3c98:
 
     # lu "Hahaha, stop joking around please."
-    lu "Hahaha, stop joking around please."
+    lu "ههههههههه، توقف عن قول النكات أرجوك."
 
 # game/Story.rpy:211
 translate arabic story1_poison_00ff00b4_6:
@@ -844,49 +844,49 @@ translate arabic story1_poison_00ff00b4_6:
 translate arabic story1_poison_32775579:
 
     # lu "Well?"
-    lu "Well?"
+    lu "إذاً؟؟"
 
 # game/Story.rpy:213
 translate arabic story1_poison_24054aee:
 
     # lu "Say something, mother!"
-    lu "Say something, mother!"
+    lu "قولي شيئاً يا أمي!"
 
 # game/Story.rpy:214
 translate arabic story1_poison_27dd807f:
 
     # lu "Tell us how sad you are."
-    lu "Tell us how sad you are."
+    lu "عبري عن حزنك."
 
 # game/Story.rpy:215
 translate arabic story1_poison_502f97e4:
 
     # lu "Maybe some regrets? You no doubt got tons of those, don't you?"
-    lu "Maybe some regrets? You no doubt got tons of those, don't you?"
+    lu "عن ندمك ربما؟ أنت نادمة على الكثير أليس كذلك؟"
 
 # game/Story.rpy:216
 translate arabic story1_poison_5bff479a:
 
     # lu "Let's see you make a personal speech full of emotion! That makes all our eyes fill with tears, and then we all hug it out!"
-    lu "Let's see you make a personal speech full of emotion! That makes all our eyes fill with tears, and then we all hug it out!"
+    lu "هيا، إعطينا أحد خطاباتك المليء بالمشاعر الجياشة! أعطينا خطاباً يدمع أعيننا ويقربنا من بعضنا!"
 
 # game/Story.rpy:217
 translate arabic story1_poison_2706d1bb:
 
     # cor "Enough from you. You can go."
-    cor "Enough from you. You can go."
+    cor "هذا يكفي، تستطيعين الذهاب."
 
 # game/Story.rpy:218
 translate arabic story1_poison_c4f87969:
 
     # lu "I can!?"
-    lu "I can!?"
+    lu "حقاً؟!"
 
 # game/Story.rpy:219
 translate arabic story1_poison_3063e92a:
 
     # lu "Enlightenment! I can walk!! You are a being far greater than a mere human, mother. Thank you."
-    lu "Enlightenment! I can walk!! You are a being far greater than a mere human, mother. Thank you."
+    lu "يالهذه المعلومات الجديدة! أستطيع أن أمشي!! أنتِ لست مجرد إنسانة يا أمي، أنت شيء متطور بمرحلة أخرى جديدة، شكراً لك."
 
 # game/Story.rpy:220
 translate arabic story1_poison_00ff00b4_7:
@@ -898,67 +898,67 @@ translate arabic story1_poison_00ff00b4_7:
 translate arabic story1_poison_652b1377:
 
     # isa "Don't take it to heart, Mother. She is just having a bad day. I will talk to her after dinner."
-    isa "Don't take it to heart, Mother. She is just having a bad day. I will talk to her after dinner."
+    isa "لا تأخذي هذا بجدية يا أمي، لا بد من أنها عانت من يوم صعب. سأكلمها بعد الغداء."
 
 # game/Story.rpy:224
 translate arabic story1_poison_ce0dd757:
 
     # gc "I will do it. It's better that someone who is actually family talk to her."
-    gc "I will do it. It's better that someone who is actually family talk to her."
+    gc "سأكلمها أنا. من الأفضل أن يحدثها شخص من العائلة فعلاً."
 
 # game/Story.rpy:225
 translate arabic story1_poison_179cb65b:
 
     # an "This again..."
-    an "This again..."
+    an "هذا مجدداً..."
 
 # game/Story.rpy:226
 translate arabic story1_poison_8881dff2:
 
     # isa "You've got to stop this childish attitude of yours, Gracie..."
-    isa "You've got to stop this childish attitude of yours, Gracie..."
+    isa "عليكي أن تتوقفي عن هذه التصرفات الطفولية يا قرايسي..."
 
 # game/Story.rpy:227
 translate arabic story1_poison_b42d737c:
 
     # gc "What? I just said it's better a real Family member talk to her. You're just a guest."
-    gc "What? I just said it's better a real Family member talk to her. You're just a guest."
+    gc "ماذا؟ كل ما قلته بأنه سيكون من الأفضل لو حدثها شخص من العائلة فعلاً، أنت مجرد ضيفة."
 
 # game/Story.rpy:228
 translate arabic story1_poison_1f1ffa90:
 
     # an "Gracie! She is my wife and is as much Family as anyone here!"
-    an "Gracie! She is my wife and is as much Family as anyone here!"
+    an "قرايسي! إنها زوجتي، مثلها كمثل أي شخص آخر هنا!"
 
 # game/Story.rpy:229
 translate arabic story1_poison_ffa8a14a:
 
     # gc "Sure."
-    gc "Sure."
+    gc "نعم بالطبع..."
 
 # game/Story.rpy:230
 translate arabic story1_poison_6630ab15:
 
     # gc "Just not mine..."
-    gc "Just not mine..."
+    gc "لكنها ليست من عائلتي أنا..."
 
 # game/Story.rpy:231
 translate arabic story1_poison_34bda51e:
 
     # cor "Gracie..."
-    cor "Gracie..."
+    cor "قرايسي!"
 
 # game/Story.rpy:232
 translate arabic story1_poison_77971f7d:
 
     # cor "You may leave the table now as well."
-    cor "You may leave the table now as well."
+    cor "تستطيعين المغادرة أيضاً."
 
 # game/Story.rpy:233
 translate arabic story1_poison_6e38ff47:
 
     # gc "Okaaaay. I'll go talk to Luna."
-    gc "Okaaaay. I'll go talk to Luna."
+    gc "حسناً، على أي حال سأذهب للتكلم مع لونا."
 
 # game/Story.rpy:236
 translate arabic story1_poison_a20cefa7_3:
@@ -970,235 +970,235 @@ translate arabic story1_poison_a20cefa7_3:
 translate arabic story1_poison_706de368:
 
     # "So much for the 'perfect Family'..."
-    "So much for the 'perfect Family'..."
+    "يالها من عائلة 'مثالية'..."
 
 # game/Story.rpy:238
 translate arabic story1_poison_90011092:
 
     # an "*Sigh*... Sorry about all that [povname]. Not one of our proudest moments as a Family."
-    an "*Sigh*... Sorry about all that [povname]. Not one of our proudest moments as a Family."
+    an "أعتذر عن هذا يا [povname]، هذه ليست أفضل أوقاتنا..."
 
 # game/Story.rpy:239
 translate arabic story1_poison_acea8f75:
 
     # an "My sisters can be a bit... Rebellious."
-    an "My sisters can be a bit... Rebellious."
+    an "أخواتي قد يكونوا... متمردات في بعض الأحيان."
 
 # game/Story.rpy:240
 translate arabic story1_poison_93bcaf84:
 
     # pov "I understand."
-    pov "I understand."
+    pov "أتفهم هذا."
 
 # game/Story.rpy:244
 translate arabic story1_poison_862d7476:
 
     # "*Gasp*"
-    "*Gasp*"
+    "*شهيق*"
 
 # game/Story.rpy:246
 translate arabic story1_poison_119ee3c1:
 
     # "My throat!"
-    "My throat!"
+    "حلقي!"
 
 # game/Story.rpy:248
 translate arabic story1_poison_88e2d4e6:
 
     # an "[povname]? You okay?"
-    an "[povname]? You okay?"
+    an "[povname]! هل أنت بخير؟"
 
 # game/Story.rpy:249
 translate arabic story1_poison_41605740:
 
     # pov "I-I can't-"
-    pov "I-I can't-"
+    pov "لا.. لا أستطيع-"
 
 # game/Story.rpy:250
 translate arabic story1_poison_2630e6ba:
 
     # "Breathe!"
-    "Breathe!"
+    "التنفس!!"
 
 # game/Story.rpy:252
 translate arabic story1_poison_a93fc08d:
 
     # an "Hey!"
-    an "Hey!"
+    an "[povname]!"
 
 # game/Story.rpy:253
 translate arabic story1_poison_491e8fcf:
 
     # "I know..."
-    "I know..."
+    "أعرف هذا الشعور..."
 
 # game/Story.rpy:254
 translate arabic story1_poison_0fb1b7dc:
 
     # "This feeling..."
-    "This feeling..."
+    "..."
 
 # game/Story.rpy:256
 translate arabic story1_poison_ce086c24:
 
     # "Damn it..."
-    "Damn it..."
+    "اللعنة!"
 
 # game/Story.rpy:257
 translate arabic story1_poison_2bd17de8:
 
     # "Not again..."
-    "Not again..."
+    "ليس مجدداً..."
 
 # game/Story.rpy:258
 translate arabic story1_poison_22ced12c:
 
     # an "[povname]!"
-    an "[povname]!"
+    an "[povname] إبقى معي!"
 
 # game/Story.rpy:263
 translate arabic story1_poison_d7162ad6:
 
     # gc "He is waking up."
-    gc "He is waking up."
+    gc "إنه يستيقظ."
 
 # game/Story.rpy:265
 translate arabic story1_poison_080345cc:
 
     # an "Hey there."
-    an "Hey there."
+    an "ها أنت ذا!"
 
 # game/Story.rpy:266
 translate arabic story1_poison_b802f23a:
 
     # an "How are you feeling?"
-    an "How are you feeling?"
+    an "كيف تشعر؟"
 
 # game/Story.rpy:267
 translate arabic story1_poison_96ca26ce:
 
     # pov "Okay."
-    pov "Okay."
+    pov "أنا بخير."
 
 # game/Story.rpy:268
 translate arabic story1_poison_ee83fa23:
 
     # an "We had a doctor rushed over here."
-    an "We had a doctor rushed over here."
+    an "لقد أحضرنا طبيبةً هنا بأسرع ما يمكن."
 
 # game/Story.rpy:269
 translate arabic story1_poison_f5955c11:
 
     # an "I don't know how to say this..."
-    an "I don't know how to say this..."
+    an "لا أعرف كيف أقول هذا ولكن..."
 
 # game/Story.rpy:270
 translate arabic story1_poison_936250fd:
 
     # an "But she said it was... Poison."
-    an "But she said it was... Poison."
+    an "قالت الطبيبة بأنه كان سماً..."
 
 # game/Story.rpy:271
 translate arabic story1_poison_c1e34bca:
 
     # an "To be clear, we'll find whomever is responsible for this."
-    an "To be clear, we'll find whomever is responsible for this."
+    an "حتى أكون واضحاً، سنجد من كان مسؤولاً عن هذا!"
 
 # game/Story.rpy:272
 translate arabic story1_poison_db9e70d1:
 
     # an "Mother is also furious at how this could happen."
-    an "Mother is also furious at how this could happen."
+    an "أمي استشاطت غضباً من حصول هذا."
 
 # game/Story.rpy:273
 translate arabic story1_poison_d1457430:
 
     # an "It's a disgrace that something like this happened without our knowledge."
-    an "It's a disgrace that something like this happened without our knowledge."
+    an "من العار أن يحصل شيئاً كهذا من تحت أنوفنا."
 
 # game/Story.rpy:274
 translate arabic story1_poison_bf15987e:
 
     # an "If this gets out that one of our own got poisoned in the very same place we all were eating..."
-    an "If this gets out that one of our own got poisoned in the very same place we all were eating..."
+    an "لو سمعت العوائل الأخرى بأن شخصاً منا قد تسمم في مكان أكلنا."
 
 # game/Story.rpy:275
 translate arabic story1_poison_fd8b5985:
 
     # an "No, where the Boss HERSELF was eating!"
-    an "No, where the Boss HERSELF was eating!"
+    an "لا، بل مكان أكل الرئيسة بحد ذاتها!"
 
 # game/Story.rpy:276
 translate arabic story1_poison_a85cba5a:
 
     # an "We'll become a laughing stock to all the other Families!"
-    an "We'll become a laughing stock to all the other Families!"
+    an "سنصبح مضحكة العوائل الأخرى!"
 
 # game/Story.rpy:277
 translate arabic story1_poison_c4a9aa5d:
 
     # gc "The doctor said you were very lucky to survive!"
-    gc "The doctor said you were very lucky to survive!"
+    gc "قالت الطبيبة بأنك كنت محظوظاً!"
 
 # game/Story.rpy:278
 translate arabic story1_poison_848c7af0:
 
     # gc "Said that you should've been dead with that amount of poison!"
-    gc "Said that you should've been dead with that amount of poison!"
+    gc "قالت بأن كمية السم هذه كانت كافية لقتلك!"
 
 # game/Story.rpy:279
 translate arabic story1_poison_91c6381b:
 
     # gc "Crazy, haha!"
-    gc "Crazy, haha!"
+    gc "هذا عجيب! ههههه"
 
 # game/Story.rpy:280
 translate arabic story1_poison_eab8e8f1:
 
     # "I'm happy my near-death experience amuses you..."
-    "I'm happy my near-death experience amuses you..."
+    "سعيد بأن قربي إلى الموت يثير إعجابك..."
 
 # game/Story.rpy:281
 translate arabic story1_poison_b65b8b0d:
 
     # an "She is right. You are very fortunate you got out of this unharmed."
-    an "She is right. You are very fortunate you got out of this unharmed."
+    an "إنها محقة، أنت محظوظ جداً بأنك لم تتضرر."
 
 # game/Story.rpy:282
 translate arabic story1_poison_a5ecfe15:
 
     # pov "Yeah."
-    pov "Yeah."
+    pov "نعم..."
 
 # game/Story.rpy:283
 translate arabic story1_poison_854183f3:
 
     # an "Still, it's a wonder how you could survive the poison... I'm kind of impressed."
-    an "Still, it's a wonder how you could survive the poison... I'm kind of impressed."
+    an "ولكن، غريب كيف استطعت تحمل السم... أنا مذهول نوعاً ما."
 
 # game/Story.rpy:284
 translate arabic story1_poison_ddb7707f:
 
     # gc "Hmm... Mithridatism?"
-    gc "Hmm... Mithridatism?"
+    gc "هممم... ميثريداتيزم؟"
 
 # game/Story.rpy:285
 translate arabic story1_poison_ed9af00a:
 
     # an "What's that?"
-    an "What's that?"
+    an "ما هذا؟"
 
 # game/Story.rpy:286
 translate arabic story1_poison_c57a9285:
 
     # gc "Mithridatism? It's the practice of injecting yourself with a specific poison to gain a high tolerance towards it."
-    gc "Mithridatism? It's the practice of injecting yourself with a specific poison to gain a high tolerance towards it."
+    gc "ميثريداتيزم؟ أنها عادة إتبعها الأباطرة الرومانيون بشرب كميات صغيرة من السم لتشكيل مناعة ضده..."
 
 # game/Story.rpy:287
 translate arabic story1_poison_43ca30f6:
 
     # pov "No, I didn't do that. I just had an... Accident when I was younger with some poison."
-    pov "No, I didn't do that. I just had an... Accident when I was younger with some poison."
+    pov "لا، لم أفعل هذا.. ولكني وقعت في حادثة مشابهة عندما كنت صغيراً."
 
 # game/Story.rpy:288
 translate arabic story1_poison_e8e38ec1:
@@ -1210,31 +1210,31 @@ translate arabic story1_poison_e8e38ec1:
 translate arabic story1_poison_4bec4383:
 
     # gc "Haha, seems like you've been blessed by fate! To have that experience save you today. Ain't that just lucky!"
-    gc "Haha, seems like you've been blessed by fate! To have that experience save you today. Ain't that just lucky!"
+    gc "ههه، يبدو أن القدر قد حماك! حادثتك في الماضي أنقذت حياتك اليوم، أليس هذا حظاً رائعاً!"
 
 # game/Story.rpy:290
 translate arabic story1_poison_a009df78:
 
     # "Lucky..."
-    "Lucky..."
+    "حظ..."
 
 # game/Story.rpy:291
 translate arabic story1_poison_31610e2b:
 
     # "Blessed by fate..."
-    "Blessed by fate..."
+    "حماني القدر..."
 
 # game/Story.rpy:292
 translate arabic story1_poison_5917d0bd:
 
     # "Maybe..."
-    "Maybe..."
+    "ربما..."
 
 # game/Story.rpy:294
 translate arabic story1_poison_d2bc4fa4:
 
     # pov "Mom... I feel weird."
-    pov "Mom... I feel weird."
+    pov "أمي... أشعر بشيء غريب."
 
 # game/Story.rpy:295
 translate arabic story1_poison_f864b487:
@@ -1246,37 +1246,37 @@ translate arabic story1_poison_f864b487:
 translate arabic story1_poison_636999d6:
 
     # pov "My chest...{w} It's burning...{w=0}"
-    pov "My chest...{w} It's burning...{w=0}"
+    pov "أمي.. صدري يؤلمني..."
 
 # game/Story.rpy:297
 translate arabic story1_poison_a0113ef6:
 
     # pov "I can't...{w} Breathe.{w=0}"
-    pov "I can't...{w} Breathe.{w=0}"
+    pov "لا أستطيع التنفس..."
 
 # game/Story.rpy:298
 translate arabic story1_poison_2ddd0736:
 
     # mom "Everything's going to be alright."
-    mom "Everything's going to be alright."
+    mom "سيكون كل شيء على ما يرام."
 
 # game/Story.rpy:299
 translate arabic story1_poison_70c86804:
 
     # mom "Just close your eyes, sweetie."
-    mom "Just close your eyes, sweetie."
+    mom "أغلق عينيك وحسب يا جميلي."
 
 # game/Story.rpy:300
 translate arabic story1_poison_81b4ea35:
 
     # pov "Mom..."
-    pov "Mom..."
+    pov "أمي..."
 
 # game/Story.rpy:301
 translate arabic story1_poison_e21ff0d9:
 
     # pov "Argh...{w}What's happening, mom...?{w=0}"
-    pov "Argh...{w}What's happening, mom...?{w=0}"
+    pov "آااخ.. ما الذي يحصل يا أمي...؟"
 
 # game/Story.rpy:302
 translate arabic story1_poison_f864b487_1:
@@ -1288,13 +1288,13 @@ translate arabic story1_poison_f864b487_1:
 translate arabic story1_poison_7647633c:
 
     # pov "Mom?"
-    pov "Mom?"
+    pov "أمي!"
 
 # game/Story.rpy:304
 translate arabic story1_poison_f5ff5cd7:
 
     # pov "Nng!{w} It hurts...{w=0}"
-    pov "Nng!{w} It hurts...{w=0}"
+    pov "آااخ، صدري يؤلمني..."
 
 # game/Story.rpy:305
 translate arabic story1_poison_f864b487_2:
@@ -1306,13 +1306,13 @@ translate arabic story1_poison_f864b487_2:
 translate arabic story1_poison_16458885:
 
     # mom "Close your eyes. It'll all be over soon."
-    mom "Close your eyes. It'll all be over soon."
+    mom "أغلق عينيك. سينتهي الأمر قريباً."
 
 # game/Story.rpy:307
 translate arabic story1_poison_99dd299e:
 
     # pov "Ah...{w}Mom...{w=0}{w} Am I going to die?{w=0}"
-    pov "Ah...{w}Mom...{w=0}{w} Am I going to die?{w=0}"
+    pov "آه... أمي... هل سأموت؟"
 
 # game/Story.rpy:308
 translate arabic story1_poison_f864b487_3:
@@ -1324,13 +1324,13 @@ translate arabic story1_poison_f864b487_3:
 translate arabic story1_poison_bd56bd13:
 
     # pov "Mom... {w}I'm scared.{w=0}"
-    pov "Mom... {w}I'm scared.{w=0}"
+    pov "أمي... أنا خائف."
 
 # game/Story.rpy:310
 translate arabic story1_poison_7e55670d:
 
     # mom "...{w}I know.{w=0}"
-    mom "...{w}I know.{w=0}"
+    mom "... أعلم."
 
 # game/Story.rpy:312
 translate arabic story1_poison_c3ca3180_1:
@@ -1342,331 +1342,331 @@ translate arabic story1_poison_c3ca3180_1:
 translate arabic story1_poison_ab65680b:
 
     # an "Gracie, let's go. [povname] needs some rest now."
-    an "Gracie, let's go. [povname] needs some rest now."
+    an "فلنذهب يا قرايسي، [povname] يحتاج إلى أن يرتاح."
 
 # game/Story.rpy:314
 translate arabic story1_poison_2ea125dd:
 
     # an "Just call us if you need anything."
-    an "Just call us if you need anything."
+    an "نادنا إذا إحتجت شيئاً."
 
 # game/Story.rpy:318
 translate arabic story1_poison_7ddd9283:
 
     # "Poison..."
-    "Poison..."
+    "سم..."
 
 # game/Story.rpy:319
 translate arabic story1_poison_c22b29fc:
 
     # "The incident with the car."
-    "The incident with the car."
+    "وحادثة السيارة..."
 
 # game/Story.rpy:320
 translate arabic story1_poison_ba4fa642:
 
     # "So I was right... Someone is actually trying to kill me."
-    "So I was right... Someone is actually trying to kill me."
+    "إذا فقد كنت محقاً.. هناك من يحاول قتلي بالفعل."
 
 # game/Story.rpy:321
 translate arabic story1_poison_753c4364:
 
     # "But why? I'm a nobody. No friends besides Jalen, whom I haven't seen for a really long time. No work, no girlfriend, no nothing- as sad as that may sound."
-    "But why? I'm a nobody. No friends besides Jalen, whom I haven't seen for a really long time. No work, no girlfriend, no nothing- as sad as that may sound."
+    "ولكن لماذا؟ أنا نكرة. ليس لدي أي صديق ما عدا جالين، الذي لم أكلمه منذ فترة طويلة. ليس لدي عمل ولا حبيبة. ليس لدي أي شيء، أعلم أن هذا يبدو حزيناً، ولكن.."
 
 # game/Story.rpy:322
 translate arabic story1_poison_dbdfe1d0:
 
     # "What motive could anyone have to kill me?"
-    "What motive could anyone have to kill me?"
+    "ما الذي قد يجعل أي شخص قد يرغب بقتلي؟"
 
 # game/Story.rpy:323
 translate arabic story1_poison_f3e7a924:
 
     # "Hmm... Should focus on the who, rather than the why."
-    "Hmm... Should focus on the who, rather than the why."
+    "همم.. علي أن أفكر بمن حاول قتلي بدلاً من السبب."
 
 # game/Story.rpy:324
 translate arabic story1_poison_0dd07192:
 
     # "Someone in this house maybe?"
-    "Someone in this house maybe?"
+    "قد يكون شخصاً في هذا المنزل..."
 
 # game/Story.rpy:325
 translate arabic story1_poison_9cb271a8:
 
     # "Not Wilfred. He was with me in the car. Gracie is too innocent and clueless to try and take someone's life."
-    "Not Wilfred. He was with me in the car. Gracie is too innocent and clueless to try and take someone's life."
+    "ليس ويلفريد طبعاً، كان معي في السيارة في وقت الحادثة. كما أن قرايسي أبرئ من أن تحاول قتل أحد."
 
 # game/Story.rpy:326
 translate arabic story1_poison_1465dc71:
 
     # "Lady Cordia could have me killed anytime she wanted. I do not think it's her."
-    "Lady Cordia could have me killed anytime she wanted. I do not think it's her."
+    "السيدة كورديا تستطيع قتلي متى ما أرادت، لا أظن أنها الفاعلة."
 
 # game/Story.rpy:327
 translate arabic story1_poison_295122e3:
 
     # "Antonio has only been nice and welcoming to me since I arrived. But that could all be an act."
-    "Antonio has only been nice and welcoming to me since I arrived. But that could all be an act."
+    "أنطونيو كان طيباً ومرحباً لي عندما وصلت. ولكنه قد يكون يدعي هذا..."
 
 # game/Story.rpy:328
 translate arabic story1_poison_c4c9b78d:
 
     # "Isabel? No."
-    "Isabel? No."
+    "إيزابيل؟ لا أظن..."
 
 # game/Story.rpy:329
 translate arabic story1_poison_bebfd920:
 
     # "Luna seems like she would kill anyone who annoys her. Maybe she didn't like me coming here? Though she hasn't shown any indications of such feelings."
-    "Luna seems like she would kill anyone who annoys her. Maybe she didn't like me coming here? Though she hasn't shown any indications of such feelings."
+    "لونا تبدو وكأنها مستعدة أن تقتل كل من يزعجها. أيعقل بأنها لم ترغب بقدومي هنا؟ لكنها أنها لم تظهر أي علامة على هذا..."
 
 # game/Story.rpy:330
 translate arabic story1_poison_3247963f:
 
     # "None of them have any obvious motives though. Could also be someone I haven't met face-to-face."
-    "None of them have any obvious motives though. Could also be someone I haven't met face-to-face."
+    "لا أحد منهم لديه سبب واضح.. قد يكون شخصاً لم أقابله حتى..."
 
 # game/Story.rpy:331
 translate arabic story1_poison_1c1353da:
 
     # "I need to gather more information."
-    "I need to gather more information."
+    "علي أن أجمع المزيد من المعلومات."
 
 # game/Story.rpy:332
 translate arabic story1_poison_11bedf1c:
 
     # "Hmm..."
-    "Hmm..."
+    "همم..."
 
 # game/Story.rpy:333
 translate arabic story1_poison_d670f80e:
 
     # "They obviously won't say anything directly, so I need to find a way to listen in."
-    "They obviously won't say anything directly, so I need to find a way to listen in."
+    "لن يقولوا لي شيئاً طبعاً، علي أن أجد طريقة حتى أستمع لكلامهم."
 
 # game/Story.rpy:334
 translate arabic story1_poison_0b91b5ab:
 
     # "Maybe some hidden cameras and sound recorders in all the rooms?"
-    "Maybe some hidden cameras and sound recorders in all the rooms?"
+    "كاميرات أو مسجلات صوت في كل الغرف ربما؟"
 
 # game/Story.rpy:335
 translate arabic story1_poison_bff3f1fa:
 
     # "But... It's wrong to intrude on someone's privacy like that..."
-    "But... It's wrong to intrude on someone's privacy like that..."
+    "ولكن... من الخطأ إنتهاك خصوصية الناس بهذه الطريقة..."
 
 # game/Story.rpy:336
 translate arabic story1_poison_965f8e0a:
 
     # "What about the ones that have nothing to do with it?"
-    "What about the ones that have nothing to do with it?"
+    "ماذا عن الذين لا علاقة لهم بالأمر؟"
 
 # game/Story.rpy:337
 translate arabic story1_poison_f91339f9:
 
     # "Or what if none of them have anything to do with it?"
-    "Or what if none of them have anything to do with it?"
+    "ماذا لو لم يكن لأي منهم علاقة بالأمر؟"
 
 # game/Story.rpy:338
 translate arabic story1_poison_38b5079c:
 
     # "What should I do..."
-    "What should I do..."
+    "ماذا علي أن أفعل..؟"
 
 # game/Story.rpy:346
 translate arabic story1_poison_a8acedd9:
 
     # "Now I just need to gather some money and order them online."
-    "Now I just need to gather some money and order them online."
+    "علي أن أبدأ بجمع المال لأشتريهم من الإنترنت."
 
 # game/Story.rpy:365
 translate arabic story2_cameras_85345b2c:
 
     # "I should wait until it's night."
-    "I should wait until it's night."
+    "علي أن أنتظر حتى الليل."
 
 # game/Story.rpy:370
 translate arabic story2_cameras_e999bf96:
 
     # "The girls are watching a movie, Cordia and Antonio are out. Wilfred is, of course, with Cordia right now."
-    "The girls are watching a movie, Cordia and Antonio are out. Wilfred is, of course, with Cordia right now."
+    "حسناً، البنات يشاهدون التلفاز الآن، أنطونيو وكورديا بالخارج، وويلفريد معها طبعاً..."
 
 # game/Story.rpy:372
 translate arabic story2_cameras_1ab70122:
 
     # "There is no better time for setting up the hidden cameras than now."
-    "There is no better time for setting up the hidden cameras than now."
+    "لا يوجد وقت أنسب من هذا..."
 
 # game/Story.rpy:374
 translate arabic story2_cameras_5ef0deec:
 
     # "There is no better time for setting up the hidden audio recorders than now."
-    "There is no better time for setting up the hidden audio recorders than now."
+    "لا يوجد وقت أنسب من هذا..."
 
 # game/Story.rpy:375
 translate arabic story2_cameras_578d6007:
 
     # "I should get to it..."
-    "I should get to it..."
+    "علي أن أبدأ بالأمر..."
 
 # game/Story.rpy:377
 translate arabic story2_cameras_83f70252:
 
     # "Okay, let's enter..."
-    "Okay, let's enter..."
+    "هيا بنا..."
 
 # game/Story.rpy:379
 translate arabic story2_cameras_26362820:
 
     # "Now, I just need to find the perfect spot to set it up..."
-    "Now, I just need to find the perfect spot to set it up..."
+    "حسناً، كل ما علي فعله هو أن أجد مكاناً مناسباً..."
 
 # game/Story.rpy:381
 translate arabic story2_cameras_408ad6d5:
 
     # "Done."
-    "Done."
+    "ممتاز."
 
 # game/Story.rpy:382
 translate arabic story2_cameras_c6c21605:
 
     # "I'm kind of surprised at the lack of security. There are no cameras, no guards, and no locked doors."
-    "I'm kind of surprised at the lack of security. There are no cameras, no guards, and no locked doors."
+    "إنعدام الحراسة فاجأني الصراحة، لا يوجد أي كاميرات أو حراس أو حتى قفل للباب."
 
 # game/Story.rpy:383
 translate arabic story2_cameras_4d493171:
 
     # "As a crime Family, they should be more careful."
-    "As a crime Family, they should be more careful."
+    "عليهم أن يكونوا أكثر حذراً بالنسبة لعائلة مافيا."
 
 # game/Story.rpy:384
 translate arabic story2_cameras_60ad9bcb:
 
     # "Well, why should I care? This actually worked in my favor."
-    "Well, why should I care? This actually worked in my favor."
+    "لمَ علي أن أهتم؟ لقد فادني هذا أصلاً."
 
 # game/Story.rpy:385
 translate arabic story2_cameras_041cbe30:
 
     # "Now for the rest."
-    "Now for the rest."
+    "فلأكمل العمل."
 
 # game/Story.rpy:395
 translate arabic story2_cameras_24831d42:
 
     # "Last room."
-    "Last room."
+    "آخر غرفة..."
 
 # game/Story.rpy:397
 translate arabic story2_cameras_ec1b6391:
 
     # "Okay... All the rooms have been rigged and it should be up and running now."
-    "Okay... All the rooms have been rigged and it should be up and running now."
+    "حسناً، لقد ركبتهم في كل العرف، كل شيء يعمل الآن."
 
 # game/Story.rpy:398
 translate arabic story2_cameras_211c4bc0:
 
     # "Hopefully, they are hidden well enough..."
-    "Hopefully, they are hidden well enough..."
+    "آمل بأني وضعتهم في مكان غير ملجوظ..."
 
 # game/Story.rpy:399
 translate arabic story2_cameras_d3002586:
 
     # "But, this went better than expected."
-    "But, this went better than expected."
+    "كان هذا أسهل من المتوقع."
 
 # game/Story.rpy:400
 translate arabic story2_cameras_50d355c2:
 
     # "I kind of feel like a sneaky ninja, hehe."
-    "I kind of feel like a sneaky ninja, hehe."
+    "أشعر بأني رجل نينجا ههههه"
 
 # game/Story.rpy:401
 translate arabic story2_cameras_ba714e53:
 
     # "Now, let's get the hell out of-"
-    "Now, let's get the hell out of-"
+    "حسناً، فلأخرج من هن {nw}"
 
 # game/Story.rpy:404
 translate arabic story2_cameras_a56c6fc3:
 
     # lu "Hi."
-    lu "Hi."
+    lu "اهلاً."
 
 # game/Story.rpy:405
 translate arabic story2_cameras_8cca26b6:
 
     # "Shit..."
-    "Shit..."
+    "اللعنة!"
 
 # game/Story.rpy:406
 translate arabic story2_cameras_a927e702:
 
     # pov "Hi..."
-    pov "Hi..."
+    pov "مرحباً..."
 
 # game/Story.rpy:407
 translate arabic story2_cameras_a4839383:
 
     # lu "Whatcha doin'?"
-    lu "Whatcha doin'?"
+    lu "ماذا تفعل؟"
 
 # game/Story.rpy:408
 translate arabic story2_cameras_87478f55:
 
     # "I'm so dead..."
-    "I'm so dead..."
+    "سوف تقتلني..."
 
 # game/Story.rpy:409
 translate arabic story2_cameras_1a9640a8:
 
     # pov "Nothing much."
-    pov "Nothing much."
+    pov "لا شيء معين."
 
 # game/Story.rpy:410
 translate arabic story2_cameras_c5b90d5b:
 
     # lu "Come on... You can tell me."
-    lu "Come on... You can tell me."
+    lu "هيا... تستطيع إخباري."
 
 # game/Story.rpy:411
 translate arabic story2_cameras_e10e15f9:
 
     # lu "You must tell me."
-    lu "You must tell me."
+    lu "عليك أن تخبرني."
 
 # game/Story.rpy:412
 translate arabic story2_cameras_dd610b4d:
 
     # lu "You don't have any other choices than telling me..."
-    lu "You don't have any other choices than telling me..."
+    lu "ليس لديك أي خيار آخر..."
 
 # game/Story.rpy:413
 translate arabic story2_cameras_b7ad5f4c:
 
     # pov "I got lost with all these rooms... The house is pretty big."
-    pov "I got lost with all these rooms... The house is pretty big."
+    pov "لقد ضعت بين الغرف لا أكثر... إن المنزل كبير جداً."
 
 # game/Story.rpy:414
 translate arabic story2_cameras_e2667c38:
 
     # lu "Lies. You're telling lies. Lying because you won't tell me."
-    lu "Lies. You're telling lies. Lying because you won't tell me."
+    lu "كذب! إنك تكذب!"
 
 # game/Story.rpy:415
 translate arabic story2_cameras_9b4fc8be:
 
     # lu "... Seems like you won't tell me."
-    lu "... Seems like you won't tell me."
+    lu "يبدو أنك لن تقول لي إذاً..."
 
 # game/Story.rpy:417
 translate arabic story2_cameras_94e57498:
 
     # lu "Because right now, it looks like you're sneaking around in my room. A place where you are not supposed to be."
-    lu "Because right now, it looks like you're sneaking around in my room. A place where you are not supposed to be."
+    lu "لأن من الواضح لي أنك تتسلل إلى غرفتي في منتصف الليل، رغم أنك تعلم أنك من المفترض ان لا تكون هنا"
 
 # game/Story.rpy:418
 translate arabic story2_cameras_a20cefa7:
@@ -1678,67 +1678,67 @@ translate arabic story2_cameras_a20cefa7:
 translate arabic story2_cameras_4db2978d:
 
     # "Doesn't seems like she saw me put up the camera, at least."
-    "Doesn't seems like she saw me put up the camera, at least."
+    "يبدو أنها لم تراني وأنا أركب الكاميرا على الأقل..."
 
 # game/Story.rpy:422
 translate arabic story2_cameras_3a471c94:
 
     # "Doesn't seems like she saw me put up the audio recorder, at least."
-    "Doesn't seems like she saw me put up the audio recorder, at least."
+    "يبدو أنها لم تراني وأنا أركب المسجل على الأقل..."
 
 # game/Story.rpy:423
 translate arabic story2_cameras_74d60e38:
 
     # "Hmm... What did Jalen's old man tell us when we were younger?"
-    "Hmm... What did Jalen's old man tell us when we were younger?"
+    "سأفعل ما كان ينصحنا به أبو جالين عندما كنا صغاراً"
 
 # game/Story.rpy:424
 translate arabic story2_cameras_39a54cdc:
 
     # "'If you gotta lie, add a bit of truth to it.'"
-    "'If you gotta lie, add a bit of truth to it.'"
+    "'إذا اضطررت أن تكذب، فأضف جزءً من الحقيقة إلى كذبتك'"
 
 # game/Story.rpy:425
 translate arabic story2_cameras_9953381e:
 
     # pov "If you really want the truth..."
-    pov "If you really want the truth..."
+    pov "حتى أكون صريحاً معك..."
 
 # game/Story.rpy:426
 translate arabic story2_cameras_db9b3a6d:
 
     # pov "I'm looking for clues about who may have poisoned me at dinner."
-    pov "I'm looking for clues about who may have poisoned me at dinner."
+    pov "كنت أبحث عن أدلة عن من سممني في الغداء."
 
 # game/Story.rpy:427
 translate arabic story2_cameras_7bd764f1:
 
     # lu "And you think I did it?"
-    lu "And you think I did it?"
+    lu "هل تظن أني أنا الفاعلة؟"
 
 # game/Story.rpy:428
 translate arabic story2_cameras_eb030df4:
 
     # lu "That I'm after your life?"
-    lu "That I'm after your life?"
+    lu "أتظن أني أريد قتلك؟"
 
 # game/Story.rpy:429
 translate arabic story2_cameras_f52bd3d6:
 
     # pov "Not saying that you did it, nor am I saying you didn't."
-    pov "Not saying that you did it, nor am I saying you didn't."
+    pov "أنا لا أقول بأنك تريدين هذا، ولكني لا أقول العكس أيضاً."
 
 # game/Story.rpy:430
 translate arabic story2_cameras_35a2f591:
 
     # pov "Simply looking, wherever, to see if there is a clue about anything that can tell me what the Hell is going on."
-    pov "Simply looking, wherever, to see if there is a clue about anything that can tell me what the Hell is going on."
+    pov "أنا فقط أبحث في كل مكان عن أي دليل قد يقدوني إلى الفاعل"
 
 # game/Story.rpy:431
 translate arabic story2_cameras_1bd924f6:
 
     # pov "Can you really blame me for that?"
-    pov "Can you really blame me for that?"
+    pov "هل تستطيعين لومي؟"
 
 # game/Story.rpy:432
 translate arabic story2_cameras_c15cc7d6:
@@ -1750,49 +1750,49 @@ translate arabic story2_cameras_c15cc7d6:
 translate arabic story2_cameras_b5b2bbd7:
 
     # lu "No, not really."
-    lu "No, not really."
+    lu "لا..."
 
 # game/Story.rpy:434
 translate arabic story2_cameras_c964fa26:
 
     # lu "Still, you're sniffing around in my room without my knowledge. That makes me a bit... {w}mad.{w=0}"
-    lu "Still, you're sniffing around in my room without my knowledge. That makes me a bit... {w}mad.{w=0}"
+    lu "ولكن رؤيتك تحوم في أرجاء غرفتي بدون علمي، هذا يجعلني غاضبةً أيضاً..."
 
 # game/Story.rpy:435
 translate arabic story2_cameras_2edd8d3c:
 
     # lu "Can you blame me for that?"
-    lu "Can you blame me for that?"
+    lu "هل تستطيع لومي؟"
 
 # game/Story.rpy:436
 translate arabic story2_cameras_8ea69b13:
 
     # pov "...{w}Not really.{w=0}"
-    pov "...{w}Not really.{w=0}"
+    pov "... لا..."
 
 # game/Story.rpy:437
 translate arabic story2_cameras_bae139cc:
 
     # "This is not looking good..."
-    "This is not looking good..."
+    "هذا لا يبدو جيداً..."
 
 # game/Story.rpy:438
 translate arabic story2_cameras_e56a31ed:
 
     # "Maybe I can run past her. Now is the time to use my experience as a high school track runner... Even though it was only for a month..."
-    "Maybe I can run past her. Now is the time to use my experience as a high school track runner... Even though it was only for a month..."
+    "قد أستطيع الهروب منها. حان وقت إستخدام خبراتي كعداء في الثانوية، حتى لو أني كنت عداء لشهر واحد فقط..."
 
 # game/Story.rpy:439
 translate arabic story2_cameras_c62a3d3c:
 
     # "It's now or never!"
-    "It's now or never!"
+    "إما أن أفعلها الآن أو أنه سيقضى علي!"
 
 # game/Story.rpy:442
 translate arabic story2_cameras_f256c0e1:
 
     # "Huh?{nw}"
-    "Huh?{nw}"
+    "هاه!{nw}"
 
 # game/Story.rpy:444
 translate arabic story2_cameras_d1f0e050:
@@ -1804,7 +1804,7 @@ translate arabic story2_cameras_d1f0e050:
 translate arabic story2_cameras_101d7662:
 
     # "What was that speed!? I barely saw her move!"
-    "What was that speed!? I barely saw her move!"
+    "ما هذه السرعة؟ بالكاد استطعت رؤية حركتها حتى!"
 
 # game/Story.rpy:454
 translate arabic story2_cameras_c15cc7d6_1:
@@ -1816,13 +1816,13 @@ translate arabic story2_cameras_c15cc7d6_1:
 translate arabic story2_cameras_6000a111:
 
     # lu "Do I look like someone who is afraid of...{w} Consequences{w=0}?"
-    lu "Do I look like someone who is afraid of...{w} Consequences{w=0}?"
+    lu "هل أبدو كشخص يخاف من النتائج؟"
 
 # game/Story.rpy:456
 translate arabic story2_cameras_dc7cee6e:
 
     # lu "Afraid of...{w} My mother{w=0}?"
-    lu "Afraid of...{w} My mother{w=0}?"
+    lu "هل أبدو كأني اخاف من أمي؟"
 
 # game/Story.rpy:457
 translate arabic story2_cameras_c3ca3180:
@@ -1834,79 +1834,79 @@ translate arabic story2_cameras_c3ca3180:
 translate arabic story2_cameras_76e3a83f:
 
     # lu "If I wanted you dead, you think I would use something as boring as poison? I would've sliced you up the moment I saw you at the front door."
-    lu "If I wanted you dead, you think I would use something as boring as poison? I would've sliced you up the moment I saw you at the front door."
+    lu "لو إني فعلاً أردت قتلك، أتظن أني سأستخدم سماً؟ كنت سأقتلك عندما رأيتك لأول مرة أمام عتبة النزل."
 
 # game/Story.rpy:459
 translate arabic story2_cameras_654bf844:
 
     # lu "And no one could've stopped me."
-    lu "And no one could've stopped me."
+    lu "ولم يكن سيتمكن أحد من إيقافي"
 
 # game/Story.rpy:462
 translate arabic story2_cameras_0cb0a706:
 
     # lu "Buuuuuut!!"
-    lu "Buuuuuut!!"
+    lu "ولكن...!"
 
 # game/Story.rpy:464
 translate arabic story2_cameras_6b611507:
 
     # lu "Unless you're part of 'The Mysterious Six', I have no beef with you."
-    lu "Unless you're part of 'The Mysterious Six', I have no beef with you."
+    lu "بما أنك لست من الستة المجهولين، فليس بيني وبينك شيء."
 
 # game/Story.rpy:465
 translate arabic story2_cameras_a81023bc:
 
     # "Mysterious Six?"
-    "Mysterious Six?"
+    "الستة المجهولون؟"
 
 # game/Story.rpy:467
 translate arabic story2_cameras_7f832020:
 
     # lu "Not to forget, you also helped me with Gracie's jeans situation."
-    lu "Not to forget, you also helped me with Gracie's jeans situation."
+    lu "كما أنك ساعدتني عندما أردت بنطالاً لقرايسي."
 
 # game/Story.rpy:468
 translate arabic story2_cameras_3974db83:
 
     # lu "Also, I am curious about why mother has you here. We all are confused about it. Living and eating with us like you're Family."
-    lu "Also, I am curious about why mother has you here. We all are confused about it. Living and eating with us like you're Family."
+    lu "كما أني محتارة من سبب رغبة أمي بوجودك هنا. كلنا محتارون، إنك تأكل معنا وكانك فرد من العائلة."
 
 # game/Story.rpy:469
 translate arabic story2_cameras_d42b1337:
 
     # lu "It's weird."
-    lu "It's weird."
+    lu "إنه أمر غريب."
 
 # game/Story.rpy:470
 translate arabic story2_cameras_516fa902:
 
     # pov "Believe me, I'm as confused as the rest of you..."
-    pov "Believe me, I'm as confused as the rest of you..."
+    pov "صدقيني، أنا محتار مثلكم تماماً..."
 
 # game/Story.rpy:471
 translate arabic story2_cameras_5689bf46:
 
     # lu "If you really wanted to check stuff in here, all you had to do was ask. I don't have anything to hide."
-    lu "If you really wanted to check stuff in here, all you had to do was ask. I don't have anything to hide."
+    lu "إذا أردت أن تتحقق من الغرفة فتحقق، ولكن كان عليك أن تسألني أولاً، ليس لدي ما أخفيه"
 
 # game/Story.rpy:472
 translate arabic story2_cameras_70970879:
 
     # pov "So, you would've let me search your stuff freely?"
-    pov "So, you would've let me search your stuff freely?"
+    pov "كنت ستسمحين لي بأن أفتش أغراضك بحرية؟"
 
 # game/Story.rpy:473
 translate arabic story2_cameras_03fa2a5f:
 
     # lu "Yup."
-    lu "Yup."
+    lu "نعم."
 
 # game/Story.rpy:474
 translate arabic story2_cameras_a3a7690a:
 
     # pov "Even your underwear?"
-    pov "Even your underwear?"
+    pov "حتى سروالك الداخلي؟"
 
 # game/Story.rpy:475
 translate arabic story2_cameras_c15cc7d6_2:
@@ -1924,13 +1924,13 @@ translate arabic story2_cameras_c15cc7d6_3:
 translate arabic story2_cameras_97c1b8b4:
 
     # lu "What?"
-    lu "What?"
+    lu "ماذا؟"
 
 # game/Story.rpy:479
 translate arabic story2_cameras_7905ebe1:
 
     # lu "Are you stupid?"
-    lu "Are you stupid?"
+    lu "هل أنت غبي؟!"
 
 # game/Story.rpy:480
 translate arabic story2_cameras_c3ca3180_1:
@@ -1942,601 +1942,601 @@ translate arabic story2_cameras_c3ca3180_1:
 translate arabic story2_cameras_ba0f02b4:
 
     # "I kind of just blurted that out without thinking..."
-    "I kind of just blurted that out without thinking..."
+    "لقد قلت هذا دون أن أفكر..."
 
 # game/Story.rpy:482
 translate arabic story2_cameras_736a85ec:
 
     # pov "Uhm, spur of the moment kind of thing."
-    pov "Uhm, spur of the moment kind of thing."
+    pov "إحم، لقد زل لساني..."
 
 # game/Story.rpy:483
 translate arabic story2_cameras_aa1a97dc:
 
     # lu "Spur of the moment... While someone holds a knife to your throat?"
-    lu "Spur of the moment... While someone holds a knife to your throat?"
+    lu "زل لسانك وهناك من يضع سكينة على حلقك؟"
 
 # game/Story.rpy:484
 translate arabic story2_cameras_ac245ee0:
 
     # pov "Uhm..."
-    pov "Uhm..."
+    pov "اممم..."
 
 # game/Story.rpy:485
 translate arabic story2_cameras_85113713:
 
     # lu "And people call me weird..."
-    lu "And people call me weird..."
+    lu "ويقولون إني غريبة..."
 
 # game/Story.rpy:486
 translate arabic story2_cameras_ec0e41f1:
 
     # lu "Anyways, I thank you for your visit, but I wanna go night-night now."
-    lu "Anyways, I thank you for your visit, but I wanna go night-night now."
+    lu "على العموم، شكراً على الزيارة، لكني أريد النوم الآن."
 
 # game/Story.rpy:487
 translate arabic story2_cameras_55da822b:
 
     # pov "Just to be on the safe side, are the two of us good?"
-    pov "Just to be on the safe side, are the two of us good?"
+    pov "حسناً، ولكننا على ما يرام صحيح؟"
 
 # game/Story.rpy:488
 translate arabic story2_cameras_3e0747f2:
 
     # lu "I'm still mad at you for thinking I would kill you with something like poison..."
-    lu "I'm still mad at you for thinking I would kill you with something like poison..."
+    lu "ما زلت غاضبة منك لأنك ظننت إني سأقتلك بشيء كالسم..."
 
 # game/Story.rpy:489
 translate arabic story2_cameras_4f70a009:
 
     # "'That' is what you're mad about...?"
-    "'That' is what you're mad about...?"
+    "هذا الذي يغضبها؟؟"
 
 # game/Story.rpy:491
 translate arabic story2_cameras_a1024fac:
 
     # lu "But all is forgiven and forgotten."
-    lu "But all is forgiven and forgotten."
+    lu "ولكنه نسياً منسياً "
 
 # game/Story.rpy:492
 translate arabic story2_cameras_63985ac8:
 
     # pov "Well, I'm happy to hear that, goodnight Luna."
-    pov "Well, I'm happy to hear that, goodnight Luna."
+    pov "سعيد لسماع هذا، تصبحين على خير يا لونا."
 
 # game/Story.rpy:495
 translate arabic story2_cameras_cc5b6823:
 
     # "Well, that went better than expected..."
-    "Well, that went better than expected..."
+    "كان هذا أخف مما توقعته..."
 
 # game/Story.rpy:496
 translate arabic story2_cameras_7c875340:
 
     # "But I really can't figure out that girl."
-    "But I really can't figure out that girl."
+    "ولكني فعلاً لا أستطيع فهم هذه الفتاة..."
 
 # game/Story.rpy:497
 translate arabic story2_cameras_44ead29b:
 
     # "Oh well, time for bed."
-    "Oh well, time for bed."
+    "على العموم، حان وقت النوم."
 
 # game/Story.rpy:504
 translate arabic story3_punishment_4f8d0219:
 
     # "*Requirement(s) not met. Check {b}'?' --> 'Events'{/b} to see what is needed to proceed.*"
-    "*Requirement(s) not met. Check {b}'?' --> 'Events'{/b} to see what is needed to proceed.*"
+    "*لا تتوفر لديك متطلبات المهمة، يرجى الحتقق من المتطلبات عن طريق الضغط على علامة الإستفهام ثم إختيار قائمة المهام*"
 
 # game/Story.rpy:515
 translate arabic story3_punishment_b836c1d8:
 
     # "I wonder why Wilfred gathered all of us here?"
-    "I wonder why Wilfred gathered all of us here?"
+    "أتساءل عن سبب جمع ويلفريد لنا هنا.."
 
 # game/Story.rpy:516
 translate arabic story3_punishment_40b03713:
 
     # lu "What's up, old man?"
-    lu "What's up, old man?"
+    lu "ما المشكلة أيها العجوز؟"
 
 # game/Story.rpy:517
 translate arabic story3_punishment_7663c4b1:
 
     # wf "It is time for your punishment."
-    wf "It is time for your punishment."
+    wf "حان وقت عقابكم."
 
 # game/Story.rpy:519
 translate arabic story3_punishment_f8e0d1cb:
 
     # gc "What punishment?"
-    gc "What punishment?"
+    gc "أي عقاب؟"
 
 # game/Story.rpy:520
 translate arabic story3_punishment_f77a0eba:
 
     # wf "Bathroom. Desire for a pink bathroom. Explosives in a bathroom. No more bathroom."
-    wf "Bathroom. Desire for a pink bathroom. Explosives in a bathroom. No more bathroom."
+    wf "الحمام، رغبتم بحمام زهري، فجرتم الحمام، منعناكم من الحمام."
 
 # game/Story.rpy:522
 translate arabic story3_punishment_81a5eb06:
 
     # gc "Oh, yeah now I remember, hehe."
-    gc "Oh, yeah now I remember, hehe."
+    gc "أوه نعم أتذكر هذي هيهي."
 
 # game/Story.rpy:523
 translate arabic story3_punishment_958bafac:
 
     # wf "The three of you will be sent to the Tradimano territory."
-    wf "The three of you will be sent to the Tradimano territory."
+    wf "سنرسلكم أنتم الثلاثة إلى غرفة في أراضي عائلة تراديمانو."
 
 # game/Story.rpy:525
 translate arabic story3_punishment_18cb888b:
 
     # gc "Oh, a Mission! I'm going on a mission!?"
-    gc "Oh, a Mission! I'm going on a mission!?"
+    gc "أوه، مهمة! هل سأذهب في مهمة؟!"
 
 # game/Story.rpy:526
 translate arabic story3_punishment_dd86766a:
 
     # wf "This is a punishment, Gracie."
-    wf "This is a punishment, Gracie."
+    wf "هذا عقاب يا قرايسي."
 
 # game/Story.rpy:528
 translate arabic story3_punishment_48bb4037:
 
     # gc "Yes yes, a punishment of course!"
-    gc "Yes yes, a punishment of course!"
+    gc "نعم نعم إنه 'عقاب'."
 
 # game/Story.rpy:529
 translate arabic story3_punishment_95830d73:
 
     # gc "So, what's the mission? Are we going to infiltrate enemy territory? Take out some baddies?"
-    gc "So, what's the mission? Are we going to infiltrate enemy territory? Take out some baddies?"
+    gc "إذا ما هي المهمة؟ هل سنتسسل إلى منطقة العضو؟ هل سنقتل الأشرار؟"
 
 # game/Story.rpy:530
 translate arabic story3_punishment_de17ea70:
 
     # gc "Do I need a gun?"
-    gc "Do I need a gun?"
+    gc "هل أحتاج سلاحاً؟"
 
 # game/Story.rpy:531
 translate arabic story3_punishment_d455c0b9:
 
     # wf "No, your 'mission' is staying in a building in the Tradimano territory."
-    wf "No, your 'mission' is staying in a building in the Tradimano territory."
+    wf "لا، مهمتكم هي أن تبقوا في المبنى."
 
 # game/Story.rpy:533
 translate arabic story3_punishment_d08bf568:
 
     # gc "So what are we supposed to do on this mission?"
-    gc "So what are we supposed to do on this mission?"
+    gc "ثم ماذا نفعل بعدها؟"
 
 # game/Story.rpy:534
 translate arabic story3_punishment_9f4f01b4:
 
     # wf "Hmm..."
-    wf "Hmm..."
+    wf "همم..."
 
 # game/Story.rpy:535
 translate arabic story3_punishment_8066ce5b:
 
     # wf "Scouting mission. You will look for anything suspicious."
-    wf "Scouting mission. You will look for anything suspicious."
+    wf "مهمة إستكشاف، ستحاولون البحث ‘ن أي شيء مثير للشك."
 
 # game/Story.rpy:537
 translate arabic story3_punishment_3cfa5a74:
 
     # lu "Uncle! The Tradimano is infamous for being neutral. We have no beef with them!"
-    lu "Uncle! The Tradimano is infamous for being neutral. We have no beef with them!"
+    lu "عمي! عائلة تراديمانو معروفة بأنها عائلة محايدة، ليس لدينا أي مشاكل معهم!"
 
 # game/Story.rpy:538
 translate arabic story3_punishment_ef800f4d:
 
     # wf "I know. They are aware that you will be arriving in their territory and have allowed it."
-    wf "I know. They are aware that you will be arriving in their territory and have allowed it."
+    wf "أعلم هذا، كما أنهم يعلمون بقدومكم أيضاً وقد سمحوا به."
 
 # game/Story.rpy:539
 translate arabic story3_punishment_66d4d032:
 
     # lu "So what's the point of us going there?"
-    lu "So what's the point of us going there?"
+    lu "إذاً، ما الهدف من ذهابنا إلى هناك؟"
 
 # game/Story.rpy:540
 translate arabic story3_punishment_b1acb737:
 
     # wf "Punishment."
-    wf "Punishment."
+    wf "كعقاب."
 
 # game/Story.rpy:541
 translate arabic story3_punishment_d81de37f:
 
     # lu "So boredom is the punishment?"
-    lu "So boredom is the punishment?"
+    lu "إذاً فعقابنا سيكون الملل؟"
 
 # game/Story.rpy:542
 translate arabic story3_punishment_92eed05b:
 
     # wf "You will use the time to reflect on your actions. That is not boredom, it is wisdom."
-    wf "You will use the time to reflect on your actions. That is not boredom, it is wisdom."
+    wf "ستقضوا الوقت بالتفكير في أفعالكم هذه، هذا ليس مللاً بل حكمة."
 
 # game/Story.rpy:543
 translate arabic story3_punishment_80a7c8b4:
 
     # pov "So... Am I being punished?"
-    pov "So... Am I being punished?"
+    pov "هل أنا معاقب أيضاً؟"
 
 # game/Story.rpy:544
 translate arabic story3_punishment_456c6b74:
 
     # wf "No, but the Lady is asking if you would accompany them."
-    wf "No, but the Lady is asking if you would accompany them."
+    wf "لا، ولكن السيدة كورديا تريد أن تعرف إذا ما أردت مرافقتهم."
 
 # game/Story.rpy:545
 translate arabic story3_punishment_44b49585:
 
     # "I don't want to go against Lady Cordia... Just yet."
-    "I don't want to go against Lady Cordia... Just yet."
+    "لا أريد أن أعترض على رغبات السيدة كورديا للآن."
 
 # game/Story.rpy:546
 translate arabic story3_punishment_33a30734:
 
     # pov "Sure."
-    pov "Sure."
+    pov "بالطبع."
 
 # game/Story.rpy:547
 translate arabic story3_punishment_804337e0:
 
     # wf "Splendid. Of course, you will be paid $300 for this."
-    wf "Splendid. Of course, you will be paid $300 for this."
+    wf "ممتاز! ستأخذ مقابلها 300$ طبعا"
 
 # game/Story.rpy:549
 translate arabic story3_punishment_e62a9b02:
 
     # lu "$300 for doing nothing ain't bad."
-    lu "$300 for doing nothing ain't bad."
+    lu "ستأخذ 300$ دون أن تفعل شيئاً، هذا ليس سيئاً."
 
 # game/Story.rpy:550
 translate arabic story3_punishment_ebc11864:
 
     # lu "Am I getting paid too?"
-    lu "Am I getting paid too?"
+    lu "هل ستدفعوا لي أيضاً؟"
 
 # game/Story.rpy:551
 translate arabic story3_punishment_1bdcd01f:
 
     # wf "No."
-    wf "No."
+    wf "لا."
 
 # game/Story.rpy:552
 translate arabic story3_punishment_3f1164de:
 
     # lu "Objection!"
-    lu "Objection!"
+    lu "إعتراض!"
 
 # game/Story.rpy:553
 translate arabic story3_punishment_35b91eee:
 
     # wf "Overruled."
-    wf "Overruled."
+    wf "مرفوض."
 
 # game/Story.rpy:554
 translate arabic story3_punishment_e805a590:
 
     # lu "I take exception!"
-    lu "I take exception!"
+    lu "أعترض على القرار!"
 
 # game/Story.rpy:555
 translate arabic story3_punishment_3c9cceaf:
 
     # wf "Exception duly noted."
-    wf "Exception duly noted."
+    wf "تم تسجيل الإعتراض."
 
 # game/Story.rpy:556
 translate arabic story3_punishment_8d654d58:
 
     # wf "And denied. You will not be paid."
-    wf "And denied. You will not be paid."
+    wf "ورفضه. لن يدفع لكم شيئاً."
 
 # game/Story.rpy:558
 translate arabic story3_punishment_a07c827d:
 
     # lu "Why not!?"
-    lu "Why not!?"
+    lu "لمَ لا؟"
 
 # game/Story.rpy:559
 translate arabic story3_punishment_a0ac738c:
 
     # wf "As I thought, due to our generous nature in the past, the concept of punishment is not something with which you're familiar."
-    wf "As I thought, due to our generous nature in the past, the concept of punishment is not something with which you're familiar."
+    wf "كما توقعت، بسبب كرمنا في الماضي، فإن مفهوم العقاب لا يعد واضحاً لكم."
 
 # game/Story.rpy:561
 translate arabic story3_punishment_7e0fd9e2:
 
     # lu "Huh?"
-    lu "Huh?"
+    lu "هاه؟"
 
 # game/Story.rpy:562
 translate arabic story3_punishment_29cc58ed:
 
     # wf "This is a punishment, therefore, no money."
-    wf "This is a punishment, therefore, no money."
+    wf "هذا عقاب، لذا، لن يكون لكم مقابل."
 
 # game/Story.rpy:563
 translate arabic story3_punishment_6d0067a3:
 
     # lu "Listen, I understand that we are being punished. And I agree with it."
-    lu "Listen, I understand that we are being punished. And I agree with it."
+    lu "إسمع، أنا أعلم أننا بعقاب، وأنا أتفق بحاجتنا له."
 
 # game/Story.rpy:564
 translate arabic story3_punishment_657f6c44:
 
     # lu "But the punishment is not relevant in this."
-    lu "But the punishment is not relevant in this."
+    lu "ولكن لا علاقة للعقاب بهذا."
 
 # game/Story.rpy:565
 translate arabic story3_punishment_43b3a452:
 
     # lu "What is relevant is my need for money. I'm poor!"
-    lu "What is relevant is my need for money. I'm poor!"
+    lu "حاجتي بالمال لها علاقة، أنا مفلسة!"
 
 # game/Story.rpy:566
 translate arabic story3_punishment_1685c6b1:
 
     # wf "But, rich in spirit."
-    wf "But, rich in spirit."
+    wf "نعم، لكن قلبك ثري بالطيبة."
 
 # game/Story.rpy:567
 translate arabic story3_punishment_7cba4e6e:
 
     # wf "Now, your ride will be here in thirty minutes. That is all, you are dismissed."
-    wf "Now, your ride will be here in thirty minutes. That is all, you are dismissed."
+    wf "سيصل السائق بعد 30 دقيقة، هذا كل شيء، تستطيعون الهذاب."
 
 # game/Story.rpy:569
 translate arabic story3_punishment_12957954:
 
     # gc "I'M GOING ON A MISSION!!!"
-    gc "I'M GOING ON A MISSION!!!"
+    gc "سأذهب في مهمة!!!"
 
 # game/Story.rpy:572
 translate arabic story3_punishment_e86e8cdf:
 
     # lu "This sucks..."
-    lu "This sucks..."
+    lu "هذا مقرف..."
 
 # game/Story.rpy:574
 translate arabic story3_punishment_c133ead2:
 
     # wf "Don't worry, [povname]. Nothing is going to happen. We have taken care of everything, and even the location is secret."
-    wf "Don't worry, [povname]. Nothing is going to happen. We have taken care of everything, and even the location is secret."
+    wf "[povname]، لا تقلق لن يحصل أي مكروه، لقد إعتنينا بكل شيء، ولا أحد يعرف  عن مكان الموقع."
 
 # game/Story.rpy:575
 translate arabic story3_punishment_dd096d19:
 
     # wf "Now go."
-    wf "Now go."
+    wf "تستطيع الذهاب."
 
 # game/Story.rpy:578
 translate arabic story3_punishment_d0589dc6:
 
     # "{b}*Thirty minutes later*{/b}"
-    "{b}*Thirty minutes later*{/b}"
+    "{b}*بعد مرور 30 دقيقة*{/b}"
 
 # game/Story.rpy:584
 translate arabic story3_punishment_ece9c4be:
 
     # gc "Salute!"
-    gc "Salute!"
+    gc "تحياتي يا شركاء!"
 
 # game/Story.rpy:586
 translate arabic story3_punishment_b96306ad:
 
     # lu "Gracie, how many times do I have to say it? We are not going on a mission!"
-    lu "Gracie, how many times do I have to say it? We are not going on a mission!"
+    lu "قرايسي، كم مرة قلت لك، نحن لسنا في مهمة!"
 
 # game/Story.rpy:587
 translate arabic story3_punishment_3785ddca:
 
     # lu "Also, why are you wearing Cynthia's outfit?"
-    lu "Also, why are you wearing Cynthia's outfit?"
+    lu "ولمَ ترتدين زي سينثيا"
 
 # game/Story.rpy:589
 translate arabic story3_punishment_518bd412:
 
     # gc "She let me borrow it!"
-    gc "She let me borrow it!"
+    gc "لقد أعارتني إياه!"
 
 # game/Story.rpy:591
 translate arabic story3_punishment_3b9da3c4:
 
     # lu "Not fair... She would only lend it to me after I passed her agility exam..."
-    lu "Not fair... She would only lend it to me after I passed her agility exam..."
+    lu "هذا ليس عادلاً... لم تسمح لي باستعارته إلا بعد أن نجحت بإختبارها في الرياضة"
 
 # game/Story.rpy:593
 translate arabic story3_punishment_c87ef36a:
 
     # lu "But you do know that it's an old design right? She doesn't wear that anymore."
-    lu "But you do know that it's an old design right? She doesn't wear that anymore."
+    lu "كما أنك تعلمين بأنه زيها القديم صحيح؟ لم تعد ترتدي هذا"
 
 # game/Story.rpy:596
 translate arabic story3_punishment_d94e97fa:
 
     # gc "I don't care. Because it's amazing!"
-    gc "I don't care. Because it's amazing!"
+    gc "لا أهتم لأنه زي رائع!"
 
 # game/Story.rpy:597
 translate arabic story3_punishment_bc81d57a:
 
     # pov "Who is Cynthia?"
-    pov "Who is Cynthia?"
+    pov "من هي سينثيا"
 
 # game/Story.rpy:599
 translate arabic story3_punishment_200280ce:
 
     # lu "A gruesome and vile woman."
-    lu "A gruesome and vile woman."
+    lu "إمرأة فظيعة ووضيعة."
 
 # game/Story.rpy:600
 translate arabic story3_punishment_91d5a6b1:
 
     # lu "And my teacher."
-    lu "And my teacher."
+    lu "كما أنها مدرستي."
 
 # game/Story.rpy:602
 translate arabic story3_punishment_75709413:
 
     # gc "Ha! I remember you said you wanted to be like her when you got older."
-    gc "Ha! I remember you said you wanted to be like her when you got older."
+    gc "ها! أتذكر أنك قلتي بانك تريدين أن تصبحي مثلها عندما تكبرين."
 
 # game/Story.rpy:603
 translate arabic story3_punishment_933684d0:
 
     # lu "So? I still want to be like her."
-    lu "So? I still want to be like her."
+    lu "وما المشكلة؟ ما زلت أريد هذا."
 
 # game/Story.rpy:604
 translate arabic story3_punishment_bb81c04f:
 
     # pov "Gruesome and vile?"
-    pov "Gruesome and vile?"
+    pov "فظيعة ووضيعة؟"
 
 # game/Story.rpy:606
 translate arabic story3_punishment_5edb527f:
 
     # lu "Exactly!"
-    lu "Exactly!"
+    lu "بالضبط!"
 
 # game/Story.rpy:607
 translate arabic story3_punishment_6dc935db:
 
     # pov "I see. She must be a pretty good teacher, maybe she could teach me a thing or two."
-    pov "I see. She must be a pretty good teacher, maybe she could teach me a thing or two."
+    pov "حسناً. يبدو أنها مدرسة جيدة، أتساءل إن ما كانت تستطيع تعليمي شيئاً أو اثنين."
 
 # game/Story.rpy:609
 translate arabic story3_punishment_3987b949:
 
     # lu "Pretty good? Out of all the ranks and divisions that exist in the Family, there exists a group of four people who are above them all. 'The Four Serpents'."
-    lu "Pretty good? Out of all the ranks and divisions that exist in the Family, there exists a group of four people who are above them all. 'The Four Serpents'."
+    lu "جيدة؟ بين كل الرتب والأقسام الموجودة في العائلة، يوجد قسم مكون من أربعة أشخاص يعلونهم رتبة. الأفاعي الأربع..."
 
 # game/Story.rpy:610
 translate arabic story3_punishment_a5dd4456:
 
     # lu "Cynthia is part of The Four Serpents!"
-    lu "Cynthia is part of The Four Serpents!"
+    lu "سينثيا واحدة منهم."
 
 # game/Story.rpy:611
 translate arabic story3_punishment_294dc164:
 
     # lu "They are mother's personal guards and would die if she snaps her fingers and wishes it."
-    lu "They are mother's personal guards and would die if she snaps her fingers and wishes it."
+    lu "إنهم حراس أمي الشخصيين، جاهزين للموت فداءً لها."
 
 # game/Story.rpy:612
 translate arabic story3_punishment_0ccb96fc:
 
     # gc "Look, [povname]! Don't you recognize Mother's symbol?"
-    gc "Look, [povname]! Don't you recognize Mother's symbol?"
+    gc "ألا تعرف شعار أمي يا [povname]؟"
 
 # game/Story.rpy:613
 translate arabic story3_punishment_eb590aed:
 
     # pov "You guys tend to forget that I haven't been here that long..."
-    pov "You guys tend to forget that I haven't been here that long..."
+    pov "يبدو أنكم تنسون أني جديد هنا..."
 
 # game/Story.rpy:614
 translate arabic story3_punishment_19ca407c:
 
     # lu "It's something you should know no matter what! They're infamous!"
-    lu "It's something you should know no matter what! They're infamous!"
+    lu "إنه شيء يجب أن تعرف في كل الأحوال، إنهم معروفون!"
 
 # game/Story.rpy:615
 translate arabic story3_punishment_cf31c920:
 
     # pov "I get it, they're big deals."
-    pov "I get it, they're big deals."
+    pov "فهمت هذا، إنهم شيء مهم."
 
 # game/Story.rpy:616
 translate arabic story3_punishment_b994cb1c:
 
     # lu "You should really learn the sigils of each division and rank."
-    lu "You should really learn the sigils of each division and rank."
+    lu "عليك أن تتعلم شعارات كل قسم ورتبة..."
 
 # game/Story.rpy:621
 translate arabic story3_punishment_df0a8e4b:
 
     # tri "Hello, sir."
-    tri "Hello, sir."
+    tri "مرحباً سيدي."
 
 # game/Story.rpy:622
 translate arabic story3_punishment_dc656921:
 
     # tri "Ma'ams."
-    tri "Ma'ams."
+    tri "سيداتي."
 
 # game/Story.rpy:623
 translate arabic story3_punishment_ea53e106:
 
     # lu "Oh, Trino, right? You're Antonio's guy."
-    lu "Oh, Trino, right? You're Antonio's guy."
+    lu "أوه، ترينو، صحيح؟ أنت مساعد أنطونيو."
 
 # game/Story.rpy:624
 translate arabic story3_punishment_aa56aa74:
 
     # tri "Yes, ma'am."
-    tri "Yes, ma'am."
+    tri "نعم سيدتي."
 
 # game/Story.rpy:625
 translate arabic story3_punishment_507760fc:
 
     # gc "I remember you! Back some years ago, wasn't it you who were crying at the front door?"
-    gc "I remember you! Back some years ago, wasn't it you who were crying at the front door?"
+    gc "أتذكرك! ألم تكن تبكي قبل عدة سنوات عند عتبة الباب؟"
 
 # game/Story.rpy:626
 translate arabic story3_punishment_ce6fc8e5:
 
     # lu "Oh yeah, you wanted to work for big brother so much you started to cry!"
-    lu "Oh yeah, you wanted to work for big brother so much you started to cry!"
+    lu "أوه نعم، لقد أردت العمل عند أخي بشدة لدرجة أنك بدأت بالبكاء!"
 
 # game/Story.rpy:628
 translate arabic story3_punishment_52f7ce2c:
 
     # tri "Y-yes that was me, ma'am."
-    tri "Y-yes that was me, ma'am."
+    tri "نـ-نعم هذا صحيح يا سيدتي."
 
 # game/Story.rpy:629
 translate arabic story3_punishment_e97981a9:
 
     # lu "Don't be shy about it! I think it's very admirable."
-    lu "Don't be shy about it! I think it's very admirable."
+    lu "لا تستح من الموضوع، لقد كان مثيراً للإعجاب بصراحة!"
 
 # game/Story.rpy:630
 translate arabic story3_punishment_641e20a5:
 
     # gc "Totally!"
-    gc "Totally!"
+    gc "نعم!"
 
 # game/Story.rpy:631
 translate arabic story3_punishment_afd1815c:
 
     # tri "T-thank you, ma'am."
-    tri "T-thank you, ma'am."
+    tri "شـ-شكراً لك سيدتي."
 
 # game/Story.rpy:632
 translate arabic story3_punishment_11544fb5:
 
     # lu "I mean look at [povname] there. He probably cried too."
-    lu "I mean look at [povname] there. He probably cried too."
+    lu "أعني أنظر إلى [povname] هنا، لا بد من أنه بكى أيضاً"
 
 # game/Story.rpy:633
 translate arabic story3_punishment_ea745933:
 
     # tri "Really?"
-    tri "Really?"
+    tri "حقاً؟"
 
 # game/Story.rpy:635
 translate arabic story3_punishment_70d71a8f:
 
     # lu "But not because he wanted to work here, but more because he got forced to, haha!"
-    lu "But not because he wanted to work here, but more because he got forced to, haha!"
+    lu "ولكن ليس لأنه أراد العمل هنا بل العكس تماماً ههههههه!"
 
 # game/Story.rpy:636
 translate arabic story3_punishment_c3ca3180:
@@ -2548,97 +2548,97 @@ translate arabic story3_punishment_c3ca3180:
 translate arabic story3_punishment_f520a6e4:
 
     # lu "I'm kidding, haha!"
-    lu "I'm kidding, haha!"
+    lu "أنا أمزح ههههه!"
 
 # game/Story.rpy:639
 translate arabic story3_punishment_a2df2e0a:
 
     # lu "Unless... Did you cry?"
-    lu "Unless... Did you cry?"
+    lu "إلا لو... هل بكيت؟"
 
 # game/Story.rpy:640
 translate arabic story3_punishment_151cc2e7:
 
     # pov "I didn't cry..."
-    pov "I didn't cry..."
+    pov "لا لونا، لم أبكي..."
 
 # game/Story.rpy:641
 translate arabic story3_punishment_29ea41a6:
 
     # gc "I wonder what face you make when you cry?"
-    gc "I wonder what face you make when you cry?"
+    gc "هممم، كيف سيكون شكل وجهك عندما تبكي؟"
 
 # game/Story.rpy:642
 translate arabic story3_punishment_91dac466:
 
     # pov "Stop wondering about weird stuff..."
-    pov "Stop wondering about weird stuff..."
+    pov "توقفي عن التفكير بأشياء غريبة..."
 
 # game/Story.rpy:644
 translate arabic story3_punishment_7466317b:
 
     # tri "...Uhm... I-I don't want to be rude but we need to g-"
-    tri "...Uhm... I-I don't want to be rude but we need to g-"
+    tri "اممم... لـ-لا أريد أن أكون وقحاً ولكن علينا الذهاب."
 
 # game/Story.rpy:645
 translate arabic story3_punishment_850a72a8:
 
     # gc "Trino, can I drive?"
-    gc "Trino, can I drive?"
+    gc "ترينو هل أستطيع القيادة؟"
 
 # game/Story.rpy:646
 translate arabic story3_punishment_1e6511b0:
 
     # tri "Uhm..."
-    tri "Uhm..."
+    tri "..."
 
 # game/Story.rpy:648
 translate arabic story3_punishment_172beeeb:
 
     # lu "You don't even have a license, Gracie."
-    lu "You don't even have a license, Gracie."
+    lu "لا تملكين رحصة يا قرايسي!"
 
 # game/Story.rpy:649
 translate arabic story3_punishment_3db748c3:
 
     # gc "So?"
-    gc "So?"
+    gc "وما المشكلة؟"
 
 # game/Story.rpy:650
 translate arabic story3_punishment_79ac3957:
 
     # lu "So, I don't wanna die just yet."
-    lu "So, I don't wanna die just yet."
+    lu "المشكلة إني لا أريد أن أموت."
 
 # game/Story.rpy:651
 translate arabic story3_punishment_0a0028b0:
 
     # tri "We really need to go, ma'am..."
-    tri "We really need to go, ma'am..."
+    tri "علينا أن نذهب يا سيدتي."
 
 # game/Story.rpy:652
 translate arabic story3_punishment_3a7e1cef:
 
     # pov "Let's go already."
-    pov "Let's go already."
+    pov "إذا فلنذهب."
 
 # game/Story.rpy:654
 translate arabic story3_punishment_d1a00a1c:
 
     # lu "Easy for you to say Mr. 'I'm getting 300 bucks for doing shit-all'."
-    lu "Easy for you to say Mr. 'I'm getting 300 bucks for doing shit-all'."
+    lu "من السهل عليك قول هذا، ستأخذ 300$ مقابل كل هذا!"
 
 # game/Story.rpy:656
 translate arabic story3_punishment_44c5472f:
 
     # gc "TIME FOR THE MISSION!"
-    gc "TIME FOR THE MISSION!"
+    gc "حان وقت المهمة!"
 
 # game/Story.rpy:657
 translate arabic story3_punishment_2d7ca18b:
 
     # "God have mercy on me."
-    "God have mercy on me."
+    "يا إلهي سيكون هذا صعباً..."
 
 # game/Story.rpy:658
 translate arabic story3_punishment_c92ab2a1:
@@ -2650,157 +2650,157 @@ translate arabic story3_punishment_c92ab2a1:
 translate arabic story3_punishment_06bed596:
 
     # "{b}*Some time later*{/b}"
-    "{b}*Some time later*{/b}"
+    "{b}*بعد بضع من الوقت*{/b}"
 
 # game/Story.rpy:668
 translate arabic story3_punishment_5e04506c:
 
     # lu "Is this really the place we're gonna stay!?"
-    lu "Is this really the place we're gonna stay!?"
+    lu "أهذا المكان الذي سنقضي وقتنا فيه؟"
 
 # game/Story.rpy:669
 translate arabic story3_punishment_7cc15988:
 
     # lu "It's a prison!"
-    lu "It's a prison!"
+    lu "إنه سجن!"
 
 # game/Story.rpy:670
 translate arabic story3_punishment_307b197b:
 
     # tri "You will be provided with food every four hours and bathrooms are available whenever you desire. A servant will be standing guard every hour of the day. Usually, it'll be Leo and me."
-    tri "You will be provided with food every four hours and bathrooms are available whenever you desire. A servant will be standing guard every hour of the day. Usually, it'll be Leo and me."
+    tri "سيتم تزويدك بالطعام كل 4 ساعات والحمام موجود متى ما احتجتوه. سيحرس أحد الخدم الباب على مدار اليوم. غالباً سيكون ليو أو أنا"
 
 # game/Story.rpy:671
 translate arabic story3_punishment_9a7b19b3:
 
     # lu "To protect or keep us here...?"
-    lu "To protect or keep us here...?"
+    lu "لتحمينا أم لتبقينا هنا؟"
 
 # game/Story.rpy:672
 translate arabic story3_punishment_1a031360:
 
     # tri "The bed is pink- as Lady Gracie prefers it, and does not touch any of the walls- as Lady Luna prefers it."
-    tri "The bed is pink- as Lady Gracie prefers it, and does not touch any of the walls- as Lady Luna prefers it."
+    tri "السرير بلون زهري كما تحبه السيدة قرايسي، كما أنه لا يلمس أياً من الجدران كما تحبه السيدة لونا."
 
 # game/Story.rpy:673
 translate arabic story3_punishment_96ae9eb6:
 
     # lu "Oh, a prison that cares about our feelings. How nice..."
-    lu "Oh, a prison that cares about our feelings. How nice..."
+    lu "هذا لطيف، سجن يهتم فيه الحراس بمشاهرنا..."
 
 # game/Story.rpy:674
 translate arabic story3_punishment_b4de1820:
 
     # gc "That's not pink. It's purple."
-    gc "That's not pink. It's purple."
+    gc "هذا سرير بنفسجي!"
 
 # game/Story.rpy:675
 translate arabic story3_punishment_6e4dee59:
 
     # pov "Where is my bed?"
-    pov "Where is my bed?"
+    pov "أين سريري؟"
 
 # game/Story.rpy:676
 translate arabic story3_punishment_ecc199e4:
 
     # tri "Uhm... Wilfred told me that you don't need a bed since you're getting paid and your duty is to keep watch over our ladies at all times."
-    tri "Uhm... Wilfred told me that you don't need a bed since you're getting paid and your duty is to keep watch over our ladies at all times."
+    tri "إمم، ويلفريد قال لي بأنك لن تحتاج السرير بما أنهم دفعوا لك مقابل مراقبة الفتاتين طول الوقت."
 
 # game/Story.rpy:677
 translate arabic story3_punishment_a72c1d68:
 
     # tri "If you get tired, you can take a nap wherever you desire in the room."
-    tri "If you get tired, you can take a nap wherever you desire in the room."
+    tri "على الرغم من هذا، تستطيع أخذ قيلولة في الغرفة في أي وقت"
 
 # game/Story.rpy:678
 translate arabic story3_punishment_c2512148:
 
     # "Great..."
-    "Great..."
+    "رائع..."
 
 # game/Story.rpy:679
 translate arabic story3_punishment_4050ad0b:
 
     # gc "What's that weird stretcher in the middle? Looks like a broken AG-SS030 movable transport stretcher."
-    gc "What's that weird stretcher in the middle? Looks like a broken AG-SS030 movable transport stretcher."
+    gc "ما آلة التمديد الغريبة هذه؟ تبدو كآلة تمديد مخربة من موديل AG-SS030."
 
 # game/Story.rpy:680
 translate arabic story3_punishment_1ac09cbd:
 
     # lu "A what now? It's too prehistoric to have such a fancy label to it. It's just a common horror prop. You know the one where they're in a crazy asylum and get tied to that and killed slowly."
-    lu "A what now? It's too prehistoric to have such a fancy label to it. It's just a common horror prop. You know the one where they're in a crazy asylum and get tied to that and killed slowly."
+    lu "ما الذي تقولينه؟ تبدو أقدم من أن يكون لها موديلاً بهذا الإسم. إنها مجرد أداة تعذيب شائعة، مثل تلك الموجودة في مستشفيات المجانين، حيث يربطوه هنا ويعذبوه حتى يموت ببطئ."
 
 # game/Story.rpy:681
 translate arabic story3_punishment_c6b092b9:
 
     # pov "It's just a normal stretcher."
-    pov "It's just a normal stretcher."
+    pov "إنها نقالة عادية."
 
 # game/Story.rpy:682
 translate arabic story3_punishment_45bf05b8:
 
     # lu "It's an old horror prop."
-    lu "It's an old horror prop."
+    lu "إنها أداة تعذيب."
 
 # game/Story.rpy:683
 translate arabic story3_punishment_29c09d7a:
 
     # gc "AG-SS030 movable transport stretcher."
-    gc "AG-SS030 movable transport stretcher."
+    gc "آلة تمديد محمولة متحركة من موديل AG-SS030"
 
 # game/Story.rpy:684
 translate arabic story3_punishment_781aff2d:
 
     # tri "Uhm... I've been told by Sir Wilfred that this place is an old hideout for the Family, back when we were at war with the Tradimano family. That stretcher was used as some kind of torture device. I do not know the details."
-    tri "Uhm... I've been told by Sir Wilfred that this place is an old hideout for the Family, back when we were at war with the Tradimano family. That stretcher was used as some kind of torture device. I do not know the details."
+    tri "لقد قال لي السيد ويلفريد بأن هذا المكان كان مخبئاً قديماً تستخدمه العائلة عندما كانت في حرب مع عائلة تراديمانو. آلة التمديد هذه كانت تستخدم كأداة تعذيب، ولكن لم يقل لي التفاصيل."
 
 # game/Story.rpy:685
 translate arabic story3_punishment_409d906f:
 
     # lu "Were we at war with the Tradimano Family? Must be way back then. I never heard of the Tradimano's even being in a conflict with anyone. Not even an against the smaller Families."
-    lu "Were we at war with the Tradimano Family? Must be way back then. I never heard of the Tradimano's even being in a conflict with anyone. Not even an against the smaller Families."
+    lu "كنا في حرب مع عائلة تراديمانو؟ لا بد أن هذا كان منذ زمن بعيد، لم أسمع بأن لآل تراديمانو أي خلافات قديمة، حتى مع العوائل الصغيرة."
 
 # game/Story.rpy:686
 translate arabic story3_punishment_04828f6f:
 
     # tri "Times were different back then."
-    tri "Times were different back then."
+    tri "كانت أياماً مختلفة عن هذه..."
 
 # game/Story.rpy:687
 translate arabic story3_punishment_65c6b7e6:
 
     # gc "Torture stretcher? I wonder what that means? Do they stretch their legs and arms until they get torn off? It is easier with four horses on each body part. I saw that in a movie once."
-    gc "Torture stretcher? I wonder what that means? Do they stretch their legs and arms until they get torn off? It is easier with four horses on each body part. I saw that in a movie once."
+    gc "آلة تمديد للتعذيب؟ ما الذي يعنيه هذا؟ هل يشدوا أطرافك حتى تنقطع؟ سيكون الأمر أسهل لو استخدموا أربعة أحصنة لقطع كل طرق. رأيت هذا في فيلم مرة "
 
 # game/Story.rpy:688
 translate arabic story3_punishment_2a0c9993:
 
     # lu "That's creepy..."
-    lu "That's creepy..."
+    lu "هذا مريب..."
 
 # game/Story.rpy:689
 translate arabic story3_punishment_3f777499:
 
     # pov "I'm hungry."
-    pov "I'm hungry."
+    pov "أنا جائع"
 
 # game/Story.rpy:690
 translate arabic story3_punishment_baaf1d17:
 
     # lu "How can you think of food after that story?"
-    lu "How can you think of food after that story?"
+    lu "كيف تفكر بالأكل بعد سماع هذه القصة"
 
 # game/Story.rpy:691
 translate arabic story3_punishment_14066483:
 
     # pov "I haven't eaten all day..."
-    pov "I haven't eaten all day..."
+    pov "لم آكل منذ بداية اليوم..."
 
 # game/Story.rpy:692
 translate arabic story3_punishment_b30548ed:
 
     # gc "I don't think that could be classified as a story. Too short."
-    gc "I don't think that could be classified as a story. Too short."
+    gc "لا أظن أن ما قلناه مؤهلاً لأن يكون قصة، كان قصيراً جداً."
 
 # game/Story.rpy:693
 translate arabic story3_punishment_c92ab2a1_1:
@@ -2812,49 +2812,49 @@ translate arabic story3_punishment_c92ab2a1_1:
 translate arabic story3_punishment_730058e0:
 
     # lu "Y'know, Trino..."
-    lu "Y'know, Trino..."
+    lu "أتعلم يا ترينو..."
 
 # game/Story.rpy:696
 translate arabic story3_punishment_15cbdb98:
 
     # lu "We would reaaally appreciate if you could just ignore us for a couple of hours. We'll just go to a nice hotel and be back before anyone notices anything."
-    lu "We would reaaally appreciate if you could just ignore us for a couple of hours. We'll just go to a nice hotel and be back before anyone notices anything."
+    lu "سنقدرك جداً لو أنك تجاهلتنا لبضعة ساعات، سنذهب إلى فندق جميل ونعود قبل أن يلاحظ أحد إختفاءنا"
 
 # game/Story.rpy:698
 translate arabic story3_punishment_7cbfa803:
 
     # tri "I-I can't do that..."
-    tri "I-I can't do that..."
+    tri "لـ-لا أستطيع فعل هذا يا سيدتي."
 
 # game/Story.rpy:699
 translate arabic story3_punishment_97a440cc:
 
     # lu "Oh, come on now. No one would ever know. Ain't you loyal to the Family?"
-    lu "Oh, come on now. No one would ever know. Ain't you loyal to the Family?"
+    lu "هيا يا ترينو، لن يعرف أحد، ألست وفياً للعائلة؟"
 
 # game/Story.rpy:701
 translate arabic story3_punishment_6433fb39:
 
     # tri "I'M A PROUD SERVANT OF THE DELUCA FAMILY AND WOULD GLADLY GIVE UP MY LIFE IF NEEDED!"
-    tri "I'M A PROUD SERVANT OF THE DELUCA FAMILY AND WOULD GLADLY GIVE UP MY LIFE IF NEEDED!"
+    tri "أنا فخور بكوني من خدم عائلة ديلوكا وسأضحي بحياتي من أجلكم بدون تفكير لو احتاج الأمر!"
 
 # game/Story.rpy:702
 translate arabic story3_punishment_ec950b56:
 
     # tri "BUT, I HAVE BEEN GIVEN A DUTY BY ANTONIO DELUCA HIMSELF AND I CANNOT DISOBEY HIS ORDERS!"
-    tri "BUT, I HAVE BEEN GIVEN A DUTY BY ANTONIO DELUCA HIMSELF AND I CANNOT DISOBEY HIS ORDERS!"
+    tri "ولكن، لقد أمرني أنطونيو ديلوكا بنفسه، ومن المستحيل أن أعصي أوامره!"
 
 # game/Story.rpy:704
 translate arabic story3_punishment_f29f2d4e:
 
     # lu "Jeez, I was just messing around..."
-    lu "Jeez, I was just messing around..."
+    lu "إهدأ يا رجل، كنت أمزح فقط..."
 
 # game/Story.rpy:706
 translate arabic story3_punishment_64fc379b:
 
     # gc "Haha, that was one hell of a roar!"
-    gc "Haha, that was one hell of a roar!"
+    gc "ههههه، لقد تحمس أكثر من اللازم!"
 
 # game/Story.rpy:708
 translate arabic story3_punishment_c92ab2a1_2:
@@ -2866,91 +2866,91 @@ translate arabic story3_punishment_c92ab2a1_2:
 translate arabic story3_punishment_1a5a3941:
 
     # pov "When do we get food..."
-    pov "When do we get food..."
+    pov "متى سنحصل على طعام؟"
 
 # game/Story.rpy:710
 translate arabic story3_punishment_d53eb09b:
 
     # tri "Food will be delivered in two hours, sir."
-    tri "Food will be delivered in two hours, sir."
+    tri "سيصل الطعام بعد ساعتين يا سيدي."
 
 # game/Story.rpy:711
 translate arabic story3_punishment_962deb20:
 
     # lu "Two hours? Can't you just buy something at the nearest grocery store?"
-    lu "Two hours? Can't you just buy something at the nearest grocery store?"
+    lu "ساعتين؟! ألا تستطيع أن تشتري شيئاً من بقالة قريبة؟"
 
 # game/Story.rpy:712
 translate arabic story3_punishment_4d484602:
 
     # tri "There is nothing like that nearby. I'm very sorry, ma'am..."
-    tri "There is nothing like that nearby. I'm very sorry, ma'am..."
+    tri "لا يوجد أي محل قريب من هنا. آسف سيدتي."
 
 # game/Story.rpy:713
 translate arabic story3_punishment_ac38c582:
 
     # lu "Fine... But would you stop calling me ma'am already? It's getting annoying."
-    lu "Fine... But would you stop calling me ma'am already? It's getting annoying."
+    lu "حسناً... ولكن هلا توقفت عن مناداتي بسيدتي؟ بدأ الأمر يزعجني."
 
 # game/Story.rpy:715
 translate arabic story3_punishment_7031c175:
 
     # gc "Yeah, even though we never really talked, you've been with the family a long time now. Just call us by our names."
-    gc "Yeah, even though we never really talked, you've been with the family a long time now. Just call us by our names."
+    gc "نعم، صحيح أننا نادراً ما نتكلم، ولكنك جزء من العائلة منذ وقت طويل، نادنا بأسامينا وحسب."
 
 # game/Story.rpy:716
 translate arabic story3_punishment_6d22b4cc:
 
     # tri "I-I can't do that!"
-    tri "I-I can't do that!"
+    tri "لـ-لا يمكنني فعل هذا!"
 
 # game/Story.rpy:718
 translate arabic story3_punishment_907aec49:
 
     # lu "Of course, you can. Look at [povname]. He only called us Ma'am and Lady the first day he arrived. By the second day, he completely stopped saying it."
-    lu "Of course, you can. Look at [povname]. He only called us Ma'am and Lady the first day he arrived. By the second day, he completely stopped saying it."
+    lu "بلا بالطبع يمكنك، أنظر إلى [povname]. نادانا بسيدتي في أول يوم له، بعدها توقف عن هذا تماماً."
 
 # game/Story.rpy:720
 translate arabic story3_punishment_8bd8ec41:
 
     # gc "He was probably like 'screw that', haha!"
-    gc "He was probably like 'screw that', haha!"
+    gc "غالباً أنه تجاهل الموضوع تماماً هههههههه"
 
 # game/Story.rpy:721
 translate arabic story3_punishment_8d4bdfb4:
 
     # pov "...I didn't say 'screw that'. I just kind of forget it from time to time."
-    pov "...I didn't say 'screw that'. I just kind of forget it from time to time."
+    pov "... لم أتجاهل الموضوع، كل ما الأمر أني أنسى هذا..."
 
 # game/Story.rpy:722
 translate arabic story3_punishment_5acd3f39:
 
     # pov "Especially after I began to learn what kind of people the two of you are..."
-    pov "Especially after I began to learn what kind of people the two of you are..."
+    pov "خاصةً بعد أن تعرفت عليكم..."
 
 # game/Story.rpy:725
 translate arabic story3_punishment_2243a6c1:
 
     # lu "Rude..."
-    lu "Rude..."
+    lu "هذا وقح..."
 
 # game/Story.rpy:726
 translate arabic story3_punishment_e3398b6a:
 
     # gc "Very rude..."
-    gc "Very rude..."
+    gc "وقح جداً..."
 
 # game/Story.rpy:727
 translate arabic story3_punishment_377541ad:
 
     # tri "No no no, sir! That won't do! You must always use the proper terms when addressing your superiors!"
-    tri "No no no, sir! That won't do! You must always use the proper terms when addressing your superiors!"
+    tri "لا يا سيدي هذا لا يصلح! عليك دائماً أن تنادي من هم أعلى منك رتبةً باللقب المناسب!"
 
 # game/Story.rpy:728
 translate arabic story3_punishment_f2a8f365:
 
     # gc "Hehe, we're superiors."
-    gc "Hehe, we're superiors."
+    gc "هيهي، نحن أعلى منك رتبةً."
 
 # game/Story.rpy:729
 translate arabic story3_punishment_c3ca3180_1:
@@ -2962,181 +2962,181 @@ translate arabic story3_punishment_c3ca3180_1:
 translate arabic story3_punishment_0b5c58d2:
 
     # pov "Well, at least stop calling me 'sir'. You're higher ranked than I am. It's weird."
-    pov "Well, at least stop calling me 'sir'. You're higher ranked than I am. It's weird."
+    pov "حسناً، ولكن على الأقل توقف عن مناداتي بسيدي، أنت أعلى رتبتة مني..."
 
 # game/Story.rpy:731
 translate arabic story3_punishment_1fa4b0d4:
 
     # "Already getting weirded out with Wilfred saying it..."
-    "Already getting weirded out with Wilfred saying it..."
+    "نداء ويلفريد لي بسيدي غريب كفاية..."
 
 # game/Story.rpy:732
 translate arabic story3_punishment_fd94eb54:
 
     # tri "The thing is, you are all the talk among us right now. From the servants to the soldiers of all divisions and ranks."
-    tri "The thing is, you are all the talk among us right now. From the servants to the soldiers of all divisions and ranks."
+    tri "كل ما في الأمر أنك على كل لسان الخدم والجنود في كل الأقسام."
 
 # game/Story.rpy:733
 translate arabic story3_punishment_82b00ef1:
 
     # pov "Am I?"
-    pov "Am I?"
+    pov "حقاً؟"
 
 # game/Story.rpy:734
 translate arabic story3_punishment_ed5ca69c:
 
     # tri "Yes. You suddenly came out of nowhere and you are now living under the same roof as the main Family."
-    tri "Yes. You suddenly came out of nowhere and you are now living under the same roof as the main Family."
+    tri "نعم، لقد أتيت فجأةً وأصبحت تعيش في نفس منزل العائلة."
 
 # game/Story.rpy:735
 translate arabic story3_punishment_41e1a17f:
 
     # tri "Been lots of theories and gossip about why that is."
-    tri "Been lots of theories and gossip about why that is."
+    tri "لقد تبادلنا الكثير من الشائعات والنظريات حول السبب."
 
 # game/Story.rpy:736
 translate arabic story3_punishment_297a9343:
 
     # tri "And I must admit, it's kind of confusing, so I just call you sir to avoid any troubles."
-    tri "And I must admit, it's kind of confusing, so I just call you sir to avoid any troubles."
+    tri "وعلي الإعتراف بأن الأمر مربك، لذا فأنا أناديك بسيدي لتفادي المشاكل."
 
 # game/Story.rpy:738
 translate arabic story3_punishment_1dd6bccd:
 
     # lu "I see... So, that's what happens behind our backs."
-    lu "I see... So, that's what happens behind our backs."
+    lu "أرى هذا.. إذاً هذا ما تفعلونه من وراء ظهورنا."
 
 # game/Story.rpy:740
 translate arabic story3_punishment_21fe7d1f:
 
     # gc "What else do you guys say... When we are not around...?"
-    gc "What else do you guys say... When we are not around...?"
+    gc "ماذا تقولون أيضاً عندما لا نكون موجودين؟"
 
 # game/Story.rpy:741
 translate arabic story3_punishment_fe792dd9:
 
     # lu "I wonder if they curse at us too. And say all kind of nasty things."
-    lu "I wonder if they curse at us too. And say all kind of nasty things."
+    lu "أتساءل إن ما كانوا يشتمونا أيضاً..."
 
 # game/Story.rpy:742
 translate arabic story3_punishment_abd74657:
 
     # gc "To suddenly learn that our own people have those kinds of ill feelings towards us..."
-    gc "To suddenly learn that our own people have those kinds of ill feelings towards us..."
+    gc "أن أعرف فجأةً بأن أفراد العائلة يحملون تجاهنا هذه المشاعر..."
 
 # game/Story.rpy:744
 translate arabic story3_punishment_92b5b74b:
 
     # tri "ON THE BEHALF OF ALL YOUR LOYAL SUBJECTS, I TRINO RUSSO, APOLOGIZE FOR ANY MISTAKES AND WRONGDOING THAT MAY HAVE BEEN GOING ON!"
-    tri "ON THE BEHALF OF ALL YOUR LOYAL SUBJECTS, I TRINO RUSSO, APOLOGIZE FOR ANY MISTAKES AND WRONGDOING THAT MAY HAVE BEEN GOING ON!"
+    tri "نيابة عن كل خدم العائلة، أنا ترينو ابن روسو أعتذر عن أي غلطة قد بدرت منا في الماضي!"
 
 # game/Story.rpy:745
 translate arabic story3_punishment_35281f67:
 
     # tri "I WILL PERSONALLY MAKE SURE THAT NO SERVANT OF THE DELUCA FAMILY WILL EVER SPEAK ILL OR EVEN MENTION ANYTHING RELATED TO THE MAIN FAMILY EVER AGAIN."
-    tri "I WILL PERSONALLY MAKE SURE THAT NO SERVANT OF THE DELUCA FAMILY WILL EVER SPEAK ILL OR EVEN MENTION ANYTHING RELATED TO THE MAIN FAMILY EVER AGAIN."
+    tri "سأتأكد أنا بنفسي من أن خدم العائلة لن يتحدثوا عنكم بسوء مرة أخرى."
 
 # game/Story.rpy:746
 translate arabic story3_punishment_7fb9ceaf:
 
     # tri "I SWEAR BY MY HONOR AS A LOYAL SUBJECT OF ANTONIO DELUCA, HIMSELF!"
-    tri "I SWEAR BY MY HONOR AS A LOYAL SUBJECT OF ANTONIO DELUCA, HIMSELF!"
+    tri "أقسم لكم بشرفي كخادم لأنطونيو ديلوكا بنفسه!"
 
 # game/Story.rpy:748
 translate arabic story3_punishment_41f551ed:
 
     # lu "Too easy, haha!"
-    lu "Too easy, haha!"
+    lu "كان الأمر سهلاً هههههه!"
 
 # game/Story.rpy:751
 translate arabic story3_punishment_eade2404:
 
     # gc "Hahahahaha, he is amazing!"
-    gc "Hahahahaha, he is amazing!"
+    gc "هههههههههه، إنه رائع!"
 
 # game/Story.rpy:752
 translate arabic story3_punishment_87f6b516:
 
     # "These two are devils disguised as innocent girls..."
-    "These two are devils disguised as innocent girls..."
+    "إنهما شيطانين متجسدان بهئية بنتي بريئتين..."
 
 # game/Story.rpy:753
 translate arabic story3_punishment_04033d01:
 
     # pov "Leave the man alone..."
-    pov "Leave the man alone..."
+    pov "دعو الرجل وشأنه..."
 
 # game/Story.rpy:755
 translate arabic story3_punishment_31028fb9:
 
     # tri "I will be leaving now, ma'am... If you need anything, just knock at the door and one of our guys will answer."
-    tri "I will be leaving now, ma'am... If you need anything, just knock at the door and one of our guys will answer."
+    tri "سأخرج الآن يا سيدتي... دقوا على الباب إذا احتجتم أي شيء وسيرد عليكم أحد الرجال."
 
 # game/Story.rpy:757
 translate arabic story3_punishment_2fd95492:
 
     # lu "What? But you are the only source of entertainment!"
-    lu "What? But you are the only source of entertainment!"
+    lu "ماذا؟! ولكنك مصدر التسلية الوحيد هنا!"
 
 # game/Story.rpy:758
 translate arabic story3_punishment_0d9368f5:
 
     # gc "Yeah, you're so funny!"
-    gc "Yeah, you're so funny!"
+    gc "نعم، إنك مضحك جداً!"
 
 # game/Story.rpy:759
 translate arabic story3_punishment_1c718611:
 
     # tri "I-I'm sorry! Goodbye now, ma'am."
-    tri "I-I'm sorry! Goodbye now, ma'am."
+    tri "أ-أنا آسف! وداعاً سيدتي.
 
 # game/Story.rpy:761
 translate arabic story3_punishment_e98a6e56:
 
     # lu "What now...?"
-    lu "What now...?"
+    lu "ماذا نفعل الآن؟"
 
 # game/Story.rpy:763
 translate arabic story3_punishment_3658bf13:
 
     # gc "We should check the room out."
-    gc "We should check the room out."
+    gc "فلنتفحص الغرفة!"
 
 # game/Story.rpy:764
 translate arabic story3_punishment_70184f00:
 
     # pov "I'm hungry..."
-    pov "I'm hungry..."
+    pov "أنا جائع..."
 
 # game/Story.rpy:768
 translate arabic story3_punishment_2332319c:
 
     # lu "Bulletproof glass... Cannot be opened... Barely able to see out of the window..."
-    lu "Bulletproof glass... Cannot be opened... Barely able to see out of the window..."
+    lu "زجاج مضاد للرصاص، لا يفتح حتى.. بالكاد تستطيع رؤية ما في الخارج..."
 
 # game/Story.rpy:769
 translate arabic story3_punishment_062bab91:
 
     # lu "Yeah... We are in prison..."
-    lu "Yeah... We are in prison..."
+    lu "نعم... نحن في سجن..."
 
 # game/Story.rpy:770
 translate arabic story3_punishment_2e371f1a:
 
     # lu "No, it's worse... We have a blurred look at a beach to remind us what we're missing out on..."
-    lu "No, it's worse... We have a blurred look at a beach to remind us what we're missing out on..."
+    lu "لا بل أسوء، أننا نستطيع بالكاد رؤية الشاطئ لنتذكر بأننا مسجونون في مكان كئيب..."
 
 # game/Story.rpy:772
 translate arabic story3_punishment_ea65ff34:
 
     # pov "It could be worse, Luna. The view could be of a restaurant."
-    pov "It could be worse, Luna. The view could be of a restaurant."
+    pov "من الممكن أن يكون الأمر أسوء يا لونا، تخيلي لو أن الإطلالة كانت على مطعم."
 
 # game/Story.rpy:773
 translate arabic story3_punishment_e33a35b8:
 
     # gc "How is a restaurant view worse than a beach?"
-    gc "How is a restaurant view worse than a beach?"
+    gc "كيف يكون المطعم أسوء من الشاطئ؟"
 
 # game/Story.rpy:774
 translate arabic story3_punishment_c15cc7d6:
@@ -3148,19 +3148,19 @@ translate arabic story3_punishment_c15cc7d6:
 translate arabic story3_punishment_4c1f8a71:
 
     # pov "Because you constantly get reminded of food. And you die without food. You won't die without a beach."
-    pov "Because you constantly get reminded of food. And you die without food. You won't die without a beach."
+    pov "لأنك ستتذكرين الطعام دائماً، وستموتين بدون الطعام. لكنك لن تموتي بدون الشاطئ."
 
 # game/Story.rpy:776
 translate arabic story3_punishment_8eaeda51:
 
     # gc "Some beach mammals would die without the beach."
-    gc "Some beach mammals would die without the beach."
+    gc "بعض ثديات الشاطئ ستموت بدون الشاطئ."
 
 # game/Story.rpy:777
 translate arabic story3_punishment_e2c4e5ef:
 
     # pov "Just because you add 'beach' in front of the word mammals, doesn't mean that any kinds of marine mammals would die without a beach."
-    pov "Just because you add 'beach' in front of the word mammals, doesn't mean that any kinds of marine mammals would die without a beach."
+    pov "فقط لأنك أضفتي كلمة الشاطئ على الثديات لا يعني بأنه يوجد أي ثديات بحرية ستموت بدون الشاطئ"
 
 # game/Story.rpy:778
 translate arabic story3_punishment_c15cc7d6_1:
@@ -3172,25 +3172,25 @@ translate arabic story3_punishment_c15cc7d6_1:
 translate arabic story3_punishment_501c3645:
 
     # gc "Seals."
-    gc "Seals."
+    gc "زعنفيات الأقدام!"
 
 # game/Story.rpy:780
 translate arabic story3_punishment_f3bee6e2:
 
     # pov "What about seals?"
-    pov "What about seals?"
+    pov "ماذا عنهم؟"
 
 # game/Story.rpy:781
 translate arabic story3_punishment_b2dfe3d2:
 
     # gc "They'd die without a beach."
-    gc "They'd die without a beach."
+    gc "سيموتوا بلا الشاطئ."
 
 # game/Story.rpy:782
 translate arabic story3_punishment_be932943:
 
     # pov "No, they wouldn't. Also, they go to the beach for the food, not because they particularly care if it's a beach. They get food wherever they can."
-    pov "No, they wouldn't. Also, they go to the beach for the food, not because they particularly care if it's a beach. They get food wherever they can."
+    pov "لا، لن يموتوا. كما أن الشاطئ هو مكان أكلهم، حتى وإن كان مكاناً مختلفاً فلن يهتموا طالما أن الأكل موجود."
 
 # game/Story.rpy:783
 translate arabic story3_punishment_c15cc7d6_2:
@@ -3202,217 +3202,217 @@ translate arabic story3_punishment_c15cc7d6_2:
 translate arabic story3_punishment_75e900fa:
 
     # pov "So in a sense, the beach is actually a restaurant for a lot of marine mammals."
-    pov "So in a sense, the beach is actually a restaurant for a lot of marine mammals."
+    pov "لذا، بطريقة ما، فإن الشاطئ يعتبر مطعماً لهم."
 
 # game/Story.rpy:785
 translate arabic story3_punishment_c40b3dc9:
 
     # lu "Enough..."
-    lu "Enough..."
+    lu "هذا يكفي..."
 
 # game/Story.rpy:786
 translate arabic story3_punishment_3494c409:
 
     # gc "Huh?"
-    gc "Huh?"
+    gc "ماذا؟"
 
 # game/Story.rpy:789
 translate arabic story3_punishment_d2240edc:
 
     # lu "I said enough!"
-    lu "I said enough!"
+    lu "هذا. يكفي!"
 
 # game/Story.rpy:790
 translate arabic story3_punishment_790b0a25:
 
     # lu "Who cares about what kind of view we have? Or if beach animals like beaches!?"
-    lu "Who cares about what kind of view we have? Or if beach animals like beaches!?"
+    lu "من يهتم بإطلالة المبنى؟ أو ما إذا كانت حيوانات الشاطئ تحب الشاطئ؟!"
 
 # game/Story.rpy:791
 translate arabic story3_punishment_67af19be:
 
     # lu "We're stuck in this Hell-hole and you talk about all this nonsense!"
-    lu "We're stuck in this Hell-hole and you talk about all this nonsense!"
+    lu "نحن عالقون في هذه الغرفة ونتحدث عن تفاهات كهذه!"
 
 # game/Story.rpy:792
 translate arabic story3_punishment_2b0a7b40:
 
     # gc "Mammals..."
-    gc "Mammals..."
+    gc "ثديات..."
 
 # game/Story.rpy:793
 translate arabic story3_punishment_97c1b8b4:
 
     # lu "What?"
-    lu "What?"
+    lu "ماذا؟"
 
 # game/Story.rpy:794
 translate arabic story3_punishment_d378ada8:
 
     # gc "It's beach mammals, not beach animals."
-    gc "It's beach mammals, not beach animals."
+    gc "إنها ثديات الشاطئ، أنت قلتي حيوانات الشاطئ"
 
 # game/Story.rpy:795
 translate arabic story3_punishment_2715440e:
 
     # lu "What difference does that make!"
-    lu "What difference does that make!"
+    lu "وما الفرق؟!"
 
 # game/Story.rpy:796
 translate arabic story3_punishment_56387abb:
 
     # gc "All mammals are animals, but not all animals are mammals. There is a difference."
-    gc "All mammals are animals, but not all animals are mammals. There is a difference."
+    gc "كل الثديات حيوانات، ولكن ليس كل الحيوانات ثديات، هذا الفرق."
 
 # game/Story.rpy:797
 translate arabic story3_punishment_e22e7776:
 
     # lu "Let me rephrase that better...{w} No one cares!{w=0}"
-    lu "Let me rephrase that better...{w} No one cares!{w=0}"
+    lu "دعيني أوضح هذا بطريقة أفضل... لا، أحد، يهتم!"
 
 # game/Story.rpy:798
 translate arabic story3_punishment_501f05c1:
 
     # pov "Luna, in situations like these it's best to stay calm and relaxed. Try to slowly breathe in through your nose and exhale fully through your mouth, making a 'whoosh' sound."
-    pov "Luna, in situations like these it's best to stay calm and relaxed. Try to slowly breathe in through your nose and exhale fully through your mouth, making a 'whoosh' sound."
+    pov "لونا، في حالات كهذه من الأفضل لو استرخيتي. حاولي إستنشاق الهواء ببطئ من أنفك ثم إخراجه من فمك..."
 
 # game/Story.rpy:799
 translate arabic story3_punishment_537a989e:
 
     # lu "You..."
-    lu "You..."
+    lu "أنت..."
 
 # game/Story.rpy:800
 translate arabic story3_punishment_1afd28dc:
 
     # pov "Me?"
-    pov "Me?"
+    pov "أنا؟"
 
 # game/Story.rpy:801
 translate arabic story3_punishment_2056824b:
 
     # lu "It's all because of you!"
-    lu "It's all because of you!"
+    lu "كل هذا بسببك!"
 
 # game/Story.rpy:802
 translate arabic story3_punishment_0ffe5b4b:
 
     # pov "What did I do?"
-    pov "What did I do?"
+    pov "وما الذي فعله؟"
 
 # game/Story.rpy:803
 translate arabic story3_punishment_2387dcad:
 
     # lu "'Uhhhh, Miss Cordia, Why are you such a big SOFTY! You're soooo indecisive!'"
-    lu "'Uhhhh, Miss Cordia, Why are you such a big SOFTY! You're soooo indecisive!'"
+    lu "'أوه، سيدة كورديا، أنت حساسة جدة، أنت لست حاسمة!'"
 
 # game/Story.rpy:804
 translate arabic story3_punishment_be49dfe9:
 
     # pov "In my own defense, those were not my exact words."
-    pov "In my own defense, those were not my exact words."
+    pov "اممم، لم أقل هذا بالضبط."
 
 # game/Story.rpy:805
 translate arabic story3_punishment_d874331f:
 
     # pov "Also, I find it remarkable that not only did Wilfred misquote my words, but you were able to misquote the words Wilfred misquoted in the first place."
-    pov "Also, I find it remarkable that not only did Wilfred misquote my words, but you were able to misquote the words Wilfred misquoted in the first place."
+    pov "كما أني أستعجب من أن ويلفريد أخطأ بإقتباس كلامي، وأنت أخطأتي بإقتباس كلام ويلفريد عني، رغم إن إقتباسه خطأ من الأساس."
 
 # game/Story.rpy:806
 translate arabic story3_punishment_e28d2e7b:
 
     # pov "There should be a limit to how much words can be twis-"
-    pov "There should be a limit to how much words can be twis-"
+    pov "يجب أن يكون هناك حد لمقدار التلاعب بالكلا{nw}"
 
 # game/Story.rpy:807
 translate arabic story3_punishment_4e8adb5e:
 
     # lu "What does it matter! It's your fault no matter how the words were said!"
-    lu "What does it matter! It's your fault no matter how the words were said!"
+    lu "كيف يكون هذا مهماً! كل هذا بسببك أياً كان ما قلته!"
 
 # game/Story.rpy:808
 translate arabic story3_punishment_2513ee53:
 
     # pov "Well, it wasn't me who tried to paint the bathroom pink with the use of explosives..."
-    pov "Well, it wasn't me who tried to paint the bathroom pink with the use of explosives..."
+    pov "لم أكن أنا من حاولت طلاء الحمام باستخدام المتفجرات..."
 
 # game/Story.rpy:809
 translate arabic story3_punishment_2813bd7a:
 
     # pov "Seriously, who does that...?"
-    pov "Seriously, who does that...?"
+    pov "من يفعل هذا على أي حال؟"
 
 # game/Story.rpy:812
 translate arabic story3_punishment_abbcb1da:
 
     # lu "It seemed like a good idea at the time..."
-    lu "It seemed like a good idea at the time..."
+    lu "بدت كفكرة جيدة وقتها..."
 
 # game/Story.rpy:813
 translate arabic story3_punishment_ff07e64f:
 
     # pov "All three times...?"
-    pov "All three times...?"
+    pov "بدت كفكرة جيدة كل الثلاث مرات؟"
 
 # game/Story.rpy:814
 translate arabic story3_punishment_9cc6ca18:
 
     # lu "I don't like giving up..."
-    lu "I don't like giving up..."
+    lu "لا أحب الإستسلام"
 
 # game/Story.rpy:817
 translate arabic story3_punishment_a37e9f15:
 
     # gc "You two stop bickering. We need to focus on the mission!"
-    gc "You two stop bickering. We need to focus on the mission!"
+    gc "توقفا عن الشجار، علينا التركيز بالمهمة!"
 
 # game/Story.rpy:818
 translate arabic story3_punishment_c640bf63:
 
     # pov "She still thinks this is a mission?"
-    pov "She still thinks this is a mission?"
+    pov "أما زالت تظن أننا في مهمة؟"
 
 # game/Story.rpy:820
 translate arabic story3_punishment_26ea7ab9:
 
     # lu "Yeah... Don't even try to tell her otherwise. Trust me, I tried..."
-    lu "Yeah... Don't even try to tell her otherwise. Trust me, I tried..."
+    lu "نعم... لا تحاول إقناعها بالعكس، صدقني لقد حاولت..."
 
 # game/Story.rpy:822
 translate arabic story3_punishment_13e6776d:
 
     # gc "We should take turns looking outside for anything suspicious going on."
-    gc "We should take turns looking outside for anything suspicious going on."
+    gc "علينا أن نتبادل الأدوار في النظر على أي شيء مثير للريبة في الخارج."
 
 # game/Story.rpy:823
 translate arabic story3_punishment_43fe2997:
 
     # gc "I brought a notebook with me. I noticed you guys did not. But no worries, you can write in mine too!"
-    gc "I brought a notebook with me. I noticed you guys did not. But no worries, you can write in mine too!"
+    gc "أحضرت دفتراً معي. لاحظت أنكم لم تفعلوا هذا، ولكن يا مشكلة يا رفاق تستطيعون الكتابة على دفتري!"
 
 # game/Story.rpy:824
 translate arabic story3_punishment_9e99ec76:
 
     # gc "This is so exciting!"
-    gc "This is so exciting!"
+    gc "هذا شيق جداً!"
 
 # game/Story.rpy:825
 translate arabic story3_punishment_7996058b:
 
     # "This is going to be so boring..."
-    "This is going to be so boring..."
+    "سيكون هذا مملاً..."
 
 # game/Story.rpy:826
 translate arabic story3_punishment_d0102fc8:
 
     # "What the hell are we going to do all day?"
-    "What the hell are we going to do all day?"
+    "ماذا سنفعل اليوم كله؟"
 
 # game/Story.rpy:827
 translate arabic story3_punishment_dbc78d01:
 
     # "Well, at least it'll probably be a day or two at max."
-    "Well, at least it'll probably be a day or two at max."
+    "على الأقل لن يأخذ الأمر وقتاً طويلاً، يوم أو يومين على الأكثر."
 
 # game/Story.rpy:831
 translate arabic story3_punishment_a491d5d8:
@@ -7126,7 +7126,7 @@ translate arabic nightBeachTalk_b6defb1a:
 translate arabic story4_betrayel_4f8d0219:
 
     # "*Requirement(s) not met. Check {b}'?' --> 'Events'{/b} to see what is needed to proceed.*"
-    "*Requirement(s) not met. Check {b}'?' --> 'Events'{/b} to see what is needed to proceed.*"
+    "*لا تتوفر لديك متطلبات المهمة، يرجى الحتقق من المتطلبات عن طريق الضغط على علامة الإستفهام ثم إختيار قائمة المهام*"
 
 # game/Story.rpy:1760
 translate arabic story4_betrayel_e59e035b:
@@ -9382,7 +9382,7 @@ translate arabic story5_fazio_b212ae83:
 translate arabic story6_giocobbe_4f8d0219:
 
     # "*Requirement(s) not met. Check {b}'?' --> 'Events'{/b} to see what is needed to proceed.*"
-    "*Requirement(s) not met. Check {b}'?' --> 'Events'{/b} to see what is needed to proceed.*"
+    "*لا تتوفر لديك متطلبات المهمة، يرجى الحتقق من المتطلبات عن طريق الضغط على علامة الإستفهام ثم إختيار قائمة المهام*"
 
 # game/Story.rpy:2308
 translate arabic story6_giocobbe_e83fb636:
@@ -11104,7 +11104,7 @@ translate arabic story7_ThePicture_b6defb1a:
 translate arabic story8_jalen_4f8d0219:
 
     # "*Requirement(s) not met. Check {b}'?' --> 'Events'{/b} to see what is needed to proceed.*"
-    "*Requirement(s) not met. Check {b}'?' --> 'Events'{/b} to see what is needed to proceed.*"
+    "*لا تتوفر لديك متطلبات المهمة، يرجى الحتقق من المتطلبات عن طريق الضغط على علامة الإستفهام ثم إختيار قائمة المهام*"
 
 # game/Story.rpy:2690
 translate arabic story8_jalen_66d86875:
@@ -14284,131 +14284,131 @@ translate arabic strings:
 
     # game/Story.rpy:145
     old "It's been okay."
-    new "It's been okay."
+    new "كانت جيدة."
 
     # game/Story.rpy:145
     old "Confusing, to be honest."
-    new "Confusing, to be honest."
+    new "كانت محيرةُ بصراحة"
 
     # game/Story.rpy:145
     old "Shitty."
-    new "Shitty."
+    new "مثل الخراء."
 
     # game/Story.rpy:339
     old "No choice... Hidden cameras."
-    new "No choice... Hidden cameras."
+    new "ليس لدي خيار آخر، سأركب كاميراتاً خفية"
 
     # game/Story.rpy:339
     old "An audio recorder should be fine."
-    new "An audio recorder should be fine."
+    new "سيفي جهاز تسجيل الصوت بالغرض"
 
     # game/Story.rpy:351
     old "Mithridatism?"
-    new "Mithridatism?"
+    new "ميثريداتيزم؟"
 
     # game/Story.rpy:352
     old "I hope he's okay."
-    new "I hope he's okay."
+    new "أأمل أنه بخير."
 
     # game/Story.rpy:353
     old "That was so crazy! He almost died."
-    new "That was so crazy! He almost died."
+    new "كان هذا جنونيا! كاد أن يموت."
 
     # game/Story.rpy:355
     old "In my own house... Unforgiveable."
-    new "In my own house... Unforgiveable."
+    new "في بيتي أنا... لن أنسى هذا."
 
     # game/Story.rpy:356
     old "I hope Lady Cordia doesn't blame herself."
-    new "I hope Lady Cordia doesn't blame herself."
+    new "آمل أن السيدة كورديا لا تلوم نفسها."
 
     # game/Story.rpy:498
     old "Suspecting someone as innocent looking as me? That guy is weird."
-    new "Suspecting someone as innocent looking as me? That guy is weird."
+    new "أن يشك بشخص بريء مثلي؟ ياله من غريب."
 
     # game/Story.rpy:966
     old "*Talk about childhood*"
-    new "*Talk about childhood*"
+    new "*تحدث عن أيام الطفولة*"
 
     # game/Story.rpy:966
     old "*Talk about social life*"
-    new "*Talk about social life*"
+    new "*تحدث عن حياتك الإجتماعية*"
 
     # game/Story.rpy:966
     old "*Talk about relationships*"
-    new "*Talk about relationships*"
+    new "*تحدث عن حياتك العاطفية*"
 
     # game/Story.rpy:966
     old "Not tonight, maybe tomorrow"
-    new "Not tonight, maybe tomorrow"
+    new "ليس اليوم، غداً ربما..."
 
     # game/Story.rpy:966
     old "It's late, let's go to sleep."
-    new "It's late, let's go to sleep."
+    new "إن الوقت متأخر، فلننام."
 
     # game/Story.rpy:1058
     old "I like the both of you, too."
-    new "I like the both of you, too."
+    new "تعجبانني كلاكما أيضاً"
 
     # game/Story.rpy:1058
     old "Guys, please be serious here..."
-    new "Guys, please be serious here..."
+    new "أرجوكم كونوا جادين يا رفاق..."
 
     # game/Story.rpy:1298
     old "*Stay silent*"
-    new "*Stay silent*"
+    new "*إبقى صامتاً*"
 
     # game/Story.rpy:1298
     old "*Stop her*"
-    new "*Stop her*"
+    new "*أوقفها*"
 
     # game/Story.rpy:1327
     old "Yes."
-    new "Yes."
+    new "نعم."
 
     # game/Story.rpy:1327
     old "No..."
-    new "No..."
+    new "لا..."
 
     # game/Story.rpy:1410
     old "I will go out there."
-    new "I will go out there."
+    new "سأذهب إلى الخارج."
 
     # game/Story.rpy:1745
     old "Goddamn mercenaries!"
-    new "Goddamn mercenaries!"
+    new "اللعنة على هؤلاء المرتزقة!"
 
     # game/Story.rpy:1746
     old "I hope they're okay."
-    new "I hope they're okay."
+    new "آمل أنهم بخير."
 
     # game/Story.rpy:1747
     old "My first mission was AWESOME!"
-    new "My first mission was AWESOME!"
+    new "مهمتي الأولى رائعة!!"
 
     # game/Story.rpy:1748
     old "Damn you Uncle Gottardo..."
-    new "Damn you Uncle Gottardo..."
+    new "تباً لك يا عم قوتاردو"
 
     # game/Story.rpy:1750
     old "Gottardo... Using my men like that... Seems like punishment is needed for him as well."
-    new "Gottardo... Using my men like that... Seems like punishment is needed for him as well."
+    new "قوتاردو.. يستخدم رجالي بهذه الطريقة... يبدو أنه يحتاج إلى العقاب أيضاً"
 
     # game/Story.rpy:1824
     old "*Look*"
-    new "*Look*"
+    new "*أنظر*"
 
     # game/Story.rpy:1824
     old "*Don't look*"
-    new "*Don't look*"
+    new "*لا تنظر*"
 
     # game/Story.rpy:1857
     old "He got what he deserved"
-    new "He got what he deserved"
+    new "لقد استحق هذا"
 
     # game/Story.rpy:1857
     old "I didn't want him to die..."
-    new "I didn't want him to die..."
+    new "لم أرغب بموته..."
 
     # game/Story.rpy:2025
     old "[povname]."
@@ -14416,57 +14416,57 @@ translate arabic strings:
 
     # game/Story.rpy:2025
     old "None of your business."
-    new "None of your business."
+    new "هذا لا يخصك."
 
     # game/Story.rpy:2025
     old "Who is who?"
-    new "Who is who?"
+    new "من من؟"
 
     # game/Story.rpy:2188
     old "It's important."
-    new "It's important."
+    new "إنه مهم"
 
     # game/Story.rpy:2188
     old "It's not something I think about."
-    new "It's not something I think about."
+    new "لم أفكر بهذا"
 
     # game/Story.rpy:2188
     old "It's a hindrance."
-    new "It's a hindrance."
+    new "إنه عبئ."
 
     # game/Story.rpy:2294
     old "So Straffan is not the real son..."
-    new "So Straffan is not the real son..."
+    new "إذاً فسترافان ليس الإبن الشرعي..."
 
     # game/Story.rpy:2295
     old "The office got dirty again... {i}*Sigh*{/i}"
-    new "The office got dirty again... {i}*Sigh*{/i}"
+    new "لقد إتسخ المكتب مجدداً..."
 
     # game/Story.rpy:2677
     old "He looks so much like him..."
-    new "He looks so much like him..."
+    new "يبدو مثله تماماً..."
 
     # game/Story.rpy:2987
     old "Why did you come back...?"
-    new "Why did you come back...?"
+    new "لمَ عدت؟"
 
     # game/Story.rpy:2987
     old "How is Pops doing?"
-    new "How is Pops doing?"
+    new "كيف حال أبي؟"
 
     # game/Story.rpy:2987
     old "The mark..."
-    new "The mark..."
+    new "العلامة..."
 
     # game/Story.rpy:2987
     old "The Fabio Family."
-    new "The Fabio Family."
+    new "عائلة فابيو."
 
     # game/Story.rpy:3372
     old "Hehe... I'm infamous."
-    new "Hehe... I'm infamous."
+    new "هيهي... أنا مشهورة"
 
     # game/Story.rpy:3373
     old "Stupid guy... Threatening  my family!"
-    new "Stupid guy... Threatening  my family!"
+    new "رجل أحمق... يهدد عائلتي!"
 
