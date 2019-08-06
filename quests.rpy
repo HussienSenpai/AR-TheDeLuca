@@ -224,6 +224,9 @@ translate arabic strings:
     old "Cordia"
     new "كورديا"
 
+    old "Mother"
+    new "أمي"
+
     old "Associate"
     new "مساعد"
 
