@@ -84,8 +84,7 @@ translate arabic strings:
 
     # game/JobBoard.rpy:269
     old "Rank: {color=#ffffff}[pc.level]{/color} ({color=#d4e1f7}{b}[pc.rank_name]{/b}{/color})"
-    new "({color=#d4e1f7}{b}[pc.rank_name]{/b}{/color}) {color=#ffffff}[pc.level]{/color} :الرتبة"
-
+    new "({color=#d4e1f7}{b}[pc.rank_name]{/b}{/color}({color=#ffffff} [pc.level] {/color} الرتبة:"
 
     # game/JobBoard.rpy:270
     old "Offensive power: {color=#ffffff}[pc.atk]{/color}"
