@@ -194,11 +194,11 @@ translate arabic strings:
 
     # game/HelpScreen.rpy:195
     old "It's All About The Intent{color=#e2b785}{size=-9}\n -REQ. Gracie's bedroom nighttime{/color}{/size}"
-    new "كل الموضوع في النية{color=#e2b785}{size=-9}\nمطلوب: بدأ المهمة في غرفة نوم قرايسي بالليل{/color}{/size}"
+    new "إنما الأعمال بالنيات{color=#e2b785}{size=-9}\nمطلوب: بدأ المهمة في غرفة نوم قرايسي بالليل{/color}{/size}"
 
     # game/HelpScreen.rpy:197
     old "{color=#3fc635}It's All About The Intent{/color}"
-    new "{color=#3fc635}كل الموضوع في النية{/color}"
+    new "{color=#3fc635}إنما الأعمال بالنيات{/color}"
 
     # game/HelpScreen.rpy:199
     old "Town Time{color=#e2b785}{size=-9}\n -REQ. It's All About The Intent{/color}{/size}"
