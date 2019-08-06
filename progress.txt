@@ -1,17 +1,25 @@
-5/8
+6/8 = 3565
+
+3415 lines translated - Story 23.91% (3415/14281)
+150 lines translated - sideEvents 3.37% (679/20623)
+
+revised JobBoard- final revision needed    
+
+5/8 = 2707
 
 1155 lines translated - Introduction 100% (2788/2788)
 1005 lines translated - freeRoamingLabels 31.73% (4231/13333)
 547 lines translated - sideEvents 2.65% (547/20623)
+
 revised script - final revision needed
 revised InfoScreen - final revision needed    
 
-4/8
+4/8 = 684
 
 399 lines translated - Job 100% (399/399)
 285 lines translated - HelpScreen 100% (285/285)
 
-3/8
+3/8 = 2308
 
 823 lines translated - introduction 40.27% (1123/2788)	
 437 lines translated - script 100% (437/437)
@@ -22,7 +30,7 @@ revised InfoScreen - final revision needed
 207 lines translated - quests 100% (207/207)
 
 
-2/8
+2/8 2315(ish)
 
 2315 lines translated -  freeRoamingLabels 24.19% (3226/13333)
 (IDK) lines translated - common 57.14% (648/1134)
