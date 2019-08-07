@@ -20476,149 +20476,149 @@ translate arabic strings:
 
     # game/sideEvents.rpy:251
     old "Do I need to kill anyone?"
-    new "Do I need to kill anyone?"
+    new "هل سأضطر أن أقتل أحداً؟"
 
     # game/sideEvents.rpy:251
     old "Why is your name 'Blackie'?"
-    new "Why is your name 'Blackie'?"
+    new "لماذا يسموك ببلاكي؟"
 
     # game/sideEvents.rpy:251
     old "Can I leave the Family once I become a made man?"
-    new "Can I leave the Family once I become a made man?"
+    new "هل أستطيع التوقف عن العمل بعد أن أصبح من العائلة؟"
 
     # game/sideEvents.rpy:251
     old "*Proceed*"
-    new "*Proceed*"
+    new "*متابعة*"
 
     # game/sideEvents.rpy:643
     old "Jerks!"
-    new "Jerks!"
+    new "ملاعين!"
 
     # game/sideEvents.rpy:644
     old "Stupid high heels!"
-    new "Stupid high heels!"
+    new "كعب عالي غبي!"
 
     # game/sideEvents.rpy:743
     old "{color=#ff235e}*Touch necklace*{/color}"
-    new "{color=#ff235e}*Touch necklace*{/color}"
+    new "{color=#ff235e}*لمس القلادة*{/color}"
 
     # game/sideEvents.rpy:743
     old "Everybody loves a surprise hug!"
-    new "Everybody loves a surprise hug!"
+    new "لا أحد يكره العناق المفاجئ!"
 
     # game/sideEvents.rpy:743
     old "Okay, no more surprise hugs."
-    new "Okay, no more surprise hugs."
+    new "حسناً، لا مزيد من العناقات المفاجئة."
 
     # game/sideEvents.rpy:775
     old "He kissed me..."
-    new "He kissed me..."
+    new "لقد قبلني..."
 
     # game/sideEvents.rpy:787
     old "He is so pushy! Stupid high heels. What am I going to do...?!"
-    new "He is so pushy! Stupid high heels. What am I going to do...?!"
+    new "إنه ملح جداً! كعب عالي غبي، ماذا سأفعل؟!"
 
     # game/sideEvents.rpy:980
     old "Help me, [povname]..."
-    new "Help me, [povname]..."
+    new "ساعدني يا [povname]..."
 
     # game/sideEvents.rpy:1382
     old "So, what do you think of the date so far?"
-    new "So, what do you think of the date so far?"
+    new "إذاً، ما رأيك في الموعد حتى الآن؟"
 
     # game/sideEvents.rpy:1382
     old "Why are you so bad with compliments?"
-    new "Why are you so bad with compliments?"
+    new "لمَ أنت سيئة في المجاملات؟"
 
     # game/sideEvents.rpy:1382
     old "So, what other clothes did Isabel buy for you?"
-    new "So, what other clothes did Isabel buy for you?"
+    new "إذاً، هل اشترت لك إيزابيل ملابساً أخرى؟"
 
     # game/sideEvents.rpy:1478
     old "{color=#ff235e}*Prove it*{/color}"
-    new "{color=#ff235e}*Prove it*{/color}"
+    new "{color=#ff235e}*أثبتي هذا*{/color}"
 
     # game/sideEvents.rpy:1478
     old "How do I know you're not lying?"
-    new "How do I know you're not lying?"
+    new "كيف أعرف أنك لا تكذبين؟"
 
     # game/sideEvents.rpy:1732
     old "...That was my first kiss... It was like in the movies... [povname]... Hehe..."
-    new "...That was my first kiss... It was like in the movies... [povname]... Hehe..."
+    new "... كانت هذه قبلتي الأولى... كانت مثل الأفلام... [povname]... هيهي"
 
     # game/sideEvents.rpy:1925
     old "*Dance*"
-    new "*Dance*"
+    new "*إرقص*"
 
     # game/sideEvents.rpy:1925
     old "*Decline*"
-    new "*Decline*"
+    new "*رفض*"
 
     # game/sideEvents.rpy:2065
     old "How's it going at school?"
-    new "How's it going at school?"
+    new "كيف المدرسة؟"
 
     # game/sideEvents.rpy:2065
     old "How is life with an amazing friend?"
-    new "How is life with an amazing friend?"
+    new "كيف حياتك مع صديقتك الرائعة؟"
 
     # game/sideEvents.rpy:2065
     old "Why aren't you allowed to work for the Family?"
-    new "Why aren't you allowed to work for the Family?"
+    new "لمَ ليس يسمحوا لك بالدخول بعمل العائلة؟"
 
     # game/sideEvents.rpy:2391
     old "A feeling... That feeling... Amazing...You were wrong mom... I felt it..."
-    new "A feeling... That feeling... Amazing...You were wrong mom... I felt it..."
+    new "شعور... هذا الشعور.. كان رائعاً.. كنت مخطئة يا أمي... لقد شعرت بهذا..."
 
     # game/sideEvents.rpy:2393
     old "Best day ever!"
-    new "Best day ever!"
+    new "هذا أفضل يوم على الإطلاق!"
 
     # game/sideEvents.rpy:2560
     old "{color=#ff235e}*Touch thighs*{/color}"
-    new "{color=#ff235e}*Touch thighs*{/color}"
+    new "{color=#ff235e}*إلمس فخذها*{/color}"
 
     # game/sideEvents.rpy:2560
     old "You will always have me."
-    new "You will always have me."
+    new "أنا معك دائماً."
 
     # game/sideEvents.rpy:2764
     old "My first friendship gathering! But...[povname] is more fun to be with..."
-    new "My first friendship gathering! But...[povname] is more fun to be with..."
+    new "أول نزهة لي! ولكن جلستي مع [povname] ممتعة أكثر.."
 
     # game/sideEvents.rpy:2765
     old "I hope it went well...She really needs this..."
-    new "I hope it went well...She really needs this..."
+    new "آمل أن الأمر سار على خير... إنها تحتاج هذا..."
 
     # game/sideEvents.rpy:2847
     old "I forgot to ask which movies to watch! I have no clue..."
-    new "I forgot to ask which movies to watch! I have no clue..."
+    new "كان علي أن أطلب منه بعض الأفلام..."
 
     # game/sideEvents.rpy:3108
     old "...Did he watch me somehow?"
-    new "...Did he watch me somehow?"
+    new "...هل شاهدني بطريقة ما؟؟"
 
     # game/sideEvents.rpy:3156
     old "...What is so special about it...?"
-    new "...What is so special about it...?"
+    new "... ما المميز في هذا الفيلم؟؟ ..."
 
     # game/sideEvents.rpy:3310
     old "{color=#ff235e}*Grope breast*{/color}"
-    new "{color=#ff235e}*Grope breast*{/color}"
+    new "{color=#ff235e}*إمسك صدرها*{/color}"
 
     # game/sideEvents.rpy:3310
     old "*Stop*"
-    new "*Stop*"
+    new "*توقف*"
 
     # game/sideEvents.rpy:3422
     old "Interesting..."
-    new "Interesting..."
+    new "مثير للإهتمام..."
 
     # game/sideEvents.rpy:3762
     old "...Maybe I should've let him continue... This feeling..."
-    new "...Maybe I should've let him continue... This feeling..."
+    new "... ربما كان علي أن أدعه يكمل... هذا الشعور..."
 
     # game/sideEvents.rpy:4154
     old "I'm going to release you."
-    new "I'm going to release you."
+    new "سوف أفرج عنك."
 
