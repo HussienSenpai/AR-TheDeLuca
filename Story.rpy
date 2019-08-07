@@ -3088,7 +3088,7 @@ translate arabic story3_punishment_0d9368f5:
 translate arabic story3_punishment_1c718611:
 
     # tri "I-I'm sorry! Goodbye now, ma'am."
-    tri "أ-أنا آسف! وداعاً سيدتي.
+    tri "أ-أنا آسف! وداعاً سيدتي."
 
 # game/Story.rpy:761
 translate arabic story3_punishment_e98a6e56:
@@ -3418,361 +3418,361 @@ translate arabic story3_punishment_dbc78d01:
 translate arabic story3_punishment_a491d5d8:
 
     # "*{b}Two weeks later{/b}*"
-    "*{b}Two weeks later{/b}*"
+    "*{b}بعد أسبوعين{/b}*"
 
 # game/Story.rpy:834
 translate arabic story3_punishment_b0142667:
 
     # pov "My back is killing me!"
-    pov "My back is killing me!"
+    pov "ظهري يؤلمني"
 
 # game/Story.rpy:835
 translate arabic story3_punishment_75c3ba49:
 
     # gc "I told you to do yoga with me."
-    gc "I told you to do yoga with me."
+    gc "قلت لك بأن تعمل اليوقا معي."
 
 # game/Story.rpy:836
 translate arabic story3_punishment_800835f8:
 
     # pov "Nothing to do with that..."
-    pov "Nothing to do with that..."
+    pov "ليس لليوقا علاقة بهذا..."
 
 # game/Story.rpy:837
 translate arabic story3_punishment_8765fbae:
 
     # gc "Well, I feel fine."
-    gc "Well, I feel fine."
+    gc "ظهري أنا بخير."
 
 # game/Story.rpy:838
 translate arabic story3_punishment_3a4f2572:
 
     # lu "Same."
-    lu "Same."
+    lu "حتى أنا."
 
 # game/Story.rpy:839
 translate arabic story3_punishment_3eed5ca9:
 
     # pov "Easy for the two of you to say. You haven't been sleeping on the floor or on the damn 'torture stretcher'..."
-    pov "Easy for the two of you to say. You haven't been sleeping on the floor or on the damn 'torture stretcher'..."
+    pov "من السهل عليكما قول هذا، لم تناما على الأرض أو على آلة التعذيب هذه."
 
 # game/Story.rpy:842
 translate arabic story3_punishment_f22a9fce:
 
     # lu "What do you mean? You sleep on the bed too."
-    lu "What do you mean? You sleep on the bed too."
+    lu "ماذا تقول؟ لقد نمت على السرير كذلك."
 
 # game/Story.rpy:843
 translate arabic story3_punishment_a31025ca:
 
     # pov "Yeah, but only recently..."
-    pov "Yeah, but only recently..."
+    pov "نعم، ولكن مؤخراً فقط..."
 
 # game/Story.rpy:844
 translate arabic story3_punishment_2fab7f1d:
 
     # lu "Well, you only asked recently."
-    lu "Well, you only asked recently."
+    lu "أنت لم تسأل إلا مؤخراً."
 
 # game/Story.rpy:845
 translate arabic story3_punishment_550f7a56:
 
     # gc "It's not like we ever said you couldn't, you just decided to sleep on the AG stretcher."
-    gc "It's not like we ever said you couldn't, you just decided to sleep on the AG stretcher."
+    gc "ليس وكأننا قلنا لك بأن السرير ممنوع، أنت من قررت أن تنام على آلة التمدد."
 
 # game/Story.rpy:847
 translate arabic story3_punishment_4443dd57:
 
     # "Well, that is true."
-    "Well, that is true."
+    "هذا صحيح..."
 
 # game/Story.rpy:848
 translate arabic story3_punishment_a2bcbcee:
 
     # "They allow me to sleep with them at night. Of course, they made sure I knew what would happen if I 'accidentally' ended up touching them..."
-    "They allow me to sleep with them at night. Of course, they made sure I knew what would happen if I 'accidentally' ended up touching them..."
+    "سمحوا لي أن أنام معهم على السرير، بعد أن قالوا لي ماذا سيحصل لو لمستهم 'بالخطأ'"
 
 # game/Story.rpy:849
 translate arabic story3_punishment_ba931240:
 
     # "But honestly, as devilish as these two girls can be, they're actually not that bad."
-    "But honestly, as devilish as these two girls can be, they're actually not that bad."
+    "ولكن بصراحة، على الرغم من شيطنة هاتين الفتاتين، إلا أنهما ليس بهذا السوء..."
 
 # game/Story.rpy:850
 translate arabic story3_punishment_9c03aa5b:
 
     # "Except for Luna's 'rage' at day one, they haven't held any ill feelings towards me or made me feel unwelcome."
-    "Except for Luna's 'rage' at day one, they haven't held any ill feelings towards me or made me feel unwelcome."
+    "ما عدا عندما غضبت لونا في اليوم الأول، ولكنهم لم يحقدوا علي ولم يشعروني بأني غير مرحب بي."
 
 # game/Story.rpy:851
 translate arabic story3_punishment_dd4fceba:
 
     # "Especially considering that I'm the 'new guy' and, admittedly, at fault for us being here... Not that I would admit that to Luna..."
-    "Especially considering that I'm the 'new guy' and, admittedly, at fault for us being here... Not that I would admit that to Luna..."
+    "رغم أني جديد بينهم، كما أني السبب بهذا العقاب أصلاً... لن أعترف للونا بهذا طبعاً."
 
 # game/Story.rpy:852
 translate arabic story3_punishment_fb0f74c0:
 
     # "But my God, the number of stories, discussions, and other non-usable information two girls can provide when you're with them 24/7 for two weeks is... Inhumane..."
-    "But my God, the number of stories, discussions, and other non-usable information two girls can provide when you're with them 24/7 for two weeks is... Inhumane..."
+    "ولكن يا إلهي، كمية القصص والمناقشات والمعلومات الغير مهمة التي يستطيعان التكلم عنها طول اليوم غير معقولة.."
 
 # game/Story.rpy:853
 translate arabic story3_punishment_355a27ee:
 
     # "I never thought I would feel bad for a Mafia organization, but the amount of crazy shit these two have pulled... Even I feel for them..."
-    "I never thought I would feel bad for a Mafia organization, but the amount of crazy shit these two have pulled... Even I feel for them..."
-
+    "لم أظن يوماً أني سأشعر بالحزن على منظمة مافيا، ولكن ما سبباه هاتان الإثنتان يشعرني بالحزن عليهم فعلاً..."
+    
 # game/Story.rpy:857
 translate arabic story3_punishment_ba06dbec:
 
     # gc "Guys! I spotted something suspicious. There is a weird couple out there walking their dogs."
-    gc "Guys! I spotted something suspicious. There is a weird couple out there walking their dogs."
+    gc "يا جماعة، لقد لاحظت شيئاً مثيراً للك. هناك زوجان غريبان يمشيان كلبهما."
 
 # game/Story.rpy:858
 translate arabic story3_punishment_fe2dd841:
 
     # pov "You always spot something suspicious."
-    pov "You always spot something suspicious."
+    pov "دائماً ما تلاحظين شيئاً مثيراً للشك..."
 
 # game/Story.rpy:860
 translate arabic story3_punishment_3548ba1e:
 
     # lu "When you say 'weird', do you mean weird like that one little girl you thought could be a spy because she didn't look like she was having fun?"
-    lu "When you say 'weird', do you mean weird like that one little girl you thought could be a spy because she didn't look like she was having fun?"
+    lu "قصدك بغريب أن الفتاة لم تكن تحظى بوقت ممتع فتوقعتي إنها جاسوسة؟"
 
 # game/Story.rpy:863
 translate arabic story3_punishment_a6abc528:
 
     # gc "What kind of little girl wouldn't have fun at the beach!"
-    gc "What kind of little girl wouldn't have fun at the beach!"
+    gc "ما نوع الفتاة التي لا تستمتع بالشاطئ!"
 
 # game/Story.rpy:865
 translate arabic story3_punishment_28d9b518:
 
     # gc "Anyways, this is different. I really think the couple out there are pretenders."
-    gc "Anyways, this is different. I really think the couple out there are pretenders."
+    gc "على العموم هذا مختلف، أنا أشك بأنهما جاسوسان."
 
 # game/Story.rpy:866
 translate arabic story3_punishment_762722b2:
 
     # pov "Enlighten us."
-    pov "Enlighten us."
+    pov "أنيرينا بالسبب..."
 
 # game/Story.rpy:869
 translate arabic story3_punishment_f69407bc:
 
     # gc "Luna, do you remember I told you I was reading that book that taught lip reading?"
-    gc "Luna, do you remember I told you I was reading that book that taught lip reading?"
+    gc "لونا، أتتذكرين الكتاب الذي كنت أقرأه عن قراءة الشفاه؟"
 
 # game/Story.rpy:870
 translate arabic story3_punishment_52228c01:
 
     # lu "Uhm... I remember you like to read books."
-    lu "Uhm... I remember you like to read books."
+    lu "امم، أتذكر أنك تحبين قراءة الكتب."
 
 # game/Story.rpy:872
 translate arabic story3_punishment_2f26e65f:
 
     # gc "Well, I got pretty good at it. And I noticed them say something very suspicious."
-    gc "Well, I got pretty good at it. And I noticed them say something very suspicious."
+    gc "حسناً، لقد أصبحت جيدة بقراء الشفاه، ورأيتهم يقولون شيئاً يثير الشك."
 
 # game/Story.rpy:873
 translate arabic story3_punishment_7cb4277b:
 
     # lu "So, what did they say?"
-    lu "So, what did they say?"
+    lu "ما الذي قالوه؟"
 
 # game/Story.rpy:874
 translate arabic story3_punishment_96e2e1a2:
 
     # gc "The man said; '{i}Sweetie, did you take Knuckles to the doctor yet?{/i}'"
-    gc "The man said; '{i}Sweetie, did you take Knuckles to the doctor yet?{/i}'"
+    gc "قال الرجل '{i}عزيزتي، هل أخذتي أكوشا إلى الطبيب؟{/i}'"
 
 # game/Story.rpy:875
 translate arabic story3_punishment_98b85127:
 
     # gc "Which she replied '{i}Yes, this morning actually. Knuckles got some injections and feels a bit better now, but at home, it still refuses to eat. I'm getting worried again.{/i}'"
-    gc "Which she replied '{i}Yes, this morning actually. Knuckles got some injections and feels a bit better now, but at home, it still refuses to eat. I'm getting worried again.{/i}'"
+    gc "ثم ردت عليه '{i}نعم، لقد أخذته في الصباح. حقنه ببعض الأبر ويبدو بخير الآن، ولكنه ما زال لا يأكل عندما نكون في المنزل. بدأت بالقلق عليه.{/i}'"
 
 # game/Story.rpy:876
 translate arabic story3_punishment_a8babbe7:
 
     # gc "And I immediately noticed something weird with their conversation. Two weird things, to be exact."
-    gc "And I immediately noticed something weird with their conversation. Two weird things, to be exact."
+    gc "لاحظت بعدها شيئاً غريباً جدا بمحادثتهم، شيئان بالأصح."
 
 # game/Story.rpy:877
 translate arabic story3_punishment_5424336d:
 
     # lu "That's some impressive lip reading."
-    lu "That's some impressive lip reading."
+    lu "مهارتك بقراءة الشفاه مثيرة للإعجاب..."
 
 # game/Story.rpy:878
 translate arabic story3_punishment_6e202ebb:
 
     # pov "'{i}Noticed two dead giveaways{/i}', can you say it like that?"
-    pov "'{i}Noticed two dead giveaways{/i}', can you say it like that?"
+    pov "'{i}لاحظت دليلين قاطعين{/i}' أستطيع أن أقولها بهذه الطريقة صحيح؟"
 
 # game/Story.rpy:879
 translate arabic story3_punishment_4937ffea:
 
     # lu "Dead giveaway... That's an idiom, right?"
-    lu "Dead giveaway... That's an idiom, right?"
+    lu "دليل قاطع... هذا مثل صحيح؟"
 
 # game/Story.rpy:880
 translate arabic story3_punishment_a8f5ff17:
 
     # pov "I think so."
-    pov "I think so."
+    pov "أظن هذا..."
 
 # game/Story.rpy:881
 translate arabic story3_punishment_37e859a6:
 
     # lu "Hehe, we're smart."
-    lu "Hehe, we're smart."
+    lu "هيهي، نحن أذكياء."
 
 # game/Story.rpy:882
 translate arabic story3_punishment_46566160:
 
     # gc "...No, you cannot say it like that, but did you guys listen? Didn't you think it was weird the way they were talking?"
-    gc "...No, you cannot say it like that, but did you guys listen? Didn't you think it was weird the way they were talking?"
+    gc "...لا، ليس مثلاً صحيحاً، ولكن ألم تسمعوني؟ ألم تجدوا طريقة كلامها غريبة؟"
 
 # game/Story.rpy:883
 translate arabic story3_punishment_75ab1cba:
 
     # pov "Hmm... Nope... Seemed like a normal couple with their normal dog problems."
-    pov "Hmm... Nope... Seemed like a normal couple with their normal dog problems."
+    pov "همم.. لا... بدا لي كأنهما زوجان طبيعيان يأخذان كلبهما في مشية."
 
 # game/Story.rpy:884
 translate arabic story3_punishment_46b6c160:
 
     # lu "Yeah... I'm out too."
-    lu "Yeah... I'm out too."
+    lu "نعم، لا أرى أي شيء مثير للشك في هذا..."
 
 # game/Story.rpy:885
 translate arabic story3_punishment_e73808a6:
 
     # gc "Oh Heavenly Heavens, why did you grant me these two dunderheads on my first mission...?"
-    gc "Oh Heavenly Heavens, why did you grant me these two dunderheads on my first mission...?"
+    gc "يا إلهي لماذا ابتليتني بهذين الغبيين في مهمتي الأولى!"
 
 # game/Story.rpy:886
 translate arabic story3_punishment_a0160e56:
 
     # lu "Well, go on then, Miss Smartypants. Tell us."
-    lu "Well, go on then, Miss Smartypants. Tell us."
+    lu "حسناً إذاً أيتها العبقرية، أخبرينا.."
 
 # game/Story.rpy:887
 translate arabic story3_punishment_769838b2:
 
     # gc "Listen, the first sign-"
-    gc "Listen, the first sign-"
+    gc "حسناً، الدليل الأول"
 
 # game/Story.rpy:888
 translate arabic story3_punishment_783e820b:
 
     # lu "Dead giveaway."
-    lu "Dead giveaway."
+    lu "الدليل القاطع"
 
 # game/Story.rpy:889
 translate arabic story3_punishment_4d400e76:
 
     # gc "THE FIRST DEAD GIVEAWAY, was how the man said '{i}to the doctor{/i}', but everyone knows that you take your pets to the vet- not the doctor!"
-    gc "THE FIRST DEAD GIVEAWAY, was how the man said '{i}to the doctor{/i}', but everyone knows that you take your pets to the vet- not the doctor!"
+    gc "الدليل القاطع الأول، هو أن الرجل قال '{i}إلى الطبيب{/i}'، ولكن الكل يعرف أن الحيوانات تذهب إلى البيطري وليس الطبيب!"
 
 # game/Story.rpy:890
 translate arabic story3_punishment_d5d25814:
 
     # lu "Hmm, but we called the doctors instead of the vet when [povname] got poisoned."
-    lu "Hmm, but we called the doctors instead of the vet when [povname] got poisoned."
+    lu "همم، لكننا إتصلنا على الطبيب بدلاً عن البيطري عندما تصمم [povname]."
 
 # game/Story.rpy:891
 translate arabic story3_punishment_59eee643:
 
     # pov "You implying I'm an animal...?"
-    pov "You implying I'm an animal...?"
+    pov "أتقولين بأني حيوان..؟"
 
 # game/Story.rpy:892
 translate arabic story3_punishment_3db14bc9:
 
     # lu "Yes, haha!"
-    lu "Yes, haha!"
+    lu "نعم هههههه"
 
 # game/Story.rpy:893
 translate arabic story3_punishment_acfe2306:
 
     # pov "Funny..."
-    pov "Funny..."
+    pov "مضحك للغاية..."
 
 # game/Story.rpy:895
 translate arabic story3_punishment_3e4cbcdb:
 
     # gc "Luna, I'm seriously going to get mad at you!"
-    gc "Luna, I'm seriously going to get mad at you!"
+    gc "لونا! ستغضيبنني منك!"
 
 # game/Story.rpy:896
 translate arabic story3_punishment_5807c47d:
 
     # lu "Okay okay, what's the second dead giveaway?"
-    lu "Okay okay, what's the second dead giveaway?"
+    lu "حسناً حسناً، ما هو الدليل القاطع الثاني؟"
 
 # game/Story.rpy:898
 translate arabic story3_punishment_438dc1ce:
 
     # gc "So... What really gave it away was how she used the pronoun {i}it{/i} instead of {i}he{/i} or {i}she{/i} when she was referring to her dog."
-    gc "So... What really gave it away was how she used the pronoun {i}it{/i} instead of {i}he{/i} or {i}she{/i} when she was referring to her dog."
+    gc "حسناً... الدليل الثاني هو أنها تحدثت عن كلبتها بصيغة الذكر وليس الأنثى، وكأنها كلب عادي"
 
 # game/Story.rpy:899
 translate arabic story3_punishment_ca1106ca:
 
     # gc "The probability for a female dog lover- who owns not one, but two dogs to call her dog {i}it{/i} is so low- that it's almost an improbability!"
-    gc "The probability for a female dog lover- who owns not one, but two dogs to call her dog {i}it{/i} is so low- that it's almost an improbability!"
+    gc "إحتمالية أن تنادي أنثى محبة للكلاب كلبتها كمجرد كلب ضعيفة جداً، بل أنها شبه مستحيلة!"
 
 # game/Story.rpy:900
 translate arabic story3_punishment_80fe7704:
 
     # pov "I would call my dog it."
-    pov "I would call my dog it."
+    pov "قد أشير إلى كلبتي بصفة الذكر أحياناً..."
 
 # game/Story.rpy:901
 translate arabic story3_punishment_16f10122:
 
     # gc "You don't have a dog!"
-    gc "You don't have a dog!"
+    gc "ليس لديك كلب حتى!"
 
 # game/Story.rpy:902
 translate arabic story3_punishment_54735d6e:
 
     # pov "Gracie, I think you're overthinking it..."
-    pov "Gracie, I think you're overthinking it..."
+    pov "قرايسي، أظن أنك تبالغين بالتفكير..."
 
 # game/Story.rpy:903
 translate arabic story3_punishment_5ffe80dc:
 
     # gc "No, you guys are {i}underthinking{/i} it!"
-    gc "No, you guys are {i}underthinking{/i} it!"
+    gc "لا، أنتم من تبالغون {i}بعدم{/i} التفكير"
 
 # game/Story.rpy:906
 translate arabic story3_punishment_6c7f2972:
 
     # lu "Hmm... Who says she is a dog lover? Maybe they are first-time owners?"
-    lu "Hmm... Who says she is a dog lover? Maybe they are first-time owners?"
+    lu "همم.. من قال إنها محبة للكلاب؟ ربما كانت هذه كلبتها الأولى."
 
 # game/Story.rpy:907
 translate arabic story3_punishment_a69e3068:
 
     # gc "The dogs are too old for them to be new at this."
-    gc "The dogs are too old for them to be new at this."
+    gc "الكلبة كانت أكبر من أن تبدو جديدة."
 
 # game/Story.rpy:908
 translate arabic story3_punishment_2bb91bb8:
 
     # lu "Well, they could have adopted them? Many people adopt old dogs instead of getting puppies nowadays."
-    lu "Well, they could have adopted them? Many people adopt old dogs instead of getting puppies nowadays."
+    lu "حسناً، ولكن من الممكن أنهما تبنياها، كثير من الناس قد يتبنى كلباً بدلاً من أن يشتري جرواً على أي حال."
 
 # game/Story.rpy:909
 translate arabic story3_punishment_f44a48af:
 
     # lu "That would explain why she said {i}it{/i} and also explain why they even need to go to the vet in the first place."
-    lu "That would explain why she said {i}it{/i} and also explain why they even need to go to the vet in the first place."
+    lu "سيبرر هذا طريقة إشارتها للكلبة أيضاً، ويفسر سبب حاجتهم إلى الذهاب للبيطري حتى."
 
 # game/Story.rpy:911
 translate arabic story3_punishment_25a8dc29:
@@ -3790,229 +3790,229 @@ translate arabic story3_punishment_25a8dc29_1:
 translate arabic story3_punishment_1ce3775f:
 
     # gc "{size=23}...You're adopted...{/size}"
-    gc "{size=23}...You're adopted...{/size}"
+    gc "{size=23}...أنت متبناة...{/size}"
 
 # game/Story.rpy:916
 translate arabic story3_punishment_2acdaf41:
 
     # lu "Oh, what was that Miss Smartypants, ahahaha!"
-    lu "Oh, what was that Miss Smartypants, ahahaha!"
+    lu "أوه، ماذا قلتي أيتها العبقرية؟ ههههههه"
 
 # game/Story.rpy:918
 translate arabic story3_punishment_d8bb8677:
 
     # gc "I don't care... I'm still going to write it down."
-    gc "I don't care... I'm still going to write it down."
+    gc "لست مهتمة... ما زلت سأدون هذا في دفتري."
 
 # game/Story.rpy:920
 translate arabic story3_punishment_8a72ea63:
 
     # pov "Good job on yet another day of fine detective work, Gracie."
-    pov "Good job on yet another day of fine detective work, Gracie."
+    pov "عمل رائع كمحقق لليوم الرابع عشر على التوالي يا قرايسي..."
 
 # game/Story.rpy:921
 translate arabic story3_punishment_6dce5c8f:
 
     # pov "Now, who wants to play some poker again?"
-    pov "Now, who wants to play some poker again?"
+    pov "أتريدون لعب البوكر؟"
 
 # game/Story.rpy:922
 translate arabic story3_punishment_c5eb0dd1:
 
     # lu "It's boring... Gracie goes 'all in' every round..."
-    lu "It's boring... Gracie goes 'all in' every round..."
+    lu "إنها مملة... قرايسي دائماً تراهن بكل شي من أول جولة..."
 
 # game/Story.rpy:923
 translate arabic story3_punishment_8b5dfcd1:
 
     # gc "Well, why wouldn't I? We're not betting anything real anyway."
-    gc "Well, why wouldn't I? We're not betting anything real anyway."
+    gc "ولمَ لا أفعل هذا، ليس وكأننا نراهن على شيء حقيقي على أي حال..."
 
 # game/Story.rpy:924
 translate arabic story3_punishment_c3a70ed0:
 
     # lu "Also, we still missing a couple of cards."
-    lu "Also, we still missing a couple of cards."
+    lu "كما أن الورق ليس كاملاً."
 
 # game/Story.rpy:925
 translate arabic story3_punishment_f6350341:
 
     # pov "This excuse again..."
-    pov "This excuse again..."
+    pov "هذا العذر مجدداً..."
 
 # game/Story.rpy:926
 translate arabic story3_punishment_a5909917:
 
     # lu "Just saying I would have won if there actually were four kings in the deck..."
-    lu "Just saying I would have won if there actually were four kings in the deck..."
+    lu "كل ما أقوله أني كنت سأفوز عليكم لو أن الملوك كانوا كاملين في الورق..."
 
 # game/Story.rpy:927
 translate arabic story3_punishment_1fdf7e57:
 
     # pov "I'm going to take a nap..."
-    pov "I'm going to take a nap..."
+    pov "سآخذ قيلولة..."
 
 # game/Story.rpy:930
 translate arabic story3_punishment_035881cc:
 
     # "{b}*A couple of hours later*{/b}"
-    "{b}*A couple of hours later*{/b}"
+    "{b}*بعد بضعة ساعات*{/b}"
 
 # game/Story.rpy:934
 translate arabic story3_punishment_67c9d357:
 
     # pov "Please, no night time stories this time. Let's just go to bed."
-    pov "Please, no night time stories this time. Let's just go to bed."
+    pov "لا، أرجوكم لا تبدأوا بسرد حكايات ما قبل النوم، دعونا ننام فقط..."
 
 # game/Story.rpy:935
 translate arabic story3_punishment_e2b3cc17:
 
     # gc "No!"
-    gc "No!"
+    gc "لا!"
 
 # game/Story.rpy:936
 translate arabic story3_punishment_d918ab54:
 
     # lu "Night-time stories are fun!"
-    lu "Night-time stories are fun!"
+    lu "حكايات ما قبل النوم ممتعة!"
 
 # game/Story.rpy:937
 translate arabic story3_punishment_700d7465:
 
     # pov "I know everything about you two already. How many more stories can there be..."
-    pov "I know everything about you two already. How many more stories can there be..."
+    pov "أعرف كل شيء عنكما بالفعل. كم عدد القصص التي مررتما بها أنتم الأثنان..."
 
 # game/Story.rpy:938
 translate arabic story3_punishment_63399b29:
 
     # lu "Oh, you know nothing yet youngling."
-    lu "Oh, you know nothing yet youngling."
+    lu "أوه، لم تعرف عنا شيئاً بعد أيها المبتدئ."
 
 # game/Story.rpy:939
 translate arabic story3_punishment_37ec0c0d:
 
     # gc "Actually now that I think about it, you never talked about yourself."
-    gc "Actually now that I think about it, you never talked about yourself."
+    gc "عندما أفكر بالأمر، أنت لم تتكلم عن نفسك أبداً."
 
 # game/Story.rpy:940
 translate arabic story3_punishment_bae3e5de:
 
     # lu "Yeah, today is your turn to tell stories."
-    lu "Yeah, today is your turn to tell stories."
+    lu "نعم، اليوم دورك بسرد القصص."
 
 # game/Story.rpy:941
 translate arabic story3_punishment_b4bd1280:
 
     # pov "Don't feel like it."
-    pov "Don't feel like it."
+    pov "لا أريد هذا..."
 
 # game/Story.rpy:942
 translate arabic story3_punishment_be3e5ded:
 
     # lu "That wasn't a request, lowly servant! As your superiors, we demand it."
-    lu "That wasn't a request, lowly servant! As your superiors, we demand it."
+    lu "هذا لم يكن طلباً أيها الخادم الأقل رتبة! بصفتنا أعلى منك رتبةً، نحن نأمرك."
 
 # game/Story.rpy:943
 translate arabic story3_punishment_7d75ba50:
 
     # pov "With all due respect, ma'am, I don't give a shit."
-    pov "With all due respect, ma'am, I don't give a shit."
+    pov "مع كامل إحترامي سيدتي، فأنا لا أكترث إطلاقاً."
 
 # game/Story.rpy:952
 translate arabic story3_punishment_ab9f40ab:
 
     # gc "And that's why you are our favorite!"
-    gc "And that's why you are our favorite!"
+    gc "ولهذا السبب أنت المفضل لدينا!"
 
 # game/Story.rpy:953
 translate arabic story3_punishment_c036f0bd:
 
     # pov "When did I become the favorite? I'm the newest guy around here."
-    pov "When did I become the favorite? I'm the newest guy around here."
+    pov "متى أصبحت المفضل؟ أنا أجدد عامل هنا."
 
 # game/Story.rpy:954
 translate arabic story3_punishment_2246693d:
 
     # lu "From the second day and onwards."
-    lu "From the second day and onwards."
+    lu "منذ اليوم الثاني."
 
 # game/Story.rpy:955
 translate arabic story3_punishment_ea9f5296:
 
     # pov "Why not from the first day!? I was very nice the first day."
-    pov "Why not from the first day!? I was very nice the first day."
+    pov "ولمَ ليس اليوم الأول؟! كنت طيباً جداً وقتها."
 
 # game/Story.rpy:956
 translate arabic story3_punishment_ebc9a47e:
 
     # lu "Too polite."
-    lu "Too polite."
+    lu "كنت مؤدباً جداً..."
 
 # game/Story.rpy:957
 translate arabic story3_punishment_fe9b62ec:
 
     # gc "Yeah, we thought you'd be yet another generic servant of the house. One who sees us as some weird, superior beings."
-    gc "Yeah, we thought you'd be yet another generic servant of the house. One who sees us as some weird, superior beings."
+    gc "نعم، ظننا أنك ستكون مجرد خادم آخر في من المنزل، خادم يرانا كأننا مخلوقات تعلوه قوةً..."
 
 # game/Story.rpy:958
 translate arabic story3_punishment_8465d5e0:
 
     # pov "Don't worry. I would never see the two of you as anything, but brats."
-    pov "Don't worry. I would never see the two of you as anything, but brats."
+    pov "لا تقلقي، من المستحيل ان أراكم كأي شيء آخر غير فتاتان مزعجتان."
 
 # game/Story.rpy:960
 translate arabic story3_punishment_3c70ee91:
 
     # lu "Haha, jerk!"
-    lu "Haha, jerk!"
+    lu "ههههه، أحمق!"
 
 # game/Story.rpy:965
 translate arabic story3_punishment_710c2b70:
 
     # gc "But seriously, [povname]. Tell us about yourself."
-    gc "But seriously, [povname]. Tell us about yourself."
+    gc "ولكن فعلاً يا [povname]، حدثنا عنك."
 
 # game/Story.rpy:968
 translate arabic nightBeachTalk_16d2f678:
 
     # pov "Let's see now..."
-    pov "Let's see now..."
+    pov "هممم، دعيني أفكر..."
 
 # game/Story.rpy:969
 translate arabic nightBeachTalk_d86c507f:
 
     # pov "I can barely remember my father, he left when I was ten."
-    pov "I can barely remember my father, he left when I was ten."
+    pov "بالكاد أذكر والدي، لقد تركنا عندما كنت في العاشرة."
 
 # game/Story.rpy:970
 translate arabic nightBeachTalk_9f965d0a:
 
     # pov "I have a mother. Once my father left, she became less... Motherly."
-    pov "I have a mother. Once my father left, she became less... Motherly."
+    pov "لدي أم، عندما غادر أبي أصبحت... أقل أمومةً"
 
 # game/Story.rpy:971
 translate arabic nightBeachTalk_bc8754b4:
 
     # gc "How so?"
-    gc "How so?"
+    gc "كيف؟"
 
 # game/Story.rpy:972
 translate arabic nightBeachTalk_e950fbdb:
 
     # pov "Never mind that."
-    pov "Never mind that."
+    pov "هذا ليس مهماً."
 
 # game/Story.rpy:973
 translate arabic nightBeachTalk_fff46d8c:
 
     # gc "But, I'm curious!"
-    gc "But, I'm curious!"
+    gc "الفضول يقتلني يا [povname]!"
 
 # game/Story.rpy:974
 translate arabic nightBeachTalk_e6038d4e:
 
     # pov "I would go on forever if I talk about that, haha. Another time."
-    pov "I would go on forever if I talk about that, haha. Another time."
+    pov "أستطيع أن أقضي ساعات بالحديث عنها هههه، فلنأجل الموضوع إلى وقت آخر."
 
 # game/Story.rpy:975
 translate arabic nightBeachTalk_c15cc7d6:
@@ -4024,115 +4024,115 @@ translate arabic nightBeachTalk_c15cc7d6:
 translate arabic nightBeachTalk_23e453aa:
 
     # gc "We have time."
-    gc "We have time."
+    gc "لدينا الكثير ن الوقت."
 
 # game/Story.rpy:978
 translate arabic nightBeachTalk_f9ea6377:
 
     # lu "Gracie! He said another time."
-    lu "Gracie! He said another time."
+    lu "قرايسي! قال أنه لا يريد التحدث عنها الآن."
 
 # game/Story.rpy:979
 translate arabic nightBeachTalk_7d78b30c:
 
     # gc "Huh? Well, okay then."
-    gc "Huh? Well, okay then."
+    gc "هاه؟ حسناً إذا كما تريد."
 
 # game/Story.rpy:981
 translate arabic nightBeachTalk_ff8adc3c:
 
     # pov "I went to school, did kid stuff. Had friends, well one friend."
-    pov "I went to school, did kid stuff. Had friends, well one friend."
+    pov "ذهبت إلى المدرسة، فعلت ما يفعله أي طلب، شكلت أصدقاءً... حسناً صديق واحد."
 
 # game/Story.rpy:982
 translate arabic nightBeachTalk_1e62f1af:
 
     # pov "Not much else in my childhood, really. I started living by myself when I was sixteen."
-    pov "Not much else in my childhood, really. I started living by myself when I was sixteen."
+    pov "لا يوجد الكثير في طفولتي حقاً، بدأت بالعيش لوحدي عندما كنت في السادسة عشر."
 
 # game/Story.rpy:983
 translate arabic nightBeachTalk_6dcb7d9b:
 
     # gc "Sixteen? That's young."
-    gc "Sixteen? That's young."
+    gc "ستة عشر؟ كنت صغيراً جداً"
 
 # game/Story.rpy:984
 translate arabic nightBeachTalk_b90f0c88:
 
     # lu "Is that even legal?"
-    lu "Is that even legal?"
+    lu "هل هذا قانوني أصلاً؟"
 
 # game/Story.rpy:985
 translate arabic nightBeachTalk_394abdd4:
 
     # pov "My friend's father helped me, he had connections with some higher authorities which made them ignore my situation. So, it was alright."
-    pov "My friend's father helped me, he had connections with some higher authorities which made them ignore my situation. So, it was alright."
+    pov "أبو صديقي ساعدني، كان يعرف أناساً في الشرطة.. شرح لهم حالتي وطلب منهم تجاهلي، لذا فقد كان الأمر على ما يرام."
 
 # game/Story.rpy:986
 translate arabic nightBeachTalk_287f25a4:
 
     # lu "Sounds corrupt..."
-    lu "Sounds corrupt..."
+    lu "ما هذا الفساد..."
 
 # game/Story.rpy:987
 translate arabic nightBeachTalk_f7fbfab1:
 
     # pov "Don't wanna hear that from a DeLuca..."
-    pov "Don't wanna hear that from a DeLuca..."
+    pov "لا أريد أن أسمع شيئاً كهذا من عائلة ديلوكا..."
 
 # game/Story.rpy:989
 translate arabic nightBeachTalk_89044902:
 
     # lu "Touché."
-    lu "Touché."
+    lu "أقنعتني..."
 
 # game/Story.rpy:993
 translate arabic nightBeachTalk_a81061ed:
 
     # pov "As pathetic as it may sound, I only have one friend. Known him since childhood, Jalen."
-    pov "As pathetic as it may sound, I only have one friend. Known him since childhood, Jalen."
+    pov "على الرغم من أن هذا يبدو مثيراً للشفقة، إلا أنه كان لدي صديق واحد فقط، أعرفه منذ الطفولة،اسمه جالين."
 
 # game/Story.rpy:994
 translate arabic nightBeachTalk_11f58f76:
 
     # pov "I don't really have any other people I socialize with..."
-    pov "I don't really have any other people I socialize with..."
+    pov "لا أتواصل مع كثير من الناس..."
 
 # game/Story.rpy:995
 translate arabic nightBeachTalk_5f2d2cbb:
 
     # pov "I have lots of people I know and can be around if I wanted. But I feel better alone..."
-    pov "I have lots of people I know and can be around if I wanted. But I feel better alone..."
+    pov "أعرف الكثير من الناس وأستطيع التسكع معهم لو أردت، لكني أفضل البقاء وحيداً..."
 
 # game/Story.rpy:996
 translate arabic nightBeachTalk_6c5c6c8b:
 
     # gc "That's not pathetic..."
-    gc "That's not pathetic..."
+    gc "هذا ليس مثيراً للشفقة..!"
 
 # game/Story.rpy:998
 translate arabic nightBeachTalk_756aa32d:
 
     # gc "That's one more than what I have..."
-    gc "That's one more than what I have..."
+    gc "لديك أكثر من أصدقائي بواحد..."
 
 # game/Story.rpy:999
 translate arabic nightBeachTalk_d02ba966:
 
     # pov "Really? You don't strike me as someone who would have trouble making friends?"
-    pov "Really? You don't strike me as someone who would have trouble making friends?"
+    pov "حقاً؟ لا تبدين لي وكأنك شخص يواجه مشاكلاً في التعارف."
 
 # game/Story.rpy:1001
 translate arabic nightBeachTalk_c9391f65:
 
     # lu "That's not true, Gracie. You've got many friends!"
-    lu "That's not true, Gracie. You've got many friends!"
+    lu "لا يا قرايسي، لديكي الكثير من الأصدقاء!"
 
 # game/Story.rpy:1002
 translate arabic nightBeachTalk_551c27d5:
 
     # gc "Really? Name one that isn't Family and not part of our household."
-    gc "Really? Name one that isn't Family and not part of our household."
+    gc "حقاً؟ اعطيني صديقاً واحداً خارج العائلة."
 
 # game/Story.rpy:1003
 translate arabic nightBeachTalk_c15cc7d6_1:
@@ -4144,25 +4144,25 @@ translate arabic nightBeachTalk_c15cc7d6_1:
 translate arabic nightBeachTalk_77d77857:
 
     # gc "Everyone in Lucania treats me as some kind of little princess. When I was a kid, in school, I had so many kids around me. At first, I thought they were my friends."
-    gc "Everyone in Lucania treats me as some kind of little princess. When I was a kid, in school, I had so many kids around me. At first, I thought they were my friends."
+    gc "كل من في لوكانيا يعاملني وكأنير أميرة.. عندما كنت صغيرةً في المدرسة، كان لدي الكثير من الأصدقاء، أو هذا من ظننته على الأقل."
 
 # game/Story.rpy:1006
 translate arabic nightBeachTalk_4571cefc:
 
     # gc "I slowly found out that they were not seeing me as their friend, but some high-status girl that was interesting to be around."
-    gc "I slowly found out that they were not seeing me as their friend, but some high-status girl that was interesting to be around."
+    gc "اكتشفت لاحقاً أنهم لا يروني كصديقة، بل كفتاة أعلى منهم مثيرة للإهتمام..."
 
 # game/Story.rpy:1007
 translate arabic nightBeachTalk_15299824:
 
     # gc "When I joked around, they took it seriously. When they made a mistake, they got scared. When I was gone, they would act like any normal girl would. 'Boy talk' and all that kind of stuff."
-    gc "When I joked around, they took it seriously. When they made a mistake, they got scared. When I was gone, they would act like any normal girl would. 'Boy talk' and all that kind of stuff."
+    gc "كانوا يعاملنني بجدية حتى عندما أمزح، كانوا يخافوا مني عندما يخطئن حتى... لم يتصرفوا بطبيعة إلا عندما أغادر..."
 
 # game/Story.rpy:1008
 translate arabic nightBeachTalk_0e164710:
 
     # gc "The moment they saw me coming, they stopped doing any of that. I tried to tell them that they should just act normal and talk about these things even when I'm around. But, they said they couldn't possibly do such a thing."
-    gc "The moment they saw me coming, they stopped doing any of that. I tried to tell them that they should just act normal and talk about these things even when I'm around. But, they said they couldn't possibly do such a thing."
+    gc "المشكلة إنهم يتوقفن عن هذا عندما آتي مباشرةً، حاولت أن أقنعهم بأن يتصرفوا بطبيعة، ولكنهم قالوا أنهن من المستحيل أن يفعلوا شيئاً كهذا..."
 
 # game/Story.rpy:1009
 translate arabic nightBeachTalk_c3ca3180:
@@ -4174,271 +4174,271 @@ translate arabic nightBeachTalk_c3ca3180:
 translate arabic nightBeachTalk_87f8a7ac:
 
     # gc "That's why I admire, Luna! She is friends with so many people!"
-    gc "That's why I admire, Luna! She is friends with so many people!"
+    gc "لهذا تعجبني لونا، لديها الكثير من الأصدقاء!"
 
 # game/Story.rpy:1012
 translate arabic nightBeachTalk_73a8dd7f:
 
     # lu "No, Gracie. I may love Lucania and all of the people in it, but none of them are really my friends. Some of them even fear me."
-    lu "No, Gracie. I may love Lucania and all of the people in it, but none of them are really my friends. Some of them even fear me."
+    lu "لا يا قرايسي، صحيح أن أحب لوكانيا، ولكن لا أحد فيها صديقي، بعضهم يخاف مني حتى..."
 
 # game/Story.rpy:1013
 translate arabic nightBeachTalk_a4f4704f:
 
     # gc "I have seen you have fun with a lot of people from Lucania!"
-    gc "I have seen you have fun with a lot of people from Lucania!"
+    gc "لقد رأيتكي تمزحين أكثر من مرة مع الناس في لوكانيا!"
 
 # game/Story.rpy:1014
 translate arabic nightBeachTalk_6e2e68aa:
 
     # lu "Those are colleagues from work. We hang out after a mission and talk about work stuff."
-    lu "Those are colleagues from work. We hang out after a mission and talk about work stuff."
+    lu "إنهم شركائي من العمل، نتسكع معاً ونتحدث عن العمل بعد أن ننتهي من المهام أحياناً."
 
 # game/Story.rpy:1016
 translate arabic nightBeachTalk_9e166828:
 
     # gc "That's still a friendship..."
-    gc "That's still a friendship..."
+    gc "ما زالت تعتبر كصداقة..."
 
 # game/Story.rpy:1017
 translate arabic nightBeachTalk_3f014326:
 
     # "I wonder if that's why she wants to work for the Family so badly?"
-    "I wonder if that's why she wants to work for the Family so badly?"
+    "هل هذا السبب الذي يجعلها ترغب بدخول عمل العائلة بشدة؟"
 
 # game/Story.rpy:1019
 translate arabic nightBeachTalk_31f0d1cc:
 
     # gc "Well, all of those things don't matter now! My new school is out of Lucania, so no one knows me and won't see me as some {i}stupid princess{/i}!"
-    gc "Well, all of those things don't matter now! My new school is out of Lucania, so no one knows me and won't see me as some {i}stupid princess{/i}!"
+    gc "على اعموم هذا لا يهم! مدرستي الجديدة خارج لوكانيا، لا أحد يعرف عني ولا أحد يعاملني كأني {i}أميرة غبية{/i}"
 
 # game/Story.rpy:1020
 translate arabic nightBeachTalk_a7f9b101:
 
     # gc "I talk to lots of people every day!"
-    gc "I talk to lots of people every day!"
+    gc "كما أني أتحدث مع الكثير كل يوم!"
 
 # game/Story.rpy:1021
 translate arabic nightBeachTalk_2b3ebde5:
 
     # gc "Though I haven't really gotten a friend yet."
-    gc "Though I haven't really gotten a friend yet."
+    gc "رغم أني لم أشكل صديقاً واحداً حتى الآن..."
 
 # game/Story.rpy:1022
 translate arabic nightBeachTalk_c95ac36c:
 
     # lu "But you will!"
-    lu "But you will!"
+    lu "ستجدين صديقاً يا قرايسي..."
 
 # game/Story.rpy:1023
 translate arabic nightBeachTalk_8a6c8b8c:
 
     # pov "Yeah, you just need to give it some time."
-    pov "Yeah, you just need to give it some time."
+    pov "نعم، عليكي أن تعطي الموضوع بعض الوقت فقط."
 
 # game/Story.rpy:1024
 translate arabic nightBeachTalk_b213c3f1:
 
     # pov "And you know what? I'll help you."
-    pov "And you know what? I'll help you."
+    pov "وأتعلمين شيئا؟ سأساعدك."
 
 # game/Story.rpy:1025
 translate arabic nightBeachTalk_89a201a8:
 
     # gc "Will you? How?"
-    gc "Will you? How?"
+    gc "ستساعدني؟ كيف؟"
 
 # game/Story.rpy:1026
 translate arabic nightBeachTalk_6ff0618b:
 
     # pov "I will teach you."
-    pov "I will teach you."
+    pov "سأعلمك."
 
 # game/Story.rpy:1028
 translate arabic nightBeachTalk_281c47a5:
 
     # lu "Wait, how can a guy with almost no social life teach about being social and getting friends?"
-    lu "Wait, how can a guy with almost no social life teach about being social and getting friends?"
+    lu "لحظة، كيف يمكن لشخص حياته الإجتماعية معدومة أن يساعد في موضوع كهذا؟"
 
 # game/Story.rpy:1029
 translate arabic nightBeachTalk_72e0e4aa:
 
     # pov "I am asocial by choice, not because I don't know 'how' to be social..."
-    pov "I am asocial by choice, not because I don't know 'how' to be social..."
+    pov "أنا إنطوائي باختياري، ليس لأنني لا أعرف كيف أكون إجتماعياً..."
 
 # game/Story.rpy:1030
 translate arabic nightBeachTalk_79d1f834:
 
     # gc "Be careful what you say, [povname]. I'm going to take you up on that, hehe."
-    gc "Be careful what you say, [povname]. I'm going to take you up on that, hehe."
+    gc "إنته يا [povname]، سآخذ كلامك هذا بجدية."
 
 # game/Story.rpy:1031
 translate arabic nightBeachTalk_1199539b:
 
     # gc "Anyway, this was not supposed to be about me! Sorry."
-    gc "Anyway, this was not supposed to be about me! Sorry."
+    gc "على العموم نحن لم نكن نتحدث عني، آسفة!"
 
 # game/Story.rpy:1032
 translate arabic nightBeachTalk_6ca6a60a:
 
     # pov "Oh, I was done the moment I said I only had one friend. Nothing to add after that."
-    pov "Oh, I was done the moment I said I only had one friend. Nothing to add after that."
+    pov "لا، لقد انتهيت عندما قلت أن لدي صديق واحد، ليس لدي شيء لأضيفه."
 
 # game/Story.rpy:1033
 translate arabic nightBeachTalk_f28b7a9b:
 
     # lu "Okay, let's talk about something that won't depress me to death!"
-    lu "Okay, let's talk about something that won't depress me to death!"
+    lu "حسناً، دعنا نتحدث عن شيء لا يسبب الكآبة!"
 
 # game/Story.rpy:1039
 translate arabic nightBeachTalk_7bd99888:
 
     # lu "So, how many girls you been with!?"
-    lu "So, how many girls you been with!?"
+    lu "حسناً... كم فتاةً واعدت؟!"
 
 # game/Story.rpy:1040
 translate arabic nightBeachTalk_76b08750:
 
     # pov "Well, that was sudden. But, no real relationships."
-    pov "Well, that was sudden. But, no real relationships."
+    pov "امم، كان هذا مفاجئاً.. ولكن ليس لدي أي علاقات حقيقية..."
 
 # game/Story.rpy:1041
 translate arabic nightBeachTalk_e94ded06:
 
     # lu "Yeah, right!"
-    lu "Yeah, right!"
+    lu "نعم صحيح..."
 
 # game/Story.rpy:1042
 translate arabic nightBeachTalk_26a7c294:
 
     # pov "It's true."
-    pov "It's true."
+    pov "أنا جاد."
 
 # game/Story.rpy:1043
 translate arabic nightBeachTalk_319d5100:
 
     # lu "You look like someone who's been with lots of girls!"
-    lu "You look like someone who's been with lots of girls!"
+    lu "تبدو كزير نساء!"
 
 # game/Story.rpy:1044
 translate arabic nightBeachTalk_dba196c0:
 
     # pov "Haha, did you just say I look good"
-    pov "Haha, did you just say I look good"
+    pov "ههههه، أتقولين أني أبدو وسيماً؟"
 
 # game/Story.rpy:1045
 translate arabic nightBeachTalk_2a949294:
 
     # lu "No, you jerk, haha! I mean you look... Normal."
-    lu "No, you jerk, haha! I mean you look... Normal."
+    lu "هههههههه لا يا أحمق، أقصد أنك تبدو... طبيعياً."
 
 # game/Story.rpy:1046
 translate arabic nightBeachTalk_a8d14580:
 
     # lu "And like a guy who's been with many girls."
-    lu "And like a guy who's been with many girls."
+    lu "وكشخص يبدو أنه عاشر كثيراً من النساء."
 
 # game/Story.rpy:1050
 translate arabic nightBeachTalk_60161c99:
 
     # gc "Ohhh, Luna's got a crush on [povname]!"
-    gc "Ohhh, Luna's got a crush on [povname]!"
+    gc "أووووه، لونا معجبة ب[povname]!!"
 
 # game/Story.rpy:1051
 translate arabic nightBeachTalk_78d0a036:
 
     # lu "What the Hell, Gracie!? I don't!"
-    lu "What the Hell, Gracie!? I don't!"
+    lu "ماذا؟! قرايسي!! لست معجبة به!"
 
 # game/Story.rpy:1052
 translate arabic nightBeachTalk_9d14a3e0:
 
     # gc "Don't you? What if I tell you I may have a crush on him?"
-    gc "Don't you? What if I tell you I may have a crush on him?"
+    gc "لست معجبة به؟ ماذا ستقولين لو قلت لكي أني معجبة به أنا؟"
 
 # game/Story.rpy:1054
 translate arabic nightBeachTalk_31d07612:
 
     # lu "Do you?"
-    lu "Do you?"
+    lu "فعلاً؟"
 
 # game/Story.rpy:1055
 translate arabic nightBeachTalk_46c4208a:
 
     # gc "Ahahahaha, that look on your face."
-    gc "Ahahahaha, that look on your face."
+    gc "هههههههههههههههههه، انظر إلى وجهها!!"
 
 # game/Story.rpy:1057
 translate arabic nightBeachTalk_3ea414b4:
 
     # lu "Jerk... Also, I don't, so I don't care if you do."
-    lu "Jerk... Also, I don't, so I don't care if you do."
+    lu "غبية... كما أني لا أهتم لو أنك معجبة به."
 
 # game/Story.rpy:1061
 translate arabic nightBeachTalk_a29c548b:
 
     # gc "Both of us?"
-    gc "Both of us?"
+    gc "كلانا؟"
 
 # game/Story.rpy:1062
 translate arabic nightBeachTalk_723f8b0c:
 
     # lu "Easy there, tiger. Going for two innocent girls at the same time!"
-    lu "Easy there, tiger. Going for two innocent girls at the same time!"
+    lu "إهدأ يا رجل، أن تنوي على فتاتين بريئين في نفس الوقت!"
 
 # game/Story.rpy:1063
 translate arabic nightBeachTalk_1aa36aa3:
 
     # gc "Mother told me about guys like you, {i}'predators'{/i}!"
-    gc "Mother told me about guys like you, {i}'predators'{/i}!"
+    gc "أمي حذرتني من أمثالك!"
 
 # game/Story.rpy:1064
 translate arabic nightBeachTalk_82ed810c:
 
     # lu "Haha, sexual deviant!"
-    lu "Haha, sexual deviant!"
+    lu "هههههههههه، شهواني منحرف!"
 
 # game/Story.rpy:1065
 translate arabic nightBeachTalk_4a136c94:
 
     # pov "Jeez, so much for saying I care about the two of you..."
-    pov "Jeez, so much for saying I care about the two of you..."
+    pov "يا إلهي، كل ما قلته هو أني أهتم بكما كلاكما..."
 
 # game/Story.rpy:1067
 translate arabic nightBeachTalk_50318046:
 
     # gc "Aw, he got serious again!"
-    gc "Aw, he got serious again!"
+    gc "اوه، لقد أصبح جاداً مجدداً!"
 
 # game/Story.rpy:1068
 translate arabic nightBeachTalk_17c85627:
 
     # lu "Hehe."
-    lu "Hehe."
+    lu "هيهي."
 
 # game/Story.rpy:1073
 translate arabic nightBeachTalk_10433661:
 
     # lu "You're sweet, [povname]."
-    lu "You're sweet, [povname]."
+    lu "إنك لطيف يا [povname]."
 
 # game/Story.rpy:1074
 translate arabic nightBeachTalk_4bfe3390:
 
     # gc "Favorite employee!"
-    gc "Favorite employee!"
+    gc "الموظف المفضل!"
 
 # game/Story.rpy:1077
 translate arabic nightBeachTalk_4727c19a:
 
     # lu "I blame Gracie."
-    lu "I blame Gracie."
+    lu "ألوم قرايسي على هذا..."
 
 # game/Story.rpy:1078
 translate arabic nightBeachTalk_826fd939:
 
     # gc "Okay okay. No more joking around, promise."
-    gc "Okay okay. No more joking around, promise."
+    gc "حسناً حسناً، لن أمزح مجدداً، أعدكم."
 
 # game/Story.rpy:1079
 translate arabic nightBeachTalk_c3ca3180_1:
@@ -4450,145 +4450,145 @@ translate arabic nightBeachTalk_c3ca3180_1:
 translate arabic nightBeachTalk_3acbabef:
 
     # pov "Anyways, I never had any real relationships."
-    pov "Anyways, I never had any real relationships."
+    pov "على العموم، لم أدخل بعلاقة حقيقية من قبل."
 
 # game/Story.rpy:1082
 translate arabic nightBeachTalk_80b17f76:
 
     # gc "What do you mean by 'real relationships'?"
-    gc "What do you mean by 'real relationships'?"
+    gc "ما الذي تعنيه بعلاقة حقيقية؟"
 
 # game/Story.rpy:1083
 translate arabic nightBeachTalk_019b3546:
 
     # pov "A relationship that lasted more than a week."
-    pov "A relationship that lasted more than a week."
+    pov "علاقة دامت لأكثر من أسبوع"
 
 # game/Story.rpy:1084
 translate arabic nightBeachTalk_a235d0af:
 
     # lu "But you had some relationships, even though they only lasted under a week."
-    lu "But you had some relationships, even though they only lasted under a week."
+    lu "ولكن كان لديك بعض العلاقات، حتى لو أنها استمرت لأقل من أسبوع"
 
 # game/Story.rpy:1085
 translate arabic nightBeachTalk_c40f8c09:
 
     # pov "Yeah. A couple."
-    pov "Yeah. A couple."
+    pov "نعم."
 
 # game/Story.rpy:1086
 translate arabic nightBeachTalk_e41ab621:
 
     # gc "So, you were even holding hands with them!?"
-    gc "So, you were even holding hands with them!?"
+    gc "إذا كنت تمسك أياديهم؟"
 
 # game/Story.rpy:1088
 translate arabic nightBeachTalk_935fba4f:
 
     # pov "Holding hands? Remind me again how old you are, Gracie..."
-    pov "Holding hands? Remind me again how old you are, Gracie..."
+    pov "أمسك أياديهم؟؟ كم عمرك يا قرايسي..؟"
 
 # game/Story.rpy:1089
 translate arabic nightBeachTalk_c28fc03b:
 
     # gc "I'm eighteen, why?"
-    gc "I'm eighteen, why?"
+    gc "18، لماذا؟"
 
 # game/Story.rpy:1090
 translate arabic nightBeachTalk_38329720:
 
     # "What kind of upbringing did this girl have?"
-    "What kind of upbringing did this girl have?"
+    "ما نوع التربية التي مرت على هذه الفعاة؟"
 
 # game/Story.rpy:1091
 translate arabic nightBeachTalk_393683ba:
 
     # pov "...Never mind. Yes, we also held hands."
-    pov "...Never mind. Yes, we also held hands."
+    pov "... تجاهلي الأمر، نعم كنت أمسك أياديهم."
 
 # game/Story.rpy:1092
 translate arabic nightBeachTalk_0fa489ff:
 
     # pov "We even held hands in public."
-    pov "We even held hands in public."
+    pov "حتى في الأماكن العامة."
 
 # game/Story.rpy:1093
 translate arabic nightBeachTalk_41509328:
 
     # gc "So shameless."
-    gc "So shameless."
+    gc "أوف، أنت جريء."
 
 # game/Story.rpy:1094
 translate arabic nightBeachTalk_9afb87f1:
 
     # pov "I'm a rebel at heart..."
-    pov "I'm a rebel at heart..."
+    pov "قلبي كله تمرد..."
 
 # game/Story.rpy:1098
 translate arabic nightBeachTalk_b5093f00:
 
     # gc "Aww, you're no fun!"
-    gc "Aww, you're no fun!"
+    gc "أنت لست ممتعا!"
 
 # game/Story.rpy:1099
 translate arabic nightBeachTalk_6840e944:
 
     # lu "I guess he doesn't trust us yet."
-    lu "I guess he doesn't trust us yet."
+    lu "أظن أنه لا يثق بنا بعد..."
 
 # game/Story.rpy:1100
 translate arabic nightBeachTalk_6e8a00ee:
 
     # pov "Nothing to do with that. I'm just tired. Good night."
-    pov "Nothing to do with that. I'm just tired. Good night."
+    pov "لا، لا علاقة لهذا بالأمر، أنا متعب فقط. تصبحون على خير."
 
 # game/Story.rpy:1101
 translate arabic nightBeachTalk_a8882ba1:
 
     # lu "Night..."
-    lu "Night..."
+    lu "وأنت من أهله."
 
 # game/Story.rpy:1104
 translate arabic nightBeachTalk_47509119:
 
     # lu "Think this is the first time you actually opened up to us."
-    lu "Think this is the first time you actually opened up to us."
+    lu "أظن أنها المرة الأولى التي تحدثت بها عن نفسك."
 
 # game/Story.rpy:1105
 translate arabic nightBeachTalk_2660ae54:
 
     # gc "I think he is beginning to fall for us, haha."
-    gc "I think he is beginning to fall for us, haha."
+    gc "أظن أنه بدأ يحبنا ههههه"
 
 # game/Story.rpy:1106
 translate arabic nightBeachTalk_d1d3fdbd:
 
     # pov "Yeah yeah, I'm going to sleep now. Night."
-    pov "Yeah yeah, I'm going to sleep now. Night."
+    pov "نعم نعم، سأنام الآن، تصبحون على خير."
 
 # game/Story.rpy:1107
 translate arabic nightBeachTalk_3d2df727:
 
     # lu "Night."
-    lu "Night."
+    lu "وأنت من أهله."
 
 # game/Story.rpy:1108
 translate arabic nightBeachTalk_47013e2a:
 
     # gc "Good night!"
-    gc "Good night!"
+    gc "تصبحون على خير!"
 
 # game/Story.rpy:1112
 translate arabic nightBeachTalk_5e7ccbd9:
 
     # "*{b}Couple of minutes later*{/b}"
-    "*{b}Couple of minutes later*{/b}"
+    "*{b}*بعد بضع دقائق*{/b}"
 
 # game/Story.rpy:1114
 translate arabic nightBeachTalk_edde00d8:
 
     # "I'm still amazed at how fast these two fall asleep..."
-    "I'm still amazed at how fast these two fall asleep..."
+    "كيف ينامان بهذه السرعة؟؟"
 
 # game/Story.rpy:1115
 translate arabic nightBeachTalk_a20cefa7:
@@ -4600,61 +4600,61 @@ translate arabic nightBeachTalk_a20cefa7:
 translate arabic nightBeachTalk_48956c30:
 
     # "They look cute sleeping like that... They're not as bad as I first thought they would be..."
-    "They look cute sleeping like that... They're not as bad as I first thought they would be..."
+    "يبدوان جميلتان وهما نائمتان... لم يكونا بالسوء الذي توقعته.."
 
 # game/Story.rpy:1117
 translate arabic nightBeachTalk_2fdbe099:
 
     # "They can be pretty nice."
-    "They can be pretty nice."
+    "قد يكونون طيبين جداً في بعض الأحيان."
 
 # game/Story.rpy:1118
 translate arabic nightBeachTalk_bff1ee5c:
 
     # "...Well, mostly when they're asleep that is."
-    "...Well, mostly when they're asleep that is."
+    "عندما يكونوا نائمين على الأقل..."
 
 # game/Story.rpy:1119
 translate arabic nightBeachTalk_80288c28:
 
     # "Am I still trying to befriend them for the sake of getting out of the contract, or because... I just want to? They kind of grow on you."
-    "Am I still trying to befriend them for the sake of getting out of the contract, or because... I just want to? They kind of grow on you."
+    "هل ما زلت أحاول مصاحبتهم من أجل العقد، أم لأني... أريد هذا فعلاً؟ بدأت أعتاد عليهم."
 
 # game/Story.rpy:1120
 translate arabic nightBeachTalk_c0adf6b1:
 
     # "If I told myself months ago that I would one day be in a room with the two daughters of one of the most infamous Mafia Families... I would have laughed my ass off."
-    "If I told myself months ago that I would one day be in a room with the two daughters of one of the most infamous Mafia Families... I would have laughed my ass off."
+    "إذا قلت لنفسي في الماضي أني سأكون في نفس الغرفة مع بنات أحد أشهر المنظمات الإجرامية... كنت سأضحك من هذه الكذبة."
 
 # game/Story.rpy:1121
 translate arabic nightBeachTalk_4be1bc52:
 
     # "But, here I am..."
-    "But, here I am..."
+    "ولكن ها أنا ذا"
 
 # game/Story.rpy:1122
 translate arabic nightBeachTalk_86e6417f:
 
     # "I wonder what would happen if I actually touched them now and they woke up."
-    "I wonder what would happen if I actually touched them now and they woke up."
+    "أتساءل عم سيحصل إذا لمستهم واستيقظوا..."
 
 # game/Story.rpy:1123
 translate arabic nightBeachTalk_a97d5e3a:
 
     # "No, it's too early for anything like that."
-    "No, it's too early for anything like that."
+    "لا، ما زال الوقت مبكراً على هذه الحركات..."
 
 # game/Story.rpy:1124
 translate arabic nightBeachTalk_6b982542:
 
     # "Wait, I should never do anything like that!"
-    "Wait, I should never do anything like that!"
+    "لحظة، الوقت غير مناسب لهذه الحركات أبداً!"
 
 # game/Story.rpy:1125
 translate arabic nightBeachTalk_574da994:
 
     # "Damn you, Jay, I'm not a guy who is possessed by a- 'perverted, sexual, deviant demon'..."
-    "Damn you, Jay, I'm not a guy who is possessed by a- 'perverted, sexual, deviant demon'..."
+    "اللعنة عليك يا جالين، أنا لست مستوحذاً من 'شيطان شهواني منحرف الجنسية'..."
 
 # game/Story.rpy:1126
 translate arabic nightBeachTalk_a20cefa7_1:
@@ -4666,61 +4666,61 @@ translate arabic nightBeachTalk_a20cefa7_1:
 translate arabic nightBeachTalk_ad2dffbe:
 
     # "I should go to bed before I do anything stupid..."
-    "I should go to bed before I do anything stupid..."
+    "من الأقل أن أنام قبل أن أتهور بفعل شيء غبي"
 
 # game/Story.rpy:1132
 translate arabic nightBeachTalk_89c9aac7:
 
     # "{b}*Next day*{/b}"
-    "{b}*Next day*{/b}"
+    "{b}*اليوم التالي*{/b}"
 
 # game/Story.rpy:1135
 translate arabic nightBeachTalk_8019b16f:
 
     # gc "Morning, [povname]."
-    gc "Morning, [povname]."
+    gc "صباح الخير!"
 
 # game/Story.rpy:1136
 translate arabic nightBeachTalk_a022fc0d:
 
     # pov "Morning."
-    pov "Morning."
+    pov "صباح النور."
 
 # game/Story.rpy:1137
 translate arabic nightBeachTalk_7056149c:
 
     # pov "Where is Luna?"
-    pov "Where is Luna?"
+    pov "أين لونا؟"
 
 # game/Story.rpy:1138
 translate arabic nightBeachTalk_d62135f6:
 
     # gc "She went to the bathroom to pee."
-    gc "She went to the bathroom to pee."
+    gc "ذهبت إلى الحمام لتتبول."
 
 # game/Story.rpy:1139
 translate arabic nightBeachTalk_f427b657:
 
     # pov "Too much information..."
-    pov "Too much information..."
+    pov "أعطيتني تفاصيلاً أكثر من اللازم..."
 
 # game/Story.rpy:1140
 translate arabic nightBeachTalk_3876ae12:
 
     # gc "But you asked."
-    gc "But you asked."
+    gc "أنت من سألت!"
 
 # game/Story.rpy:1141
 translate arabic nightBeachTalk_cdc7bcdd:
 
     # pov "You could've said the bathroom and that would've been fine!"
-    pov "You could've said the bathroom and that would've been fine!"
+    pov "كنت تستطيعين القول بأنها بالحمام وسيكون هذا كافياً..."
 
 # game/Story.rpy:1142
 translate arabic nightBeachTalk_158489f8:
 
     # gc "Geez, I really d-{nw}"
-    gc "Geez, I really d-{nw}"
+    gc "اوه، لم أ{nw}"
 
 # game/Story.rpy:1145
 translate arabic nightBeachTalk_d1f0e050:
@@ -4732,67 +4732,67 @@ translate arabic nightBeachTalk_d1f0e050:
 translate arabic nightBeachTalk_1afd84dd:
 
     # gc "What was that!?"
-    gc "What was that!?"
+    gc "ما هذا الصوت؟!"
 
 # game/Story.rpy:1147
 translate arabic nightBeachTalk_960c370d:
 
     # pov "It came from the door!"
-    pov "It came from the door!"
+    pov "لقد أتى من خلف الباب!"
 
 # game/Story.rpy:1148
 translate arabic nightBeachTalk_ff92c6f9:
 
     # gc "Leo usually has the morning watch, doesn't he?"
-    gc "Leo usually has the morning watch, doesn't he?"
+    gc "ليو هو من يحرس الباب في الصباح صح؟"
 
 # game/Story.rpy:1149
 translate arabic nightBeachTalk_a5ecfe15:
 
     # pov "Yeah."
-    pov "Yeah."
+    pov "نعم."
 
 # game/Story.rpy:1150
 translate arabic nightBeachTalk_78189ee0:
 
     # gc "Maybe he is shooting at empty beer bottles? Like in the movies."
-    gc "Maybe he is shooting at empty beer bottles? Like in the movies."
+    gc "أيعقل أنه يطلق على علب البيرة مثل الأفلام؟"
 
 # game/Story.rpy:1151
 translate arabic nightBeachTalk_340feba5:
 
     # pov "Hmm... Let's check it out."
-    pov "Hmm... Let's check it out."
+    pov "هممم... فلنرى."
 
 # game/Story.rpy:1169
 translate arabic nightBeachTalk_efbceaaf:
 
     # gc "Do you hear anything?"
-    gc "Do you hear anything?"
+    gc "هل سمعت شيئاً؟"
 
 # game/Story.rpy:1170
 translate arabic nightBeachTalk_73eb26b5:
 
     # pov "No..."
-    pov "No..."
+    pov "لا..."
 
 # game/Story.rpy:1171
 translate arabic nightBeachTalk_1e4fa418:
 
     # gc "Should we try to open the door?"
-    gc "Should we try to open the door?"
+    gc "هل نجرب فتح الباب؟"
 
 # game/Story.rpy:1174
 translate arabic nightBeachTalk_2ee15c8e:
 
     # pov "What the hell!?"
-    pov "What the hell!?"
+    pov "ماذا!!!"
 
 # game/Story.rpy:1175
 translate arabic nightBeachTalk_a4856a47:
 
     # pov "Who are you!?"
-    pov "Who are you!?"
+    pov "من أنت؟!"
 
 # game/Story.rpy:1178
 translate arabic nightBeachTalk_d1f0e050_1:
@@ -4804,25 +4804,25 @@ translate arabic nightBeachTalk_d1f0e050_1:
 translate arabic nightBeachTalk_55124e54:
 
     # pov "H-hey what are you doing!?"
-    pov "H-hey what are you doing!?"
+    pov "مـ- مالذي تفعله؟!"
 
 # game/Story.rpy:1180
 translate arabic nightBeachTalk_d93abd13:
 
     # "I gotta do something!"
-    "I gotta do something!"
+    "علي أن أفعل شيئاَ!"
 
 # game/Story.rpy:1182
 translate arabic nightBeachTalk_76fc8a6e:
 
     # pov "Gracie, run!"
-    pov "Gracie, run!"
+    pov "قرايسي، أهربي!"
 
 # game/Story.rpy:1184
 translate arabic nightBeachTalk_838748f1:
 
     # mer1 "Annoying..."
-    mer1 "Annoying..."
+    mer1 "يالك من مزعج..."
 
 # game/Story.rpy:1185
 translate arabic nightBeachTalk_1c1f07c8:
@@ -4834,67 +4834,67 @@ translate arabic nightBeachTalk_1c1f07c8:
 translate arabic nightBeachTalk_7fc8ea68:
 
     # pov "Arg..."
-    pov "Arg..."
+    pov "آاخ"
 
 # game/Story.rpy:1189
 translate arabic nightBeachTalk_df13f16b:
 
     # pov "H-hey, wait!"
-    pov "H-hey, wait!"
+    pov "لـ-لحظة! إنتظر!"
 
 # game/Story.rpy:1190
 translate arabic nightBeachTalk_3b6d827c:
 
     # "What do I do, what do I do, what do I do?!"
-    "What do I do, what do I do, what do I do?!"
+    "ماذا علي ان أفعل؟ ماذا علي أن أفعل؟!!"
 
 # game/Story.rpy:1191
 translate arabic nightBeachTalk_f67f7483:
 
     # "I can't move..."
-    "I can't move..."
+    "لا أستطيع التحرك..."
 
 # game/Story.rpy:1192
 translate arabic nightBeachTalk_ec44abab:
 
     # "I'm afraid..."
-    "I'm afraid..."
+    "أنا خائف..."
 
 # game/Story.rpy:1193
 translate arabic nightBeachTalk_117808b6:
 
     # pov "Please..."
-    pov "Please..."
+    pov "أرجوك..."
 
 # game/Story.rpy:1198
 translate arabic nightBeachTalk_2ceace02:
 
     # gc "HI-YAAAAAAAA!"
-    gc "HI-YAAAAAAAA!"
+    gc ""
 
 # game/Story.rpy:1199
 translate arabic nightBeachTalk_ec497e02:
 
     # "Gracie!?"
-    "Gracie!?"
+    "قرايسي؟!"
 
 # game/Story.rpy:1201
 translate arabic nightBeachTalk_02857046:
 
     # gc "Hmm..."
-    gc "Hmm..."
+    gc "همم..."
 
 # game/Story.rpy:1202
 translate arabic nightBeachTalk_19b488f4:
 
     # gc "In the movies, the chair usually breaks..."
-    gc "In the movies, the chair usually breaks..."
+    gc "غريب، غالباً ما ينكسر الكرسي في الأفلام..."
 
 # game/Story.rpy:1203
 translate arabic nightBeachTalk_dc2c8f2e:
 
     # gc "Interesting."
-    gc "Interesting."
+    gc "هذا مثير للإهتمام.."
 
 # game/Story.rpy:1205
 translate arabic nightBeachTalk_f060428f:
@@ -4906,103 +4906,102 @@ translate arabic nightBeachTalk_f060428f:
 translate arabic nightBeachTalk_3da6d77a:
 
     # gc "Uhm... Hai."
-    gc "Uhm... Hai."
+    gc "آممم، أهلاً."
 
 # game/Story.rpy:1207
 translate arabic nightBeachTalk_c2c70ada:
 
     # pov "Run!"
-    pov "Run!"
+    pov "أهربي!"
 
 # game/Story.rpy:1209
 translate arabic nightBeachTalk_838748f1_1:
 
     # mer1 "Annoying..."
-    mer1 "Annoying..."
+    mer1 "اللعنة عليك..."
 
 # game/Story.rpy:1210
 translate arabic nightBeachTalk_a0245e39:
 
     # gc "Urg!"
-    gc "Urg!"
+    gc "آااخ!"
 
 # game/Story.rpy:1211
 translate arabic nightBeachTalk_9a2775d5:
 
     # pov "Gracie!!"
-    pov "Gracie!!"
+    pov "قرايسي!!"
 
 # game/Story.rpy:1213
 translate arabic nightBeachTalk_ddf9d4f0:
 
     # mer2 "Idiot, don't harm the girl. We're here for the boy!"
-    mer2 "Idiot, don't harm the girl. We're here for the boy!"
+    mer2 "غبي، لا تضرب الفتاة. نحن هنا من أجل الولد!"
 
 # game/Story.rpy:1215
 translate arabic nightBeachTalk_c921bab1:
 
     # mer1 "She hit me!"
-    mer1 "She hit me!"
+    mer1 "لقد ضربتني!"
 
 # game/Story.rpy:1216
 translate arabic nightBeachTalk_f42faa16:
 
     # mer2 "So...? We have our orders, you idiot! We're not allowed to harm any of the girls."
-    mer2 "So...? We have our orders, you idiot! We're not allowed to harm any of the girls."
+    mer2 "إذاً؟ علينا إتباع التعليمات يا متخلف! يجب أن لا نضرب أياً من الفتاتين."
 
 # game/Story.rpy:1217
 translate arabic nightBeachTalk_8c5a4a16:
 
     # mer1 "The chair didn't even break."
-    mer1 "The chair didn't even break."
+    mer1 "حتى إن الكرسي لم ينكسر."
 
 # game/Story.rpy:1218
 translate arabic nightBeachTalk_dd5880e1:
 
     # mer2 "What? Actually nevermind, I don't care. Our orders are clear. Eliminate the boy. Leave any of the others alone, if possible. Especially the girls!"
-    mer2 "What? Actually nevermind, I don't care. Our orders are clear. Eliminate the boy. Leave any of the others alone, if possible. Especially the girls!"
+    mer2 "ماذا؟ أتعلم، انسى الموضوع. لست مهتماً. أوامرنا واضحة، فلنقتل الولد ولندع البنات وشنأنهم، دع الجميع وشأنهم إذا أمكن، خاصةً البنتين!"
 
 # game/Story.rpy:1221
 translate arabic nightBeachTalk_2716c973:
 
     # lu "Unfortunately for you, I do not have such orders."
-    lu "Unfortunately for you, I do not have such orders."
+    lu "لسوء حظك، ليس لدي أوامر كهذه."
 
 # game/Story.rpy:1226
 translate arabic nightBeachTalk_0a8b79cf:
 
     # mer1 "Huh?"
-    mer1 "Huh?"
+    mer1 "هاه؟"
 
 # game/Story.rpy:1227
 translate arabic nightBeachTalk_ffc2b657:
 
     # mer2 "Girl, that's not a toy."
-    mer2 "Girl, that's not a toy."
+    mer2 "هذا ليس لعبة يا فتاة."
 
 # game/Story.rpy:1228
 translate arabic nightBeachTalk_7b109e76:
 
     # lu "Really? But people usually play along when I yell 'pew-pew'."
-    lu "Really? But people usually play along when I yell 'pew-pew'."
+    lu "فعلاً؟ ولكن غالباً ما يلعب الناس معي عندما أقول 'بيو-بيو'."
 
 # game/Story.rpy:1229
 translate arabic nightBeachTalk_a9bedcb0:
 
     # lu "Like your friends outside. They're still laying down motionless... Stellar acting, I must say."
-    lu "Like your friends outside. They're still laying down motionless... Stellar acting, I must say."
+    lu "مقل أصدقاءك بالخارج، ما زالوا على الأرض... تمثيل يستحق جائزة أوسكار بكل صراحة."
 
 # game/Story.rpy:1230
 translate arabic nightBeachTalk_fd00f9f2:
 
     # lu "They even brought tomato sauce with them... Splashed themselves all over with it after I yelled 'pew-pew'. Or rather when my toy gun made the 'pew-pew' sound, hehe."
-    lu "They even brought tomato sauce with them... Splashed themselves all over with it after I yelled 'pew-pew'. Or rather when my toy gun made the 'pew-pew' sound, hehe."
-
+    lu "كما أنهم أحضروا القليل من الكاتشب... لقد لطخوا نفسهم به عندما صرخت 'بيو-بيو'، أو بالأصح، عندما أصدرت لعبتي هذا الصوت، هيهي."
 # game/Story.rpy:1231
 translate arabic nightBeachTalk_f0fce71e:
 
     # lu "So, are you really going to say this ain't a toy?"
-    lu "So, are you really going to say this ain't a toy?"
+    lu "إذاً، أتقول لي بأن هذا لعبة؟"
 
 # game/Story.rpy:1232
 translate arabic nightBeachTalk_f060428f_1:
@@ -5014,43 +5013,43 @@ translate arabic nightBeachTalk_f060428f_1:
 translate arabic nightBeachTalk_32f4aac8:
 
     # mer2 "So you're the infamous Luna DeLuca... Better known as 'Luna The Loca'..."
-    mer2 "So you're the infamous Luna DeLuca... Better known as 'Luna The Loca'..."
+    mer2 "إذاً، أنتي لونا ديلوكا لشحمها ولحمها... المعروفة ب 'لونا ال لوكا'"
 
 # game/Story.rpy:1234
 translate arabic nightBeachTalk_28438334:
 
     # lu "That's me, in a nuttyshell!"
-    lu "That's me, in a nuttyshell!"
+    lu "نعم، هذا أنا باختصار جنوني!"
 
 # game/Story.rpy:1235
 translate arabic nightBeachTalk_894efb09:
 
     # lu "See what I did there? I said nuttyshell instead of a nutshell."
-    lu "See what I did there? I said nuttyshell instead of a nutshell."
+    lu "فهمت النكتة؟ لقد أضفت 'جنون' إلى الجملة."
 
 # game/Story.rpy:1236
 translate arabic nightBeachTalk_9cdcd82c:
 
     # mer2 "Funny..."
-    mer2 "Funny..."
+    mer2 "مضحك..."
 
 # game/Story.rpy:1241
 translate arabic nightBeachTalk_7df1e540:
 
     # lu "I know right!? Now it's your turn."
-    lu "I know right!? Now it's your turn."
+    lu "أعلم! حسناً حان دورك."
 
 # game/Story.rpy:1242
 translate arabic nightBeachTalk_0c406489:
 
     # mer2 "My turn?"
-    mer2 "My turn?"
+    mer2 "دوري؟"
 
 # game/Story.rpy:1243
 translate arabic nightBeachTalk_68bdbc38:
 
     # lu "To say something funny of course! A laugh means it's fun, a 'pew' means it's no fun!"
-    lu "To say something funny of course! A laugh means it's fun, a 'pew' means it's no fun!"
+    lu "دورك بأن تقول شيئاً مضحكاً طبعا! صوت ضحكة معناه أن النكتة مضحكة، صوت 'بيو' يعني أنها سخيفة"
 
 # game/Story.rpy:1244
 translate arabic nightBeachTalk_f060428f_2:
@@ -5062,271 +5061,271 @@ translate arabic nightBeachTalk_f060428f_2:
 translate arabic nightBeachTalk_9608efbe:
 
     # mer2 "Are you out of your mind? What the Hell are y- {nw}"
-    mer2 "Are you out of your mind? What the Hell are y- {nw}"
+    mer2 "هل أني مجنونة؟ ما هذا بحق ال{nw}"
 
 # game/Story.rpy:1249
 translate arabic nightBeachTalk_f7fe1517:
 
     # mer2 "ARRRRRRRRRRRRRG!!!!"
-    mer2 "ARRRRRRRRRRRRRG!!!!"
+    mer2 "آااااخ!!!!"
 
 # game/Story.rpy:1250
 translate arabic nightBeachTalk_76930130:
 
     # lu "Boooorring!"
-    lu "Boooorring!"
+    lu "سخيييف!"
 
 # game/Story.rpy:1251
 translate arabic nightBeachTalk_1e18989a:
 
     # "Jesus!!"
-    "Jesus!!"
+    "ياللهول!!"
 
 # game/Story.rpy:1252
 translate arabic nightBeachTalk_4e9e9432:
 
     # "She shot him in the eye!"
-    "She shot him in the eye!"
+    "لقد أطلقت عليه في عينه!"
 
 # game/Story.rpy:1254
 translate arabic nightBeachTalk_443189fb:
 
     # "Oh no!"
-    "Oh no!"
+    "أوه لا!"
 
 # game/Story.rpy:1255
 translate arabic nightBeachTalk_b70d6aff:
 
     # pov "Luna, careful!"
-    pov "Luna, careful!"
+    pov "لونا، إنتبهي!!"
 
 # game/Story.rpy:1257
 translate arabic nightBeachTalk_0a8b79cf_1:
 
     # mer1 "Huh?"
-    mer1 "Huh?"
+    mer1 "هاه؟"
 
 # game/Story.rpy:1260
 translate arabic nightBeachTalk_bf541b65:
 
     # mer1 "I SEE YOU BITCH!"
-    mer1 "I SEE YOU BITCH!"
+    mer1 "أنا أراكي أيتها العاهرة"
 
 # game/Story.rpy:1261
 translate arabic nightBeachTalk_9976175a:
 
     # lu "Too late."
-    lu "Too late."
+    lu "لقد تأخرت."
 
 # game/Story.rpy:1265
 translate arabic nightBeachTalk_f4d8abd5:
 
     # mer1 "URG!!!"
-    mer1 "URG!!!"
+    mer1 "آااااخ!!!"
 
 # game/Story.rpy:1276
 translate arabic nightBeachTalk_54f1abb0:
 
     # "A-amazing! She counterattacked instantly from such a difficult position."
-    "A-amazing! She counterattacked instantly from such a difficult position."
+    "مـ-مذهل! لقد تصدت له من زاوية صعبة جداً."
 
 # game/Story.rpy:1277
 translate arabic nightBeachTalk_2af0c660:
 
     # gc "That's my sister!"
-    gc "That's my sister!"
+    gc "هذه أختي!"
 
 # game/Story.rpy:1279
 translate arabic nightBeachTalk_f51fd933:
 
     # lu "You guys okay?"
-    lu "You guys okay?"
+    lu "هل أنتم بخير؟"
 
 # game/Story.rpy:1280
 translate arabic nightBeachTalk_b421c732:
 
     # pov "I'm fine."
-    pov "I'm fine."
+    pov "أنا بخير."
 
 # game/Story.rpy:1281
 translate arabic nightBeachTalk_7d3d717d:
 
     # lu "Gracie?"
-    lu "Gracie?"
+    lu "قرايسي?"
 
 # game/Story.rpy:1283
 translate arabic nightBeachTalk_ae346d26:
 
     # gc "I'm awessoooome! Teach me what you just did!"
-    gc "I'm awessoooome! Teach me what you just did!"
+    gc "أنا ممتازة! دربيني على فعل ما فعليته لتوك!"
 
 # game/Story.rpy:1286
 translate arabic nightBeachTalk_2b7b2643:
 
     # lu "Not the time for that."
-    lu "Not the time for that."
+    lu "هذا ليس وقتاً مناسباً."
 
 # game/Story.rpy:1287
 translate arabic nightBeachTalk_8abd1ff9:
 
     # lu "I took down a couple of guys outside of here. But I saw many more on their way."
-    lu "I took down a couple of guys outside of here. But I saw many more on their way."
+    lu "لقد قتلت بعض الرجال في الخارج، ولكن هناك المزيد في الطرق."
 
 # game/Story.rpy:1288
 translate arabic nightBeachTalk_ab7f90d2:
 
     # lu "I didn't notice any known Family sigils on them. Probably mercenaries."
-    lu "I didn't notice any known Family sigils on them. Probably mercenaries."
+    lu "لم أرَ شعار أي عائلة عليهم، لا بد من أنهم مرتزقة."
 
 # game/Story.rpy:1289
 translate arabic nightBeachTalk_37cc39c5:
 
     # pov "How many?"
-    pov "How many?"
+    pov "كم عدد القادمين؟"
 
 # game/Story.rpy:1290
 translate arabic nightBeachTalk_21f494eb:
 
     # lu "At least between twenty and thirty."
-    lu "At least between twenty and thirty."
+    lu "عشرين أو ثلاثين على الأقل."
 
 # game/Story.rpy:1291
 translate arabic nightBeachTalk_e1147920:
 
     # pov "God..."
-    pov "God..."
+    pov "يا إلهي..."
 
 # game/Story.rpy:1292
 translate arabic nightBeachTalk_f3ab91f8:
 
     # lu "We need to barricade the door."
-    lu "We need to barricade the door."
+    lu "علينا قفل الباب."
 
 # game/Story.rpy:1295
 translate arabic nightBeachTalk_9124eaff:
 
     # lu "But first I need to handle this guy."
-    lu "But first I need to handle this guy."
+    lu "ولكن علي أن أتعامل معه قبلها."
 
 # game/Story.rpy:1297
 translate arabic nightBeachTalk_bd0d13df:
 
     # "Is she going to kill him? But, he is already unconscious."
-    "Is she going to kill him? But, he is already unconscious."
+    "هل ستقتله؟ لقد فقد وعيه بالفعل."
 
 # game/Story.rpy:1301
 translate arabic nightBeachTalk_b7d12b52:
 
     # lu "Gracie, look away."
-    lu "Gracie, look away."
+    lu "قرايسي، أنظري على شيء آخر."
 
 # game/Story.rpy:1302
 translate arabic nightBeachTalk_90d505df:
 
     # gc "But I wanna see!"
-    gc "But I wanna see!"
+    gc "لكني أريد رؤية هذا!!"
 
 # game/Story.rpy:1303
 translate arabic nightBeachTalk_bd4bd314:
 
     # lu "LOOK AWAY!"
-    lu "LOOK AWAY!"
+    lu "{b}أنظري بعيدا!{/b}"
 
 # game/Story.rpy:1304
 translate arabic nightBeachTalk_ecb536b7:
 
     # gc "Jeez, okay..."
-    gc "Jeez, okay..."
+    gc "يا إلهي، حسناً..."
 
 # game/Story.rpy:1307
 translate arabic nightBeachTalk_f1df2165:
 
     # "SHIT!"
-    "SHIT!"
+    "اللعنة!"
 
 # game/Story.rpy:1308
 translate arabic nightBeachTalk_d300e218:
 
     # "How can she just kill him like that...?"
-    "How can she just kill him like that...?"
+    "كيف تستطيع قتله بهذه السهولة؟"
 
 # game/Story.rpy:1309
 translate arabic nightBeachTalk_a08dba51:
 
     # "Doesn't she feel any remorse?"
-    "Doesn't she feel any remorse?"
+    "ألا تشعر بالرحمة؟"
 
 # game/Story.rpy:1310
 translate arabic nightBeachTalk_e9fa1e2c:
 
     # "But then again, why didn't I speak up?"
-    "But then again, why didn't I speak up?"
+    "ولكن بنفس الوقت، لمَ لم أوقفها هنا.."
 
 # game/Story.rpy:1311
 translate arabic nightBeachTalk_f6fd1180:
 
     # "Maybe this outcome is what I wanted...?"
-    "Maybe this outcome is what I wanted...?"
+    "ربما هذا فعلاً ما كنت أريده..."
 
 # game/Story.rpy:1314
 translate arabic nightBeachTalk_964155bf:
 
     # pov "Wait, Luna!"
-    pov "Wait, Luna!"
+    pov "إنتظري، لونا!"
 
 # game/Story.rpy:1316
 translate arabic nightBeachTalk_7e0fd9e2:
 
     # lu "Huh?"
-    lu "Huh?"
+    lu "ماذا؟"
 
 # game/Story.rpy:1317
 translate arabic nightBeachTalk_34ffb05b:
 
     # lu "What's wrong, [povname]?"
-    lu "What's wrong, [povname]?"
+    lu "ما المشكلة يا [povname]؟"
 
 # game/Story.rpy:1318
 translate arabic nightBeachTalk_6821ea71:
 
     # pov "He is already unconscious, no need to kill him."
-    pov "He is already unconscious, no need to kill him."
+    pov "لقد فقد وعيه بالفعل، لا داع لقتله."
 
 # game/Story.rpy:1319
 translate arabic nightBeachTalk_6c37dfa2:
 
     # lu "Well, what if he wakes up?"
-    lu "Well, what if he wakes up?"
+    lu "ماذا لو استيقظ؟"
 
 # game/Story.rpy:1320
 translate arabic nightBeachTalk_ff3b6345:
 
     # pov "We take his gun and tie him up."
-    pov "We take his gun and tie him up."
+    pov "نستطيع أن نأخذ سلاحه ونربطه."
 
 # game/Story.rpy:1321
 translate arabic nightBeachTalk_e83cda1f:
 
     # lu "Seems like a lot of hassle for no reason?"
-    lu "Seems like a lot of hassle for no reason?"
+    lu "يبدو كتضييع جهد بلا فائدة.."
 
 # game/Story.rpy:1322
 translate arabic nightBeachTalk_640c89b2:
 
     # pov "No reason? He is still a human being!"
-    pov "No reason? He is still a human being!"
+    pov "بلا فائدة؟ ما زال إنساناً!"
 
 # game/Story.rpy:1323
 translate arabic nightBeachTalk_190ac24c:
 
     # lu "This is not a fight between two civilians. This is a fight between soldiers. He knows what the risks are."
-    lu "This is not a fight between two civilians. This is a fight between soldiers. He knows what the risks are."
+    lu "هذا ليس عراك يا [povname]، إنه قتال بين جنديين، إنه يعرف بالمخاطر."
 
 # game/Story.rpy:1324
 translate arabic nightBeachTalk_937f8b61:
 
     # lu "Also, do I need to remind you that he came to kill us? Or rather came to kill you, specifically?"
-    lu "Also, do I need to remind you that he came to kill us? Or rather came to kill you, specifically?"
+    lu "هل علي أن أذكرك بأنه حاول قتلنا؟ بل حاول قتلك أنت بالذات!"
 
 # game/Story.rpy:1325
 translate arabic nightBeachTalk_c3ca3180_2:
@@ -5338,7 +5337,7 @@ translate arabic nightBeachTalk_c3ca3180_2:
 translate arabic nightBeachTalk_f67d05f8:
 
     # lu "You still want to spare him?"
-    lu "You still want to spare him?"
+    lu "هل ما زلت على قرارك؟"
 
 # game/Story.rpy:1330
 translate arabic nightBeachTalk_c15cc7d6_2:
@@ -5350,61 +5349,61 @@ translate arabic nightBeachTalk_c15cc7d6_2:
 translate arabic nightBeachTalk_dea411a4:
 
     # lu "Okay, if that is what you want."
-    lu "Okay, if that is what you want."
+    lu "حسناً، كما تريد."
 
 # game/Story.rpy:1332
 translate arabic nightBeachTalk_e2eabd18:
 
     # pov "Thank you."
-    pov "Thank you."
+    pov "شكراً لك."
 
 # game/Story.rpy:1333
 translate arabic nightBeachTalk_f74be19d:
 
     # lu "Sooner or later, you have to accept that you can't live in this world with that attitude."
-    lu "Sooner or later, you have to accept that you can't live in this world with that attitude."
+    lu "عاجلاً أم آجلاً، ستتقبل حقيقة أنك لن تستطيع العيش في هذا العالم بهذه الطريقة."
 
 # game/Story.rpy:1334
 translate arabic nightBeachTalk_eca9b532:
 
     # pov "Maybe."
-    pov "Maybe."
+    pov "ربما..."
 
 # game/Story.rpy:1335
 translate arabic nightBeachTalk_fa1b19b5:
 
     # lu "Well, let's tie him up."
-    lu "Well, let's tie him up."
+    lu "عموماً، فلنربطه."
 
 # game/Story.rpy:1339
 translate arabic nightBeachTalk_ffd989e2:
 
     # lu "Good."
-    lu "Good."
+    lu "جيد."
 
 # game/Story.rpy:1340
 translate arabic nightBeachTalk_b7d12b52_1:
 
     # lu "Gracie, look away."
-    lu "Gracie, look away."
+    lu "قرايسي، أنظري بعيداً"
 
 # game/Story.rpy:1341
 translate arabic nightBeachTalk_90d505df_1:
 
     # gc "But I wanna see!"
-    gc "But I wanna see!"
+    gc "لكني أريد رؤية هذا!!"
 
 # game/Story.rpy:1342
 translate arabic nightBeachTalk_bd4bd314_1:
 
     # lu "LOOK AWAY!"
-    lu "LOOK AWAY!"
+    lu "{b}أنظري بعيدا!{/b}"
 
 # game/Story.rpy:1344
 translate arabic nightBeachTalk_ecb536b7_1:
 
     # gc "Jeez, okay..."
-    gc "Jeez, okay..."
+    gc "يا إلهي، حسناً..."
 
 # game/Story.rpy:1347
 translate arabic nightBeachTalk_a20cefa7_2:
@@ -5416,55 +5415,55 @@ translate arabic nightBeachTalk_a20cefa7_2:
 translate arabic nightBeachTalk_4ce16946:
 
     # lu "Okay, we don't have a lot of time."
-    lu "Okay, we don't have a lot of time."
+    lu "حسناً، ليس لدينا الكثير من الوقت."
 
 # game/Story.rpy:1350
 translate arabic nightBeachTalk_f3ab91f8_1:
 
     # lu "We need to barricade the door."
-    lu "We need to barricade the door."
+    lu "علينا أن نقفل الباب."
 
 # game/Story.rpy:1351
 translate arabic nightBeachTalk_b648ea97:
 
     # gc "But, the door is kind of on the floor..."
-    gc "But, the door is kind of on the floor..."
+    gc "ولكن.. إن الباب على الأرض..."
 
 # game/Story.rpy:1352
 translate arabic nightBeachTalk_5e7328f1:
 
     # lu "Well, we put it back on then."
-    lu "Well, we put it back on then."
+    lu "إذاً علينا أن نرجعه."
 
 # game/Story.rpy:1353
 translate arabic nightBeachTalk_515e53e9:
 
     # lu "Now move it!"
-    lu "Now move it!"
+    lu "هيا!"
 
 # game/Story.rpy:1363
 translate arabic nightBeachTalk_e25842f2:
 
     # gc "Now what?"
-    gc "Now what?"
+    gc "ماذا الآن؟"
 
 # game/Story.rpy:1364
 translate arabic nightBeachTalk_1ed10997:
 
     # lu "Now we wait..."
-    lu "Now we wait..."
+    lu "علينا أن ننتظر..."
 
 # game/Story.rpy:1365
 translate arabic nightBeachTalk_f0cceb31:
 
     # gc "Wait for what?"
-    gc "Wait for what?"
+    gc "ننتظر ماذا؟"
 
 # game/Story.rpy:1367
 translate arabic nightBeachTalk_8eb58b90:
 
     # lu "For my brain to think of a way out! Be quiet for a moment!"
-    lu "For my brain to think of a way out! Be quiet for a moment!"
+    lu "ننتظر مخي بأن يفكر بطريقة للخروج! اهدئي قليلا!"
 
 # game/Story.rpy:1368
 translate arabic nightBeachTalk_25a8dc29:
@@ -5476,37 +5475,37 @@ translate arabic nightBeachTalk_25a8dc29:
 translate arabic nightBeachTalk_1e6e45a2:
 
     # gc "OH!"
-    gc "OH!"
+    gc "أوه!"
 
 # game/Story.rpy:1370
 translate arabic nightBeachTalk_5535b95b:
 
     # pov "What?"
-    pov "What?"
+    pov "ماذا؟"
 
 # game/Story.rpy:1371
 translate arabic nightBeachTalk_629397d9:
 
     # lu "What's wrong?"
-    lu "What's wrong?"
+    lu "ما الخطب؟"
 
 # game/Story.rpy:1373
 translate arabic nightBeachTalk_7ef7f4da:
 
     # gc "That guy! The one you shot in the eye. It's him!"
-    gc "That guy! The one you shot in the eye. It's him!"
+    gc "هذا الرجل! الذي أطلقتي على عينه، إنه هو!"
 
 # game/Story.rpy:1374
 translate arabic nightBeachTalk_42d3638a:
 
     # pov "It's him what?"
-    pov "It's him what?"
+    pov "من هو؟"
 
 # game/Story.rpy:1375
 translate arabic nightBeachTalk_3319b2c9:
 
     # gc "The couple who were walking with the dogs! It was him! I KNEW I WAS RIGHT!!"
-    gc "The couple who were walking with the dogs! It was him! I KNEW I WAS RIGHT!!"
+    gc "الرجل الذي كان يمشي كلبه مع الفتاة! لقد كان هو! علمت أني محقة!!"
 
 # game/Story.rpy:1376
 translate arabic nightBeachTalk_c3ca3180_3:
@@ -5524,67 +5523,67 @@ translate arabic nightBeachTalk_c15cc7d6_3:
 translate arabic nightBeachTalk_d985abee:
 
     # lu "Be serious for a moment, Gracie. This is not looking too good..."
-    lu "Be serious for a moment, Gracie. This is not looking too good..."
+    lu "كوني جادةً للحظة يا قرايسي، لا يبدو بأن الأمور ستسري على ما يرام..."
 
 # game/Story.rpy:1381
 translate arabic nightBeachTalk_108fdb1e:
 
     # mer1 "In here guys!"
-    mer1 "In here guys!"
+    mer1 "هنا يا رفاق!"
 
 # game/Story.rpy:1382
 translate arabic nightBeachTalk_a408094f:
 
     # lu "They're here..."
-    lu "They're here..."
+    lu "لقد وصلوا..."
 
 # game/Story.rpy:1383
 translate arabic nightBeachTalk_4e6a8879:
 
     # mer1 "Boss and the stupid guy still in there? How long can it take to kill one guy!"
-    mer1 "Boss and the stupid guy still in there? How long can it take to kill one guy!"
+    mer1 "هل ما زال الرئيس والأحمق هناك؟ كم سيأخذ قتل ولد واحد من الوقت!"
 
 # game/Story.rpy:1384
 translate arabic nightBeachTalk_b14c0488:
 
     # mer1 "Maybe the crazy bitch got to 'em. She took down five of our guys single-handedly."
-    mer1 "Maybe the crazy bitch got to 'em. She took down five of our guys single-handedly."
+    mer1 "ربما لقد قتلتهم تلك المجنونة، لقد قتلت خمسة من رجالنا بمفردها."
 
 # game/Story.rpy:1385
 translate arabic nightBeachTalk_f8105437:
 
     # mer1 "Don't underestimate the Boss, you idiot. Also, he was with that dumb guy. Those two won't go down that easily."
-    mer1 "Don't underestimate the Boss, you idiot. Also, he was with that dumb guy. Those two won't go down that easily."
+    mer1 "لا تقلل من تقدير الرئيس يا أحمق. كما أنه كان مع ذاك الأحمق، لن يقتلا بهذه السهولة."
 
 # game/Story.rpy:1386
 translate arabic nightBeachTalk_40170535:
 
     # mer1 "Well, I'm going in."
-    mer1 "Well, I'm going in."
+    mer1 "حسناً، سأدخل."
 
 # game/Story.rpy:1388
 translate arabic nightBeachTalk_7c15b2e4:
 
     # mer1 "It's stuck!"
-    mer1 "It's stuck!"
+    mer1 "إنه عالق!"
 
 # game/Story.rpy:1389
 translate arabic nightBeachTalk_d804e2fb:
 
     # mer1 "Try to kick it!"
-    mer1 "Try to kick it!"
+    mer1 "حاول ركله!"
 
 # game/Story.rpy:1391
 translate arabic nightBeachTalk_3ae479d8:
 
     # mer1 "I'm trying!"
-    mer1 "I'm trying!"
+    mer1 "انا أحاول!"
 
 # game/Story.rpy:1392
 translate arabic nightBeachTalk_edfac40b:
 
     # lu "We don't have a lot of time..."
-    lu "We don't have a lot of time..."
+    lu "ليس لدينا الكثير من الوقت..."
 
 # game/Story.rpy:1393
 translate arabic nightBeachTalk_c15cc7d6_4:
@@ -5596,163 +5595,163 @@ translate arabic nightBeachTalk_c15cc7d6_4:
 translate arabic nightBeachTalk_345f9f34:
 
     # lu "[povname], take the gun from that dead guy. Keep shooting at the window. Bulletproof doesn't mean it won't break eventually."
-    lu "[povname], take the gun from that dead guy. Keep shooting at the window. Bulletproof doesn't mean it won't break eventually."
+    lu "[povname]، خذ سلاح الرجل الميت وأطلق على النافذة، صحيح أنها مضادة للرصاص ولكن هذا لا يعني أنها لن تنكسر بالنهاية."
 
 # game/Story.rpy:1395
 translate arabic nightBeachTalk_e364cb08:
 
     # lu "Gracie, the moment the windows break, run!"
-    lu "Gracie, the moment the windows break, run!"
+    lu "قرايسي، إهربي عندما تنكسر النافذة بأسرع ما عندك!"
 
 # game/Story.rpy:1396
 translate arabic nightBeachTalk_3f1d06c3:
 
     # pov "What will you do?"
-    pov "What will you do?"
+    pov "وماذا سأفعل أنا؟"
 
 # game/Story.rpy:1397
 translate arabic nightBeachTalk_b41f577e:
 
     # lu "It will take some time to break the window. I'll go out and fight as long as I can."
-    lu "It will take some time to break the window. I'll go out and fight as long as I can."
+    lu "سيأخذ كسر النافذة وقتاً، سأذهب لمقاتلهم حتى نكسب بعض الوقت."
 
 # game/Story.rpy:1399
 translate arabic nightBeachTalk_c5581314:
 
     # gc "No! I'm going to stay with you!"
-    gc "No! I'm going to stay with you!"
+    gc "لا! سأبقى معك!"
 
 # game/Story.rpy:1400
 translate arabic nightBeachTalk_ffb055e2:
 
     # lu "Don't be stupid, Gracie! We don't have time for this."
-    lu "Don't be stupid, Gracie! We don't have time for this."
+    lu "لا تكون غبية يا قرايسي! ليس لدينا وقت لهذا."
 
 # game/Story.rpy:1401
 translate arabic nightBeachTalk_7be9daec:
 
     # gc "I don't care!"
-    gc "I don't care!"
+    gc "لا أهتم!"
 
 # game/Story.rpy:1402
 translate arabic nightBeachTalk_8666111f:
 
     # pov "We don't even know how many of them are out there, or how many more are coming! You said yourself there are at least twenty or thirty."
-    pov "We don't even know how many of them are out there, or how many more are coming! You said yourself there are at least twenty or thirty."
+    pov "نحن لا نعرف حتى كم عددهم، أنتِ بنفسك قلتي أنعم عشرين على الأقل."
 
 # game/Story.rpy:1403
 translate arabic nightBeachTalk_2181a7fa:
 
     # pov "You will die!"
-    pov "You will die!"
+    pov "سوف تموتين!"
 
 # game/Story.rpy:1404
 translate arabic nightBeachTalk_76580829:
 
     # lu "Newsflash! This is what I do on a daily basis!"
-    lu "Newsflash! This is what I do on a daily basis!"
+    lu "صدق أو لا تصدق، أنا أفعل هذا كل يوم."
 
 # game/Story.rpy:1405
 translate arabic nightBeachTalk_51c92d93:
 
     # lu "The two of you get moving, now!!"
-    lu "The two of you get moving, now!!"
+    lu "أبدآ بالعمل، الآن!"
 
 # game/Story.rpy:1406
 translate arabic nightBeachTalk_7b13c50e:
 
     # "Again... First Gracie saved me, and now Luna is risking her life for Gracie and me..."
-    "Again... First Gracie saved me, and now Luna is risking her life for Gracie and me..."
+    "مرةً أخرى... قرايسي أنقذتني بالبداية، والآن لونا ستخاطر بحياتها من أجلي أنا وقرايسي..."
 
 # game/Story.rpy:1407
 translate arabic nightBeachTalk_fafd1684:
 
     # "And... Both of them know the mercenaries are after me... All that's needed for them to survive this is throwing me out there..."
-    "And... Both of them know the mercenaries are after me... All that's needed for them to survive this is throwing me out there..."
+    "مع أن كلاهما يعلم بأنهم قادمين من أجلي أنا... كل ما يحتاجوا فعله هو أن يسلموني..."
 
 # game/Story.rpy:1409
 translate arabic nightBeachTalk_5e0b4d43:
 
     # "...I can't keep being rescued! This is pathetic!"
-    "...I can't keep being rescued! This is pathetic!"
+    "لا يمكن أن أكون هكذا! هذا مثير للشفقة!"
 
 # game/Story.rpy:1413
 translate arabic nightBeachTalk_0f2e350f:
 
     # lu "Huh? You won't be able to do anything against them, [povname]"
-    lu "Huh? You won't be able to do anything against them, [povname]"
+    lu "ماذا؟ لن تستطيع أن تفعل شيئاً لهم يا [povname]!"
 
 # game/Story.rpy:1414
 translate arabic nightBeachTalk_68be1171:
 
     # pov "I know..."
-    pov "I know..."
+    pov "أعلم..."
 
 # game/Story.rpy:1415
 translate arabic nightBeachTalk_b0ca7968:
 
     # pov "But, you two heard them. They're after me. Once they get me, they will leave."
-    pov "But, you two heard them. They're after me. Once they get me, they will leave."
+    pov "ولكنكي سمعتيهم، أنهم يريدونني أنا، إذا خرجت فسينتهي كل هذا..."
 
 # game/Story.rpy:1416
 translate arabic nightBeachTalk_f3707fae:
 
     # gc "Absolutely not!"
-    gc "Absolutely not!"
+    gc "لن أقبل بهذا!"
 
 # game/Story.rpy:1417
 translate arabic nightBeachTalk_e01a0602:
 
     # lu "And what do you think will happen the moment you go out there? That they will simply capture you?"
-    lu "And what do you think will happen the moment you go out there? That they will simply capture you?"
+    lu "وما الذي تظنه سيحصل عندما تخرج؟ سيأخذونك مثلاً؟"
 
 # game/Story.rpy:1418
 translate arabic nightBeachTalk_84fe31d2:
 
     # pov "I'm not stupid... They will k-kill me! But this is what must happen!"
-    pov "I'm not stupid... They will k-kill me! But this is what must happen!"
+    pov "أنا لست غبياً... سيقـ-سيقتلوني! ولكن هذا ما يجب علي فعله!"
 
 # game/Story.rpy:1424
 translate arabic nightBeachTalk_195ea80d:
 
     # lu "Aww, you stuttered at the word kill. But you almost had it, champ!"
-    lu "Aww, you stuttered at the word kill. But you almost had it, champ!"
+    lu "اوو، لقد ترددت في قول كلمة قتل، ولكنك كدت أن تفعلها يا بطل!"
 
 # game/Story.rpy:1425
 translate arabic nightBeachTalk_fbb59161:
 
     # pov "Shut up..."
-    pov "Shut up..."
+    pov "اصمتي..."
 
 # game/Story.rpy:1426
 translate arabic nightBeachTalk_2dcec5a3:
 
     # gc "Stuuuupid, we are the DELUCA FAMILY! We never betray one of our own!"
-    gc "Stuuuupid, we are the DELUCA FAMILY! We never betray one of our own!"
+    gc "أيها الأحمق، نحن عائلة ديلوكا! لن نغدر بأحد منا!"
 
 # game/Story.rpy:1427
 translate arabic nightBeachTalk_a2733247:
 
     # lu "She is right, if we betray a DeLuca now, we might as well point the gun at ourselves and pull the trigger."
-    lu "She is right, if we betray a DeLuca now, we might as well point the gun at ourselves and pull the trigger."
+    lu "إنها محقة، إذا غدرنا بواحد منا الآن، فمن الأفضل أن نقتل نفسنا فقط."
 
 # game/Story.rpy:1428
 translate arabic nightBeachTalk_ecd961c7:
 
     # pov "But, I'm not a DeLuca."
-    pov "But, I'm not a DeLuca."
+    pov "ولكني لست ديلوكا..."
 
 # game/Story.rpy:1429
 translate arabic nightBeachTalk_942afbcd:
 
     # gc "Of couuurse, you are, silly!"
-    gc "Of couuurse, you are, silly!"
+    gc "بالطبع أنت ديلوكا يا أحمق!"
 
 # game/Story.rpy:1430
 translate arabic nightBeachTalk_f11369df:
 
     # lu "Contract or no contract, the moment you entered our household, you became part of the DeLuca Family."
-    lu "Contract or no contract, the moment you entered our household, you became part of the DeLuca Family."
+    lu "بعقد أو بدون، طالما أنك دخلت بيتنا فأنت واحد منا."
 
 # game/Story.rpy:1431
 translate arabic nightBeachTalk_c3ca3180_4:
@@ -5764,31 +5763,31 @@ translate arabic nightBeachTalk_c3ca3180_4:
 translate arabic nightBeachTalk_1de90470:
 
     # gc "I think he is blushing!"
-    gc "I think he is blushing!"
+    gc "بدأ وجهه بالإحمرار!"
 
 # game/Story.rpy:1433
 translate arabic nightBeachTalk_b6f0f252:
 
     # lu "Ahaha, that's so cute!"
-    lu "Ahaha, that's so cute!"
+    lu "هههه، هذا لطيف!"
 
 # game/Story.rpy:1434
 translate arabic nightBeachTalk_57d1ab46:
 
     # pov "What? I'm not!"
-    pov "What? I'm not!"
+    pov "ماذا؟ لم يحصل هذا!"
 
 # game/Story.rpy:1435
 translate arabic nightBeachTalk_33d8daff:
 
     # gc "Hahaha, also you are our favorite employee! We don't want you dead."
-    gc "Hahaha, also you are our favorite employee! We don't want you dead."
+    gc "ههههه، كما أنك موظفنا المفضل! لا نريدك أن تموت."
 
 # game/Story.rpy:1436
 translate arabic nightBeachTalk_f2a7c2e8:
 
     # lu "Yeah, not just yet that is!"
-    lu "Yeah, not just yet that is!"
+    lu "نعم، ليس حتى الآن على الأقل!"
 
 # game/Story.rpy:1437
 translate arabic nightBeachTalk_c3ca3180_5:
@@ -5800,49 +5799,49 @@ translate arabic nightBeachTalk_c3ca3180_5:
 translate arabic nightBeachTalk_81adb236:
 
     # "These two..."
-    "These two..."
+    "هاتان الاثنتان..."
 
 # game/Story.rpy:1440
 translate arabic nightBeachTalk_871c91c3:
 
     # pov "Well... What're we waiting for!? Let's go!!"
-    pov "Well... What're we waiting for!? Let's go!!"
+    pov "حسناً... ما الذي ننتظره؟! هيا بنا!!"
 
 # game/Story.rpy:1441
 translate arabic nightBeachTalk_e0b7a8db:
 
     # gc "Hell yeah!!"
-    gc "Hell yeah!!"
+    gc "نعم!!"
 
 # game/Story.rpy:1442
 translate arabic nightBeachTalk_e8117031:
 
     # lu "That's the spirit, haha!"
-    lu "That's the spirit, haha!"
+    lu "هذا هو الحماس الذي نحتاجه ههههههه!"
 
 # game/Story.rpy:1443
 translate arabic nightBeachTalk_9314471b:
 
     # lu "But you stay, Gracie."
-    lu "But you stay, Gracie."
+    lu "ولكن إبقي هنا يا قرايسي."
 
 # game/Story.rpy:1444
 translate arabic nightBeachTalk_12240135:
 
     # gc "Nope!"
-    gc "Nope!"
+    gc "كلا!"
 
 # game/Story.rpy:1448
 translate arabic nightBeachTalk_9f15c178:
 
     # lu "Here I go!"
-    lu "Here I go!"
+    lu "ها أنا ذا!"
 
 # game/Story.rpy:1449
 translate arabic nightBeachTalk_75e2dff0:
 
     # gc "Luna..."
-    gc "Luna..."
+    gc "لونا..."
 
 # game/Story.rpy:1450
 translate arabic nightBeachTalk_c3ca3180_6:
@@ -5854,67 +5853,67 @@ translate arabic nightBeachTalk_c3ca3180_6:
 translate arabic nightBeachTalk_acdc8b09:
 
     # mer1 "ARGGGG!!!"
-    mer1 "ARGGGG!!!"
+    mer1 "آاااخ!!!"
 
 # game/Story.rpy:1455
 translate arabic nightBeachTalk_1e02bf35:
 
     # mer1 "WHAT THE HELL IS GOING ON!?"
-    mer1 "WHAT THE HELL IS GOING ON!?"
+    mer1 "ما هذا بحق الجحيم؟!"
 
 # game/Story.rpy:1456
 translate arabic nightBeachTalk_9bc865f3:
 
     # lu "They're fighting?"
-    lu "They're fighting?"
+    lu "هل، هل  يتقاتلون؟"
 
 # game/Story.rpy:1457
 translate arabic nightBeachTalk_dd0c2ff8:
 
     # gc "Maybe someone came for us?"
-    gc "Maybe someone came for us?"
+    gc "هل أتى شخص لإنقاذنا؟"
 
 # game/Story.rpy:1458
 translate arabic nightBeachTalk_b3acf847:
 
     # lu "Hmm maybe... I wonder who it is? Our own couldn't possibly know we were being attacked?"
-    lu "Hmm maybe... I wonder who it is? Our own couldn't possibly know we were being attacked?"
+    lu "هممم، ربا... من قد يكون؟ العائلة لا تعرف بأننا تحت الهجوم."
 
 # game/Story.rpy:1459
 translate arabic nightBeachTalk_9a0cdb92:
 
     # lu "Maybe it's another faction unknown to us? Good timing for us?"
-    lu "Maybe it's another faction unknown to us? Good timing for us?"
+    lu "قد تكون عائلة أخرى... لقد أتت بالوقت المناسب."
 
 # game/Story.rpy:1460
 translate arabic nightBeachTalk_f327f230:
 
     # pov "Whoever it is. Let's hope they don't open our door..."
-    pov "Whoever it is. Let's hope they don't open our door..."
+    pov "أياً كانوا، فلنأمل ألا يفتحوا الباب..."
 
 # game/Story.rpy:1461
 translate arabic nightBeachTalk_ce431f74:
 
     # lu "Let's wait it out."
-    lu "Let's wait it out."
+    lu "فلننتظر."
 
 # game/Story.rpy:1464
 translate arabic nightBeachTalk_2d225647:
 
     # gc "It's quiet now."
-    gc "It's quiet now."
+    gc "إن المكان هادئ الآن."
 
 # game/Story.rpy:1465
 translate arabic nightBeachTalk_eefea345:
 
     # pov "I wonder who won?"
-    pov "I wonder who won?"
+    pov "إتساءل عمن فاز..."
 
 # game/Story.rpy:1466
 translate arabic nightBeachTalk_273b3ecb:
 
     # lu "Shhhh, I'm trying to hear what's going on."
-    lu "Shhhh, I'm trying to hear what's going on."
+    lu "اصصص، أني أحاول سماع ما يجري."
 
 # game/Story.rpy:1467
 translate arabic nightBeachTalk_c3ca3180_7:
@@ -5932,43 +5931,43 @@ translate arabic nightBeachTalk_25a8dc29_1:
 translate arabic nightBeachTalk_9f099a27:
 
     # lu "All I can hear is.. Vacuums? And stuff being dragged? What's going on?"
-    lu "All I can hear is.. Vacuums? And stuff being dragged? What's going on?"
+    lu "كل ما أستطيع سماعه هو صوت مكنسة.. وصوت أشياء تسحب.. مالذي يجري؟"
 
 # game/Story.rpy:1470
 translate arabic nightBeachTalk_63b7c0d7:
 
     # gc "Should we open the door?"
-    gc "Should we open the door?"
+    gc "هل نفتح الباب؟"
 
 # game/Story.rpy:1471
 translate arabic nightBeachTalk_7be85207:
 
     # lu "No, if by chance it's another group there is a slim chance they won't know about us."
-    lu "No, if by chance it's another group there is a slim chance they won't know about us."
+    lu "لا، إن كان هناك مجموعة أخرى بالخارج فهناك إحتمال ضعيف أنهم لا يعرفوا بوجودنا هنا."
 
 # game/Story.rpy:1472
 translate arabic nightBeachTalk_da911954:
 
     # lu "Let's just wait it out again..."
-    lu "Let's just wait it out again..."
+    lu "فلننتظر زيادة..."
 
 # game/Story.rpy:1474
 translate arabic nightBeachTalk_bdb3a75a:
 
     # gc "It's been twenty minutes... Let's take a peek!"
-    gc "It's been twenty minutes... Let's take a peek!"
+    gc "لقد مرة عشرنين دقيقة... فلننظر!"
 
 # game/Story.rpy:1475
 translate arabic nightBeachTalk_c2d128f8:
 
     # lu "Wait..."
-    lu "Wait..."
+    lu "إنتظري..."
 
 # game/Story.rpy:1476
 translate arabic nightBeachTalk_f3339c0a:
 
     # gt "LULU! YOU DON'T NEED TO HIDE ANYMORE. I'M HERE TO SAVE YOU, WAHAHAHAHAHA!!"
-    gt "LULU! YOU DON'T NEED TO HIDE ANYMORE. I'M HERE TO SAVE YOU, WAHAHAHAHAHA!!"
+    gt "لولو! لا داع للإختباء الآن. لقد جئت لإنقاذكم، هههههههههههههههه!!"
 
 # game/Story.rpy:1477
 translate arabic nightBeachTalk_c15cc7d6_5:
@@ -5980,181 +5979,181 @@ translate arabic nightBeachTalk_c15cc7d6_5:
 translate arabic nightBeachTalk_eaa5738d:
 
     # lu "That asshole!"
-    lu "That asshole!"
+    lu "هذا السافل!"
 
 # game/Story.rpy:1480
 translate arabic nightBeachTalk_470a22f4:
 
     # gc "Potty mouth!"
-    gc "Potty mouth!"
+    gc "يا قليلة الأدب!"
 
 # game/Story.rpy:1481
 translate arabic nightBeachTalk_8c5b9f3b:
 
     # lu "Sorry... But seriously, why does he wait twenty minutes before saying anything..."
-    lu "Sorry... But seriously, why does he wait twenty minutes before saying anything..."
+    lu "آسفة، ولكن بحق، من ينتظر عشرين دقيقة قبل أن يقول شيئاً مهماً كهذا..."
 
 # game/Story.rpy:1482
 translate arabic nightBeachTalk_748ff123:
 
     # pov "Is it one of our own?"
-    pov "Is it one of our own?"
+    pov "أهذا واحد منا?"
 
 # game/Story.rpy:1483
 translate arabic nightBeachTalk_45399453:
 
     # lu "Yeah... Let's go."
-    lu "Yeah... Let's go."
+    lu "نعم... فلنخرج"
 
 # game/Story.rpy:1490
 translate arabic nightBeachTalk_2a1855ae:
 
     # "Is that guy really holding a... Flail?"
-    "Is that guy really holding a... Flail?"
+    "ماذا؟ لمَ قد يحمل هراوةُ؟؟"
 
 # game/Story.rpy:1491
 translate arabic nightBeachTalk_e6f804c7:
 
     # "Who carries a flail around?"
-    "Who carries a flail around?"
+    "من يحمل هراوة معه عندما يمشي؟؟"
 
 # game/Story.rpy:1492
 translate arabic nightBeachTalk_507b37d1:
 
     # "And the guys behind him. Suits with masks?"
-    "And the guys behind him. Suits with masks?"
+    "والرجال خلفه، بدلات وأقنعة؟؟"
 
 # game/Story.rpy:1493
 translate arabic nightBeachTalk_b152b551:
 
     # "... But I must admit it's kind of scary looking."
-    "... But I must admit it's kind of scary looking."
+    "... ولكن علي الإعتراف، يبدون مخيفين بعض الشيء"
 
 # game/Story.rpy:1494
 translate arabic nightBeachTalk_74de8121:
 
     # pov "Who is the guy with the flail?"
-    pov "Who is the guy with the flail?"
+    pov "من هذا الذي يحمل الهراوة؟"
 
 # game/Story.rpy:1495
 translate arabic nightBeachTalk_2c560bcb:
 
     # lu "That's Gottardo..."
-    lu "That's Gottardo..."
+    lu "هذا قوتاردو..."
 
 # game/Story.rpy:1496
 translate arabic nightBeachTalk_7410f7d3:
 
     # pov "Why isn't he wearing any shoes?"
-    pov "Why isn't he wearing any shoes?"
+    pov "لمَ لا يرتدي حذاءً؟"
 
 # game/Story.rpy:1497
 translate arabic nightBeachTalk_4b59108b:
 
     # lu "Because he is a complete weirdo!"
-    lu "Because he is a complete weirdo!"
+    lu "لأنه غريب الأطوار!"
 
 # game/Story.rpy:1498
 translate arabic nightBeachTalk_8b529944:
 
     # pov "Wait, that tattoo. That's the same symbol as the one you have on your shirt, Gracie."
-    pov "Wait, that tattoo. That's the same symbol as the one you have on your shirt, Gracie."
+    pov "لحظة، هذا الوشم.. هذا نفس الرمز الموجود على قميصك هذا يا قرايسي."
 
 # game/Story.rpy:1499
 translate arabic nightBeachTalk_0dd95ba5:
 
     # lu "Yeah, he is one of the Four Serpents..."
-    lu "Yeah, he is one of the Four Serpents..."
+    lu "نعم، لأنه أحد الأفاعي الأربع..."
 
 # game/Story.rpy:1500
 translate arabic nightBeachTalk_5758f45c:
 
     # pov "The Four Serpents!? That guy?"
-    pov "The Four Serpents!? That guy?"
+    pov "هذا الرجل أحد الأفاعي الأربع؟!"
 
 # game/Story.rpy:1501
 translate arabic nightBeachTalk_3f8b2128:
 
     # lu "As weird and annoying as he can be, his skills can't be denied. The kick I did to one of those mercenaries... I learned it from him."
-    lu "As weird and annoying as he can be, his skills can't be denied. The kick I did to one of those mercenaries... I learned it from him."
+    lu "على الرغم من أنه مزعج وغريب، إلا أن مهاراته لا يمكن إنكارها. تلك الحركة التي قمت بها على المرتزقة... هو من علمني اياها."
 
 # game/Story.rpy:1502
 translate arabic nightBeachTalk_cdd7497b:
 
     # gc "I heard he once took down an elite squad from a Family we once were at war with. All by himself!"
-    gc "I heard he once took down an elite squad from a Family we once were at war with. All by himself!"
+    gc "سمعت أنه استطاع أن يقضي على فريق مميز لعائلة كنا معها في قتال لوحده!"
 
 # game/Story.rpy:1503
 translate arabic nightBeachTalk_a7da5728:
 
     # gc "But I barely know him, though. All he ever says to me is, 'As you wish My Lady.'"
-    gc "But I barely know him, though. All he ever says to me is, 'As you wish My Lady.'"
+    gc "لكني لا أعرفه، كل ما يقوله لي هو 'كما تريدين يا سيدتي'."
 
 # game/Story.rpy:1504
 translate arabic nightBeachTalk_e9d8cfb9:
 
     # lu "I was a kid when that happened. That alone almost won us the war."
-    lu "I was a kid when that happened. That alone almost won us the war."
+    lu "كنت صغيرةً عندما فعل هذا، هذا لوحده كان كافياً بأن يجعلنا نفوز الحرب."
 
 # game/Story.rpy:1505
 translate arabic nightBeachTalk_de6cbd9a:
 
     # pov "Are those men behind him his soldiers?"
-    pov "Are those men behind him his soldiers?"
+    pov "هل هؤلاء الرجال جنوده؟"
 
 # game/Story.rpy:1506
 translate arabic nightBeachTalk_b2ba684d:
 
     # lu "Ha! No! Wilfred would've smacked your face if he heard you make that comment."
-    lu "Ha! No! Wilfred would've smacked your face if he heard you make that comment."
+    lu "ها! لا! ويلفريد سيصفع وجهك لو سمعك تقول هذا."
 
 # game/Story.rpy:1509
 translate arabic nightBeachTalk_76d7a0b1:
 
     # lu "'Wilfred's Division'. They are highly-skilled assassins that are used for S ranked missions only... Wilfred personally handpicked each one individually and trains them in extreme brutal conditions."
-    lu "'Wilfred's Division'. They are highly-skilled assassins that are used for S ranked missions only... Wilfred personally handpicked each one individually and trains them in extreme brutal conditions."
+    lu "هذا 'قسم ويلفريد'. إنهم قتلة ذوي خبرات عالية يستخدمون فقط للمهام من المستوى S... لقد اختارهم ويلفريد بعناية، ودربهم شخصياً تدريباً قاسياً"
 
 # game/Story.rpy:1510
 translate arabic nightBeachTalk_66b846ab:
 
     # lu "And that is even after they reached the highest ranks in the Family."
-    lu "And that is even after they reached the highest ranks in the Family."
+    lu "هذا حتى بعد أن وصلوا لأعلى الرتب في العائلة."
 
 # game/Story.rpy:1511
 translate arabic nightBeachTalk_c4957e40:
 
     # lu "Actually, there're a couple of females in the group too, but I guess they ran the moment they knew Gottardo was coming along... That weirdo..."
-    lu "Actually, there're a couple of females in the group too, but I guess they ran the moment they knew Gottardo was coming along... That weirdo..."
-
+    lu "يوجد منهم بعض النساء أيضاً، ولكني أعتقد بأنهم لم يأخذوا المهمة بمجرد سماع أن قوتاردو قادم.. غريب الأطوار هذا..."
+    
 # game/Story.rpy:1515
 translate arabic nightBeachTalk_12c12428:
 
     # gt "Lady Gracie, Are you okay?"
-    gt "Lady Gracie, Are you okay?"
+    gt "سيدة قرايسي، هل أنتي بخير؟"
 
 # game/Story.rpy:1516
 translate arabic nightBeachTalk_6a2566fa:
 
     # gc "I'm fine, Uncle Gottardo."
-    gc "I'm fine, Uncle Gottardo."
+    gc "نعم أنا بخير، شكراً عم قوتاردو."
 
 # game/Story.rpy:1518
 translate arabic nightBeachTalk_da07042f:
 
     # gt "I'm delighted to hear that."
-    gt "I'm delighted to hear that."
+    gt "سعيد بسماع هذا."
 
 # game/Story.rpy:1519
 translate arabic nightBeachTalk_2db58bda:
 
     # gt "And you, little Lulu? I came here to save you, y'know?"
-    gt "And you, little Lulu? I came here to save you, y'know?"
+    gt "وأنت يا لولو الصغيرة؟ أتدرين إني جئت هنا لإنقاذك؟"
 
 # game/Story.rpy:1520
 translate arabic nightBeachTalk_4e25086d:
 
     # lu "Uncle Gottardo! Why did you wait twenty minutes before saying anything!?"
-    lu "Uncle Gottardo! Why did you wait twenty minutes before saying anything!?"
+    lu "عم قوتاردو؟ لمَ لم تقل شيئاً خلال العشرين دقيقة الماضية؟!"
 
 # game/Story.rpy:1521
 translate arabic nightBeachTalk_195312b2:
