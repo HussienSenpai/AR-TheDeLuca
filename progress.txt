@@ -1,7 +1,14 @@
+7/8 = 3543
+
+2741 lines translated - Story 43.11% (6157/14281)
+149 lines translated - sideEvents 3.31% (679/20474)
+653 lines translated - freeRoamingLabels 33.36% (4231/12680)
+
+
 6/8 = 3565
 
 3415 lines translated - Story 23.91% (3415/14281)
-150 lines translated - sideEvents 3.37% (679/20623)
+150 lines translated - sideEvents 3.29% (679/20623)
 
 revised JobBoard- final revision needed    
 
