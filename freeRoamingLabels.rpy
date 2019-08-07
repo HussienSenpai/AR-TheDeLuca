@@ -148,7 +148,7 @@ translate arabic laptopMenu_c3ca3180_1:
 translate arabic laptopMenu_5f935ac5:
 
     # "{i}There is such a big contrast in your transformation- that I sometimes think you're possessed by some kind of perverted, sexual, deviant demon!{/i}"
-    "{i}أنت تتحول بشكل كبير، لدرجة أني أحياناً أظن أن شيطاناً منحرف جنسياً قد استحوذك{/i}"
+    "{i}أنت تتحول بشكل كبير، لدرجة أني أحياناً أظن أن شيطاناً شهوانياً منحرف جنسياً قد استحوذك{/i}"
 
 # game/freeRoamingLabels.rpy:38
 translate arabic laptopMenu_da17c41f:
@@ -12682,651 +12682,651 @@ translate arabic Wilfred_ee8ee86a:
 translate arabic Wilfred_bd4bb128:
 
     # wf "As you wish."
-    wf "As you wish."
+    wf "كما تريد."
 
 # game/freeRoamingLabels.rpy:3773
 translate arabic Wilfred_537aadc0:
 
     # wf "As you wish, sir."
-    wf "As you wish, sir."
+    wf "كما تريد يا سيدي."
 
 # game/freeRoamingLabels.rpy:3774
 translate arabic Wilfred_4c62c5cb:
 
     # wf "Talk to me after you have made your decisions, and I will handle the rest."
-    wf "Talk to me after you have made your decisions, and I will handle the rest."
+    wf "قلي ما ستختار وسأتعامل أنا مع الباقي."
 
 translate arabic strings:
 
     # game/freeRoamingLabels.rpy:10
     old "*Check Emails*"
-    new "*Check Emails*"
+    new "*الرسائل الواردة*"
 
     # game/freeRoamingLabels.rpy:10
     old "*Buy skill books*"
-    new "*Buy skill books*"
+    new "*شراء كتب المهارات*"
 
     # game/freeRoamingLabels.rpy:10
     old "*Check hidden recordings*"
-    new "*Check hidden recordings*"
+    new "*مشاهدة التسجيلات *"
 
     # game/freeRoamingLabels.rpy:10
     old "*Relax for a while*"
-    new "*Relax for a while*"
+    new "*إرتح لفترة*"
 
     # game/freeRoamingLabels.rpy:10
     old "*Buy hidden cameras ($150)*"
-    new "*Buy hidden cameras ($150)*"
+    new "*شراء كاميرات خفية (150$)*"
 
     # game/freeRoamingLabels.rpy:10
     old "*Buy hidden audio recorders ($70)*"
-    new "*Buy hidden audio recorders ($70)*"
+    new "*شراء أجهزة تسجيل (70$)*"
 
     # game/freeRoamingLabels.rpy:10
     old "*Search for McHG jeans*"
-    new "*Search for McHG jeans*"
+    new "*بحث عن بنطال من McHG*"
 
     # game/freeRoamingLabels.rpy:10
     old "*Buy wine ($60)*"
-    new "*Buy wine ($60)*"
+    new "*شراء النبيذ (60$)*"
 
     # game/freeRoamingLabels.rpy:10
     old "*Buy wine... Again ($150)*"
-    new "*Buy wine... Again ($150)*"
+    new "*شراء النبيذ (150$)*"
 
     # game/freeRoamingLabels.rpy:10
     old "*Search for information about Mafia Contracts*"
-    new "*Search for information about Mafia Contracts*"
+    new "*بحث عن معلومات حول عقود المافيا*"
 
     # game/freeRoamingLabels.rpy:10
     old "*Search about ballets*"
-    new "*Search about ballets*"
+    new "*بحث عن الباليه*"
 
     # game/freeRoamingLabels.rpy:10
     old "*Buy yellow high heels* ($400)"
-    new "*Buy yellow high heels* ($400)"
+    new "*شراء كعب أصفر (400$)*"
 
     # game/freeRoamingLabels.rpy:10
     old "*Buy dance outfit* ($400)"
-    new "*Buy dance outfit* ($400)"
+    new "*شراء ملابس رقص (400$)*"
 
     # game/freeRoamingLabels.rpy:10
     old "*Log off*"
-    new "*Log off*"
+    new "*تسجيل خروج*"
 
     # game/freeRoamingLabels.rpy:47
     old "~Skill books give permanent stat increases.~"
-    new "~Skill books give permanent stat increases.~"
+    new "~كتب المهارات تعطي زيادة دائمة في المهارة~"
 
     # game/freeRoamingLabels.rpy:47
     old "*Stealth books*"
-    new "*Stealth books*"
+    new "*كتب التخفي*"
 
     # game/freeRoamingLabels.rpy:47
     old "*Attack books*"
-    new "*Attack books*"
+    new "*كتب الهجوم*"
 
     # game/freeRoamingLabels.rpy:47
     old "*Defence books*"
-    new "*Defence books*"
+    new "*كتب الدفاع*"
 
     # game/freeRoamingLabels.rpy:47
     old "*Threat books*"
-    new "*Threat books*"
+    new "*كتب التهديد*"
 
     # game/freeRoamingLabels.rpy:47
     old "*Return*"
-    new "*Return*"
+    new "*العودة*"
 
     # game/freeRoamingLabels.rpy:50
     old "The Art of the Shadow V1 +5 ($100)"
-    new "The Art of the Shadow V1 +5 ($100)"
+    new "فن الظلام 1 +5 تخفي (100$)"
 
     # game/freeRoamingLabels.rpy:50
     old "The Art of the Shadow V2 +15($500)"
-    new "The Art of the Shadow V2 +15($500)"
+    new "فن الظلام 2 +15 تخفي (500$)"
 
     # game/freeRoamingLabels.rpy:50
     old "The Art of the Shadow V3 +30 ($1000)"
-    new "The Art of the Shadow V3 +30 ($1000)"
+    new "فن الظلام 3 +30 تخفي (1000$)"
 
     # game/freeRoamingLabels.rpy:84
     old "First Strike Means no Gripe V1 +5 ($100)"
-    new "First Strike Means no Gripe V1 +5 ($100)"
+    new "من يضرب أولاً يضحك أخيرا 1 +5 هجوم (100$)"
 
     # game/freeRoamingLabels.rpy:84
     old "First Strike Means no Gripe V2 +15($500)"
-    new "First Strike Means no Gripe V2 +15($500)"
+    new "من يضرب أولاً يضحك أخيرا 2 +15 هجوم (500$)"
 
     # game/freeRoamingLabels.rpy:84
     old "First Strike Means no Gripe V3 +30 ($1000)"
-    new "First Strike Means no Gripe V3 +30 ($1000)"
+    new "من يضرب أولاً يضحك أخيرا 3 +30 هجوم (1000$)"
 
     # game/freeRoamingLabels.rpy:118
     old "How to Survive in a World of Injustice! V1 +5 ($100)"
-    new "How to Survive in a World of Injustice! V1 +5 ($100)"
+    new "كيف تدافع عن نفسك في عالم حقير 1 +5 دفاع (100$)"
 
     # game/freeRoamingLabels.rpy:118
     old "How to Survive in a World of Injustice! V2 +15 ($500)"
-    new "How to Survive in a World of Injustice! V2 +15 ($500)"
+    new "كيف تدافع عن نفسك في عالم حقير 2 +15 دفاع (500$)"
 
     # game/freeRoamingLabels.rpy:118
     old "How to Survive in a World of Injustice! V3 +30 ($1000)"
-    new "How to Survive in a World of Injustice! V3 +30 ($1000)"
+    new "كيف تدافع عن نفسك في عالم حقير 3 +39 دفاع (1000$)"
 
     # game/freeRoamingLabels.rpy:152
     old "You got a Problem Bruh? V1 +5 ($100)"
-    new "You got a Problem Bruh? V1 +5 ($100)"
+    new "فنون الرهبة 1 +5 تهديد (100$)"
 
     # game/freeRoamingLabels.rpy:152
     old "You got a Problem Bruh? V2 +15($500)"
-    new "You got a Problem Bruh? V2 +15($500)"
+    new "فنون الرهبة 1 +15 تهديد (500$)"
 
     # game/freeRoamingLabels.rpy:152
     old "You got a Problem Bruh? V3 +30 ($1000)"
-    new "You got a Problem Bruh? V3 +30 ($1000)"
+    new "فنون الرهبة 1 +30 تهديد (1000$)"
 
     # game/freeRoamingLabels.rpy:190
     old "Luna's Room."
-    new "Luna's Room."
+    new "غرفة لونا"
 
     # game/freeRoamingLabels.rpy:190
     old "Gracie's Room."
-    new "Gracie's Room."
+    new "غرفة قرايسي"
 
     # game/freeRoamingLabels.rpy:190
     old "Cordia's Office."
-    new "Cordia's Office."
+    new "مكتب كورديا"
 
     # game/freeRoamingLabels.rpy:192
     old "1. Recording."
-    new "1. Recording."
+    new "التسجيل 1"
 
     # game/freeRoamingLabels.rpy:192
     old "2. Recording."
-    new "2. Recording."
+    new "التسجيل 2"
 
     # game/freeRoamingLabels.rpy:192
     old "3. Recording."
-    new "3. Recording."
+    new "التسجيل 3"
 
     # game/freeRoamingLabels.rpy:192
     old "4. Recording."
-    new "4. Recording."
+    new "التسجيل 4"
 
     # game/freeRoamingLabels.rpy:256
     old "5. Recording."
-    new "5. Recording."
+    new "التسجيل 5"
 
     # game/freeRoamingLabels.rpy:256
     old "6. Recording."
-    new "6. Recording."
+    new "التسجيل 6"
 
     # game/freeRoamingLabels.rpy:256
     old "7. Recording."
-    new "7. Recording."
+    new "التسجيل 7"
 
     # game/freeRoamingLabels.rpy:406
     old "*Sigh*."
-    new "*Sigh*."
+    new "*تنهيدة*."
 
     # game/freeRoamingLabels.rpy:406
     old "*Buy 'McHG jeans ($100)*"
-    new "*Buy 'McHG jeans ($100)*"
+    new "شراء البنطال العادي (100$)"
 
     # game/freeRoamingLabels.rpy:406
     old "*Buy 'Ripped McHG jeans ($250)*"
-    new "*Buy 'Ripped McHG jeans ($250)*"
+    new "شراء البنطال الممزق (250$)"
 
     # game/freeRoamingLabels.rpy:406
     old "Don't buy."
-    new "Don't buy."
+    new "تأجيل"
 
     # game/freeRoamingLabels.rpy:540
     old "What are you doing?"
-    new "What are you doing?"
+    new "ماذا تفعلين؟"
 
     # game/freeRoamingLabels.rpy:540
     old "What are you doing? "
-    new "What are you doing? "
+    new "ماذا تفعلين؟"
 
     # game/freeRoamingLabels.rpy:540
     old "Something I could help you with?"
-    new "Something I could help you with?"
+    new "هل أستطيع مساعدتك بشيء؟"
 
     # game/freeRoamingLabels.rpy:540
     old "You going anywhere?"
-    new "You going anywhere?"
+    new "هل أنت ذاهبة؟"
 
     # game/freeRoamingLabels.rpy:540
     old "You seem worried. Something wrong?"
-    new "You seem worried. Something wrong?"
+    new "تبدين قلقة، هل من مشكلة؟"
 
     # game/freeRoamingLabels.rpy:540
     old "I got the Jeans."
-    new "I got the Jeans."
+    new "لقد إشتريت البنطال."
 
     # game/freeRoamingLabels.rpy:540
     old "I have your knife right here."
-    new "I have your knife right here."
+    new "لقد حصلت على السكينة."
 
     # game/freeRoamingLabels.rpy:540
     old "I sadly could not get the knife."
-    new "I sadly could not get the knife."
+    new "للأسف، لم أستطع الحصول على السكينة."
 
     # game/freeRoamingLabels.rpy:540
     old "About what happened in the living room."
-    new "About what happened in the living room."
+    new "بخصوص ما حصل في غرفة المعيشة..."
 
     # game/freeRoamingLabels.rpy:540
     old "So... How did it go?"
-    new "So... How did it go?"
+    new "إذا.. كيف جرى الأمر؟"
 
     # game/freeRoamingLabels.rpy:540
     old "Got the high heels."
-    new "Got the high heels."
+    new "لقد إشتريت الكعب."
 
     # game/freeRoamingLabels.rpy:540
     old "*Hug*"
-    new "*Hug*"
+    new "*حضن*"
 
     # game/freeRoamingLabels.rpy:540
     old "*Kiss goodbye*"
-    new "*Kiss goodbye*"
+    new "*قبلها قبلة الوداع*"
 
     # game/freeRoamingLabels.rpy:540
     old "Take care."
-    new "Take care."
+    new "إعتني بنفسك."
 
     # game/freeRoamingLabels.rpy:585
     old "Yea, I'm in."
-    new "Yea, I'm in."
+    new "نعم، سأساعدك."
 
     # game/freeRoamingLabels.rpy:585
     old "No, I don't want to get involved in this."
-    new "No, I don't want to get involved in this."
+    new "لا، لا أريد أن أتدخل في هذا."
 
     # game/freeRoamingLabels.rpy:598
     old "I need something to cheer gracie up with..."
-    new "I need something to cheer gracie up with..."
+    new "أريد شيئاً يفرح قرايسي..."
 
     # game/freeRoamingLabels.rpy:775
     old "And that made her hate you?"
-    new "And that made her hate you?"
+    new "ما الذي جعلها تكرهك؟"
 
     # game/freeRoamingLabels.rpy:775
     old "Who or what actually is The Mysterious Six?"
-    new "Who or what actually is The Mysterious Six?"
+    new "ماذا أو من هم المجهولون الستة؟"
 
     # game/freeRoamingLabels.rpy:775
     old "Do you hate her?"
-    new "Do you hate her?"
+    new "هل تكرهينها؟"
 
     # game/freeRoamingLabels.rpy:775
     old "*I should change subject*"
-    new "*I should change subject*"
+    new "*تغيير الموضوع*"
 
     # game/freeRoamingLabels.rpy:874
     old "*Stop tickling*"
-    new "*Stop tickling*"
+    new "*توقف عن الدغدغة*"
 
     # game/freeRoamingLabels.rpy:874
     old "*Go further*"
-    new "*Go further*"
+    new "*واصل الدغدغة*"
 
     # game/freeRoamingLabels.rpy:874
     old "{color=#ff235e}*Be more daring*{/color}"
-    new "{color=#ff235e}*Be more daring*{/color}"
+    new "{color=#ff235e}*كن جريئاً أكثر*{/color}"
 
     # game/freeRoamingLabels.rpy:898
     old "Maybe I led him on? No, he still shouldn't have done that!"
-    new "Maybe I led him on? No, he still shouldn't have done that!"
+    new "هل أساء فهمي؟ لا، بالحالتين لم يجب أن يفعل هذا!"
 
     # game/freeRoamingLabels.rpy:1044
     old "Was that really because of me...? I could feel it throbbing..."
-    new "Was that really because of me...? I could feel it throbbing..."
+    new "أكان هذا بسببي أنا..؟ لقد شعرت به وهو ينبض..."
 
     # game/freeRoamingLabels.rpy:1092
     old "Actually, I did it for you."
-    new "Actually, I did it for you."
+    new "بالواقع، لقد فعلتها لأجلكِ أنت"
 
     # game/freeRoamingLabels.rpy:1092
     old "I just wanted to help."
-    new "I just wanted to help."
+    new "أردت أن أساعد فقط."
 
     # game/freeRoamingLabels.rpy:1165
     old "Hugs!? That was so embarrassing..."
-    new "Hugs!? That was so embarrassing..."
+    new "حضن؟! كان هذا محرج جداً..."
 
     # game/freeRoamingLabels.rpy:1185
     old "I know the knife means a lot to you."
-    new "I know the knife means a lot to you."
+    new "علمت أن السكينة تعني الكثير بالنسبة لك."
 
     # game/freeRoamingLabels.rpy:1185
     old "I just like helping pretty girls."
-    new "I just like helping pretty girls."
+    new "أحب مساعدة الفتيات الجميلات لا أكثر"
 
     # game/freeRoamingLabels.rpy:1185
     old "No real reasons."
-    new "No real reasons."
+    new "بدون سبب..."
 
     # game/freeRoamingLabels.rpy:1234
     old "Relax, you are doing fine, Luna."
-    new "Relax, you are doing fine, Luna."
+    new "إسترخي يا لونا، إنك تبلين بلاء حسناً"
 
     # game/freeRoamingLabels.rpy:1234
     old "*Grope her butt*"
-    new "*Grope her butt*"
+    new "*إمسك مؤخرتها*"
 
     # game/freeRoamingLabels.rpy:1234
     old "{color=#ff235e}*Touch her butt*{/color}"
-    new "{color=#ff235e}*Touch her butt*{/color}"
+    new "{color=#ff235e}*إلمس مؤخرتها*{/color}"
 
     # game/freeRoamingLabels.rpy:1271
     old "I wanna hug again..."
-    new "I wanna hug again..."
+    new "أريد حضناً آخر..."
 
     # game/freeRoamingLabels.rpy:1346
     old "That was just like the others. I hope he is different."
-    new "That was just like the others. I hope he is different."
+    new "تصرف مثل الآخرين تماماً... آمل أنه مختلف."
 
     # game/freeRoamingLabels.rpy:1380
     old "Damn you Uncle..."
-    new "Damn you Uncle..."
+    new "تباً لك يا عمي..."
 
     # game/freeRoamingLabels.rpy:1425
     old "Hey, what're you doing?"
-    new "Hey, what're you doing?"
+    new "مرحباً، ماذا تفعلين؟"
 
     # game/freeRoamingLabels.rpy:1425
     old "Isn't that uncomfortable?"
-    new "Isn't that uncomfortable?"
+    new "ألا يبدو هذا غير مريحاً؟"
 
     # game/freeRoamingLabels.rpy:1425
     old "Nice ass."
-    new "Nice ass."
+    new "لديك مؤخرة جميلة"
 
     # game/freeRoamingLabels.rpy:1425
     old "Nice ass. "
-    new "Nice ass. "
+    new "لديك مؤخرة جميلة"
 
     # game/freeRoamingLabels.rpy:1425
     old "Can I watch?"
-    new "Can I watch?"
+    new "هل أستطيع المشاهدة؟"
 
     # game/freeRoamingLabels.rpy:1425
     old "*Leave*"
-    new "*Leave*"
+    new "*مغادرة*"
 
     # game/freeRoamingLabels.rpy:1506
     old "*Peek. (Stealth)*"
-    new "*Peek. (Stealth)*"
+    new "*تجسس (تخفي)*"
 
     # game/freeRoamingLabels.rpy:1506
     old "*Peek. (Stealth)* "
-    new "*Peek. (Stealth)* "
+    new "*تجسس (تخفي)*"
 
     # game/freeRoamingLabels.rpy:1542
     old "What's up?"
-    new "What's up?"
+    new "كيف حالك؟"
 
     # game/freeRoamingLabels.rpy:1542
     old "You're looking great today, Gracie."
-    new "You're looking great today, Gracie."
+    new "تبدين جميلة اليوم يا قرايسي."
 
     # game/freeRoamingLabels.rpy:1542
     old "I'm here to do what I promised."
-    new "I'm here to do what I promised."
+    new "جئت لأفعل ما وعدتك به"
 
     # game/freeRoamingLabels.rpy:1542
     old "What're you doing?"
-    new "What're you doing?"
+    new "ماذا تفعلين؟"
 
     # game/freeRoamingLabels.rpy:1542
     old "So, how did school go?"
-    new "So, how did school go?"
+    new "كيف كانت المدرسة؟"
 
     # game/freeRoamingLabels.rpy:1542
     old "Hey, how was your {i}friend trip{/i}?"
-    new "Hey, how was your {i}friend trip{/i}?"
+    new "كيف كانت {i}نزهتك{/i} مع {i}أصدقاءك{/i}"
 
     # game/freeRoamingLabels.rpy:1542
     old "Hey, how was the movie?"
-    new "Hey, how was the movie?"
+    new "إذاً، كيف كان الفلم؟"
 
     # game/freeRoamingLabels.rpy:1542
     old "Hey, about that movie I suggested you watch..."
-    new "Hey, about that movie I suggested you watch..."
+    new "إسمعي، بخصوص الفيلم الذي أقترحته لك..."
 
     # game/freeRoamingLabels.rpy:1611
     old "Tell me about your childhood."
-    new "Tell me about your childhood."
+    new "حدثيني عن طفولتك"
 
     # game/freeRoamingLabels.rpy:1611
     old "Are you and Lady Cordia close?"
-    new "Are you and Lady Cordia close?"
+    new "هل أنت والسيدة كورديا مقربتان؟"
 
     # game/freeRoamingLabels.rpy:1611
     old "Do you always try to learn everything from books?"
-    new "Do you always try to learn everything from books?"
+    new "هل تعاولين تعلم كل شيء من الكتب؟"
 
     # game/freeRoamingLabels.rpy:1611
     old "*Analyze*"
-    new "*Analyze*"
+    new "*تحليل الشخصية*"
 
     # game/freeRoamingLabels.rpy:1771
     old "My friend! Maybe I should reread that friendship book. But if he finds out, he would get angry. And perhaps he would not be my friend anymore? What do I do!?"
-    new "My friend! Maybe I should reread that friendship book. But if he finds out, he would get angry. And perhaps he would not be my friend anymore? What do I do!?"
+    new "صديقي! ربما علي أن أعيد قراءة ذاك الكتاب الذي يتحدث عن الصداقة. ولكنه لو عرف هذا سيغضب، من الممكن أن لا يرغب بأن يصبح صديقي حتى... ماذا علي أن أفعل؟!"
 
     # game/freeRoamingLabels.rpy:1812
     old "I love your pajamas."
-    new "I love your pajamas."
+    new "أعجبتني بيجامتك."
 
     # game/freeRoamingLabels.rpy:1812
     old "Do you want to hang out?"
-    new "Do you want to hang out?"
+    new "هل تريدين التسكع؟"
 
     # game/freeRoamingLabels.rpy:1812
     old "*Kiss good night*"
-    new "*Kiss good night*"
+    new "*قبلها قبلة ما قبل النوم*"
 
     # game/freeRoamingLabels.rpy:1812
     old "Ready to watch some movies?"
-    new "Ready to watch some movies?"
+    new "هل أنت جاهزة لمشاهدة الفيلم؟"
 
     # game/freeRoamingLabels.rpy:1812
     old "Goodnight."
-    new "Goodnight."
+    new "تصبحين على خير."
 
     # game/freeRoamingLabels.rpy:1961
     old "It felt different than I thought it would be..."
-    new "It felt different than I thought it would be..."
+    new "لم أتوقع أنها ستكون بهذا الشعور..."
 
     # game/freeRoamingLabels.rpy:2010
     old "Dancing?"
-    new "Dancing?"
+    new "أترقصين؟"
 
     # game/freeRoamingLabels.rpy:2010
     old "Need some help with your dancing?"
-    new "Need some help with your dancing?"
+    new "أتحتاجين مساعدة بالرقص؟"
 
     # game/freeRoamingLabels.rpy:2010
     old "I'm ready!"
-    new "I'm ready!"
+    new "أنا جاهز!"
 
     # game/freeRoamingLabels.rpy:2010
     old "Isn't it time to try out some new dances?"
-    new "Isn't it time to try out some new dances?"
+    new "هل حان وقت تعلم رقصات جديدة؟"
 
     # game/freeRoamingLabels.rpy:2010
     old "New clothes!"
-    new "New clothes!"
+    new "لقد وصلت الملابس!"
 
     # game/freeRoamingLabels.rpy:2217
     old "That was fun! I wonder what dance we should try next."
-    new "That was fun! I wonder what dance we should try next."
+    new "كان هذا ممتعاً! ماذا علينا أن نرقص بعدها؟"
 
     # game/freeRoamingLabels.rpy:2288
     old "Could I have something to eat?"
-    new "Could I have something to eat?"
+    new "هل أستطيع الحصول على شيء لأكله؟"
 
     # game/freeRoamingLabels.rpy:2288
     old "You look pretty today."
-    new "You look pretty today."
+    new "تبدين جميلة اليوم.
 
     # game/freeRoamingLabels.rpy:2329
     old "Do you need anything?"
-    new "Do you need anything?"
+    new "هل تحتاجين شيئاً؟"
 
     # game/freeRoamingLabels.rpy:2329
     old "Can you keep a secret?"
-    new "Can you keep a secret?"
+    new "أيمكنك أن تكتمي سؤاً؟"
 
     # game/freeRoamingLabels.rpy:2355
     old "Just wanted to see how you were doing."
-    new "Just wanted to see how you were doing."
+    new "أردت أن أطمئن عليك لا أكثر."
 
     # game/freeRoamingLabels.rpy:2355
     old "I got you the bottle of wine."
-    new "I got you the bottle of wine."
+    new "أحضرت زجاجة النبيذ."
 
     # game/freeRoamingLabels.rpy:2355
     old "I got you another bottle of wine."
-    new "I got you another bottle of wine."
+    new "أحضرت زجاجة نبيذ أخرى."
 
     # game/freeRoamingLabels.rpy:2355
     old "So, I thought I could maybe help you again?"
-    new "So, I thought I could maybe help you again?"
+    new "هل تحتاجين أن أساعدك مرة أخرى؟"
 
     # game/freeRoamingLabels.rpy:2355
     old "Get ready to be amazed."
-    new "Get ready to be amazed."
+    new "إستعدي للإنبهار."
 
     # game/freeRoamingLabels.rpy:2355
     old "Time for me to go to bed."
-    new "Time for me to go to bed."
+    new "علي أن أذهب للنوم."
 
     # game/freeRoamingLabels.rpy:2456
     old "You don't owe me anything, Isabel."
-    new "You don't owe me anything, Isabel."
+    new "لا تدينن لي بشيء يا إيزابيل."
 
     # game/freeRoamingLabels.rpy:2456
     old "It was $150."
-    new "It was $150."
+    new "كانت بـ150$"
 
     # game/freeRoamingLabels.rpy:2456
     old "It was $450."
-    new "It was $450."
+    new "كانت بـ450$"
 
     # game/freeRoamingLabels.rpy:2456
     old "It was $100.000."
-    new "It was $100.000."
+    new "كانت بـ100,000$"
 
     # game/freeRoamingLabels.rpy:2662
     old "...Anatolio...I'm sorry..."
-    new "...Anatolio...I'm sorry..."
+    new "أناطوليو... أنا آسفة..."
 
     # game/freeRoamingLabels.rpy:2788
     old "*Turn head*"
-    new "*Turn head*"
+    new "*لف رأسك*"
 
     # game/freeRoamingLabels.rpy:2788
     old "*Stop it*"
-    new "*Stop it*"
+    new "*توقف*"
 
     # game/freeRoamingLabels.rpy:2805
     old "{color=#ff235e}*Use tongue*{/color}"
-    new "{color=#ff235e}*Use tongue*{/color}"
+    new "{color=#ff235e}*إستخدم لسانك*{/color}"
 
     # game/freeRoamingLabels.rpy:2867
     old "Maybe I've taken this teasing a bit too far..."
-    new "Maybe I've taken this teasing a bit too far..."
+    new "ربما قد تماديت بالموضوع قليلاً..."
 
     # game/freeRoamingLabels.rpy:2915
     old "That was close... Maybe I should stop teasing him so much..."
-    new "That was close... Maybe I should stop teasing him so much..."
+    new "كان هذا وشيكاً... علي التوقف عن هذا..."
 
     # game/freeRoamingLabels.rpy:2998
     old "{i}*Chuckle*{/i} He is so cute."
-    new "{i}*Chuckle*{/i} He is so cute."
+    new "أووه، إنه لطيف جداً."
 
     # game/freeRoamingLabels.rpy:3185
     old "Talk"
-    new "Talk"
+    new "محادثة"
 
     # game/freeRoamingLabels.rpy:3185
     old "{color=#d8d2b8}Work{/color}"
-    new "{color=#d8d2b8}Work{/color}"
+    new "{color=#d8d2b8}عمل{/color}"
 
     # game/freeRoamingLabels.rpy:3188
     old "Tell me a little about yourself."
-    new "Tell me a little about yourself."
+    new "حدثني عن نفسك قليلاً."
 
     # game/freeRoamingLabels.rpy:3188
     old "Tell me about this town."
-    new "Tell me about this town."
+    new "حدثني عن هذه المدينة."
 
     # game/freeRoamingLabels.rpy:3188
     old "Consigliere?"
-    new "Consigliere?"
+    new "مستشار؟؟"
 
     # game/freeRoamingLabels.rpy:3188
     old "Why do people here call you Uncle?"
-    new "Why do people here call you Uncle?"
+    new "لمَ ينادونك الناس بعمي؟"
 
     # game/freeRoamingLabels.rpy:3188
     old "Contracts."
-    new "Contracts."
+    new "العقود."
 
     # game/freeRoamingLabels.rpy:3188
     old "Wilfred, I got nothing out of the search."
-    new "Wilfred, I got nothing out of the search."
+    new "لم أستفد شيئاً من البحث."
 
     # game/freeRoamingLabels.rpy:3188
     old "Do you know where Luna's knife is?"
-    new "Do you know where Luna's knife is?"
+    new "أتعلم أين سكينة لونا؟"
 
     # game/freeRoamingLabels.rpy:3188
     old "I need some wine."
-    new "I need some wine."
+    new "أحتاج إلى بعض النبيذ."
 
     # game/freeRoamingLabels.rpy:3188
     old "You wanted to speak with me?"
-    new "You wanted to speak with me?"
+    new "أردت التحدث معي سابقاً."
 
     # game/freeRoamingLabels.rpy:3188
     old "About the situation with the Bonans..."
-    new "About the situation with the Bonans..."
+    new "بخصوص ما حصل مع آل بونان"
 
     # game/freeRoamingLabels.rpy:3188
     old "That is all."
-    new "That is all."
+    new "هذا كل شيء."
 
     # game/freeRoamingLabels.rpy:3323
     old "I need Luna's trust. I accept."
-    new "I need Luna's trust. I accept."
+    new "أحتاج إلى ثقة لونا، أنا موافق."
 
     # game/freeRoamingLabels.rpy:3323
     old "No, I don't want to owe anyone."
-    new "No, I don't want to owe anyone."
+    new "لا، لا أريد أن أدين لأحد بشيء."
 
     # game/freeRoamingLabels.rpy:3556
     old "None of your business!"
-    new "None of your business!"
+    new "هذا لا يخصك!"
 
     # game/freeRoamingLabels.rpy:3556
     old "I am [povname] of the DeLuca Family."
-    new "I am [povname] of the DeLuca Family."
+    new "أنا [povname] من عائلة ديلوكا."
 
     # game/freeRoamingLabels.rpy:3556
     old "The tooth fairy."
-    new "The tooth fairy."
+    new "جنية الأسنان."
 
     # game/freeRoamingLabels.rpy:3701
     old "He deserved to be shot."
-    new "He deserved to be shot."
+    new "لقد استحق هذا."
 
     # game/freeRoamingLabels.rpy:3701
     old "He didn't deserve to be shot."
-    new "He didn't deserve to be shot."
+    new "لم يستحق هذا."
 
