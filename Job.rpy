@@ -22,13 +22,13 @@ translate arabic theft1_30ae5cd6:
 translate arabic theft1_6d9b2e95:
 
     # "You got [expEarned] exp."
-    "نقطة خبرة [expEarned] لقد حصلت على "
+    "لقد حصلت على [expEarned] نقطة خبرة "
 
 # game/Job.rpy:51
 translate arabic theft1_afe8828f:
 
     # "You earned $[moneyEarned]."
-    "$[moneyEarned] لقد حصلت على "
+    "لقد حصلت على [moneyEarned]$"
 
 # game/Job.rpy:56
 translate arabic theft1_d6f2d19b:
@@ -40,7 +40,7 @@ translate arabic theft1_d6f2d19b:
 translate arabic theft1_afe8828f_1:
 
     # "You earned $[moneyEarned]."
-    "$[moneyEarned] لقد حصلت على "
+    "لقد حصلت على [moneyEarned]$"
 
 # game/Job.rpy:68
 translate arabic shadow1_1b47ed11:
@@ -70,13 +70,13 @@ translate arabic shadow1_30ae5cd6:
 translate arabic shadow1_6d9b2e95:
 
     # "You got [expEarned] exp."
-    "نقطة خبرة [expEarned] لقد حصلت على "
+    "لقد حصلت على [expEarned] نقطة خبرة "
 
 # game/Job.rpy:93
 translate arabic shadow1_afe8828f:
 
     # "You earned $[moneyEarned]."
-    "$[moneyEarned] لقد حصلت على "
+    "لقد حصلت على [moneyEarned]$"
 
 # game/Job.rpy:98
 translate arabic shadow1_d6f2d19b:
@@ -88,7 +88,7 @@ translate arabic shadow1_d6f2d19b:
 translate arabic shadow1_afe8828f_1:
 
     # "You earned $[moneyEarned]."
-    "$[moneyEarned] لقد حصلت على "
+    "لقد حصلت على [moneyEarned]$"
 
 # game/Job.rpy:110
 translate arabic politician1_eaaabb2c:
@@ -112,13 +112,13 @@ translate arabic politician1_30ae5cd6:
 translate arabic politician1_6d9b2e95:
 
     # "You got [expEarned] exp."
-    "نقطة خبرة [expEarned] لقد حصلت على "
+    "لقد حصلت على [expEarned] نقطة خبرة "
 
 # game/Job.rpy:132
 translate arabic politician1_afe8828f:
 
     # "You earned $[moneyEarned]."
-    "$[moneyEarned] لقد حصلت على "
+    "لقد حصلت على [moneyEarned]$"
 
 # game/Job.rpy:137
 translate arabic politician1_d6f2d19b:
@@ -130,7 +130,7 @@ translate arabic politician1_d6f2d19b:
 translate arabic politician1_afe8828f_1:
 
     # "You earned $[moneyEarned]."
-    "$[moneyEarned] لقد حصلت على "
+    "لقد حصلت على [moneyEarned]$"
 
 # game/Job.rpy:151
 translate arabic guarding1_eaaabb2c:
@@ -154,13 +154,13 @@ translate arabic guarding1_30ae5cd6:
 translate arabic guarding1_6d9b2e95:
 
     # "You got [expEarned] exp."
-    "نقطة خبرة [expEarned] لقد حصلت على "
+    "لقد حصلت على [expEarned] نقطة خبرة "
 
 # game/Job.rpy:171
 translate arabic guarding1_afe8828f:
 
     # "You earned $[moneyEarned]."
-    "$[moneyEarned] لقد حصلت على "
+    "لقد حصلت على [moneyEarned]$"
 
 # game/Job.rpy:176
 translate arabic guarding1_d6f2d19b:
@@ -172,7 +172,7 @@ translate arabic guarding1_d6f2d19b:
 translate arabic guarding1_afe8828f_1:
 
     # "You earned $[moneyEarned]."
-    "$[moneyEarned] لقد حصلت على "
+    "لقد حصلت على [moneyEarned]$"
 
 # game/Job.rpy:188
 translate arabic guarding2_eaaabb2c:
@@ -196,13 +196,13 @@ translate arabic guarding2_30ae5cd6:
 translate arabic guarding2_6d9b2e95:
 
     # "You got [expEarned] exp."
-    "نقطة خبرة [expEarned] لقد حصلت على "
+    "لقد حصلت على [expEarned] نقطة خبرة "
 
 # game/Job.rpy:210
 translate arabic guarding2_afe8828f:
 
     # "You earned $[moneyEarned]."
-    "$[moneyEarned] لقد حصلت على "
+    "لقد حصلت على [moneyEarned]$"
 
 # game/Job.rpy:215
 translate arabic guarding2_d6f2d19b:
@@ -214,7 +214,7 @@ translate arabic guarding2_d6f2d19b:
 translate arabic guarding2_afe8828f_1:
 
     # "You earned $[moneyEarned]."
-    "$[moneyEarned] لقد حصلت على "
+    "لقد حصلت على [moneyEarned]$"
 
 # game/Job.rpy:230
 translate arabic attack1_eaaabb2c:
@@ -238,13 +238,13 @@ translate arabic attack1_30ae5cd6:
 translate arabic attack1_6d9b2e95:
 
     # "You got [expEarned] exp."
-    "نقطة خبرة [expEarned] لقد حصلت على "
+    "لقد حصلت على [expEarned] نقطة خبرة "
 
 # game/Job.rpy:250
 translate arabic attack1_afe8828f:
 
     # "You earned $[moneyEarned]."
-    "$[moneyEarned] لقد حصلت على "
+    "لقد حصلت على [moneyEarned]$"
 
 # game/Job.rpy:255
 translate arabic attack1_d6f2d19b:
@@ -256,13 +256,13 @@ translate arabic attack1_d6f2d19b:
 translate arabic attack1_afe8828f_1:
 
     # "You earned $[moneyEarned]."
-    "$[moneyEarned] لقد حصلت على "
+    "لقد حصلت على [moneyEarned]$"
 
 # game/Job.rpy:261
 translate arabic attack1_afe8828f_2:
 
     # "You earned $[moneyEarned]."
-    "$[moneyEarned] لقد حصلت على "
+    "لقد حصلت على [moneyEarned]$"
 
 # game/Job.rpy:270
 translate arabic attack2_eaaabb2c:
@@ -286,13 +286,13 @@ translate arabic attack2_30ae5cd6:
 translate arabic attack2_6d9b2e95:
 
     # "You got [expEarned] exp."
-    "نقطة خبرة [expEarned] لقد حصلت على "
+    "لقد حصلت على [expEarned] نقطة خبرة "
 
 # game/Job.rpy:292
 translate arabic attack2_afe8828f:
 
     # "You earned $[moneyEarned]."
-    "$[moneyEarned] لقد حصلت على "
+    "لقد حصلت على [moneyEarned]$"
 
 # game/Job.rpy:297
 translate arabic attack2_d6f2d19b:
@@ -304,7 +304,7 @@ translate arabic attack2_d6f2d19b:
 translate arabic attack2_afe8828f_1:
 
     # "You earned $[moneyEarned]."
-    "$[moneyEarned] لقد حصلت على "
+    "لقد حصلت على [moneyEarned]$"
 
 # game/Job.rpy:308
 translate arabic acoAtk1_1b47ed11:
@@ -334,13 +334,13 @@ translate arabic acoAtk1_30ae5cd6:
 translate arabic acoAtk1_6d9b2e95:
 
     # "You got [expEarned] exp."
-    "نقطة خبرة [expEarned] لقد حصلت على "
+    "لقد حصلت على [expEarned] نقطة خبرة "
 
 # game/Job.rpy:333
 translate arabic acoAtk1_afe8828f:
 
     # "You earned $[moneyEarned]."
-    "$[moneyEarned] لقد حصلت على "
+    "لقد حصلت على [moneyEarned]$"
 
 # game/Job.rpy:338
 translate arabic acoAtk1_d6f2d19b:
@@ -352,7 +352,7 @@ translate arabic acoAtk1_d6f2d19b:
 translate arabic acoAtk1_afe8828f_1:
 
     # "You earned $[moneyEarned]."
-    "$[moneyEarned] لقد حصلت على "
+    "لقد حصلت على [moneyEarned]$"
 
 # game/Job.rpy:353
 translate arabic WineSteal1_1b47ed11:
@@ -382,13 +382,13 @@ translate arabic WineSteal1_d7a90080:
 translate arabic WineSteal1_6d9b2e95:
 
     # "You got [expEarned] exp."
-    "نقطة خبرة [expEarned] لقد حصلت على "
+    "لقد حصلت على [expEarned] نقطة خبرة "
 
 # game/Job.rpy:371
 translate arabic WineSteal1_afe8828f:
 
     # "You earned $[moneyEarned]."
-    "$[moneyEarned] لقد حصلت على "
+    "لقد حصلت على [moneyEarned]$"
 
 # game/Job.rpy:377
 translate arabic WineSteal1_51261b1b:
