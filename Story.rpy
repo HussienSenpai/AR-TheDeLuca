@@ -1510,7 +1510,7 @@ translate arabic story2_cameras_5ef0deec:
 translate arabic story2_cameras_578d6007:
 
     # "I should get to it..."
-    "علي أن أبدأ بالأمر..."
+    "علي أن أبدأ..."
 
 # game/Story.rpy:377
 translate arabic story2_cameras_83f70252:
@@ -1564,13 +1564,13 @@ translate arabic story2_cameras_24831d42:
 translate arabic story2_cameras_ec1b6391:
 
     # "Okay... All the rooms have been rigged and it should be up and running now."
-    "حسناً، لقد ركبتهم في كل العرف، كل شيء يعمل الآن."
+    "حسناً، لقد ركبتهم في كل الغرف، كل شيء يعمل الآن."
 
 # game/Story.rpy:398
 translate arabic story2_cameras_211c4bc0:
 
     # "Hopefully, they are hidden well enough..."
-    "آمل بأني وضعتهم في مكان غير ملجوظ..."
+    "آمل بأني وضعتهم في مكان غير واضح..."
 
 # game/Story.rpy:399
 translate arabic story2_cameras_d3002586:
@@ -1588,7 +1588,7 @@ translate arabic story2_cameras_50d355c2:
 translate arabic story2_cameras_ba714e53:
 
     # "Now, let's get the hell out of-"
-    "حسناً، فلأخرج من هن {nw}"
+    "-حسناً، فلأخرج من هنـ {nw}"
 
 # game/Story.rpy:404
 translate arabic story2_cameras_a56c6fc3:
@@ -1834,7 +1834,7 @@ translate arabic story2_cameras_c3ca3180:
 translate arabic story2_cameras_76e3a83f:
 
     # lu "If I wanted you dead, you think I would use something as boring as poison? I would've sliced you up the moment I saw you at the front door."
-    lu "لو إني فعلاً أردت قتلك، أتظن أني سأستخدم سماً؟ كنت سأقتلك عندما رأيتك لأول مرة أمام عتبة النزل."
+    lu "لو إني فعلاً أردت قتلك، أتظن أني سأستخدم سماً؟ كنت سأقتلك عندما رأيتك لأول مرة أمام عتبة المنزل."
 
 # game/Story.rpy:459
 translate arabic story2_cameras_654bf844:
@@ -1954,7 +1954,7 @@ translate arabic story2_cameras_736a85ec:
 translate arabic story2_cameras_aa1a97dc:
 
     # lu "Spur of the moment... While someone holds a knife to your throat?"
-    lu "زل لسانك وهناك من يضع سكينة على حلقك؟"
+    lu "زل لسانك وهناك من يحمل سكينة لقتلك؟"
 
 # game/Story.rpy:484
 translate arabic story2_cameras_ac245ee0:
@@ -2008,7 +2008,7 @@ translate arabic story2_cameras_63985ac8:
 translate arabic story2_cameras_cc5b6823:
 
     # "Well, that went better than expected..."
-    "كان هذا أخف مما توقعته..."
+    "لم يجري الأمر بالسوء الذي توقعته..."
 
 # game/Story.rpy:496
 translate arabic story2_cameras_7c875340:
