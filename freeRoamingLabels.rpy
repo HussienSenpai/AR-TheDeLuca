@@ -1234,7 +1234,7 @@ translate arabic ludaily1_3e30dd69:
 translate arabic ludaily1_e1dfbea3:
 
     # lu "Now she won't even talk to me, so I can't even find out what brand it is! She didn't even give back the jeans she didn't want to begin with, so now I can't refund them either!"
-    lu "البكاءة لم ترغب به حتى، قالت أنها شركة مختلفة! المشكلة أني لا أستطيع ان أعرف ما هي شركة بنطالها ولا أستطيع أن أسترجع البنطال حتى..."
+    lu "البكاءة لم ترغب به حتى، قالت أنها شركة مختلفة! المشكلة أني لا أستطيع أن أعرف شركة بنطالها ولا أستطيع أن أسترجع البنطال حتى..."
 
 # game/freeRoamingLabels.rpy:578
 translate arabic ludaily1_8dfeaf7c:
@@ -1246,7 +1246,7 @@ translate arabic ludaily1_8dfeaf7c:
 translate arabic ludaily1_7b999db2:
 
     # lu "Sneak into her room when she's not around, go to her couch where the jeans are, look at the jeans, figure out what brand it is, and buy a new ones."
-    lu "ستتسلل إلى غرفتها عندما تكون بالخارج، ستجد البنطار على الكنبة، إعرف من أي شركة هو واشتري واحداً جديداً"
+    lu "ستتسلل إلى غرفتها عندما تكون بالخارج، ستجد البنطال على الكنبة، إعرف من أي شركة هو واشتري واحداً جديداً"
 
 # game/freeRoamingLabels.rpy:580
 translate arabic ludaily1_615b1255:
@@ -3454,7 +3454,7 @@ translate arabic lunaQoutsidetalk_a9457a79:
 translate arabic lunaQoutsidetalk_2ea30577:
 
     # lu "Don't tell me you've got a small crush on my cute little sister."
-    lu "لا تقل لي بأن أختي الصغيرة تعجبك."
+    lu "لا تقل لي بأنك معجب بأختي الصغيرة ."
 
 # game/freeRoamingLabels.rpy:1095
 translate arabic lunaQoutsidetalk_7e0fd9e2_1:
@@ -3496,7 +3496,7 @@ translate arabic lunaQoutsidetalk_cdeb8001:
 translate arabic lunaQoutsidetalk_fac28cd8:
 
     # lu "Well, yes I'm more happy with this one... But I still don't understand why?"
-    lu "هذا صحيح، أنا أسعد بهذا... ولكن ما زلت لا أفهم."
+    lu "هذا صحيح، أنا سعيدة أكثر بهذا... ولكن ما زلت لا أفهم."
 
 # game/freeRoamingLabels.rpy:1102
 translate arabic lunaQoutsidetalk_6c76d378:
@@ -3760,7 +3760,7 @@ translate arabic lunaQoutsidetalk_7ec37edb:
 translate arabic lunaQoutsidetalk_67363154:
 
     # "She seems shaken... By a hug?"
-    "تبدة مرتعبة... من حضن؟"
+    "تبدو مرتعبة... من حضن؟"
 
 # game/freeRoamingLabels.rpy:1162
 translate arabic lunaQoutsidetalk_6cc04d7c:
@@ -4234,25 +4234,25 @@ translate arabic lunaDaily1Menu_3c7fa8be:
 translate arabic lunaDaily1Menu_b8d74763:
 
     # pov "Just so you know, we're going to keep on hugging until you become a 'hugging master'."
-    pov "Just so you know, we're going to keep on hugging until you become a 'hugging master'."
+    pov "لعلمك فقط، سأقوم بحضنك دائماً حتى تصبحي 'معلمة الأحضان'"
 
 # game/freeRoamingLabels.rpy:1354
 translate arabic lunaDaily1Menu_9d37384f:
 
     # lu "Haha, there is no such thing as a hugging master!"
-    lu "Haha, there is no such thing as a hugging master!"
+    lu "هههههههههه، لا يوجد شيء اسمه معلم الأحضان! "
 
 # game/freeRoamingLabels.rpy:1355
 translate arabic lunaDaily1Menu_185ea432:
 
     # pov "Even better, you'll be the first one. People will line up to get a hug from the 'grandmaster'."
-    pov "Even better, you'll be the first one. People will line up to get a hug from the 'grandmaster'."
+    pov "هذا أفضل، ستصبحي معلمة الأحضان الأولى. سيأتي الناس من كل مكان لحضن المعلمة الأكبر."
 
 # game/freeRoamingLabels.rpy:1356
 translate arabic lunaDaily1Menu_fa30b148:
 
     # lu "Hahaha, the grandmaster now?"
-    lu "Hahaha, the grandmaster now?"
+    lu "هههههههههه.. المعلمة الأكبر؟"
 
 # game/freeRoamingLabels.rpy:1357
 translate arabic lunaDaily1Menu_717a1e60:
@@ -12694,7 +12694,7 @@ translate arabic Wilfred_537aadc0:
 translate arabic Wilfred_4c62c5cb:
 
     # wf "Talk to me after you have made your decisions, and I will handle the rest."
-    wf "قلي ما ستختار وسأتعامل أنا مع الباقي."
+    wf "قلي ما تريد وسأتعامل أنا مع الباقي."
 
 translate arabic strings:
 
@@ -13172,7 +13172,7 @@ translate arabic strings:
 
     # game/freeRoamingLabels.rpy:2288
     old "You look pretty today."
-    new "تبدين جميلة اليوم.
+    new "تبدين جميلة اليوم."
 
     # game/freeRoamingLabels.rpy:2329
     old "Do you need anything?"
