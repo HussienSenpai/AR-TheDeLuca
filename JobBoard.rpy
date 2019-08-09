@@ -32,7 +32,7 @@ translate arabic strings:
 
     # game/JobBoard.rpy:107
     old "Combat Contracts"
-    new "عقود القتاب"
+    new "عقود القتال"
 
     # game/JobBoard.rpy:112
     old "Guard Contracts"
@@ -44,7 +44,7 @@ translate arabic strings:
 
     # game/JobBoard.rpy:139
     old "{b}1. Theft: Nimble Fingers{/b}"
-    new "{b}سرقة: الأصابع الرشيقة {/b}1. "
+    new "{b}سرقة: خفة اليد {/b}1. "
 
     # game/JobBoard.rpy:143
     old "{b}2. Shadow: The Snooping Bonans{/b}"
@@ -108,7 +108,7 @@ translate arabic strings:
     
     # game/JobBoard.rpy:283
     old "Difficulty = {color=#7bd186}E-rank{/color}"
-    new "{color=#7bd186}مستوى 1{/color} الصعوبة: "
+    new "{color=#7bd186}مستوى E{/color} الصعوبة: "
     # game/JobBoard.rpy:284
     old "Time rqmts = {color=#f7f6ef}None{/color}"
     new "{color=#f7f6ef}لا يوجد وقت محدد للمهمة{/color}"
@@ -162,7 +162,7 @@ translate arabic strings:
     new "{color=#f7f6ef}سياسي جديد قد وصل للتو إلى لوكانيا. نريد معرفة إن كان من اصحاب المشاكل أم لا. مهمتك ستكون جمع اكبر قدر من المعلومات عنه. لا تدعه يكتشفك. الحذر سيكون من اقصى اولوياتك!  \n\n- Wilfred {/color}"
     # game/JobBoard.rpy:388
     old "Difficulty = {color=#7bd186}D-rank{/color}"
-    new " {color=#7bd186}مستوى 2 {/color} الصعوبة: "
+    new " {color=#7bd186}مستوى D {/color} الصعوبة: "
 
     # game/JobBoard.rpy:396
     old "Money = {color=#f7f6ef}$100-$150{/color}"
