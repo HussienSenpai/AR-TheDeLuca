@@ -76,7 +76,7 @@ translate arabic levelUp_cb954010:
 translate arabic levelUp_0637d596:
 
     # "You are now rank [pc.level]."
-    "[pc.level] لقد وصلت إلى رتبة: "
+    "لقد إرتفعت إلى المستوى [pc.level]"
 
 # game/script.rpy:397
 translate arabic levelUp_cb954010_1:
@@ -88,7 +88,7 @@ translate arabic levelUp_cb954010_1:
 translate arabic levelUp_0637d596_1:
 
     # "You are now rank [pc.level]."
-    "[pc.level] لقد وصلت إلى رتبة: "
+    "لقد إرتفعت إلى المستوى [pc.level]"
 
 # game/script.rpy:403
 translate arabic levelUp_cb954010_2:
@@ -100,7 +100,7 @@ translate arabic levelUp_cb954010_2:
 translate arabic levelUp_0637d596_2:
 
     # "You are now rank [pc.level]."
-    "[pc.level] لقد وصلت إلى رتبة: "
+    "لقد إرتفعت إلى المستوى [pc.level]"
 
 # game/script.rpy:408
 translate arabic levelUp_cb954010_3:
@@ -112,13 +112,13 @@ translate arabic levelUp_cb954010_3:
 translate arabic levelUp_0637d596_3:
 
     # "You are now rank [pc.level]."
-    "[pc.level] لقد وصلت إلى رتبة: "
+    "لقد إرتفعت إلى المستوى [pc.level]"
 
 # game/script.rpy:410
 translate arabic levelUp_8e13d288:
 
     # "Your title is now ({color=#d4e1f7}{b}[pc.rank_name]{/b}{/color})."
-    "({color=#d4e1f7}{b}[pc.rank_name]{/b}{/color}) مسمى رتبتك الجديد: "
+    "مسمى رتبتك الجديد: ({color=#d4e1f7}{b}[pc.rank_name]{/b}{/color})"
 
 # game/script.rpy:411
 translate arabic levelUp_559fc020:
@@ -136,7 +136,7 @@ translate arabic levelUp_cb954010_4:
 translate arabic levelUp_0637d596_4:
 
     # "You are now rank [pc.level]."
-    "[pc.level] لقد وصلت إلى رتبة: "
+    "لقد إرتفعت إلى المستوى [pc.level]"
 
 # game/script.rpy:422
 translate arabic levelUp_cb954010_5:
@@ -148,7 +148,7 @@ translate arabic levelUp_cb954010_5:
 translate arabic levelUp_0637d596_5:
 
     # "You are now rank [pc.level]."
-    "[pc.level] لقد وصلت إلى رتبة: "
+    "لقد إرتفعت إلى المستوى [pc.level]"
 
 # game/script.rpy:427
 translate arabic levelUp_cb954010_6:
@@ -160,7 +160,7 @@ translate arabic levelUp_cb954010_6:
 translate arabic levelUp_0637d596_6:
 
     # "You are now rank [pc.level]."
-    "[pc.level] لقد وصلت إلى رتبة: "
+    "لقد إرتفعت إلى المستوى [pc.level]"
 
 # game/script.rpy:431
 translate arabic levelUp_cb954010_7:
@@ -172,7 +172,7 @@ translate arabic levelUp_cb954010_7:
 translate arabic levelUp_0637d596_7:
 
     # "You are now rank [pc.level]."
-    "[pc.level] لقد وصلت إلى رتبة: "
+    "لقد إرتفعت إلى المستوى [pc.level]"
 
 # game/script.rpy:435
 translate arabic levelUp_cb954010_8:
@@ -184,7 +184,7 @@ translate arabic levelUp_cb954010_8:
 translate arabic levelUp_0637d596_8:
 
     # "You are now rank [pc.level]."
-    "[pc.level] لقد وصلت إلى رتبة: "
+    "لقد إرتفعت إلى المستوى [pc.level]"
 
 # game/script.rpy:439
 translate arabic levelUp_cb954010_9:
@@ -196,7 +196,7 @@ translate arabic levelUp_cb954010_9:
 translate arabic levelUp_0637d596_9:
 
     # "You are now rank [pc.level]."
-    "[pc.level] لقد وصلت إلى رتبة: "
+    "لقد إرتفعت إلى المستوى [pc.level]"
 
 # game/script.rpy:443
 translate arabic levelUp_cb954010_10:
@@ -208,7 +208,7 @@ translate arabic levelUp_cb954010_10:
 translate arabic levelUp_0637d596_10:
 
     # "You are now rank [pc.level]."
-    "[pc.level] لقد وصلت إلى رتبة: "
+    "لقد إرتفعت إلى المستوى [pc.level]"
 
 # game/script.rpy:447
 translate arabic levelUp_cb954010_11:
@@ -220,7 +220,7 @@ translate arabic levelUp_cb954010_11:
 translate arabic levelUp_0637d596_11:
 
     # "You are now rank [pc.level]."
-    "[pc.level] لقد وصلت إلى رتبة: "
+    "لقد إرتفعت إلى المستوى [pc.level]"
 
 # game/script.rpy:451
 translate arabic levelUp_cb954010_12:
@@ -232,7 +232,7 @@ translate arabic levelUp_cb954010_12:
 translate arabic levelUp_0637d596_12:
 
     # "You are now rank [pc.level]."
-    "[pc.level] لقد وصلت إلى رتبة: "
+    "لقد إرتفعت إلى المستوى [pc.level]"
 
 # game/script.rpy:455
 translate arabic levelUp_cb954010_13:
@@ -244,13 +244,13 @@ translate arabic levelUp_cb954010_13:
 translate arabic levelUp_0637d596_13:
 
     # "You are now rank [pc.level]."
-    "[pc.level] لقد وصلت إلى رتبة: "
+    "لقد إرتفعت إلى المستوى [pc.level]"
 
 # game/script.rpy:457
 translate arabic levelUp_8e13d288_1:
 
     # "Your title is now ({color=#d4e1f7}{b}[pc.rank_name]{/b}{/color})."
-    "({color=#d4e1f7}{b}[pc.rank_name]{/b}{/color}) مسمى رتبتك الجديد: "
+    "مسمى رتبتك الجديد: ({color=#d4e1f7}{b}[pc.rank_name]{/b}{/color})"
 
 # game/script.rpy:458
 translate arabic levelUp_559fc020_1:
@@ -268,7 +268,7 @@ translate arabic levelUp_cb954010_14:
 translate arabic levelUp_0637d596_14:
 
     # "You are now rank [pc.level]."
-    "[pc.level] لقد وصلت إلى رتبة: "
+    "لقد إرتفعت إلى المستوى [pc.level]"
 
 # game/script.rpy:471
 translate arabic end_0ae9bcd0:
