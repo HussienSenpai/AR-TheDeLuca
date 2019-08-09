@@ -502,7 +502,7 @@ translate arabic bathBoom_556c1b85:
 translate arabic bathBoom_9483487c:
 
     # wf "So, [povname]. I was ordered to give you some instructions."
-    wf "لذا يا [povname]، فقد طلب مني أن أعطيك بعض التعليمات."
+    wf "لذا يا [povname]، فقد طلبت مني أن أعطيك بعض التعليمات."
 
 # game/sideEvents.rpy:123
 translate arabic bathBoom_96ca26ce:
@@ -700,67 +700,67 @@ translate arabic questContractRead_a2aae9b5:
 translate arabic questContractRead_eff15a99:
 
     # "So finally done!"
-    "So finally done!"
+    "إنتهيت من هذا أخيراً!"
 
 # game/sideEvents.rpy:181
 translate arabic questContractRead_ed8215a9:
 
     # "And I can say with confidence...{w} That it's all bullshit!{w=0}"
-    "And I can say with confidence...{w} That it's all bullshit!{w=0}"
+    "وأستطيع أن أقول هذا بكل ثقة... كان هذا مليئاً بالهراء!"
 
 # game/sideEvents.rpy:182
 translate arabic questContractRead_3b901d43:
 
     # "There is nothing here that even remotely explains anything about how the mafia contracts works."
-    "There is nothing here that even remotely explains anything about how the mafia contracts works."
+    "لا يوجد أي شيء له علاقة بكيفية عقود المافيا هنا..."
 
 # game/sideEvents.rpy:183
 translate arabic questContractRead_c8df372e:
 
     # "Why would Wilfred tell me to search it up?"
-    "Why would Wilfred tell me to search it up?"
+    "لمَ قد يقول لي ويلفريد بأن أقرأ هذا؟"
 
 # game/sideEvents.rpy:184
 translate arabic questContractRead_862b36a3:
 
     # "I should talk to him tomorrow."
-    "I should talk to him tomorrow."
+    "علي أن أتحدث معه غداً."
 
 # game/sideEvents.rpy:190
 translate arabic balletGuide_db586de6:
 
     # "Time for some reading..."
-    "Time for some reading..."
+    "حان وقت القراءة..."
 
 # game/sideEvents.rpy:197
 translate arabic balletGuide_8a9c60af:
 
     # "Hmm... Dancing on your toes..."
-    "Hmm... Dancing on your toes..."
+    "هممم... الرقص على أطراف الأصابع..." 
 
 # game/sideEvents.rpy:198
 translate arabic balletGuide_02fceb97:
 
     # "Seems painful. Do the males have to do that too?"
-    "Seems painful. Do the males have to do that too?"
+    "يبدو هذا مؤلماً، هل على الرجال أن يفعلوا هذا أيضاً؟"
 
 # game/sideEvents.rpy:199
 translate arabic balletGuide_014509c9:
 
     # "'Arabesque' - A position on one leg with the other in the air."
-    "'Arabesque' - A position on one leg with the other in the air."
+    "الآرابيسك..؟ وضعية برجل واحد على الأرض ورجل واحدة في الهواء."
 
 # game/sideEvents.rpy:200
 translate arabic balletGuide_e9874cbb:
 
     # "Sounds painful."
-    "Sounds painful."
+    "تبدو مؤلمةً كذلك..."
 
 # game/sideEvents.rpy:201
 translate arabic balletGuide_0414415f:
 
     # "But I wouldn't mind if Gracie did that one."
-    "But I wouldn't mind if Gracie did that one."
+    "ولكني لن أمانع لو قامت بها قرايسي."
 
 # game/sideEvents.rpy:202
 translate arabic balletGuide_a20cefa7:
@@ -772,25 +772,25 @@ translate arabic balletGuide_a20cefa7:
 translate arabic balletGuide_7b8810e0:
 
     # "Too many foreign words!"
-    "Too many foreign words!"
+    "إن المقالة مليئة بالكلمات الأجنبية!"
 
 # game/sideEvents.rpy:204
 translate arabic balletGuide_9fbf4e65:
 
     # "Should read the rest tomorrow."
-    "Should read the rest tomorrow."
+    "سأكمل الباقي غداً."
 
 # game/sideEvents.rpy:207
 translate arabic balletGuide_8da04012:
 
     # "DONE!"
-    "DONE!"
+    "إنتهيت!"
 
 # game/sideEvents.rpy:208
 translate arabic balletGuide_ce86d43c:
 
     # "Should know the foundation of ballet now."
-    "Should know the foundation of ballet now."
+    "حسناً، لقد أتممت دراسة الأساسيات..."
 
 # game/sideEvents.rpy:209
 translate arabic balletGuide_a20cefa7_1:
@@ -802,13 +802,13 @@ translate arabic balletGuide_a20cefa7_1:
 translate arabic balletGuide_662445c1:
 
     # "But I only know about it... Doesn't mean I know how to yet."
-    "But I only know about it... Doesn't mean I know how to yet."
+    "ولكن هذا لا يعني بأني أستطيع الرقص بعد."
 
 # game/sideEvents.rpy:211
 translate arabic balletGuide_38db0950:
 
     # "No, Gracie told me I just needed to know the basic. We practise together on the rest."
-    "No, Gracie told me I just needed to know the basic. We practise together on the rest."
+    "كلا، قرايسي قالت بأني أحتاج تعلم الأساسيات فقط. التدريب سيبدأ غداً"
 
 # game/sideEvents.rpy:212
 translate arabic balletGuide_a20cefa7_2:
