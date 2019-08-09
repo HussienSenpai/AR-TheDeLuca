@@ -30,3 +30,6 @@ translate arabic strings:
     old "{b}Dislikes:{/b} "
     new "{b} :الأشياء المكروهة {/b} \n"
 
+    old "{b}Current Thoughts:{/b} \n \""
+    new "{b}الأفكار الحالية:{/b} \n \""
+
