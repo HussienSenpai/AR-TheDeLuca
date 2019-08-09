@@ -280,7 +280,7 @@ translate arabic bedsleep_77200012:
 translate arabic bedsleep_5f3f02b2:
 
     # pov "No, nothing like that."
-    pov "لا، لا شيء من هذا القبل"
+    pov "لا، لا شيء من هذا القبيل"
 
 # game/bedsleep.rpy:94
 translate arabic bedsleep_93923469_2:
@@ -292,7 +292,7 @@ translate arabic bedsleep_93923469_2:
 translate arabic bedsleep_c500f2f2:
 
     # wf "Hmm... So for yourself then."
-    wf "هممم، إنها لنفسك إذاً."
+    wf "هممم، إنها لك إذاً."
 
 # game/bedsleep.rpy:96
 translate arabic bedsleep_7373ef1d:
@@ -316,7 +316,7 @@ translate arabic bedsleep_93923469_3:
 translate arabic bedsleep_9b46a92a:
 
     # wf "Do remember to lock the door."
-    wf "كما نصحتك مسبقاً، تذكر قبل الباب"
+    wf "لا تنسى، تذكر قفل الباب."
 
 # game/bedsleep.rpy:100
 translate arabic bedsleep_cff6921c:
