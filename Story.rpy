@@ -6159,49 +6159,49 @@ translate arabic nightBeachTalk_4e25086d:
 translate arabic nightBeachTalk_195312b2:
 
     # gt "Wilfred's orders. 'Do not let our fair ladies see any bloodshed. Clean-up before you let them out of the room.'"
-    gt "Wilfred's orders. 'Do not let our fair ladies see any bloodshed. Clean-up before you let them out of the room.'"
+    gt "'لا تدع فتياتنا اللطيفات يشهدون اي قطرة دماء على الأرض، نظفوا كل شيء قبل خروجهم من الغرفة.' تلك كانت أوامر ويلفرد'"
 
 # game/Story.rpy:1522
 translate arabic nightBeachTalk_489d357f:
 
     # gt "And so we did."
-    gt "And so we did."
+    gt "وفعلنا ما أمرنا به."
 
 # game/Story.rpy:1523
 translate arabic nightBeachTalk_1c42789f:
 
     # "That is some impressive clean-up... There's no sign of any fighting going on here, whatsoever. How in the world did they do that?"
-    "That is some impressive clean-up... There's no sign of any fighting going on here, whatsoever. How in the world did they do that?"
+    "أثني على قدرتهم للتنظيف... أعني، لا ادلة على اي قتال جرى هنا، أياً كان! كيف بحق السماء والارض تمكنوا من فعل ذلك؟!"
 
 # game/Story.rpy:1524
 translate arabic nightBeachTalk_b3161c06:
 
     # gc "Too late, I saw Luna shoot a guy in the eye. It was amazing! Blood splattered everywhere!"
-    gc "Too late, I saw Luna shoot a guy in the eye. It was amazing! Blood splattered everywhere!"
+    gc "فات الأوان على ذلك، رأيت لونا وهي تطلق على ذاك الرجل بعينه. كان مشهداً مذهلاً! تطاير الدم في كل مكان!"
 
 # game/Story.rpy:1536
 translate arabic nightBeachTalk_e481bd82:
 
     # gt "C-can't be! We... {w}Were too late...{w=0}"
-    gt "C-can't be! We... {w}Were too late...{w=0}"
+    gt "ل-لايمكن!... {w}تأخرنا كثيراً...{w=0}"
 
 # game/Story.rpy:1537
 translate arabic nightBeachTalk_cc865a57:
 
     # gt "I beg you, Lady Gracie, forgive me!"
-    gt "I beg you, Lady Gracie, forgive me!"
+    gt "أتوسل اليكِ، يا سيدتي قرايسي، سامحيني!"
 
 # game/Story.rpy:1538
 translate arabic nightBeachTalk_ffa8a14a:
 
     # gc "Sure."
-    gc "Sure."
+    gc "حسناً."
 
 # game/Story.rpy:1540
 translate arabic nightBeachTalk_cf4600bf:
 
     # gt "Cool."
-    gt "Cool."
+    gt "جميل."
 
 # game/Story.rpy:1541
 translate arabic nightBeachTalk_c3ca3180_8:
@@ -6213,67 +6213,67 @@ translate arabic nightBeachTalk_c3ca3180_8:
 translate arabic nightBeachTalk_8fcdaf43:
 
     # gt "Lulu! How could you shoot a guy's eyes, in such a way that it makes an amazing blood splatter, when your sister is around?!"
-    gt "Lulu! How could you shoot a guy's eyes, in such a way that it makes an amazing blood splatter, when your sister is around?!"
+    gt "لولو! كيف لك ان تطلقي على شخص وبعينه، وبطريقة وحشية لجعل دمائه تتطاير، غير ان اختك بالجوار؟!"
 
 # game/Story.rpy:1543
 translate arabic nightBeachTalk_f5083bf3:
 
     # lu "How in the world would I be able to prevent that!? And seriously, stop calling me 'Lulu'!"
-    lu "How in the world would I be able to prevent that!? And seriously, stop calling me 'Lulu'!"
+    lu "كيف بحق السماء والارض بإمكاني منع الدم المتطاير؟! ايضا، سأقولها بجدية تامة، توقف عن مناداتي بـ 'لولو'!"
 
 # game/Story.rpy:1544
 translate arabic nightBeachTalk_432647ce:
 
     # gt "I remember how you used to like it, little Lulu."
-    gt "I remember how you used to like it, little Lulu."
+    gt "عندما كنتِ صغيرة، إعتدتِ إحباب الاسم، يا لولو الصغيرة."
 
 # game/Story.rpy:1545
 translate arabic nightBeachTalk_9c82a970:
 
     # lu "Yeah, when I was a little kid! It stopped being fun when I reached an age where I could actually use my brain!"
-    lu "Yeah, when I was a little kid! It stopped being fun when I reached an age where I could actually use my brain!"
+    lu "نعم، عندما كنت صغيرة! لم اعد اطيق الاسم من بعد وصولي لعمر اقدر ان استخدم عقلي فيه!"
 
 # game/Story.rpy:1546
 translate arabic nightBeachTalk_aa334c9a:
 
     # gc "Wait, when did you get to that age?"
-    gc "Wait, when did you get to that age?"
+    gc "انتظري، متى وصلتي لذلك العمر؟"
 
 # game/Story.rpy:1547
 translate arabic nightBeachTalk_5437cf01:
 
     # pov "Hehe, good one."
-    pov "Hehe, good one."
+    pov "هاها، مضحك للغاية."
 
 # game/Story.rpy:1549
 translate arabic nightBeachTalk_679876b9:
 
     # gt "That was indeed very funny, My Lady!"
-    gt "That was indeed very funny, My Lady!"
+    gt "كان ذلك مضحكاً للغاية بالفعل، يا سيدتي!"
 
 # game/Story.rpy:1550
 translate arabic nightBeachTalk_2310f52f:
 
     # lu "Oh, shut up!"
-    lu "Oh, shut up!"
+    lu "اوه، اصمت وحسب!"
 
 # game/Story.rpy:1551
 translate arabic nightBeachTalk_0efc9022:
 
     # gt "It's okay. I don't mind calling you Lulu."
-    gt "It's okay. I don't mind calling you Lulu."
+    gt "لا بأس. لا أمانع مناداتك بلولو. "
 
 # game/Story.rpy:1552
 translate arabic nightBeachTalk_06b1ee16:
 
     # lu "That's not the point!"
-    lu "That's not the point!"
+    lu "ليس هذا المقصود!"
 
 # game/Story.rpy:1553
 translate arabic nightBeachTalk_8587d6cc:
 
     # gc "Jeez, you need to relax...{w} Lulu.{w=0}"
-    gc "Jeez, you need to relax...{w} Lulu.{w=0}"
+    gc "يا لطيف، اهدأي قليلاً...{w} يا لولو.{w=0}"
 
 # game/Story.rpy:1554
 translate arabic nightBeachTalk_54ebfeba:
