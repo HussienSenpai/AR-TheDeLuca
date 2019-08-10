@@ -6183,7 +6183,7 @@ translate arabic nightBeachTalk_b3161c06:
 translate arabic nightBeachTalk_e481bd82:
 
     # gt "C-can't be! We... {w}Were too late...{w=0}"
-    gt "ل-لايمكن!... {w}تأخرنا كثيراً...{w=0}"
+    gt "لـ-لا يمكن... تأخرنا كثيراً...."
 
 # game/Story.rpy:1537
 translate arabic nightBeachTalk_cc865a57:
@@ -6243,7 +6243,7 @@ translate arabic nightBeachTalk_aa334c9a:
 translate arabic nightBeachTalk_5437cf01:
 
     # pov "Hehe, good one."
-    pov "هاها، مضحك للغاية."
+    pov "هيهي، نكتة حلوة."
 
 # game/Story.rpy:1549
 translate arabic nightBeachTalk_679876b9:
@@ -6273,43 +6273,43 @@ translate arabic nightBeachTalk_06b1ee16:
 translate arabic nightBeachTalk_8587d6cc:
 
     # gc "Jeez, you need to relax...{w} Lulu.{w=0}"
-    gc "يا لطيف، اهدأي قليلاً...{w} يا لولو.{w=0}"
+    gc "يا لطيف، اهدأي قليلاً... يا لولو."
 
 # game/Story.rpy:1554
 translate arabic nightBeachTalk_54ebfeba:
 
     # lu "...Anyways, Uncle Gottardo how did you know we were being attacked?"
-    lu "...Anyways, Uncle Gottardo how did you know we were being attacked?"
+    lu "على أية حال، كيف عرفت اننا نتعرض للهجوم يا عم قوتاردو؟"
 
 # game/Story.rpy:1556
 translate arabic nightBeachTalk_d4c3dbeb:
 
     # gt "Leo, with his dying breath, sent an emergency signal. Bless his soul."
-    gt "Leo, with his dying breath, sent an emergency signal. Bless his soul."
+    gt "ليو ارسل لنا إشارة نجدة بشق الانفس، رحمة الله عليه"
 
 # game/Story.rpy:1557
 translate arabic nightBeachTalk_ff53a4d4:
 
     # "Leo, the guy who was standing guard... So he really died... He was nice..."
-    "Leo, the guy who was standing guard... So he really died... He was nice..."
+    "ليو، ذاك الحارس... توفته المنية... كان طيباً..."
 
 # game/Story.rpy:1558
 translate arabic nightBeachTalk_b37ae017:
 
     # gt "And you must be [povname], right?"
-    gt "And you must be [povname], right?"
+    gt "ومن المؤكد انك [povname]، اليس كذلك؟ "
 
 # game/Story.rpy:1559
 translate arabic nightBeachTalk_c029a5a0:
 
     # pov "Yes, sir."
-    pov "Yes, sir."
+    pov "صحيح، سيدي."
 
 # game/Story.rpy:1560
 translate arabic nightBeachTalk_001ef66a:
 
     # gt "You were ordered to keep the girls safe."
-    gt "You were ordered to keep the girls safe."
+    gt "أمرت بأن تحرس الفتيات."
 
 # game/Story.rpy:1561
 translate arabic nightBeachTalk_c3ca3180_9:
@@ -6321,73 +6321,73 @@ translate arabic nightBeachTalk_c3ca3180_9:
 translate arabic nightBeachTalk_f73ad755:
 
     # pov "I know, I'm sorry..."
-    pov "I know, I'm sorry..."
+    pov "أعلم ذلك، وانا اسف..."
 
 # game/Story.rpy:1564
 translate arabic nightBeachTalk_49f30480:
 
     # gt "Sorry for what? They're safe so you did well!"
-    gt "Sorry for what? They're safe so you did well!"
+    gt "ولِما الأسف؟ أنهن بكامل عافيتهم، اكملت عملك على اكمل وجه! "
 
 # game/Story.rpy:1567
 translate arabic nightBeachTalk_28c1c0ff:
 
     # gc "You should have seen it! He was even prepared to go out alone, so Luna and I could be saved!"
-    gc "You should have seen it! He was even prepared to go out alone, so Luna and I could be saved!"
+    gc "كان يجدر بك رؤيته! كان مستعداً للخروج وحيداً، فقط لضمان سلامتنا!"
 
 # game/Story.rpy:1568
 translate arabic nightBeachTalk_c0519633:
 
     # lu "A sacrifice just like in the movies!"
-    lu "A sacrifice just like in the movies!"
+    lu "كتضحيات تراها فقط في الأفلام!"
 
 # game/Story.rpy:1571
 translate arabic nightBeachTalk_edd351a2:
 
     # gt "I knew it! Some of the other Serpents and higher ups were having their doubts because, y'know, who you are and DNA and all that bull-shit stuff."
-    gt "I knew it! Some of the other Serpents and higher ups were having their doubts because, y'know, who you are and DNA and all that bull-shit stuff."
+    gt "علمت بذلك! كانت هنالك بعض الشكوك من الافاعي وذوي الرتب العليا، لأن... أعني، من أنت وعائلتك وما الى ذلك من هراء."
 
 # game/Story.rpy:1572
 translate arabic nightBeachTalk_5f425f8c:
 
     # gt "But not me! I was like, he is different!"
-    gt "But not me! I was like, he is different!"
+    gt "لست منهم بالتأكيد! أعني، من الواضح ان الفتى مختلف!"
 
 # game/Story.rpy:1573
 translate arabic nightBeachTalk_428516c8:
 
     # pov "Who I am? I don't understand."
-    pov "Who I am? I don't understand."
+    pov "من أنا وعائلتي؟ لا افهمك."
 
 # game/Story.rpy:1575
 translate arabic nightBeachTalk_b6fa98fd:
 
     # gents "Sir, that is classified information."
-    gents "Sir, that is classified information."
+    gents "سيدي،تلك معلومات سرية للغاية."
 
 # game/Story.rpy:1577
 translate arabic nightBeachTalk_5a62812b:
 
     # gt "HE SPEAKS!"
-    gt "HE SPEAKS!"
+    gt "يمكنه الكلام!"
 
 # game/Story.rpy:1578
 translate arabic nightBeachTalk_0f07e9ca:
 
     # gt "THE GENTS HAVE A DEFECTION!"
-    gt "THE GENTS HAVE A DEFECTION!"
+    gt "السادة بهم خلل!"
 
 # game/Story.rpy:1579
 translate arabic nightBeachTalk_48db85cb:
 
     # pov "Please tell me..."
-    pov "Please tell me..."
+    pov "ارجوك أخبرني..."
 
 # game/Story.rpy:1581
 translate arabic nightBeachTalk_f729c08b:
 
     # gt "Sorry kiddo, we got a snitch among us."
-    gt "Sorry kiddo, we got a snitch among us."
+    gt "المعذرة يافتى، ولكن بيننا واشٍ."
 
 # game/Story.rpy:1582
 translate arabic nightBeachTalk_9ce3b9cb:
@@ -6399,19 +6399,19 @@ translate arabic nightBeachTalk_9ce3b9cb:
 translate arabic nightBeachTalk_a652a930:
 
     # gc "Oh! I remember when that bald guy came in. [povname] jumped him and told me to run!"
-    gc "Oh! I remember when that bald guy came in. [povname] jumped him and told me to run!"
+    gc "اوه! تذكرت عندما اتانا الرجل الاصلع، و [povname] هجم عليه دفاعا عني!"
 
 # game/Story.rpy:1585
 translate arabic nightBeachTalk_9eff257e:
 
     # lu "Hero!"
-    lu "Hero!"
+    lu "بطل!"
 
 # game/Story.rpy:1586
 translate arabic nightBeachTalk_47078824:
 
     # gt "I need to be careful, eh? Seems like someone going for a spot in the Four Serpents!"
-    gt "I need to be careful, eh? Seems like someone going for a spot in the Four Serpents!"
+    gt "يتوجب علي الحذر، الا توافقوني؟ من الواضح ان هنالك شخص يطمح للوصول لمنصب بين الافاعي الأربع!"
 
 # game/Story.rpy:1587
 translate arabic nightBeachTalk_c3ca3180_10:
@@ -6423,31 +6423,31 @@ translate arabic nightBeachTalk_c3ca3180_10:
 translate arabic nightBeachTalk_a75e1c66:
 
     # gc "He is blushing again!"
-    gc "He is blushing again!"
+    gc "فتانا يحمر خجلاً من جديد!"
 
 # game/Story.rpy:1589
 translate arabic nightBeachTalk_851df9e5:
 
     # lu "So cute!"
-    lu "So cute!"
+    lu "لطيف للغاية!"
 
 # game/Story.rpy:1591
 translate arabic nightBeachTalk_3d9e31f4:
 
     # gt "Awwww, Blushy McNushy."
-    gt "Awwww, Blushy McNushy."
+    gt "اووووووه، ياله من عروس خجول."
 
 # game/Story.rpy:1592
 translate arabic nightBeachTalk_76727b2f:
 
     # lu "Okay, it's so wrong when you go along with it... Also, what did you just say?"
-    lu "Okay, it's so wrong when you go along with it... Also, what did you just say?"
+    lu "حسناً، يصبح الجو غريباً للغاية عندما تتطرقين انتِ للموضوع... ايضا، ماذا قلتي للتو؟"
 
 # game/Story.rpy:1593
 translate arabic nightBeachTalk_12691525:
 
     # gt "'Blushy McNushy'."
-    gt "'Blushy McNushy'."
+    gt "'عروس خجول'"
 
 # game/Story.rpy:1594
 translate arabic nightBeachTalk_c3ca3180_11:
@@ -6459,25 +6459,25 @@ translate arabic nightBeachTalk_c3ca3180_11:
 translate arabic nightBeachTalk_e20173bb:
 
     # lu "Anyways, did you really clear all the guys outside too? There were at least twenty or thirty when I looked last."
-    lu "Anyways, did you really clear all the guys outside too? There were at least twenty or thirty when I looked last."
+    lu "على أية حال، هل بالفعل اخرجتم جميع الجثث بالخارج؟ كان هنالك مالا يقل عن عشرين الى ثلاثين رجلاً في اخر مرة نظرت بها."
 
 # game/Story.rpy:1597
 translate arabic nightBeachTalk_249dafa6:
 
     # gt "Oh, you think those guys would be able to give me trouble? I'm disappointed."
-    gt "Oh, you think those guys would be able to give me trouble? I'm disappointed."
+    gt "اوه، تعتقدين ان اولئك الحمقى لديهم فرصة لمواجهتي؟ خيبتِ املي."
 
 # game/Story.rpy:1598
 translate arabic nightBeachTalk_4cb0dd64:
 
     # lu "Of course not, but rather how fast you did it. Even you can't do something like that. We got our normal ranked soldiers around too, don't we?"
-    lu "Of course not, but rather how fast you did it. Even you can't do something like that. We got our normal ranked soldiers around too, don't we?"
+    lu "بالتأكيد لا، ولكن حتى انت لا تستطيع فعلها بهذه السرعة. أعني، هؤلاء مجرد جنود برتب عادية، اليس كذلك؟"
 
 # game/Story.rpy:1600
 translate arabic nightBeachTalk_643ffa03:
 
     # gt "Wahahah, you got me! They're out there cleaning up as we speak."
-    gt "Wahahah, you got me! They're out there cleaning up as we speak."
+    gt "واهاهاها، كشفتِ امري! الجنود بالخارج ينظفون في حين كلامنا."
 
 # game/Story.rpy:1602
 translate arabic nightBeachTalk_3d5c3ebf:
